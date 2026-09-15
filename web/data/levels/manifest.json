@@ -6,7 +6,12 @@
     4,
     5,
     6,
-    7
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
   ],
   "levels": [
     {
@@ -25,7 +30,7 @@
       "level": 3,
       "title": "s says /s/",
       "kidTitle": "Meet the letter s",
-      "activities": 16
+      "activities": 14
     },
     {
       "level": 4,
@@ -50,6 +55,36 @@
       "title": "d says /d/",
       "kidTitle": "Meet the letter d",
       "activities": 16
+    },
+    {
+      "level": 8,
+      "title": "g says /g/",
+      "kidTitle": "Meet the letter g",
+      "activities": 18
+    },
+    {
+      "level": 9,
+      "title": "i says /i/",
+      "kidTitle": "Meet the letter i",
+      "activities": 18
+    },
+    {
+      "level": 10,
+      "title": "n says /n/",
+      "kidTitle": "Meet the letter n",
+      "activities": 18
+    },
+    {
+      "level": 11,
+      "title": "p says /p/",
+      "kidTitle": "Meet the letter p",
+      "activities": 18
+    },
+    {
+      "level": 12,
+      "title": "h says /h/",
+      "kidTitle": "Meet the letter h",
+      "activities": 18
     }
   ]
 }

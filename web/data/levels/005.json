@@ -136,7 +136,7 @@
       "choices": [
         "ma",
         "am",
-        "as"
+        "mat"
       ]
     },
     {
@@ -145,10 +145,10 @@
       "words": [
         "am",
         "ma",
-        "as",
         "sam",
         "at",
-        "mat"
+        "mat",
+        "sat"
       ],
       "prompt": "All of these you have read before. One more time, left to right."
     }

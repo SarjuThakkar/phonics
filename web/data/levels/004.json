@@ -120,8 +120,8 @@
       "answer": "at",
       "choices": [
         "at",
-        "as",
-        "am"
+        "am",
+        "mat"
       ],
       "prompt": "Now listen to the last sound instead."
     },

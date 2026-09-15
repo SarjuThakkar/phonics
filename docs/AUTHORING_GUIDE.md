@@ -110,6 +110,10 @@ Variations by kind of day (`tools/inventory.py` tells you which you have):
 - **From day 21 on** — every single day ends with a story. Stories get longer
   as the course goes: 3–4 lines around day 21, 6–8 lines by day 60, 10–14 by
   day 100.
+- **Days 5–12 have no connected text at all**, since sentences start on day 13.
+  They are still full lessons, not short ones: spend the space the sentences
+  and story would have taken on more `blend` and `chooseWord` work, and close
+  with a `soundMatch` hunt for the day's sound. Day 7 is the model.
 
 ---
 
@@ -282,6 +286,13 @@ a child is behind.
   One emoji, never a sequence.
 - **Check every word you write with `tools/lexicon.py` before building on it.**
   It takes two seconds and saves rewriting a story.
+- **`lexicon.py` is a guardrail, not an oracle.** It knows which letters have
+  been taught; it does not know how English actually sounds. It will pass a
+  word whose letters are all taught but whose sound is not — "as" and "is" end
+  in /z/, "sign" has a silent g. Those specific ones are now on a blocklist in
+  the tool, but the list is not exhaustive and never will be. **The real check
+  is your own ear: say the word the way the letters say it.** If that isn't
+  the word, don't use it, however green the tool goes.
 
 ---
 

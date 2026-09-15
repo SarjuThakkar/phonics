@@ -1,0 +1,119 @@
+{
+  "level": 11,
+  "title": "p says /p/",
+  "kidTitle": "Meet the letter p",
+  "parentNote": "Today is /p/, a pop rather than a sound you can hold: lips shut, then a puff of air. Hold a hand in front of your mouth and say it — the little breath they can feel on their palm is the whole sound, and it is why /p/ turns into \"puh\" so easily. \"Puh-i-guh\" will never come out as \"pig\", so keep it as short as a tap. If they mix it up with /m/, point out that both begin with the lips shut; the difference is that /m/ hums out of the nose and /p/ bursts out of the mouth.",
+  "newGraphemes": ["p"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "p",
+      "keyword": "pig",
+      "picture": "🐷",
+      "mouthCue": "Shut your lips, hold the air in, then pop them open. Put your hand in front of your mouth and feel the puff.",
+      "prompt": "This one is over almost before it starts. Listen hard."
+    },
+    {
+      "type": "soundMatch",
+      "target": "p",
+      "choices": ["p", "m"],
+      "prompt": "Both of these start with your lips shut. One hums, one pops. Find the pop."
+    },
+    {
+      "type": "soundMatch",
+      "target": "p",
+      "choices": ["p", "t", "n"],
+      "prompt": "Two of these are quick taps. /p/ is the one you make with your lips."
+    },
+    {
+      "type": "blend",
+      "word": "pig",
+      "parts": ["p", "i", "g"],
+      "picture": "🐷",
+      "prompt": "Pop at the front, back of the tongue at the end."
+    },
+    {
+      "type": "blend",
+      "word": "pan",
+      "parts": ["p", "a", "n"],
+      "picture": "🍳",
+      "prompt": "Wide vowel this time."
+    },
+    {
+      "type": "blend",
+      "word": "tip",
+      "parts": ["t", "i", "p"],
+      "prompt": "Now the pop is at the end. The tip of something is its very point."
+    },
+    {
+      "type": "blend",
+      "word": "snap",
+      "parts": ["s", "n", "a", "p"],
+      "prompt": "Four sounds, and the first two run straight into each other: sss-nnn-a-p."
+    },
+    {
+      "type": "blend",
+      "word": "stamp",
+      "parts": ["s", "t", "a", "m", "p"],
+      "picture": "📮",
+      "prompt": "Five sounds. The last two are both made with your lips — don't let them squash into one."
+    },
+    {
+      "type": "readWord",
+      "word": "map",
+      "picture": "🗺️"
+    },
+    {
+      "type": "readWord",
+      "word": "pin",
+      "picture": "📌"
+    },
+    {
+      "type": "readWord",
+      "word": "nap",
+      "prompt": "Read it before you look away."
+    },
+    {
+      "type": "readWord",
+      "word": "gap",
+      "prompt": "A gap is a hole where something is missing — like a lost tooth."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pin",
+      "choices": ["pin", "pig", "pit"],
+      "prompt": "All three start with the pop. The last sound is the one to listen for."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tip",
+      "choices": ["tip", "tap"],
+      "prompt": "The pop is at the end of both. It is the middle that changes."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "map",
+      "choices": ["map", "mat", "mad"],
+      "prompt": "Lips, tongue tap, or buzz at the end?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stamp",
+      "choices": ["stamp", "stand"],
+      "prompt": "Long words, and only the last two sounds are different. Listen right to the end."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["fin", "gift", "sag", "did", "mast"],
+      "prompt": "One from yesterday, one from a week ago. All old friends."
+    },
+    {
+      "type": "soundMatch",
+      "target": "p",
+      "choices": ["p", "m", "t", "i"],
+      "prompt": "Last hunt. Which one pops?"
+    }
+  ]
+}

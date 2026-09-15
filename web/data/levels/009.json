@@ -1,0 +1,116 @@
+{
+  "level": 9,
+  "title": "i says /i/",
+  "kidTitle": "Meet the letter i",
+  "parentNote": "Until today every word had /a/ in the middle, so your child never had to look at the vowel — they could read the outside of the word and be right. From now on \"sat\" and \"sit\" are both real words and only the middle letter tells them apart, which is why today is a bigger day than it looks. When a word comes out wrong, don't say the word: put your finger under the middle letter and ask what it says, then sound it out from the start. Expect the old /a/ to slip back in for a few days; that is the habit breaking, not a problem.",
+  "newGraphemes": ["i"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "i",
+      "keyword": "insect",
+      "picture": "🐜",
+      "mouthCue": "Open your mouth just a little and keep your tongue lazy and flat. /i/ is a small, quick sound.",
+      "prompt": "Here is our second vowel. Every word you know has a vowel hiding in the middle of it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i",
+      "choices": ["i", "a"],
+      "prompt": "Two vowels now. /a/ opens your mouth wide, /i/ barely opens it at all. Find /i/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "i"],
+      "prompt": "Now the wide one. Which says /a/?"
+    },
+    {
+      "type": "blend",
+      "word": "it",
+      "parts": ["i", "t"],
+      "prompt": "Just two sounds to start with. The vowel goes first this time."
+    },
+    {
+      "type": "blend",
+      "word": "sit",
+      "parts": ["s", "i", "t"],
+      "prompt": "Put the hiss on the front. Careful — with /a/ in the middle this would be a different word."
+    },
+    {
+      "type": "blend",
+      "word": "fig",
+      "parts": ["f", "i", "g"],
+      "prompt": "A fig is a small sweet fruit, full of tiny seeds."
+    },
+    {
+      "type": "blend",
+      "word": "dig",
+      "parts": ["d", "i", "g"],
+      "prompt": "Only the first sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "gift",
+      "parts": ["g", "i", "f", "t"],
+      "picture": "🎁",
+      "prompt": "Four sounds, and the last two are squashed close together. Go slowly."
+    },
+    {
+      "type": "readWord",
+      "word": "fit",
+      "prompt": "Look at the middle letter before you start."
+    },
+    {
+      "type": "readWord",
+      "word": "did"
+    },
+    {
+      "type": "readWord",
+      "word": "dim",
+      "prompt": "A dim room is one where the light is nearly out."
+    },
+    {
+      "type": "readWord",
+      "word": "fist",
+      "picture": "✊"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sit",
+      "choices": ["sit", "sat"],
+      "prompt": "Both are real words. The middle sound is the only difference — listen for the small one."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "did",
+      "choices": ["did", "dad"],
+      "prompt": "Same trick again. Wide mouth or small mouth in the middle?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mist",
+      "choices": ["mist", "mast"],
+      "prompt": "Longer words, same one tiny difference. Mist is thin cloud sitting on the ground."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fit",
+      "choices": ["fit", "fat", "fig"],
+      "prompt": "Now the middle sound and the last sound could both fool you. Listen to the whole word."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["gas", "tag", "sad", "fast", "sam"],
+      "prompt": "These all still have /a/ in the middle. Don't let today's new sound sneak in."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i",
+      "choices": ["i", "a", "d", "g"],
+      "prompt": "Last hunt. Which one is today's small vowel?"
+    }
+  ]
+}

@@ -67,6 +67,53 @@ TRAP_KINDS = {"digraph", "team", "silent-letter"}
 TRAP_EXCEPTIONS = {"ge", "ll", "zz"}
 
 
+# Words English spells in a way this course never teaches. Every one of them
+# segments cleanly and would be read WRONG: a child sounding out "is" says
+# "iss", and "sign" comes out "sig-n". The segmenter cannot catch these -- the
+# letters really are all taught -- so they are listed.
+#
+# The value is the level from which the word becomes legitimately decodable,
+# because a later grapheme explains it (kn on 114 makes "know" honest), or
+# None for words that are only ever legal once taught as a sight word.
+#
+# This list is not exhaustive and never will be. It is a backstop for the
+# words an author is most likely to reach for; the real defence is an author
+# who says the word out loud the way the letters say it.
+IRREGULAR: dict[str, int | None] = {
+    # /z/ hiding behind a final s
+    "is": None, "his": None, "as": None, "has": None, "was": None,
+    # the everyday irregulars
+    "of": None, "to": None, "into": None, "do": None, "who": None, "you": None,
+    "your": None, "they": None, "their": None, "the": None, "there": None,
+    "here": None, "where": None, "what": None, "want": None, "said": None,
+    "says": None, "are": None, "one": None, "once": None, "two": None,
+    "some": None, "come": None, "done": None, "none": None, "love": None,
+    "give": None, "live": None, "have": None, "been": None, "does": None,
+    "from": None, "for": None, "four": None, "again": None, "were": None,
+    "any": None, "many": None, "every": None, "pretty": None, "busy": None,
+    "friend": None, "eye": None, "eyes": None, "buy": None, "put": None,
+    "pull": None, "full": None, "push": None, "could": None, "would": None,
+    "should": None, "only": None, "move": None, "prove": None, "sure": None,
+    "water": None, "over": None, "other": None, "another": None, "front": None,
+    "word": None, "world": None, "work": None, "worm": None, "worth": None,
+    "whole": None, "able": None, "table": None, "father": None, "mother": None,
+    "brother": None, "war": None, "warm": None,
+    # long vowel before a consonant cluster -- never taught as a pattern here
+    "both": None, "most": None, "post": None, "kind": None, "mind": None,
+    "find": None, "blind": None, "child": None, "wild": None, "mild": None,
+    "old": None, "cold": None, "gold": None, "told": None, "hold": None,
+    "sold": None, "fold": None, "bold": None, "roll": None, "toll": None,
+    # silent letters this course never teaches at all
+    "sign": None, "gnat": None, "gnaw": None, "gnome": None, "half": None,
+    "calf": None, "calm": None, "palm": None,
+    # honest once the grapheme that explains them is taught
+    "know": 114, "knee": 114, "knew": 114, "knock": 114, "knit": 114,
+    "knife": 114, "knight": 114, "write": 114, "wrong": 114, "wrap": 114,
+    "wrist": 114, "walk": 107, "talk": 107, "chalk": 107, "night": 107,
+    "light": 107, "right": 107, "high": 107,
+}
+
+
 @functools.lru_cache(maxsize=1)
 def sequence() -> dict:
     return json.loads((DATA / "sequence.json").read_text())
@@ -229,6 +276,16 @@ def check_words(words: list[str], level: int) -> list[tuple[str, str]]:
             # sanctioned at their level even when a strict reading of the
             # grapheme set would argue ("here" on the e-e level contains "er").
             continue
+        if w in IRREGULAR:
+            honest_from = IRREGULAR[w]
+            if honest_from is None:
+                problems.append((raw, "is spelled irregularly -- it can only be used "
+                                      "once it has been taught as a sight word"))
+                continue
+            if level < honest_from:
+                problems.append((raw, f"is not readable until the spelling that explains "
+                                      f"it is taught, on day {honest_from}"))
+                continue
         trap = untaught_trap(w, unlocked["graphemes"])
         if trap:
             problems.append((raw, f'contains "{trap}", which is not taught until later'))

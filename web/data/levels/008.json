@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "title": "g says /g/",
+  "kidTitle": "Meet the letter g",
+  "parentNote": "Today is /g/, made right at the back of the mouth — the opposite end from /t/ and /d/. The usual trouble is that /g/ is almost impossible to say on its own without a little \"uh\" stuck on the end, and \"guh-a-guh\" never turns into \"gag\". Clip it as short as you can, and if a word comes out with extra beats in it, just say the whole word yourself and ask for it back. Words ending in /g/ are the easy ones to start with, so \"sag\" and \"tag\" will land before \"gas\" does.",
+  "newGraphemes": ["g"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "g",
+      "keyword": "goat",
+      "picture": "🐐",
+      "mouthCue": "The back of your tongue bumps the roof of your mouth, right at the back. Keep it short: /g/, not \"guh\".",
+      "prompt": "Every sound so far has been at the front of your mouth. This one lives at the back."
+    },
+    {
+      "type": "soundMatch",
+      "target": "g",
+      "choices": ["g", "d"],
+      "prompt": "Both are quick and both buzz. One is at the back of your mouth — that one is /g/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "g",
+      "choices": ["g", "t", "d"],
+      "prompt": "Three quick taps. Find the one you make furthest back."
+    },
+    {
+      "type": "soundMatch",
+      "target": "d",
+      "choices": ["d", "g"],
+      "prompt": "Now the other way round. Which one taps behind your teeth?"
+    },
+    {
+      "type": "blend",
+      "word": "sag",
+      "parts": ["s", "a", "g"],
+      "prompt": "Hold the hiss, then finish at the back. A bag full of rocks makes a shelf sag."
+    },
+    {
+      "type": "blend",
+      "word": "tag",
+      "parts": ["t", "a", "g"],
+      "picture": "🏷️",
+      "prompt": "Only the first sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "gag",
+      "parts": ["g", "a", "g"],
+      "prompt": "Now /g/ at both ends. Watch what your tongue does twice."
+    },
+    {
+      "type": "blend",
+      "word": "gas",
+      "parts": ["g", "a", "s"],
+      "picture": "⛽",
+      "prompt": "This time /g/ starts the word. Start at the back, end with the hiss."
+    },
+    {
+      "type": "blend",
+      "word": "stag",
+      "parts": ["s", "t", "a", "g"],
+      "picture": "🦌",
+      "prompt": "Four sounds. A stag is a deer with big antlers."
+    },
+    {
+      "type": "readWord",
+      "word": "tag",
+      "picture": "🏷️"
+    },
+    {
+      "type": "readWord",
+      "word": "gas",
+      "picture": "⛽"
+    },
+    {
+      "type": "readWord",
+      "word": "sag",
+      "prompt": "No picture for this one. The letters are the only clue."
+    },
+    {
+      "type": "readWord",
+      "word": "stag",
+      "picture": "🦌"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sag",
+      "choices": ["sag", "sad", "sat"],
+      "prompt": "All three start the same. The last sound decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tag",
+      "choices": ["tag", "tad", "tam"],
+      "prompt": "Listen right to the end again."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "gas",
+      "choices": ["gas", "gag"],
+      "prompt": "This time it is the ending that hisses or taps."
+    },
+    {
+      "type": "review",
+      "label": "Words from earlier days",
+      "words": ["mat", "fast", "dad", "daft", "mast"],
+      "prompt": "Old friends. You have read every one of these before."
+    },
+    {
+      "type": "soundMatch",
+      "target": "g",
+      "choices": ["g", "d", "a", "f"],
+      "prompt": "Last hunt. Where is the sound from the back of your mouth?"
+    }
+  ]
+}

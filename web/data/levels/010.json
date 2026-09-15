@@ -1,0 +1,117 @@
+{
+  "level": 10,
+  "title": "n says /n/",
+  "kidTitle": "Meet the letter n",
+  "parentNote": "Today is /n/, and it is the twin of /m/: both come out of your nose rather than your mouth. Pinch your child's nose gently while they hum /n/ and the sound stops — that is the quickest way to show what the two have in common and why they get muddled. The other thing to watch for is /n/ in the middle of a word: \"sand\" often comes out as \"sad\" because the /n/ is short and easy to skip. Slow those words right down and let them feel their tongue go up before the last sound.",
+  "newGraphemes": ["n"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "n",
+      "keyword": "nest",
+      "picture": "🪺",
+      "mouthCue": "Tongue up behind your top teeth, and hum. The sound comes out of your nose — pinch it and /n/ disappears.",
+      "prompt": "You can hold this one as long as you like, just like /m/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "n",
+      "choices": ["n", "m"],
+      "prompt": "Both of these come down your nose. /m/ has your lips shut; for /n/ they stay open. Which is /n/?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "n",
+      "choices": ["n", "d", "m"],
+      "prompt": "Your tongue is in the same spot for /n/ and /d/. One you can hold, one is a tap."
+    },
+    {
+      "type": "blend",
+      "word": "an",
+      "parts": ["a", "n"],
+      "prompt": "Two sounds, vowel first. Stretch the second one: aaa-nnn."
+    },
+    {
+      "type": "blend",
+      "word": "nag",
+      "parts": ["n", "a", "g"],
+      "prompt": "Now /n/ starts the word. To nag is to keep on and on asking."
+    },
+    {
+      "type": "blend",
+      "word": "fin",
+      "parts": ["f", "i", "n"],
+      "picture": "🐟",
+      "prompt": "Small vowel in the middle. A fin is the flap a fish steers with."
+    },
+    {
+      "type": "blend",
+      "word": "man",
+      "parts": ["m", "a", "n"],
+      "prompt": "Careful — both of these sounds live in your nose. Keep them separate."
+    },
+    {
+      "type": "blend",
+      "word": "stand",
+      "parts": ["s", "t", "a", "n", "d"],
+      "prompt": "Five sounds, the longest word yet. Take them one at a time and don't drop the /n/."
+    },
+    {
+      "type": "readWord",
+      "word": "tin",
+      "picture": "🥫"
+    },
+    {
+      "type": "readWord",
+      "word": "ant",
+      "picture": "🐜"
+    },
+    {
+      "type": "readWord",
+      "word": "and",
+      "prompt": "A small word you will use in nearly every sentence from now on."
+    },
+    {
+      "type": "readWord",
+      "word": "sand",
+      "picture": "🏖️"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fin",
+      "choices": ["fin", "fan"],
+      "prompt": "Same first sound, same last sound. Only the middle tells you which."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "man",
+      "choices": ["man", "mat", "mad"],
+      "prompt": "Three that start the same. Listen to the very end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sand",
+      "choices": ["sand", "sad"],
+      "prompt": "One of these has an extra sound hiding before the last one."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "and",
+      "choices": ["and", "ant"],
+      "prompt": "The last sound decides it. Does it buzz or not?"
+    },
+    {
+      "type": "review",
+      "label": "Words from earlier days",
+      "words": ["dig", "stag", "daft", "fist", "gas"],
+      "prompt": "No /n/ in any of these. Read them the way you did before."
+    },
+    {
+      "type": "soundMatch",
+      "target": "n",
+      "choices": ["n", "m", "i", "g"],
+      "prompt": "Last hunt. Which one is today's nose sound?"
+    }
+  ]
+}

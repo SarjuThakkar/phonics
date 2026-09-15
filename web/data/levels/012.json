@@ -1,0 +1,118 @@
+{
+  "level": 12,
+  "title": "h says /h/",
+  "kidTitle": "Meet the letter h",
+  "parentNote": "Today is /h/, which is the odd one out: your mouth does nothing at all for it. It is a puff of breath from the throat, and your lips and tongue are already busy getting ready for the next sound. Because there is nothing to feel, children often drop it — \"hat\" comes out as \"at\" — or pad it into \"huh\". Try whispering it onto the back of their hand so they can feel the warm air, then say the whole word straight after. That is the twelfth letter, and every word in this lesson is one they could not have read a fortnight ago.",
+  "newGraphemes": ["h"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "h",
+      "keyword": "hat",
+      "picture": "🎩",
+      "mouthCue": "Just a puff of warm air out of your throat — like fogging up a cold window. Your mouth does nothing.",
+      "prompt": "Every other sound needs your lips or your tongue. This one needs only your breath."
+    },
+    {
+      "type": "soundMatch",
+      "target": "h",
+      "choices": ["h", "f"],
+      "prompt": "Both of these are just air. For /f/ you squeeze it past your teeth; for /h/ nothing gets in the way."
+    },
+    {
+      "type": "soundMatch",
+      "target": "h",
+      "choices": ["h", "f", "s"],
+      "prompt": "Three quiet, breathy sounds. Find the one with no mouth shape at all."
+    },
+    {
+      "type": "blend",
+      "word": "hat",
+      "parts": ["h", "a", "t"],
+      "picture": "🎩",
+      "prompt": "Puff, then the wide vowel, then a tap."
+    },
+    {
+      "type": "blend",
+      "word": "ham",
+      "parts": ["h", "a", "m"],
+      "picture": "🍖",
+      "prompt": "Same start, and this time the end hums."
+    },
+    {
+      "type": "blend",
+      "word": "hid",
+      "parts": ["h", "i", "d"],
+      "prompt": "Small vowel now. Yesterday the cat hid under the bed."
+    },
+    {
+      "type": "blend",
+      "word": "hand",
+      "parts": ["h", "a", "n", "d"],
+      "picture": "✋",
+      "prompt": "Four sounds. The /n/ is quick and easy to lose — go slowly."
+    },
+    {
+      "type": "blend",
+      "word": "hint",
+      "parts": ["h", "i", "n", "t"],
+      "prompt": "A hint is a small clue. Four sounds again, with the /n/ hiding in the middle."
+    },
+    {
+      "type": "readWord",
+      "word": "him"
+    },
+    {
+      "type": "readWord",
+      "word": "hip",
+      "prompt": "Your hip is where your leg joins the rest of you."
+    },
+    {
+      "type": "readWord",
+      "word": "hit"
+    },
+    {
+      "type": "readWord",
+      "word": "hiss",
+      "picture": "🐍",
+      "prompt": "Two letters, one sound at the end. Hold the hiss as long as a snake would."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hid",
+      "choices": ["hid", "had"],
+      "prompt": "Same puff, same buzz at the end. The middle is the only clue."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ham",
+      "choices": ["ham", "hat", "had"],
+      "prompt": "Hum, tap or buzz? Listen to the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hint",
+      "choices": ["hint", "hit"],
+      "prompt": "One of these has an extra sound tucked in before the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hand",
+      "choices": ["hand", "sand"],
+      "prompt": "Long words that end the same way. It is the first sound that decides it."
+    },
+    {
+      "type": "review",
+      "label": "Words from across the whole fortnight",
+      "words": ["stag", "fig", "and", "snap", "mist"],
+      "prompt": "One from each week. Take your time and read them all the way through."
+    },
+    {
+      "type": "soundMatch",
+      "target": "h",
+      "choices": ["h", "f", "s", "p"],
+      "prompt": "Last hunt. Which one is only breath?"
+    }
+  ]
+}
