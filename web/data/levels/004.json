@@ -1,0 +1,150 @@
+{
+  "level": 4,
+  "title": "t says /t/",
+  "kidTitle": "Meet the letter t",
+  "parentNote": "Today is /t/, and it is the first sound your child has met that cannot be held — it is a tap of the tongue and then it is gone. The usual wobble is adding a little grunt on the end, \"tuh\", which turns \"mat\" into \"ma-tuh\" and stops the word sounding like a word. Clip it as short as you can when you say it yourself; children copy the version they hear. With /t/ there are suddenly real things to read: sat, mat, at.",
+  "newGraphemes": [
+    "t"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "t",
+      "keyword": "top",
+      "picture": "🎩",
+      "mouthCue": "Tongue taps just behind your top teeth and lets go. /t/ — quick, no grunt after it.",
+      "prompt": "This one is over in a flash. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "t",
+      "choices": [
+        "t",
+        "a"
+      ],
+      "prompt": "Which one is the quick tap?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "t",
+      "choices": [
+        "t",
+        "d",
+        "p"
+      ],
+      "prompt": "All three are quick taps. Find /t/."
+    },
+    {
+      "type": "blend",
+      "word": "at",
+      "parts": [
+        "a",
+        "t"
+      ],
+      "prompt": "Hold the first sound, then tap the second. Aaa-t."
+    },
+    {
+      "type": "blend",
+      "word": "sat",
+      "parts": [
+        "s",
+        "a",
+        "t"
+      ],
+      "prompt": "Three sounds. Stretch the first two and tap the last."
+    },
+    {
+      "type": "blend",
+      "word": "mat",
+      "parts": [
+        "m",
+        "a",
+        "t"
+      ],
+      "picture": "🧺",
+      "prompt": "Same ending, new beginning."
+    },
+    {
+      "type": "blend",
+      "word": "tam",
+      "parts": [
+        "t",
+        "a",
+        "m"
+      ],
+      "prompt": "Now the tap goes first. Watch where it lands."
+    },
+    {
+      "type": "blend",
+      "word": "mast",
+      "parts": [
+        "m",
+        "a",
+        "s",
+        "t"
+      ],
+      "picture": "⛵",
+      "prompt": "Four sounds — the tall pole on a boat. Take it slowly."
+    },
+    {
+      "type": "readWord",
+      "word": "at",
+      "prompt": "On your own now."
+    },
+    {
+      "type": "readWord",
+      "word": "sat"
+    },
+    {
+      "type": "readWord",
+      "word": "mat",
+      "picture": "🧺"
+    },
+    {
+      "type": "readWord",
+      "word": "mast",
+      "picture": "⛵"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sat",
+      "choices": [
+        "sat",
+        "mat"
+      ],
+      "prompt": "Listen to the very first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "at",
+      "choices": [
+        "at",
+        "as",
+        "am"
+      ],
+      "prompt": "Now listen to the last sound instead."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tam",
+      "choices": [
+        "tam",
+        "mat",
+        "sat"
+      ],
+      "prompt": "Two of these have the same three sounds. Which way round is it?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "t",
+      "choices": [
+        "t",
+        "m",
+        "s",
+        "i"
+      ],
+      "prompt": "Last hunt. Where is the tap?"
+    }
+  ]
+}

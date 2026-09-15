@@ -104,6 +104,9 @@ Variations by kind of day (`tools/inventory.py` tells you which you have):
 - **`review` days** — no new sound at all. This is the day to use longer
   stories, mixed word sets from across the last two stages, and harder
   comprehension questions. Two stories is a good use of a review day.
+  **Before day 13 this doesn't apply**: there is no connected text yet, so an
+  early review day is word-level only — blends and minimal pairs that make the
+  child track left to right rather than recognise a word by its shape.
 - **From day 21 on** — every single day ends with a story. Stories get longer
   as the course goes: 3–4 lines around day 21, 6–8 lines by day 60, 10–14 by
   day 100.

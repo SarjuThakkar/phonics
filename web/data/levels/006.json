@@ -1,0 +1,151 @@
+{
+  "level": 6,
+  "title": "f says /f/",
+  "kidTitle": "Meet the letter f",
+  "parentNote": "Today is /f/, the sound at the start of \"fish\". It is a stretchy one — top teeth on your bottom lip and blow — so you can hold it for as long as your child needs while they work out what comes next. The thing to listen for is a small \"uh\" sneaking on the end: \"fuh-a-t\" never turns into \"fat\", however fast you say it. Hold the fff instead and run it straight into the next sound. Three of today's words are boat words, so \"mast\" from earlier in the week comes back with company.",
+  "newGraphemes": [
+    "f"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "f",
+      "keyword": "fish",
+      "picture": "🐟",
+      "mouthCue": "Top teeth resting on your bottom lip, then blow. /fff/ — no voice in it, just air.",
+      "prompt": "Another one you can hold. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "f",
+      "choices": [
+        "f",
+        "a"
+      ],
+      "prompt": "Which one is the blowy one?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "f",
+      "choices": [
+        "f",
+        "v",
+        "s"
+      ],
+      "prompt": "All three are made of air. Find /fff/."
+    },
+    {
+      "type": "blend",
+      "word": "fat",
+      "parts": [
+        "f",
+        "a",
+        "t"
+      ],
+      "prompt": "Hold the first sound as long as you like, then keep going."
+    },
+    {
+      "type": "blend",
+      "word": "aft",
+      "parts": [
+        "a",
+        "f",
+        "t"
+      ],
+      "prompt": "This one means the back end of a boat. The blowy sound is in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "fast",
+      "parts": [
+        "f",
+        "a",
+        "s",
+        "t"
+      ],
+      "prompt": "Four sounds. Slowly, even though it says fast."
+    },
+    {
+      "type": "blend",
+      "word": "staff",
+      "parts": [
+        "s",
+        "t",
+        "a",
+        "ff"
+      ],
+      "picture": "🪵",
+      "prompt": "Two f's at the end, but they only say one sound. A staff is a long walking stick."
+    },
+    {
+      "type": "readWord",
+      "word": "fat",
+      "prompt": "Your turn."
+    },
+    {
+      "type": "readWord",
+      "word": "aft"
+    },
+    {
+      "type": "readWord",
+      "word": "fast"
+    },
+    {
+      "type": "readWord",
+      "word": "staff",
+      "picture": "🪵"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fat",
+      "choices": [
+        "fat",
+        "sat",
+        "mat"
+      ],
+      "prompt": "Listen to the first sound only."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fast",
+      "choices": [
+        "fast",
+        "fat"
+      ],
+      "prompt": "There is an extra sound hiding in one of these."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "aft",
+      "choices": [
+        "aft",
+        "at"
+      ],
+      "prompt": "Listen to the middle."
+    },
+    {
+      "type": "review",
+      "label": "Words from earlier this week",
+      "words": [
+        "sam",
+        "mast",
+        "am",
+        "tam",
+        "as"
+      ],
+      "prompt": "Old ones. Still yours."
+    },
+    {
+      "type": "soundMatch",
+      "target": "f",
+      "choices": [
+        "f",
+        "s",
+        "m",
+        "v"
+      ],
+      "prompt": "Last hunt. Where is /fff/?"
+    }
+  ]
+}

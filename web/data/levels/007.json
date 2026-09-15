@@ -1,0 +1,160 @@
+{
+  "level": 7,
+  "title": "d says /d/",
+  "kidTitle": "Meet the letter d",
+  "parentNote": "Today is /d/, and it is made in exactly the same place as /t/ — tongue behind the top teeth — with one difference: your voice is switched on. That is why \"sad\" and \"sat\" get swapped so often, and why hearing the difference matters more than looking at it. Put your child's hand on their throat and say /t/ then /d/; the buzz on the second one is the whole distinction, and they will feel it before they can explain it. Keep it short, so \"dad\" doesn't become \"duh-a-duh\".",
+  "newGraphemes": [
+    "d"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "d",
+      "keyword": "dog",
+      "picture": "🐶",
+      "mouthCue": "Same tap as /t/, behind your top teeth — but switch your voice on. Hand on your throat: /d/ buzzes.",
+      "prompt": "This one is /t/'s noisy twin. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "d",
+      "choices": [
+        "d",
+        "t"
+      ],
+      "prompt": "One buzzes and one does not. Which one is /d/?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "d",
+      "choices": [
+        "d",
+        "b",
+        "p"
+      ],
+      "prompt": "These three look a bit alike. Find the one that says /d/."
+    },
+    {
+      "type": "blend",
+      "word": "dad",
+      "parts": [
+        "d",
+        "a",
+        "d"
+      ],
+      "picture": "👨",
+      "prompt": "A buzz at each end and /a/ in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "sad",
+      "parts": [
+        "s",
+        "a",
+        "d"
+      ],
+      "picture": "😢",
+      "prompt": "Hold the hiss, then finish with a buzz."
+    },
+    {
+      "type": "blend",
+      "word": "mad",
+      "parts": [
+        "m",
+        "a",
+        "d"
+      ],
+      "picture": "😠",
+      "prompt": "Only the first sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "dam",
+      "parts": [
+        "d",
+        "a",
+        "m"
+      ],
+      "picture": "🦫",
+      "prompt": "Now the buzz moves to the front. A dam is a wall that stops a river."
+    },
+    {
+      "type": "blend",
+      "word": "daft",
+      "parts": [
+        "d",
+        "a",
+        "f",
+        "t"
+      ],
+      "prompt": "Four sounds this time. Daft is another word for silly."
+    },
+    {
+      "type": "readWord",
+      "word": "sad",
+      "picture": "😢"
+    },
+    {
+      "type": "readWord",
+      "word": "mad",
+      "picture": "😠"
+    },
+    {
+      "type": "readWord",
+      "word": "dam",
+      "picture": "🦫"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sad",
+      "choices": [
+        "sad",
+        "sat"
+      ],
+      "prompt": "The last sound is the only clue. Does it buzz?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mat",
+      "choices": [
+        "mat",
+        "mad"
+      ],
+      "prompt": "Same again, the other way round."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dam",
+      "choices": [
+        "dam",
+        "dad",
+        "tam"
+      ],
+      "prompt": "Three close ones. Listen right to the end."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "fat",
+        "fast",
+        "aft",
+        "mast",
+        "sam"
+      ],
+      "prompt": "You have read all of these before."
+    },
+    {
+      "type": "soundMatch",
+      "target": "d",
+      "choices": [
+        "d",
+        "t",
+        "a",
+        "m"
+      ],
+      "prompt": "Last hunt. Where is the buzz?"
+    }
+  ]
+}

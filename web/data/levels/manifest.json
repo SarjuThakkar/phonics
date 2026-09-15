@@ -1,7 +1,12 @@
 {
   "built": [
     1,
-    2
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
   ],
   "levels": [
     {
@@ -15,6 +20,36 @@
       "title": "m says /m/",
       "kidTitle": "Meet the letter m",
       "activities": 12
+    },
+    {
+      "level": 3,
+      "title": "s says /s/",
+      "kidTitle": "Meet the letter s",
+      "activities": 16
+    },
+    {
+      "level": 4,
+      "title": "t says /t/",
+      "kidTitle": "Meet the letter t",
+      "activities": 16
+    },
+    {
+      "level": 5,
+      "title": "Reading left to right",
+      "kidTitle": "Left to right",
+      "activities": 16
+    },
+    {
+      "level": 6,
+      "title": "f says /f/",
+      "kidTitle": "Meet the letter f",
+      "activities": 16
+    },
+    {
+      "level": 7,
+      "title": "d says /d/",
+      "kidTitle": "Meet the letter d",
+      "activities": 16
     }
   ]
 }

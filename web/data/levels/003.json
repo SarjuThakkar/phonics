@@ -1,0 +1,102 @@
+{
+  "level": 3,
+  "title": "s says /s/",
+  "kidTitle": "Meet the letter s",
+  "parentNote": "Today is /s/, the hiss at the start of \"sun\" — another sound you can hold on for as long as you like, which makes it kind to blend with. It is also the day your child reads their first three-sound word, \"sam\". Three is much harder than two: most children sound out all three correctly and then stop, because holding the sounds in their head while saying the next one is the real work. Stretch it into one long run — \"sssaaammm\" — and let them hear the name fall out of it.",
+  "newGraphemes": ["s"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "s",
+      "keyword": "sun",
+      "picture": "☀️",
+      "mouthCue": "Teeth almost shut, tongue behind them, let the air hiss out like a snake. /sss/.",
+      "prompt": "A new one today. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "s",
+      "choices": ["s", "a"],
+      "prompt": "Which one hisses?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "s",
+      "choices": ["s", "z", "c"],
+      "prompt": "These three all hiss a bit. Find the one that says /sss/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "m",
+      "choices": ["m", "s"],
+      "prompt": "Now the hum. Which one says /mmm/?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "s", "m"],
+      "prompt": "And the wide-open one. Where is /a/?"
+    },
+    {
+      "type": "blend",
+      "word": "as",
+      "parts": ["a", "s"],
+      "prompt": "Two sounds you can both hold. Slide them together."
+    },
+    {
+      "type": "blend",
+      "word": "am",
+      "parts": ["a", "m"],
+      "prompt": "You know this one. Same start, different ending."
+    },
+    {
+      "type": "blend",
+      "word": "sam",
+      "parts": ["s", "a", "m"],
+      "prompt": "Three sounds this time. Don't stop in the middle — sssaaammm."
+    },
+    {
+      "type": "blend",
+      "word": "sam",
+      "parts": ["s", "a", "m"],
+      "prompt": "Again, and a bit faster. It is somebody's name."
+    },
+    {
+      "type": "readWord",
+      "word": "as",
+      "prompt": "No help this time."
+    },
+    {
+      "type": "readWord",
+      "word": "sam"
+    },
+    {
+      "type": "readWord",
+      "word": "ma"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "as",
+      "choices": ["as", "am"],
+      "prompt": "Listen right to the end. Which one is it?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sam",
+      "choices": ["sam", "am"],
+      "prompt": "One of these starts with a hiss."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ma",
+      "choices": ["ma", "am", "as"]
+    },
+    {
+      "type": "soundMatch",
+      "target": "s",
+      "choices": ["s", "m", "a", "e"],
+      "prompt": "Last hunt. Where is the hiss?"
+    }
+  ]
+}

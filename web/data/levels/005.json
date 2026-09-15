@@ -1,0 +1,156 @@
+{
+  "level": 5,
+  "title": "Reading left to right",
+  "kidTitle": "Left to right",
+  "parentNote": "No new sound today — today is about the direction. A word is read from the left edge to the right edge, every time, and that is not obvious to a child: nothing else they look at works that way. So today's words come in pairs made of the same sounds in different orders — am and ma, mat and tam — and the only way to tell them apart is to start at the left and go along. If your child guesses from the shape of the word, cover it and uncover one letter at a time, or run a finger under it as they sound it out. That finger is the whole lesson.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": [
+        "a",
+        "m",
+        "t"
+      ],
+      "prompt": "Four sounds so far. Which one is /a/?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "t",
+      "choices": [
+        "t",
+        "a",
+        "s",
+        "m"
+      ],
+      "prompt": "And the quick tap?"
+    },
+    {
+      "type": "blend",
+      "word": "am",
+      "parts": [
+        "a",
+        "m"
+      ],
+      "prompt": "Start at the left edge. Aaa first, then mmm."
+    },
+    {
+      "type": "blend",
+      "word": "ma",
+      "parts": [
+        "m",
+        "a"
+      ],
+      "prompt": "The very same two sounds, swapped. Read from the left and hear what changed."
+    },
+    {
+      "type": "blend",
+      "word": "mat",
+      "parts": [
+        "m",
+        "a",
+        "t"
+      ],
+      "picture": "🧺",
+      "prompt": "Three sounds, left to right."
+    },
+    {
+      "type": "blend",
+      "word": "tam",
+      "parts": [
+        "t",
+        "a",
+        "m"
+      ],
+      "prompt": "Same three sounds, turned around. Which one comes first now?"
+    },
+    {
+      "type": "blend",
+      "word": "sat",
+      "parts": [
+        "s",
+        "a",
+        "t"
+      ],
+      "prompt": "Stretch the hiss, then keep going."
+    },
+    {
+      "type": "blend",
+      "word": "sam",
+      "parts": [
+        "s",
+        "a",
+        "m"
+      ],
+      "prompt": "Only the last sound is different this time."
+    },
+    {
+      "type": "blend",
+      "word": "mast",
+      "parts": [
+        "m",
+        "a",
+        "s",
+        "t"
+      ],
+      "picture": "⛵",
+      "prompt": "Four sounds, and the last two are close together. Slowly."
+    },
+    {
+      "type": "readWord",
+      "word": "at",
+      "prompt": "Finger under the word. Off you go."
+    },
+    {
+      "type": "readWord",
+      "word": "tam"
+    },
+    {
+      "type": "readWord",
+      "word": "mast",
+      "picture": "⛵"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sat",
+      "choices": [
+        "sat",
+        "tas"
+      ],
+      "prompt": "Both of these are made of the same three sounds. Start at the left."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tam",
+      "choices": [
+        "tam",
+        "mat"
+      ],
+      "prompt": "Listen to which sound comes first."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ma",
+      "choices": [
+        "ma",
+        "am",
+        "as"
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Every word so far",
+      "words": [
+        "am",
+        "ma",
+        "as",
+        "sam",
+        "at",
+        "mat"
+      ],
+      "prompt": "All of these you have read before. One more time, left to right."
+    }
+  ]
+}
