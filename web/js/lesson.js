@@ -27,15 +27,26 @@ function toast(msg) {
 
 function showStart(level, spec) {
   bar.hidden = true;
+  const saved = Progress.day(day);
+  const resumeAt = saved && !saved.completed && saved.step > 0
+    ? Math.min(saved.step, level.activities.length - 1)
+    : 0;
   app.replaceChildren(el('div', { class: 'stage-area' },
     el('p', { class: 'instruction' }, `Day ${day} · ${spec.stage.name}`),
     el('h1', { style: 'font-size:clamp(2rem,7vw,3.2rem);margin:0 0 6px' }, level.kidTitle),
     el('p', { class: 'keyword' }, level.title),
     el('div', { class: 'actions' },
-      el('button', {
+      // Half a lesson is a perfectly good session for a four-year-old, so a
+      // day stopped in the middle offers to carry on rather than starting the
+      // whole thing again -- which is what the home page promises.
+      resumeAt ? el('button', {
         class: 'btn btn-go btn-big',
+        onclick: () => { Speech.prime(); Chime.play('yes'); run(resumeAt); },
+      }, `Carry on · ${resumeAt + 1} of ${level.activities.length}`) : null,
+      el('button', {
+        class: resumeAt ? 'btn' : 'btn btn-go btn-big',
         onclick: () => { Speech.prime(); Chime.play('yes'); run(0); },
-      }, 'Let’s go!')),
+      }, resumeAt ? 'Start this day again' : 'Let’s go!')),
     el('div', { class: 'parent-note' },
       el('h3', {}, 'For the grown-up'),
       level.parentNote),
