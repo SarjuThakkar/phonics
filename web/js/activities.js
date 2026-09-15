@@ -283,10 +283,11 @@ Activities.story = (act, ctx) => {
     Speech.sentence(q.prompt);
   };
 
-  return {
-    node,
-    enter: async () => { showStory(); await Speech.say(act.prompt || 'Here is a story.'); },
-  };
+  // Build the story immediately rather than inside enter(): a renderer that
+  // returns an empty node and fills it later is one missed call away from a
+  // blank screen.
+  showStory();
+  return { node, enter: () => Speech.say(act.prompt || 'Here is a story.') };
 };
 
 /* sightWord ---------------------------------------------------------------- */

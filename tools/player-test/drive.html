@@ -1,0 +1,55 @@
+<!doctype html><meta charset="utf-8"><body><div id="out"></div>
+<script src="js/app.js"></script><script src="js/activities.js"></script>
+<script>
+const log = [];
+(async () => {
+  const phon = await Data.phonemes();
+  // Every authored day that exists, plus synthetic examples of the types the
+  // early days don't use yet, so all nine are covered from day one.
+  const manifest = await Data.get('data/levels/manifest.json').catch(() => ({ built: [] }));
+  const days = manifest.built.slice(-3);          // the three most recent days
+  let acts = [];
+  for (const d of days) acts = acts.concat((await Data.level(d)).activities);
+  acts = acts.concat([
+    {type:'sentence', text:'The pig is in the mud.'},
+    {type:'sightWord', word:'the', sentence:'the pig sat'},
+    {type:'story', title:'The Pig', lines:['A pig sat in the mud.','It did not want to get up.','Then it did.'],
+     questions:[{prompt:'Where did the pig sit?', choices:['In the mud','On a mat'], answer:'In the mud'},
+                {prompt:'Did it get up?', choices:['Yes','No'], answer:'Yes'}]},
+  ]);
+  const lvl = { activities: acts };
+  Speech.muted = true;                 // don't wait on real speech
+  const host = document.getElementById('out');
+  for (const [i, act] of lvl.activities.entries()) {
+    let advanced = false;
+    const ctx = { phon, level: 7, next: () => { advanced = true; }, mark: () => {} };
+    let node;
+    try { node = Activities[act.type](act, ctx).node; } 
+    catch (e) { log.push(`FAIL ${i+1} ${act.type} render: ${e.message}`); continue; }
+    host.replaceChildren(node);
+
+    // click the thing a child would click to advance
+    const pick = (txt) => [...node.querySelectorAll('button')].find(b => b.textContent.trim() === txt);
+    let target = null;
+    if (act.type === 'soundMatch') target = [...node.querySelectorAll('.tile')].find(t => t.textContent.trim() === (phon[act.target]||{}).display);
+    else if (act.type === 'chooseWord') target = [...node.querySelectorAll('.tile')].find(t => t.textContent.trim() === act.answer);
+    else if (act.type === 'readWord') target = pick('✓ Got it');
+    else if (act.type === 'review') { node.querySelectorAll('.tile').forEach(t => t.click()); target = pick('Done →'); }
+    else if (act.type === 'story') { target = pick('I read it →') || pick('Next →'); }
+    else target = [...node.querySelectorAll('button')].find(b => /→/.test(b.textContent));
+
+    if (!target) { log.push(`FAIL ${i+1} ${act.type}: no advance control found`); continue; }
+    target.click();
+    await new Promise(r => setTimeout(r, 350));
+    if (act.type === 'story' && act.questions) {
+      for (const q of act.questions) {
+        const t2 = [...node.querySelectorAll('.tile')].find(t => t.textContent.trim() === q.answer);
+        if (!t2) { log.push(`FAIL ${i+1} story: choice for "${q.prompt}" not rendered`); break; }
+        t2.click(); await new Promise(r => setTimeout(r, 350));
+      }
+    }
+    log.push(`${advanced ? 'OK  ' : 'STUCK'} ${i+1} ${act.type}`);
+  }
+  document.body.append(document.createComment('RESULT\n' + log.join('\n') + '\nEND'));
+})();
+</script></body>
