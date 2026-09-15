@@ -214,3 +214,24 @@ details.parents .body { color: var(--ink-soft); line-height: 1.6; }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+
+/* ------------------------------------------------------------- recording --- */
+/* The studio at /record.html. A tool for one person, not part of the course. */
+
+.rec-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 10px; }
+.rec-tabs .btn { min-height: 48px; font-size: 1rem; padding: 10px 18px; }
+.rec-count { opacity: .7; font-weight: 600; font-size: .85rem; }
+
+.rec-card {
+  background: var(--card); border: 3px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 26px 24px; margin-top: 10px; text-align: center;
+}
+.rec-progress { color: var(--ink-soft); font-size: .9rem; text-transform: uppercase; letter-spacing: .08em; }
+.rec-text { font-size: clamp(1.8rem, 6vw, 3rem); font-weight: 800; margin: 14px 0 10px; line-height: 1.25; }
+.rec-script { color: var(--ink-soft); font-size: 1.05rem; margin: 0 auto 6px; max-width: 46ch; }
+.rec-file { color: var(--ink-soft); font-size: .85rem; font-family: ui-monospace, monospace; margin: 0; }
+.rec-have { color: var(--leaf); font-weight: 700; }
+.btn-rec { background: var(--berry); border-color: #b93f47; color: #fff; }
+.rec-card pre { text-align: left; background: #f6f1e8; padding: 12px 14px; border-radius: 12px; overflow-x: auto; font-size: .9rem; }
+details.parents pre { background: #f6f1e8; padding: 12px 14px; border-radius: 12px; overflow-x: auto; font-size: .9rem; }
+details.parents code { background: #f6f1e8; padding: 1px 5px; border-radius: 5px; font-size: .9em; }

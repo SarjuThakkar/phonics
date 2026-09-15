@@ -61,7 +61,8 @@ function dayTile(spec, built, done, isNext) {
       to hear it.</p>
       <p><b>Nothing is stored anywhere but this device.</b> No account, no sign-in,
       no data leaves the browser. Progress lives in this browser only.</p>
-      <p><a href="about.html">What this is and where the sequence comes from →</a></p>` }));
+      <p><a href="about.html">What this is and where the sequence comes from →</a><br>
+      <a href="record.html">Record the voice in your own voice →</a></p>` }));
 
   const reset = el('div', { style: 'margin-top:30px;text-align:center' },
     el('button', {

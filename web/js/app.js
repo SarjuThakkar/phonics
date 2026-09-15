@@ -23,10 +23,61 @@ const Data = {
   level(n) { return this.get(`data/levels/${String(n).padStart(3, '0')}.json`); },
 };
 
+
+/* ---------------------------------------------------------- recordings --- */
+/* A real human voice, wherever one has been recorded. Files live in
+ * web/audio/human/ and are listed in data/audio-manifest.json; anything not
+ * recorded yet falls back to the browser's synthetic voice. See
+ * tools/build_speech_index.py for the full list of what can be recorded. */
+
+const Recordings = {
+  files: {},
+  text: {},
+  loaded: false,
+
+  async load() {
+    if (this.loaded) return;
+    this.loaded = true;
+    try {
+      const m = await Data.get('data/audio-manifest.json');
+      this.files = m.files || {};
+      this.text = m.text || {};
+    } catch (e) { /* none recorded yet */ }
+  },
+
+  /** The id a grapheme's sound is filed under. Must match tools/build_speech_index.py. */
+  soundId(graphemeId) {
+    let core = String(graphemeId).replace(/_/g, '-');
+    if (core.startsWith('-')) core = 'end-' + core.slice(1);
+    return `sound-${core}`;
+  },
+
+  idForText(text) {
+    return this.text[String(text).trim().toLowerCase().replace(/\s+/g, ' ')];
+  },
+
+  has(id) { return !!(id && this.files[id]); },
+
+  play(id) {
+    return new Promise((resolve) => {
+      const el = new window.Audio(`audio/human/${this.files[id]}`);
+      el.onended = resolve;
+      el.onerror = resolve;
+      const guard = setTimeout(resolve, 15000);
+      el.onended = () => { clearTimeout(guard); resolve(); };
+      el.play().catch(() => { clearTimeout(guard); resolve(); });
+    });
+  },
+};
+
 /* -------------------------------------------------------------- speech --- */
-/* Browser speech synthesis. Good at words, bad at bare sounds -- so every
- * grapheme carries a `say` spelling from data/phonemes.json that lands closer
- * to the real phoneme than the letter name would. See tools/build_phonemes.py.
+/* Recording first, browser synthesis second.
+ *
+ * Synthesis is decent at whole words and hopeless at isolated sounds, so words
+ * and sentences fall back to it happily and bare letter sounds never do -- see
+ * Speech.sound(). data/phonemes.json still carries a `say` spelling per
+ * grapheme, but it is documentation of the intended sound now, not something
+ * the site speaks.
  *
  * iOS will not speak until speech has been started inside a real tap, which is
  * what Speech.prime() is for: the lesson's opening button calls it. */
@@ -68,8 +119,15 @@ const Speech = {
 
   cancel() { if (this.supported()) speechSynthesis.cancel(); },
 
-  /** Speak text. Returns a promise that settles when it finishes. */
-  say(text, { rate = 0.85, pitch = 1.05 } = {}) {
+  /** Speak text -- a recording of it if one exists, the browser voice if not. */
+  async say(text, { rate = 0.85, pitch = 1.05 } = {}) {
+    if (this.muted || !text) return;
+    const id = Recordings.idForText(text);
+    if (Recordings.has(id)) return Recordings.play(id);
+    return this.synth(text, { rate, pitch });
+  },
+
+  synth(text, { rate = 0.85, pitch = 1.05 } = {}) {
     return new Promise((resolve) => {
       if (!this.supported() || this.muted || !text) return resolve();
       speechSynthesis.cancel();
@@ -87,10 +145,26 @@ const Speech = {
     });
   },
 
-  /** Say a single sound, given a grapheme entry from phonemes.json. */
+  /** Say a single sound, given a grapheme entry from phonemes.json.
+   *
+   * If it has been recorded, play the recording -- that is the whole point of
+   * the recording list. If not, DO NOT let the browser attempt it: synthesis
+   * says the letter NAME for "a" and the vowel from "father" for "aah", so it
+   * would teach the wrong sound and contradict the keyword printed right next
+   * to it. It says the keyword instead and lets the grown-up model the sound,
+   * which is honest, and is why sound-*.mp3 are the recordings worth making
+   * first. */
   sound(entry, { rate = 0.7 } = {}) {
     if (!entry) return Promise.resolve();
-    return this.say(entry.say, { rate, pitch: 1.0 });
+    const id = Recordings.soundId(entry.id || entry.display);
+    if (Recordings.has(id)) return Recordings.play(id);
+    return this.say(entry.keyword || entry.display, { rate: 0.75, pitch: 1.0 });
+  },
+
+  /** Has this sound been recorded? Activities word themselves differently when
+   * the isolated sound isn't available. */
+  hasSound(entry) {
+    return !!entry && Recordings.has(Recordings.soundId(entry.id || entry.display));
   },
 
   /** Say a word slowly and clearly. */
@@ -224,3 +298,4 @@ const Chime = {
 };
 
 Speech.init();
+Recordings.load();

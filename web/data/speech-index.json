@@ -1,0 +1,6469 @@
+{
+  "note": "Every string the site speaks. Record any of them into web/audio/human/<id>.mp3 and the site will use the recording instead of the browser voice.",
+  "counts": {
+    "sound": 93,
+    "ui": 16,
+    "word": 141,
+    "prompt": 338,
+    "line": 47
+  },
+  "entries": [
+    {
+      "id": "sound-a",
+      "kind": "sound",
+      "text": "a",
+      "script": "The SOUND of \"a\" as in \"apple\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-a.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "sound-m",
+      "kind": "sound",
+      "text": "m",
+      "script": "The SOUND of \"m\" as in \"moon\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-m.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "sound-s",
+      "kind": "sound",
+      "text": "s",
+      "script": "The SOUND of \"s\" as in \"sun\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-s.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "sound-t",
+      "kind": "sound",
+      "text": "t",
+      "script": "The SOUND of \"t\" as in \"top\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-t.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "sound-f",
+      "kind": "sound",
+      "text": "f",
+      "script": "The SOUND of \"f\" as in \"fish\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-f.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "sound-d",
+      "kind": "sound",
+      "text": "d",
+      "script": "The SOUND of \"d\" as in \"dog\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-d.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "sound-g",
+      "kind": "sound",
+      "text": "g",
+      "script": "The SOUND of \"g\" as in \"goat\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-g.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "sound-i",
+      "kind": "sound",
+      "text": "i",
+      "script": "The SOUND of \"i\" as in \"igloo\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-i.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "sound-n",
+      "kind": "sound",
+      "text": "n",
+      "script": "The SOUND of \"n\" as in \"nest\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-n.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "sound-p",
+      "kind": "sound",
+      "text": "p",
+      "script": "The SOUND of \"p\" as in \"pig\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-p.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "sound-h",
+      "kind": "sound",
+      "text": "h",
+      "script": "The SOUND of \"h\" as in \"hat\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-h.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "sound-b",
+      "kind": "sound",
+      "text": "b",
+      "script": "The SOUND of \"b\" as in \"bug\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-b.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "sound-l",
+      "kind": "sound",
+      "text": "l",
+      "script": "The SOUND of \"l\" as in \"leaf\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-l.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "sound-ll",
+      "kind": "sound",
+      "text": "ll",
+      "script": "The SOUND of \"ll\" as in \"hill\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ll.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "sound-j",
+      "kind": "sound",
+      "text": "j",
+      "script": "The SOUND of \"j\" as in \"jam\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-j.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "sound-c",
+      "kind": "sound",
+      "text": "c",
+      "script": "The SOUND of \"c\" as in \"cat\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-c.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "sound-v",
+      "kind": "sound",
+      "text": "v",
+      "script": "The SOUND of \"v\" as in \"van\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-v.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "sound-w",
+      "kind": "sound",
+      "text": "w",
+      "script": "The SOUND of \"w\" as in \"web\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-w.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "sound-r",
+      "kind": "sound",
+      "text": "r",
+      "script": "The SOUND of \"r\" as in \"rat\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-r.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "sound-k",
+      "kind": "sound",
+      "text": "k",
+      "script": "The SOUND of \"k\" as in \"kite\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-k.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "sound-ck",
+      "kind": "sound",
+      "text": "ck",
+      "script": "The SOUND of \"ck\" as in \"duck\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-ck.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "sound-sh",
+      "kind": "sound",
+      "text": "sh",
+      "script": "The SOUND of \"sh\" as in \"ship\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-sh.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "sound-ch",
+      "kind": "sound",
+      "text": "ch",
+      "script": "The SOUND of \"ch\" as in \"chip\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-ch.mp3",
+      "days": [
+        23
+      ]
+    },
+    {
+      "id": "sound-th",
+      "kind": "sound",
+      "text": "th",
+      "script": "The SOUND of \"th\" as in \"this\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-th.mp3",
+      "days": [
+        24
+      ]
+    },
+    {
+      "id": "sound-o",
+      "kind": "sound",
+      "text": "o",
+      "script": "The SOUND of \"o\" as in \"otter\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-o.mp3",
+      "days": [
+        26
+      ]
+    },
+    {
+      "id": "sound-nd",
+      "kind": "sound",
+      "text": "nd",
+      "script": "The SOUND of \"nd\" as in \"sand\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-nd.mp3",
+      "days": [
+        27
+      ]
+    },
+    {
+      "id": "sound-end-s",
+      "kind": "sound",
+      "text": "-s",
+      "script": "The SOUND of \"-s\" as in \"cats\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-s.mp3",
+      "days": [
+        28
+      ]
+    },
+    {
+      "id": "sound-mp",
+      "kind": "sound",
+      "text": "mp",
+      "script": "The SOUND of \"mp\" as in \"camp\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-mp.mp3",
+      "days": [
+        29
+      ]
+    },
+    {
+      "id": "sound-ft",
+      "kind": "sound",
+      "text": "ft",
+      "script": "The SOUND of \"ft\" as in \"gift\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-ft.mp3",
+      "days": [
+        30
+      ]
+    },
+    {
+      "id": "sound-st",
+      "kind": "sound",
+      "text": "st",
+      "script": "The SOUND of \"st\" as in \"stop\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-st.mp3",
+      "days": [
+        31
+      ]
+    },
+    {
+      "id": "sound-sn",
+      "kind": "sound",
+      "text": "sn",
+      "script": "The SOUND of \"sn\" as in \"snack\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-sn.mp3",
+      "days": [
+        32
+      ]
+    },
+    {
+      "id": "sound-sw",
+      "kind": "sound",
+      "text": "sw",
+      "script": "The SOUND of \"sw\" as in \"swim\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-sw.mp3",
+      "days": [
+        33
+      ]
+    },
+    {
+      "id": "sound-fl",
+      "kind": "sound",
+      "text": "fl",
+      "script": "The SOUND of \"fl\" as in \"flag\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-fl.mp3",
+      "days": [
+        34
+      ]
+    },
+    {
+      "id": "sound-fr",
+      "kind": "sound",
+      "text": "fr",
+      "script": "The SOUND of \"fr\" as in \"frog\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-fr.mp3",
+      "days": [
+        36
+      ]
+    },
+    {
+      "id": "sound-ng",
+      "kind": "sound",
+      "text": "ng",
+      "script": "The SOUND of \"ng\" as in \"king\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ng.mp3",
+      "days": [
+        37
+      ]
+    },
+    {
+      "id": "sound-nk",
+      "kind": "sound",
+      "text": "nk",
+      "script": "The SOUND of \"nk\" as in \"pink\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-nk.mp3",
+      "days": [
+        38
+      ]
+    },
+    {
+      "id": "sound-u",
+      "kind": "sound",
+      "text": "u",
+      "script": "The SOUND of \"u\" as in \"up\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-u.mp3",
+      "days": [
+        39
+      ]
+    },
+    {
+      "id": "sound-sc",
+      "kind": "sound",
+      "text": "sc",
+      "script": "The SOUND of \"sc\" as in \"scat\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-sc.mp3",
+      "days": [
+        40
+      ]
+    },
+    {
+      "id": "sound-sk",
+      "kind": "sound",
+      "text": "sk",
+      "script": "The SOUND of \"sk\" as in \"skip\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-sk.mp3",
+      "days": [
+        40
+      ]
+    },
+    {
+      "id": "sound-sp",
+      "kind": "sound",
+      "text": "sp",
+      "script": "The SOUND of \"sp\" as in \"spin\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-sp.mp3",
+      "days": [
+        42
+      ]
+    },
+    {
+      "id": "sound-e",
+      "kind": "sound",
+      "text": "e",
+      "script": "The SOUND of \"e\" as in \"egg\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-e.mp3",
+      "days": [
+        44
+      ]
+    },
+    {
+      "id": "sound-bl",
+      "kind": "sound",
+      "text": "bl",
+      "script": "The SOUND of \"bl\" as in \"block\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-bl.mp3",
+      "days": [
+        46
+      ]
+    },
+    {
+      "id": "sound-cl",
+      "kind": "sound",
+      "text": "cl",
+      "script": "The SOUND of \"cl\" as in \"club\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-cl.mp3",
+      "days": [
+        47
+      ]
+    },
+    {
+      "id": "sound-pl",
+      "kind": "sound",
+      "text": "pl",
+      "script": "The SOUND of \"pl\" as in \"plan\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-pl.mp3",
+      "days": [
+        48
+      ]
+    },
+    {
+      "id": "sound-br",
+      "kind": "sound",
+      "text": "br",
+      "script": "The SOUND of \"br\" as in \"brick\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-br.mp3",
+      "days": [
+        49
+      ]
+    },
+    {
+      "id": "sound-tr",
+      "kind": "sound",
+      "text": "tr",
+      "script": "The SOUND of \"tr\" as in \"truck\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-tr.mp3",
+      "days": [
+        49
+      ]
+    },
+    {
+      "id": "sound-cr",
+      "kind": "sound",
+      "text": "cr",
+      "script": "The SOUND of \"cr\" as in \"crab\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-cr.mp3",
+      "days": [
+        50
+      ]
+    },
+    {
+      "id": "sound-dr",
+      "kind": "sound",
+      "text": "dr",
+      "script": "The SOUND of \"dr\" as in \"drum\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-dr.mp3",
+      "days": [
+        50
+      ]
+    },
+    {
+      "id": "sound-ie",
+      "kind": "sound",
+      "text": "ie",
+      "script": "The SOUND of \"ie\" as in \"pie\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ie.mp3",
+      "days": [
+        51
+      ]
+    },
+    {
+      "id": "sound-i-e",
+      "kind": "sound",
+      "text": "i-e",
+      "script": "The SOUND of \"i-e\" as in \"kite\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-i-e.mp3",
+      "days": [
+        52
+      ]
+    },
+    {
+      "id": "sound-oe",
+      "kind": "sound",
+      "text": "oe",
+      "script": "The SOUND of \"oe\" as in \"toes\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-oe.mp3",
+      "days": [
+        53
+      ]
+    },
+    {
+      "id": "sound-o-e",
+      "kind": "sound",
+      "text": "o-e",
+      "script": "The SOUND of \"o-e\" as in \"home\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-o-e.mp3",
+      "days": [
+        54
+      ]
+    },
+    {
+      "id": "sound-a-e",
+      "kind": "sound",
+      "text": "a-e",
+      "script": "The SOUND of \"a-e\" as in \"cake\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-a-e.mp3",
+      "days": [
+        56
+      ]
+    },
+    {
+      "id": "sound-ue",
+      "kind": "sound",
+      "text": "ue",
+      "script": "The SOUND of \"ue\" as in \"blue\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ue.mp3",
+      "days": [
+        57
+      ]
+    },
+    {
+      "id": "sound-u-e",
+      "kind": "sound",
+      "text": "u-e",
+      "script": "The SOUND of \"u-e\" as in \"flute\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-u-e.mp3",
+      "days": [
+        58
+      ]
+    },
+    {
+      "id": "sound-ee",
+      "kind": "sound",
+      "text": "ee",
+      "script": "The SOUND of \"ee\" as in \"bee\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ee.mp3",
+      "days": [
+        59
+      ]
+    },
+    {
+      "id": "sound-e-e",
+      "kind": "sound",
+      "text": "e-e",
+      "script": "The SOUND of \"e-e\" as in \"eve\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-e-e.mp3",
+      "days": [
+        60
+      ]
+    },
+    {
+      "id": "sound-ar",
+      "kind": "sound",
+      "text": "ar",
+      "script": "The SOUND of \"ar\" as in \"car\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ar.mp3",
+      "days": [
+        62
+      ]
+    },
+    {
+      "id": "sound-or",
+      "kind": "sound",
+      "text": "or",
+      "script": "The SOUND of \"or\" as in \"fork\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-or.mp3",
+      "days": [
+        64
+      ]
+    },
+    {
+      "id": "sound-er",
+      "kind": "sound",
+      "text": "er",
+      "script": "The SOUND of \"er\" as in \"her\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-er.mp3",
+      "days": [
+        65
+      ]
+    },
+    {
+      "id": "sound-ir",
+      "kind": "sound",
+      "text": "ir",
+      "script": "The SOUND of \"ir\" as in \"bird\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ir.mp3",
+      "days": [
+        66
+      ]
+    },
+    {
+      "id": "sound-ur",
+      "kind": "sound",
+      "text": "ur",
+      "script": "The SOUND of \"ur\" as in \"fur\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ur.mp3",
+      "days": [
+        67
+      ]
+    },
+    {
+      "id": "sound-ay",
+      "kind": "sound",
+      "text": "ay",
+      "script": "The SOUND of \"ay\" as in \"day\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ay.mp3",
+      "days": [
+        72
+      ]
+    },
+    {
+      "id": "sound-ai",
+      "kind": "sound",
+      "text": "ai",
+      "script": "The SOUND of \"ai\" as in \"rain\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ai.mp3",
+      "days": [
+        73
+      ]
+    },
+    {
+      "id": "sound-ea",
+      "kind": "sound",
+      "text": "ea",
+      "script": "The SOUND of \"ea\" as in \"sea\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ea.mp3",
+      "days": [
+        75
+      ]
+    },
+    {
+      "id": "sound-oa",
+      "kind": "sound",
+      "text": "oa",
+      "script": "The SOUND of \"oa\" as in \"boat\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-oa.mp3",
+      "days": [
+        76
+      ]
+    },
+    {
+      "id": "sound-ow",
+      "kind": "sound",
+      "text": "ow",
+      "script": "The SOUND of \"ow\" as in \"snow\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ow.mp3",
+      "days": [
+        77
+      ]
+    },
+    {
+      "id": "sound-ou",
+      "kind": "sound",
+      "text": "ou",
+      "script": "The SOUND of \"ou\" as in \"loud\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ou.mp3",
+      "days": [
+        80
+      ]
+    },
+    {
+      "id": "sound-oi",
+      "kind": "sound",
+      "text": "oi",
+      "script": "The SOUND of \"oi\" as in \"coin\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-oi.mp3",
+      "days": [
+        81
+      ]
+    },
+    {
+      "id": "sound-oy",
+      "kind": "sound",
+      "text": "oy",
+      "script": "The SOUND of \"oy\" as in \"toy\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-oy.mp3",
+      "days": [
+        82
+      ]
+    },
+    {
+      "id": "sound-end-e",
+      "kind": "sound",
+      "text": "-e",
+      "script": "The SOUND of \"-e\" as in \"me\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-e.mp3",
+      "days": [
+        84
+      ]
+    },
+    {
+      "id": "sound-end-o",
+      "kind": "sound",
+      "text": "-o",
+      "script": "The SOUND of \"-o\" as in \"go\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-o.mp3",
+      "days": [
+        85
+      ]
+    },
+    {
+      "id": "sound-y",
+      "kind": "sound",
+      "text": "y",
+      "script": "The SOUND of \"y\" as in \"yak\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-y.mp3",
+      "days": [
+        87
+      ]
+    },
+    {
+      "id": "sound-qu",
+      "kind": "sound",
+      "text": "qu",
+      "script": "The SOUND of \"qu\" as in \"queen\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-qu.mp3",
+      "days": [
+        90
+      ]
+    },
+    {
+      "id": "sound-x",
+      "kind": "sound",
+      "text": "x",
+      "script": "The SOUND of \"x\" as in \"box\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-x.mp3",
+      "days": [
+        91
+      ]
+    },
+    {
+      "id": "sound-z",
+      "kind": "sound",
+      "text": "z",
+      "script": "The SOUND of \"z\" as in \"zip\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-z.mp3",
+      "days": [
+        92
+      ]
+    },
+    {
+      "id": "sound-zz",
+      "kind": "sound",
+      "text": "zz",
+      "script": "The SOUND of \"zz\" as in \"jazz\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-zz.mp3",
+      "days": [
+        92
+      ]
+    },
+    {
+      "id": "sound-aw",
+      "kind": "sound",
+      "text": "aw",
+      "script": "The SOUND of \"aw\" as in \"saw\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-aw.mp3",
+      "days": [
+        93
+      ]
+    },
+    {
+      "id": "sound-all",
+      "kind": "sound",
+      "text": "all",
+      "script": "The SOUND of \"all\" as in \"ball\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-all.mp3",
+      "days": [
+        94
+      ]
+    },
+    {
+      "id": "sound-end-y",
+      "kind": "sound",
+      "text": "-y",
+      "script": "The SOUND of \"-y\" as in \"fly\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-y.mp3",
+      "days": [
+        95
+      ]
+    },
+    {
+      "id": "sound-wh",
+      "kind": "sound",
+      "text": "wh",
+      "script": "The SOUND of \"wh\" as in \"whale\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-wh.mp3",
+      "days": [
+        96
+      ]
+    },
+    {
+      "id": "sound-oo",
+      "kind": "sound",
+      "text": "oo",
+      "script": "The SOUND of \"oo\" as in \"moon\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-oo.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "sound-end-ed",
+      "kind": "sound",
+      "text": "-ed",
+      "script": "The SOUND of \"-ed\" as in \"landed\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-end-ed.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "sound-alk",
+      "kind": "sound",
+      "text": "alk",
+      "script": "The SOUND of \"alk\" as in \"walk\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-alk.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "sound-igh",
+      "kind": "sound",
+      "text": "igh",
+      "script": "The SOUND of \"igh\" as in \"night\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-igh.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "sound-end-le",
+      "kind": "sound",
+      "text": "-le",
+      "script": "The SOUND of \"-le\" as in \"little\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-le.mp3",
+      "days": [
+        108
+      ]
+    },
+    {
+      "id": "sound-ew",
+      "kind": "sound",
+      "text": "ew",
+      "script": "The SOUND of \"ew\" as in \"flew\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-ew.mp3",
+      "days": [
+        111
+      ]
+    },
+    {
+      "id": "sound-kn",
+      "kind": "sound",
+      "text": "kn",
+      "script": "The SOUND of \"kn\" as in \"knock\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-kn.mp3",
+      "days": [
+        114
+      ]
+    },
+    {
+      "id": "sound-wr",
+      "kind": "sound",
+      "text": "wr",
+      "script": "The SOUND of \"wr\" as in \"write\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-wr.mp3",
+      "days": [
+        114
+      ]
+    },
+    {
+      "id": "sound-air",
+      "kind": "sound",
+      "text": "air",
+      "script": "The SOUND of \"air\" as in \"chair\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-air.mp3",
+      "days": [
+        115
+      ]
+    },
+    {
+      "id": "sound-end-ey",
+      "kind": "sound",
+      "text": "-y",
+      "script": "The SOUND of \"-y\" as in \"happy\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-ey.mp3",
+      "days": [
+        116
+      ]
+    },
+    {
+      "id": "sound-end-ie",
+      "kind": "sound",
+      "text": "-ie",
+      "script": "The SOUND of \"-ie\" as in \"cookie\" -- not the letter name. Hold it for about a second.",
+      "file": "sound-end-ie.mp3",
+      "days": [
+        119
+      ]
+    },
+    {
+      "id": "sound-ge",
+      "kind": "sound",
+      "text": "ge",
+      "script": "The SOUND of \"ge\" as in \"cage\" -- not the letter name. Keep it short and clean -- /t/, not \"tuh\".",
+      "file": "sound-ge.mp3",
+      "days": [
+        120
+      ]
+    },
+    {
+      "id": "ui-have-another-look-at-50133a",
+      "kind": "ui",
+      "text": "Have another look at the story.",
+      "script": "Spoken by the app itself: \"Have another look at the story.\"",
+      "file": "ui-have-another-look-at-50133a.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-here-is-a-story-7e6a38",
+      "kind": "ui",
+      "text": "Here is a story.",
+      "script": "Spoken by the app itself: \"Here is a story.\"",
+      "file": "ui-here-is-a-story-7e6a38.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-listen-again-1098e8",
+      "kind": "ui",
+      "text": "Listen again.",
+      "script": "Spoken by the app itself: \"Listen again.\"",
+      "file": "ui-listen-again-1098e8.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-not-that-one-listen-3655d3",
+      "kind": "ui",
+      "text": "Not that one. Listen again.",
+      "script": "Spoken by the app itself: \"Not that one. Listen again.\"",
+      "file": "ui-not-that-one-listen-3655d3.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-read-it-out-loud-639ff9",
+      "kind": "ui",
+      "text": "Read it out loud. Tap any word you get stuck on.",
+      "script": "Spoken by the app itself: \"Read it out loud. Tap any word you get stuck on.\"",
+      "file": "ui-read-it-out-loud-639ff9.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-read-the-story-tap-8673b8",
+      "kind": "ui",
+      "text": "Read the story. Tap a word for help.",
+      "script": "Spoken by the app itself: \"Read the story. Tap a word for help.\"",
+      "file": "ui-read-the-story-tap-8673b8.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-sound-it-out-then-837f61",
+      "kind": "ui",
+      "text": "Sound it out, then say it fast.",
+      "script": "Spoken by the app itself: \"Sound it out, then say it fast.\"",
+      "file": "ui-sound-it-out-then-837f61.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-that-s-right-82a287",
+      "kind": "ui",
+      "text": "That’s right!",
+      "script": "Spoken by the app itself: \"That’s right!\"",
+      "file": "ui-that-s-right-82a287.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-this-one-says-c136d8",
+      "kind": "ui",
+      "text": "This one says",
+      "script": "Spoken by the app itself: \"This one says\"",
+      "file": "ui-this-one-says-c136d8.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-this-one-says-7449d4",
+      "kind": "ui",
+      "text": "This one says…",
+      "script": "Spoken by the app itself: \"This one says…\"",
+      "file": "ui-this-one-says-7449d4.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-this-one-we-just-965efa",
+      "kind": "ui",
+      "text": "This one we just remember.",
+      "script": "Spoken by the app itself: \"This one we just remember.\"",
+      "file": "ui-this-one-we-just-965efa.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-which-one-says-this-857fd9",
+      "kind": "ui",
+      "text": "Which one says this sound?",
+      "script": "Spoken by the app itself: \"Which one says this sound?\"",
+      "file": "ui-which-one-says-this-857fd9.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-which-word-is-this-b45183",
+      "kind": "ui",
+      "text": "Which word is this?",
+      "script": "Spoken by the app itself: \"Which word is this?\"",
+      "file": "ui-which-word-is-this-b45183.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-yes-ee33f3",
+      "kind": "ui",
+      "text": "Yes!",
+      "script": "Spoken by the app itself: \"Yes!\"",
+      "file": "ui-yes-ee33f3.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-you-did-it-great-7e9bba",
+      "kind": "ui",
+      "text": "You did it! Great reading.",
+      "script": "Spoken by the app itself: \"You did it! Great reading.\"",
+      "file": "ui-you-did-it-great-7e9bba.mp3",
+      "days": []
+    },
+    {
+      "id": "ui-your-turn-read-this-7aaadd",
+      "kind": "ui",
+      "text": "Your turn. Read this word.",
+      "script": "Spoken by the app itself: \"Your turn. Read this word.\"",
+      "file": "ui-your-turn-read-this-7aaadd.mp3",
+      "days": []
+    },
+    {
+      "id": "word-mast",
+      "kind": "word",
+      "text": "mast",
+      "script": "The word \"mast\", said clearly and slowly.",
+      "file": "word-mast.mp3",
+      "days": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "word-mat",
+      "kind": "word",
+      "text": "mat",
+      "script": "The word \"mat\", said clearly and slowly.",
+      "file": "word-mat.mp3",
+      "days": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "word-jam",
+      "kind": "word",
+      "text": "jam",
+      "script": "The word \"jam\", said clearly and slowly.",
+      "file": "word-jam.mp3",
+      "days": [
+        15,
+        16,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "word-sat",
+      "kind": "word",
+      "text": "sat",
+      "script": "The word \"sat\", said clearly and slowly.",
+      "file": "word-sat.mp3",
+      "days": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "word-am",
+      "kind": "word",
+      "text": "am",
+      "script": "The word \"am\", said clearly and slowly.",
+      "file": "word-am.mp3",
+      "days": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "word-cab",
+      "kind": "word",
+      "text": "cab",
+      "script": "The word \"cab\", said clearly and slowly.",
+      "file": "word-cab.mp3",
+      "days": [
+        16,
+        18,
+        19,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "word-fast",
+      "kind": "word",
+      "text": "fast",
+      "script": "The word \"fast\", said clearly and slowly.",
+      "file": "word-fast.mp3",
+      "days": [
+        6,
+        7,
+        8,
+        9,
+        17
+      ]
+    },
+    {
+      "id": "word-fig",
+      "kind": "word",
+      "text": "fig",
+      "script": "The word \"fig\", said clearly and slowly.",
+      "file": "word-fig.mp3",
+      "days": [
+        9,
+        12,
+        13,
+        14,
+        18
+      ]
+    },
+    {
+      "id": "word-hill",
+      "kind": "word",
+      "text": "hill",
+      "script": "The word \"hill\", said clearly and slowly.",
+      "file": "word-hill.mp3",
+      "days": [
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "word-sam",
+      "kind": "word",
+      "text": "sam",
+      "script": "The word \"sam\", said clearly and slowly.",
+      "file": "word-sam.mp3",
+      "days": [
+        3,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "word-snap",
+      "kind": "word",
+      "text": "snap",
+      "script": "The word \"snap\", said clearly and slowly.",
+      "file": "word-snap.mp3",
+      "days": [
+        11,
+        12,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "word-tam",
+      "kind": "word",
+      "text": "tam",
+      "script": "The word \"tam\", said clearly and slowly.",
+      "file": "word-tam.mp3",
+      "days": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "word-van",
+      "kind": "word",
+      "text": "van",
+      "script": "The word \"van\", said clearly and slowly.",
+      "file": "word-van.mp3",
+      "days": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "word-wig",
+      "kind": "word",
+      "text": "wig",
+      "script": "The word \"wig\", said clearly and slowly.",
+      "file": "word-wig.mp3",
+      "days": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "word-bib",
+      "kind": "word",
+      "text": "bib",
+      "script": "The word \"bib\", said clearly and slowly.",
+      "file": "word-bib.mp3",
+      "days": [
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "word-dig",
+      "kind": "word",
+      "text": "dig",
+      "script": "The word \"dig\", said clearly and slowly.",
+      "file": "word-dig.mp3",
+      "days": [
+        9,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "word-fat",
+      "kind": "word",
+      "text": "fat",
+      "script": "The word \"fat\", said clearly and slowly.",
+      "file": "word-fat.mp3",
+      "days": [
+        6,
+        7,
+        9,
+        17
+      ]
+    },
+    {
+      "id": "word-fill",
+      "kind": "word",
+      "text": "fill",
+      "script": "The word \"fill\", said clearly and slowly.",
+      "file": "word-fill.mp3",
+      "days": [
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "word-hand",
+      "kind": "word",
+      "text": "hand",
+      "script": "The word \"hand\", said clearly and slowly.",
+      "file": "word-hand.mp3",
+      "days": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "word-mist",
+      "kind": "word",
+      "text": "mist",
+      "script": "The word \"mist\", said clearly and slowly.",
+      "file": "word-mist.mp3",
+      "days": [
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "word-rat",
+      "kind": "word",
+      "text": "rat",
+      "script": "The word \"rat\", said clearly and slowly.",
+      "file": "word-rat.mp3",
+      "days": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "word-sad",
+      "kind": "word",
+      "text": "sad",
+      "script": "The word \"sad\", said clearly and slowly.",
+      "file": "word-sad.mp3",
+      "days": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "word-at",
+      "kind": "word",
+      "text": "at",
+      "script": "The word \"at\", said clearly and slowly.",
+      "file": "word-at.mp3",
+      "days": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "word-band",
+      "kind": "word",
+      "text": "band",
+      "script": "The word \"band\", said clearly and slowly.",
+      "file": "word-band.mp3",
+      "days": [
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "word-dad",
+      "kind": "word",
+      "text": "dad",
+      "script": "The word \"dad\", said clearly and slowly.",
+      "file": "word-dad.mp3",
+      "days": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "word-daft",
+      "kind": "word",
+      "text": "daft",
+      "script": "The word \"daft\", said clearly and slowly.",
+      "file": "word-daft.mp3",
+      "days": [
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "word-gas",
+      "kind": "word",
+      "text": "gas",
+      "script": "The word \"gas\", said clearly and slowly.",
+      "file": "word-gas.mp3",
+      "days": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "word-kid",
+      "kind": "word",
+      "text": "kid",
+      "script": "The word \"kid\", said clearly and slowly.",
+      "file": "word-kid.mp3",
+      "days": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "word-ma",
+      "kind": "word",
+      "text": "ma",
+      "script": "The word \"ma\", said clearly and slowly.",
+      "file": "word-ma.mp3",
+      "days": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "word-mad",
+      "kind": "word",
+      "text": "mad",
+      "script": "The word \"mad\", said clearly and slowly.",
+      "file": "word-mad.mp3",
+      "days": [
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "word-sip",
+      "kind": "word",
+      "text": "sip",
+      "script": "The word \"sip\", said clearly and slowly.",
+      "file": "word-sip.mp3",
+      "days": [
+        14,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "word-stag",
+      "kind": "word",
+      "text": "stag",
+      "script": "The word \"stag\", said clearly and slowly.",
+      "file": "word-stag.mp3",
+      "days": [
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "word-tap",
+      "kind": "word",
+      "text": "tap",
+      "script": "The word \"tap\", said clearly and slowly.",
+      "file": "word-tap.mp3",
+      "days": [
+        11,
+        13,
+        21
+      ]
+    },
+    {
+      "id": "word-aft",
+      "kind": "word",
+      "text": "aft",
+      "script": "The word \"aft\", said clearly and slowly.",
+      "file": "word-aft.mp3",
+      "days": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "word-and",
+      "kind": "word",
+      "text": "and",
+      "script": "The word \"and\", said clearly and slowly.",
+      "file": "word-and.mp3",
+      "days": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "word-big",
+      "kind": "word",
+      "text": "big",
+      "script": "The word \"big\", said clearly and slowly.",
+      "file": "word-big.mp3",
+      "days": [
+        13,
+        15
+      ]
+    },
+    {
+      "id": "word-bill",
+      "kind": "word",
+      "text": "bill",
+      "script": "The word \"bill\", said clearly and slowly.",
+      "file": "word-bill.mp3",
+      "days": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "word-can",
+      "kind": "word",
+      "text": "can",
+      "script": "The word \"can\", said clearly and slowly.",
+      "file": "word-can.mp3",
+      "days": [
+        16,
+        20
+      ]
+    },
+    {
+      "id": "word-clam",
+      "kind": "word",
+      "text": "clam",
+      "script": "The word \"clam\", said clearly and slowly.",
+      "file": "word-clam.mp3",
+      "days": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "word-did",
+      "kind": "word",
+      "text": "did",
+      "script": "The word \"did\", said clearly and slowly.",
+      "file": "word-did.mp3",
+      "days": [
+        9,
+        11
+      ]
+    },
+    {
+      "id": "word-fan",
+      "kind": "word",
+      "text": "fan",
+      "script": "The word \"fan\", said clearly and slowly.",
+      "file": "word-fan.mp3",
+      "days": [
+        10,
+        17
+      ]
+    },
+    {
+      "id": "word-fin",
+      "kind": "word",
+      "text": "fin",
+      "script": "The word \"fin\", said clearly and slowly.",
+      "file": "word-fin.mp3",
+      "days": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "word-fist",
+      "kind": "word",
+      "text": "fist",
+      "script": "The word \"fist\", said clearly and slowly.",
+      "file": "word-fist.mp3",
+      "days": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "word-flag",
+      "kind": "word",
+      "text": "flag",
+      "script": "The word \"flag\", said clearly and slowly.",
+      "file": "word-flag.mp3",
+      "days": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": "word-gap",
+      "kind": "word",
+      "text": "gap",
+      "script": "The word \"gap\", said clearly and slowly.",
+      "file": "word-gap.mp3",
+      "days": [
+        11,
+        16
+      ]
+    },
+    {
+      "id": "word-gift",
+      "kind": "word",
+      "text": "gift",
+      "script": "The word \"gift\", said clearly and slowly.",
+      "file": "word-gift.mp3",
+      "days": [
+        9,
+        11
+      ]
+    },
+    {
+      "id": "word-hid",
+      "kind": "word",
+      "text": "hid",
+      "script": "The word \"hid\", said clearly and slowly.",
+      "file": "word-hid.mp3",
+      "days": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": "word-hip",
+      "kind": "word",
+      "text": "hip",
+      "script": "The word \"hip\", said clearly and slowly.",
+      "file": "word-hip.mp3",
+      "days": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": "word-jig",
+      "kind": "word",
+      "text": "jig",
+      "script": "The word \"jig\", said clearly and slowly.",
+      "file": "word-jig.mp3",
+      "days": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "word-kit",
+      "kind": "word",
+      "text": "kit",
+      "script": "The word \"kit\", said clearly and slowly.",
+      "file": "word-kit.mp3",
+      "days": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "word-lamp",
+      "kind": "word",
+      "text": "lamp",
+      "script": "The word \"lamp\", said clearly and slowly.",
+      "file": "word-lamp.mp3",
+      "days": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "word-lip",
+      "kind": "word",
+      "text": "lip",
+      "script": "The word \"lip\", said clearly and slowly.",
+      "file": "word-lip.mp3",
+      "days": [
+        14,
+        19
+      ]
+    },
+    {
+      "id": "word-pack",
+      "kind": "word",
+      "text": "pack",
+      "script": "The word \"pack\", said clearly and slowly.",
+      "file": "word-pack.mp3",
+      "days": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "word-pin",
+      "kind": "word",
+      "text": "pin",
+      "script": "The word \"pin\", said clearly and slowly.",
+      "file": "word-pin.mp3",
+      "days": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "word-sack",
+      "kind": "word",
+      "text": "sack",
+      "script": "The word \"sack\", said clearly and slowly.",
+      "file": "word-sack.mp3",
+      "days": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "word-sag",
+      "kind": "word",
+      "text": "sag",
+      "script": "The word \"sag\", said clearly and slowly.",
+      "file": "word-sag.mp3",
+      "days": [
+        8,
+        11
+      ]
+    },
+    {
+      "id": "word-sand",
+      "kind": "word",
+      "text": "sand",
+      "script": "The word \"sand\", said clearly and slowly.",
+      "file": "word-sand.mp3",
+      "days": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "word-stand",
+      "kind": "word",
+      "text": "stand",
+      "script": "The word \"stand\", said clearly and slowly.",
+      "file": "word-stand.mp3",
+      "days": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "word-tag",
+      "kind": "word",
+      "text": "tag",
+      "script": "The word \"tag\", said clearly and slowly.",
+      "file": "word-tag.mp3",
+      "days": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "word-an",
+      "kind": "word",
+      "text": "an",
+      "script": "The word \"an\", said clearly and slowly.",
+      "file": "word-an.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "word-ant",
+      "kind": "word",
+      "text": "ant",
+      "script": "The word \"ant\", said clearly and slowly.",
+      "file": "word-ant.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "word-back",
+      "kind": "word",
+      "text": "back",
+      "script": "The word \"back\", said clearly and slowly.",
+      "file": "word-back.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-bad",
+      "kind": "word",
+      "text": "bad",
+      "script": "The word \"bad\", said clearly and slowly.",
+      "file": "word-bad.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-bag",
+      "kind": "word",
+      "text": "bag",
+      "script": "The word \"bag\", said clearly and slowly.",
+      "file": "word-bag.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-ban",
+      "kind": "word",
+      "text": "ban",
+      "script": "The word \"ban\", said clearly and slowly.",
+      "file": "word-ban.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "word-bat",
+      "kind": "word",
+      "text": "bat",
+      "script": "The word \"bat\", said clearly and slowly.",
+      "file": "word-bat.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-bin",
+      "kind": "word",
+      "text": "bin",
+      "script": "The word \"bin\", said clearly and slowly.",
+      "file": "word-bin.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-bit",
+      "kind": "word",
+      "text": "bit",
+      "script": "The word \"bit\", said clearly and slowly.",
+      "file": "word-bit.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-camp",
+      "kind": "word",
+      "text": "camp",
+      "script": "The word \"camp\", said clearly and slowly.",
+      "file": "word-camp.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "word-cap",
+      "kind": "word",
+      "text": "cap",
+      "script": "The word \"cap\", said clearly and slowly.",
+      "file": "word-cap.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "word-cash",
+      "kind": "word",
+      "text": "cash",
+      "script": "The word \"cash\", said clearly and slowly.",
+      "file": "word-cash.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-cat",
+      "kind": "word",
+      "text": "cat",
+      "script": "The word \"cat\", said clearly and slowly.",
+      "file": "word-cat.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "word-clap",
+      "kind": "word",
+      "text": "clap",
+      "script": "The word \"clap\", said clearly and slowly.",
+      "file": "word-clap.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "word-clip",
+      "kind": "word",
+      "text": "clip",
+      "script": "The word \"clip\", said clearly and slowly.",
+      "file": "word-clip.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "word-dam",
+      "kind": "word",
+      "text": "dam",
+      "script": "The word \"dam\", said clearly and slowly.",
+      "file": "word-dam.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "word-dash",
+      "kind": "word",
+      "text": "dash",
+      "script": "The word \"dash\", said clearly and slowly.",
+      "file": "word-dash.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-dim",
+      "kind": "word",
+      "text": "dim",
+      "script": "The word \"dim\", said clearly and slowly.",
+      "file": "word-dim.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "word-dish",
+      "kind": "word",
+      "text": "dish",
+      "script": "The word \"dish\", said clearly and slowly.",
+      "file": "word-dish.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-fish",
+      "kind": "word",
+      "text": "fish",
+      "script": "The word \"fish\", said clearly and slowly.",
+      "file": "word-fish.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-fit",
+      "kind": "word",
+      "text": "fit",
+      "script": "The word \"fit\", said clearly and slowly.",
+      "file": "word-fit.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "word-gag",
+      "kind": "word",
+      "text": "gag",
+      "script": "The word \"gag\", said clearly and slowly.",
+      "file": "word-gag.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "word-grin",
+      "kind": "word",
+      "text": "grin",
+      "script": "The word \"grin\", said clearly and slowly.",
+      "file": "word-grin.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-had",
+      "kind": "word",
+      "text": "had",
+      "script": "The word \"had\", said clearly and slowly.",
+      "file": "word-had.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-ham",
+      "kind": "word",
+      "text": "ham",
+      "script": "The word \"ham\", said clearly and slowly.",
+      "file": "word-ham.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-hat",
+      "kind": "word",
+      "text": "hat",
+      "script": "The word \"hat\", said clearly and slowly.",
+      "file": "word-hat.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-him",
+      "kind": "word",
+      "text": "him",
+      "script": "The word \"him\", said clearly and slowly.",
+      "file": "word-him.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-hint",
+      "kind": "word",
+      "text": "hint",
+      "script": "The word \"hint\", said clearly and slowly.",
+      "file": "word-hint.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-hiss",
+      "kind": "word",
+      "text": "hiss",
+      "script": "The word \"hiss\", said clearly and slowly.",
+      "file": "word-hiss.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-hit",
+      "kind": "word",
+      "text": "hit",
+      "script": "The word \"hit\", said clearly and slowly.",
+      "file": "word-hit.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "word-it",
+      "kind": "word",
+      "text": "it",
+      "script": "The word \"it\", said clearly and slowly.",
+      "file": "word-it.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "word-jab",
+      "kind": "word",
+      "text": "jab",
+      "script": "The word \"jab\", said clearly and slowly.",
+      "file": "word-jab.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "word-jack",
+      "kind": "word",
+      "text": "jack",
+      "script": "The word \"jack\", said clearly and slowly.",
+      "file": "word-jack.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-jill",
+      "kind": "word",
+      "text": "jill",
+      "script": "The word \"jill\", said clearly and slowly.",
+      "file": "word-jill.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "word-jim",
+      "kind": "word",
+      "text": "jim",
+      "script": "The word \"jim\", said clearly and slowly.",
+      "file": "word-jim.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "word-kick",
+      "kind": "word",
+      "text": "kick",
+      "script": "The word \"kick\", said clearly and slowly.",
+      "file": "word-kick.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-kim",
+      "kind": "word",
+      "text": "kim",
+      "script": "The word \"kim\", said clearly and slowly.",
+      "file": "word-kim.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "word-kin",
+      "kind": "word",
+      "text": "kin",
+      "script": "The word \"kin\", said clearly and slowly.",
+      "file": "word-kin.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "word-lap",
+      "kind": "word",
+      "text": "lap",
+      "script": "The word \"lap\", said clearly and slowly.",
+      "file": "word-lap.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "word-lick",
+      "kind": "word",
+      "text": "lick",
+      "script": "The word \"lick\", said clearly and slowly.",
+      "file": "word-lick.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-lid",
+      "kind": "word",
+      "text": "lid",
+      "script": "The word \"lid\", said clearly and slowly.",
+      "file": "word-lid.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "word-man",
+      "kind": "word",
+      "text": "man",
+      "script": "The word \"man\", said clearly and slowly.",
+      "file": "word-man.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "word-map",
+      "kind": "word",
+      "text": "map",
+      "script": "The word \"map\", said clearly and slowly.",
+      "file": "word-map.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-mash",
+      "kind": "word",
+      "text": "mash",
+      "script": "The word \"mash\", said clearly and slowly.",
+      "file": "word-mash.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-nag",
+      "kind": "word",
+      "text": "nag",
+      "script": "The word \"nag\", said clearly and slowly.",
+      "file": "word-nag.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "word-nap",
+      "kind": "word",
+      "text": "nap",
+      "script": "The word \"nap\", said clearly and slowly.",
+      "file": "word-nap.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-napkin",
+      "kind": "word",
+      "text": "napkin",
+      "script": "The word \"napkin\", said clearly and slowly.",
+      "file": "word-napkin.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "word-pan",
+      "kind": "word",
+      "text": "pan",
+      "script": "The word \"pan\", said clearly and slowly.",
+      "file": "word-pan.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-pick",
+      "kind": "word",
+      "text": "pick",
+      "script": "The word \"pick\", said clearly and slowly.",
+      "file": "word-pick.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-pig",
+      "kind": "word",
+      "text": "pig",
+      "script": "The word \"pig\", said clearly and slowly.",
+      "file": "word-pig.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-pit",
+      "kind": "word",
+      "text": "pit",
+      "script": "The word \"pit\", said clearly and slowly.",
+      "file": "word-pit.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-rag",
+      "kind": "word",
+      "text": "rag",
+      "script": "The word \"rag\", said clearly and slowly.",
+      "file": "word-rag.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-ram",
+      "kind": "word",
+      "text": "ram",
+      "script": "The word \"ram\", said clearly and slowly.",
+      "file": "word-ram.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-ran",
+      "kind": "word",
+      "text": "ran",
+      "script": "The word \"ran\", said clearly and slowly.",
+      "file": "word-ran.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-rib",
+      "kind": "word",
+      "text": "rib",
+      "script": "The word \"rib\", said clearly and slowly.",
+      "file": "word-rib.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-rig",
+      "kind": "word",
+      "text": "rig",
+      "script": "The word \"rig\", said clearly and slowly.",
+      "file": "word-rig.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-rim",
+      "kind": "word",
+      "text": "rim",
+      "script": "The word \"rim\", said clearly and slowly.",
+      "file": "word-rim.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-rip",
+      "kind": "word",
+      "text": "rip",
+      "script": "The word \"rip\", said clearly and slowly.",
+      "file": "word-rip.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "word-shack",
+      "kind": "word",
+      "text": "shack",
+      "script": "The word \"shack\", said clearly and slowly.",
+      "file": "word-shack.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-shin",
+      "kind": "word",
+      "text": "shin",
+      "script": "The word \"shin\", said clearly and slowly.",
+      "file": "word-shin.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-ship",
+      "kind": "word",
+      "text": "ship",
+      "script": "The word \"ship\", said clearly and slowly.",
+      "file": "word-ship.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "word-sick",
+      "kind": "word",
+      "text": "sick",
+      "script": "The word \"sick\", said clearly and slowly.",
+      "file": "word-sick.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-sit",
+      "kind": "word",
+      "text": "sit",
+      "script": "The word \"sit\", said clearly and slowly.",
+      "file": "word-sit.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "word-skip",
+      "kind": "word",
+      "text": "skip",
+      "script": "The word \"skip\", said clearly and slowly.",
+      "file": "word-skip.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "word-slip",
+      "kind": "word",
+      "text": "slip",
+      "script": "The word \"slip\", said clearly and slowly.",
+      "file": "word-slip.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "word-staff",
+      "kind": "word",
+      "text": "staff",
+      "script": "The word \"staff\", said clearly and slowly.",
+      "file": "word-staff.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "word-stamp",
+      "kind": "word",
+      "text": "stamp",
+      "script": "The word \"stamp\", said clearly and slowly.",
+      "file": "word-stamp.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-swim",
+      "kind": "word",
+      "text": "swim",
+      "script": "The word \"swim\", said clearly and slowly.",
+      "file": "word-swim.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "word-tab",
+      "kind": "word",
+      "text": "tab",
+      "script": "The word \"tab\", said clearly and slowly.",
+      "file": "word-tab.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "word-tack",
+      "kind": "word",
+      "text": "tack",
+      "script": "The word \"tack\", said clearly and slowly.",
+      "file": "word-tack.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-tad",
+      "kind": "word",
+      "text": "tad",
+      "script": "The word \"tad\", said clearly and slowly.",
+      "file": "word-tad.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "word-tas",
+      "kind": "word",
+      "text": "tas",
+      "script": "The word \"tas\", said clearly and slowly.",
+      "file": "word-tas.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "word-tick",
+      "kind": "word",
+      "text": "tick",
+      "script": "The word \"tick\", said clearly and slowly.",
+      "file": "word-tick.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "word-tin",
+      "kind": "word",
+      "text": "tin",
+      "script": "The word \"tin\", said clearly and slowly.",
+      "file": "word-tin.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "word-tip",
+      "kind": "word",
+      "text": "tip",
+      "script": "The word \"tip\", said clearly and slowly.",
+      "file": "word-tip.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "word-twig",
+      "kind": "word",
+      "text": "twig",
+      "script": "The word \"twig\", said clearly and slowly.",
+      "file": "word-twig.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "word-vast",
+      "kind": "word",
+      "text": "vast",
+      "script": "The word \"vast\", said clearly and slowly.",
+      "file": "word-vast.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "word-vat",
+      "kind": "word",
+      "text": "vat",
+      "script": "The word \"vat\", said clearly and slowly.",
+      "file": "word-vat.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "word-wag",
+      "kind": "word",
+      "text": "wag",
+      "script": "The word \"wag\", said clearly and slowly.",
+      "file": "word-wag.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "word-will",
+      "kind": "word",
+      "text": "will",
+      "script": "The word \"will\", said clearly and slowly.",
+      "file": "word-will.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "word-win",
+      "kind": "word",
+      "text": "win",
+      "script": "The word \"win\", said clearly and slowly.",
+      "file": "word-win.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "word-wish",
+      "kind": "word",
+      "text": "wish",
+      "script": "The word \"wish\", said clearly and slowly.",
+      "file": "word-wish.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-only-the-first-sound-fffb06",
+      "kind": "prompt",
+      "text": "Only the first sound has changed.",
+      "script": "Spoken instruction: \"Only the first sound has changed.\"",
+      "file": "prompt-only-the-first-sound-fffb06.mp3",
+      "days": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "prompt-a-new-one-today-10621b",
+      "kind": "prompt",
+      "text": "A new one today. It says…",
+      "script": "Spoken instruction: \"A new one today. It says…\"",
+      "file": "prompt-a-new-one-today-10621b.mp3",
+      "days": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-the-b87575",
+      "kind": "prompt",
+      "text": "All three start the same. The last sound decides it.",
+      "script": "Spoken instruction: \"All three start the same. The last sound decides it.\"",
+      "file": "prompt-all-three-start-the-b87575.mp3",
+      "days": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": "prompt-a-buzz-at-each-a9987b",
+      "kind": "prompt",
+      "text": "A buzz at each end and /a/ in the middle.",
+      "script": "Spoken instruction: \"A buzz at each end and /a/ in the middle.\"",
+      "file": "prompt-a-buzz-at-each-a9987b.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-a-cab-is-a-374d73",
+      "kind": "prompt",
+      "text": "A cab is a taxi. Back pop, front pop.",
+      "script": "Spoken instruction: \"A cab is a taxi. Back pop, front pop.\"",
+      "file": "prompt-a-cab-is-a-374d73.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-a-clam-shuts-itself-a9cb8a",
+      "kind": "prompt",
+      "text": "A clam shuts itself up inside two shells.",
+      "script": "Spoken instruction: \"A clam shuts itself up inside two shells.\"",
+      "file": "prompt-a-clam-shuts-itself-a9cb8a.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-a-dim-room-is-3ff1a5",
+      "kind": "prompt",
+      "text": "A dim room is one where the light is nearly out.",
+      "script": "Spoken instruction: \"A dim room is one where the light is nearly out.\"",
+      "file": "prompt-a-dim-room-is-3ff1a5.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-a-duck-has-a-be6f6f",
+      "kind": "prompt",
+      "text": "A duck has a bill. So does a letter that comes asking for money.",
+      "script": "Spoken instruction: \"A duck has a bill. So does a letter that comes asking for money.\"",
+      "file": "prompt-a-duck-has-a-be6f6f.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-a-fig-is-a-bcb76e",
+      "kind": "prompt",
+      "text": "A fig is a small sweet fruit, full of tiny seeds.",
+      "script": "Spoken instruction: \"A fig is a small sweet fruit, full of tiny seeds.\"",
+      "file": "prompt-a-fig-is-a-bcb76e.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-a-gap-is-a-f17a5f",
+      "kind": "prompt",
+      "text": "A gap is a hole where something is missing — like a lost tooth.",
+      "script": "Spoken instruction: \"A gap is a hole where something is missing — like a lost tooth.\"",
+      "file": "prompt-a-gap-is-a-f17a5f.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-a-hint-is-a-95b7b9",
+      "kind": "prompt",
+      "text": "A hint is a small clue. Four sounds again, with the /n/ hiding in the middle.",
+      "script": "Spoken instruction: \"A hint is a small clue. Four sounds again, with the /n/ hiding in the middle.\"",
+      "file": "prompt-a-hint-is-a-95b7b9.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-a-hiss-and-a-8d835f",
+      "kind": "prompt",
+      "text": "A hiss and a pop, squashed together at the front. Say them both: /s/, /k/.",
+      "script": "Spoken instruction: \"A hiss and a pop, squashed together at the front. Say them both: /s/, /k/.\"",
+      "file": "prompt-a-hiss-and-a-8d835f.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-a-hiss-then-the-672f79",
+      "kind": "prompt",
+      "text": "A hiss, then the round lips. Four sounds — do not let the /w/ get lost.",
+      "script": "Spoken instruction: \"A hiss, then the round lips. Four sounds — do not let the /w/ get lost.\"",
+      "file": "prompt-a-hiss-then-the-672f79.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-a-jab-is-a-21e04b",
+      "kind": "prompt",
+      "text": "A jab is a quick little poke. Only the last sound has changed.",
+      "script": "Spoken instruction: \"A jab is a quick little poke. Only the last sound has changed.\"",
+      "file": "prompt-a-jab-is-a-21e04b.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-a-jig-is-a-298ea2",
+      "kind": "prompt",
+      "text": "A jig is a bouncy dance. Small vowel this time.",
+      "script": "Spoken instruction: \"A jig is a bouncy dance. Small vowel this time.\"",
+      "file": "prompt-a-jig-is-a-298ea2.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-a-long-hiss-then-bb9785",
+      "kind": "prompt",
+      "text": "A long hiss, then a small vowel, then stop.",
+      "script": "Spoken instruction: \"A long hiss, then a small vowel, then stop.\"",
+      "file": "prompt-a-long-hiss-then-bb9785.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-a-name-this-time-07c853",
+      "kind": "prompt",
+      "text": "A name this time. It ends with lips shut and humming.",
+      "script": "Spoken instruction: \"A name this time. It ends with lips shut and humming.\"",
+      "file": "prompt-a-name-this-time-07c853.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-a-name-and-it-39ccc4",
+      "kind": "prompt",
+      "text": "A name, and it works just like the others.",
+      "script": "Spoken instruction: \"A name, and it works just like the others.\"",
+      "file": "prompt-a-name-and-it-39ccc4.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-a-pop-at-the-fc3384",
+      "kind": "prompt",
+      "text": "A pop at the front and a pop at the end. Same letter both times.",
+      "script": "Spoken instruction: \"A pop at the front and a pop at the end. Same letter both times.\"",
+      "file": "prompt-a-pop-at-the-fc3384.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-a-small-word-you-dc64ba",
+      "kind": "prompt",
+      "text": "A small word you will use in nearly every sentence from now on.",
+      "script": "Spoken instruction: \"A small word you will use in nearly every sentence from now on.\"",
+      "file": "prompt-a-small-word-you-dc64ba.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-a-vat-is-a-ee658d",
+      "kind": "prompt",
+      "text": "A vat is a huge tub. Only the last sound has changed.",
+      "script": "Spoken instruction: \"A vat is a huge tub. Only the last sound has changed.\"",
+      "file": "prompt-a-vat-is-a-ee658d.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-again-and-a-bit-d3d617",
+      "kind": "prompt",
+      "text": "Again, and a bit faster. It is somebody's name.",
+      "script": "Spoken instruction: \"Again, and a bit faster. It is somebody's name.\"",
+      "file": "prompt-again-and-a-bit-d3d617.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-all-of-these-you-f4145d",
+      "kind": "prompt",
+      "text": "All of these you have read before. One more time, left to right.",
+      "script": "Spoken instruction: \"All of these you have read before. One more time, left to right.\"",
+      "file": "prompt-all-of-these-you-f4145d.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-all-three-are-made-56a50d",
+      "kind": "prompt",
+      "text": "All three are made of air. Find /fff/.",
+      "script": "Spoken instruction: \"All three are made of air. Find /fff/.\"",
+      "file": "prompt-all-three-are-made-56a50d.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-all-three-are-made-2448f8",
+      "kind": "prompt",
+      "text": "All three are made with your lips. Find the one that pushes air forward.",
+      "script": "Spoken instruction: \"All three are made with your lips. Find the one that pushes air forward.\"",
+      "file": "prompt-all-three-are-made-2448f8.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-all-three-are-quick-8b5a4a",
+      "kind": "prompt",
+      "text": "All three are quick taps. Find /t/.",
+      "script": "Spoken instruction: \"All three are quick taps. Find /t/.\"",
+      "file": "prompt-all-three-are-quick-8b5a4a.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-all-three-put-your-bb7f1c",
+      "kind": "prompt",
+      "text": "All three put your tongue in the same spot. Find the one that keeps humming.",
+      "script": "Spoken instruction: \"All three put your tongue in the same spot. Find the one that keeps humming.\"",
+      "file": "prompt-all-three-put-your-bb7f1c.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-alike-bad629",
+      "kind": "prompt",
+      "text": "All three start alike. Hold on to the very last sound.",
+      "script": "Spoken instruction: \"All three start alike. Hold on to the very last sound.\"",
+      "file": "prompt-all-three-start-alike-bad629.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-the-8cf0ea",
+      "kind": "prompt",
+      "text": "All three start the same way. The last sound decides it.",
+      "script": "Spoken instruction: \"All three start the same way. The last sound decides it.\"",
+      "file": "prompt-all-three-start-the-8cf0ea.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-the-31adfd",
+      "kind": "prompt",
+      "text": "All three start the same. Everything depends on the last sound.",
+      "script": "Spoken instruction: \"All three start the same. Everything depends on the last sound.\"",
+      "file": "prompt-all-three-start-the-31adfd.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-with-740810",
+      "kind": "prompt",
+      "text": "All three start with the pop. The last sound is the one to listen for.",
+      "script": "Spoken instruction: \"All three start with the pop. The last sound is the one to listen for.\"",
+      "file": "prompt-all-three-start-with-740810.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-with-4c9dc5",
+      "kind": "prompt",
+      "text": "All three start with the same pop. Everything hangs on the last sound.",
+      "script": "Spoken instruction: \"All three start with the same pop. Everything hangs on the last sound.\"",
+      "file": "prompt-all-three-start-with-4c9dc5.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-and-the-quick-tap-be4915",
+      "kind": "prompt",
+      "text": "And the quick tap?",
+      "script": "Spoken instruction: \"And the quick tap?\"",
+      "file": "prompt-and-the-quick-tap-be4915.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-and-the-wide-open-6a40cc",
+      "kind": "prompt",
+      "text": "And the wide-open one. Where is /a/?",
+      "script": "Spoken instruction: \"And the wide-open one. Where is /a/?\"",
+      "file": "prompt-and-the-wide-open-6a40cc.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-another-noisy-twin-shut-2da162",
+      "kind": "prompt",
+      "text": "Another noisy twin. Shut your lips, then let them go.",
+      "script": "Spoken instruction: \"Another noisy twin. Shut your lips, then let them go.\"",
+      "file": "prompt-another-noisy-twin-shut-2da162.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-another-one-you-can-c9c546",
+      "kind": "prompt",
+      "text": "Another one you can hold. It says…",
+      "script": "Spoken instruction: \"Another one you can hold. It says…\"",
+      "file": "prompt-another-one-you-can-c9c546.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-at-the-end-of-db38c0",
+      "kind": "prompt",
+      "text": "At the end of a short word, l likes to bring a friend along. They still only say it once.",
+      "script": "Spoken instruction: \"At the end of a short word, l likes to bring a friend along. They still only say it once.\"",
+      "file": "prompt-at-the-end-of-db38c0.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-both-are-made-at-64e45c",
+      "kind": "prompt",
+      "text": "Both are made at the back. Hand on your throat — which one buzzes?",
+      "script": "Spoken instruction: \"Both are made at the back. Hand on your throat — which one buzzes?\"",
+      "file": "prompt-both-are-made-at-64e45c.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-both-are-quick-and-886bad",
+      "kind": "prompt",
+      "text": "Both are quick and both buzz. One is at the back of your mouth — that one is /g/.",
+      "script": "Spoken instruction: \"Both are quick and both buzz. One is at the back of your mouth — that one is /g/.\"",
+      "file": "prompt-both-are-quick-and-886bad.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-both-are-real-words-5cd6a8",
+      "kind": "prompt",
+      "text": "Both are real words. The middle sound is the only difference — listen for the small one.",
+      "script": "Spoken instruction: \"Both are real words. The middle sound is the only difference — listen for the small one.\"",
+      "file": "prompt-both-are-real-words-5cd6a8.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-both-happen-at-the-907dd5",
+      "kind": "prompt",
+      "text": "Both happen at the back of your mouth. Hand on your throat: one buzzes and one does not.",
+      "script": "Spoken instruction: \"Both happen at the back of your mouth. Hand on your throat: one buzzes and one does not.\"",
+      "file": "prompt-both-happen-at-the-907dd5.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-both-of-these-are-73a77b",
+      "kind": "prompt",
+      "text": "Both of these are just air. For /f/ you squeeze it past your teeth; for /h/ nothing gets in the way.",
+      "script": "Spoken instruction: \"Both of these are just air. For /f/ you squeeze it past your teeth; for /h/ nothing gets in the way.\"",
+      "file": "prompt-both-of-these-are-73a77b.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-both-of-these-are-7c0adb",
+      "kind": "prompt",
+      "text": "Both of these are made of the same three sounds. Start at the left.",
+      "script": "Spoken instruction: \"Both of these are made of the same three sounds. Start at the left.\"",
+      "file": "prompt-both-of-these-are-7c0adb.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-both-of-these-come-c31dad",
+      "kind": "prompt",
+      "text": "Both of these come down your nose. /m/ has your lips shut; for /n/ they stay open. Which is /n/?",
+      "script": "Spoken instruction: \"Both of these come down your nose. /m/ has your lips shut; for /n/ they stay open. Which is /n/?\"",
+      "file": "prompt-both-of-these-come-c31dad.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-both-of-these-start-240efa",
+      "kind": "prompt",
+      "text": "Both of these start with your lips shut. One hums, one pops. Find the pop.",
+      "script": "Spoken instruction: \"Both of these start with your lips shut. One hums, one pops. Find the pop.\"",
+      "file": "prompt-both-of-these-start-240efa.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-both-start-at-the-1822c1",
+      "kind": "prompt",
+      "text": "Both start at the back of your mouth. Hand on your throat: which one buzzes?",
+      "script": "Spoken instruction: \"Both start at the back of your mouth. Hand on your throat: which one buzzes?\"",
+      "file": "prompt-both-start-at-the-1822c1.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-both-start-the-same-62148f",
+      "kind": "prompt",
+      "text": "Both start the same. Does it end at the back of your mouth or at your teeth?",
+      "script": "Spoken instruction: \"Both start the same. Does it end at the back of your mouth or at your teeth?\"",
+      "file": "prompt-both-start-the-same-62148f.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-buzz-or-no-buzz-7e4d5c",
+      "kind": "prompt",
+      "text": "Buzz or no buzz? That is the only difference.",
+      "script": "Spoken instruction: \"Buzz or no buzz? That is the only difference.\"",
+      "file": "prompt-buzz-or-no-buzz-7e4d5c.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-buzz-wide-vowel-hum-41d347",
+      "kind": "prompt",
+      "text": "Buzz, wide vowel, hum.",
+      "script": "Spoken instruction: \"Buzz, wide vowel, hum.\"",
+      "file": "prompt-buzz-wide-vowel-hum-41d347.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-careful-both-of-these-73d179",
+      "kind": "prompt",
+      "text": "Careful — both of these sounds live in your nose. Keep them separate.",
+      "script": "Spoken instruction: \"Careful — both of these sounds live in your nose. Keep them separate.\"",
+      "file": "prompt-careful-both-of-these-73d179.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-does-the-tongue-touch-c7c698",
+      "kind": "prompt",
+      "text": "Does the tongue touch behind your teeth, or does it stay back?",
+      "script": "Spoken instruction: \"Does the tongue touch behind your teeth, or does it stay back?\"",
+      "file": "prompt-does-the-tongue-touch-c7c698.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-eight-words-the-longest-5f0474",
+      "kind": "prompt",
+      "text": "Eight words — the longest yet. Read the first half, then the second.",
+      "script": "Spoken instruction: \"Eight words — the longest yet. Read the first half, then the second.\"",
+      "file": "prompt-eight-words-the-longest-5f0474.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-every-other-sound-needs-f603b7",
+      "kind": "prompt",
+      "text": "Every other sound needs your lips or your tongue. This one needs only your breath.",
+      "script": "Spoken instruction: \"Every other sound needs your lips or your tongue. This one needs only your breath.\"",
+      "file": "prompt-every-other-sound-needs-f603b7.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-every-sound-so-far-13ae99",
+      "kind": "prompt",
+      "text": "Every sound so far has been at the front of your mouth. This one lives at the back.",
+      "script": "Spoken instruction: \"Every sound so far has been at the front of your mouth. This one lives at the back.\"",
+      "file": "prompt-every-sound-so-far-13ae99.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-exactly-the-same-back-c95b85",
+      "kind": "prompt",
+      "text": "Exactly the same back-of-the-tongue pop as c and k. Two letters on the page, one job for your mouth.",
+      "script": "Spoken instruction: \"Exactly the same back-of-the-tongue pop as c and k. Two letters on the page, one job for your mouth.\"",
+      "file": "prompt-exactly-the-same-back-c95b85.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-exactly-the-same-mouth-32609b",
+      "kind": "prompt",
+      "text": "Exactly the same mouth for both. Only one of them tickles your lip.",
+      "script": "Spoken instruction: \"Exactly the same mouth for both. Only one of them tickles your lip.\"",
+      "file": "prompt-exactly-the-same-mouth-32609b.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-exactly-the-same-tongue-f2ea54",
+      "kind": "prompt",
+      "text": "Exactly the same tongue, exactly the same hum. Two letters, one sound.",
+      "script": "Spoken instruction: \"Exactly the same tongue, exactly the same hum. Two letters, one sound.\"",
+      "file": "prompt-exactly-the-same-tongue-f2ea54.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-find-it-again-3a23e5",
+      "kind": "prompt",
+      "text": "Find it again.",
+      "script": "Spoken instruction: \"Find it again.\"",
+      "file": "prompt-find-it-again-3a23e5.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-find-the-two-letters-df0d7a",
+      "kind": "prompt",
+      "text": "Find the two letters that share one pop.",
+      "script": "Spoken instruction: \"Find the two letters that share one pop.\"",
+      "file": "prompt-find-the-two-letters-df0d7a.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-finger-under-the-word-08ce50",
+      "kind": "prompt",
+      "text": "Finger under the word. Off you go.",
+      "script": "Spoken instruction: \"Finger under the word. Off you go.\"",
+      "file": "prompt-finger-under-the-word-08ce50.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-five-days-five-words-8b766f",
+      "kind": "prompt",
+      "text": "Five days, five words. Read them all the way through.",
+      "script": "Spoken instruction: \"Five days, five words. Read them all the way through.\"",
+      "file": "prompt-five-days-five-words-8b766f.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-five-sounds-the-longest-4c3765",
+      "kind": "prompt",
+      "text": "Five sounds, the longest word yet. Take them one at a time and don't drop the /n/.",
+      "script": "Spoken instruction: \"Five sounds, the longest word yet. Take them one at a time and don't drop the /n/.\"",
+      "file": "prompt-five-sounds-the-longest-4c3765.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-five-sounds-the-last-49eb30",
+      "kind": "prompt",
+      "text": "Five sounds. The last two are both made with your lips — don't let them squash into one.",
+      "script": "Spoken instruction: \"Five sounds. The last two are both made with your lips — don't let them squash into one.\"",
+      "file": "prompt-five-sounds-the-last-49eb30.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-so-far-a9bcc0",
+      "kind": "prompt",
+      "text": "Four sounds so far. Which one is /a/?",
+      "script": "Spoken instruction: \"Four sounds so far. Which one is /a/?\"",
+      "file": "prompt-four-sounds-so-far-a9bcc0.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-this-time-d43b11",
+      "kind": "prompt",
+      "text": "Four sounds this time. Daft is another word for silly.",
+      "script": "Spoken instruction: \"Four sounds this time. Daft is another word for silly.\"",
+      "file": "prompt-four-sounds-this-time-d43b11.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-the-tall-4d5c7a",
+      "kind": "prompt",
+      "text": "Four sounds — the tall pole on a boat. Take it slowly.",
+      "script": "Spoken instruction: \"Four sounds — the tall pole on a boat. Take it slowly.\"",
+      "file": "prompt-four-sounds-the-tall-4d5c7a.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-and-the-07f6e4",
+      "kind": "prompt",
+      "text": "Four sounds, and the first two run straight into each other: sss-nnn-a-p.",
+      "script": "Spoken instruction: \"Four sounds, and the first two run straight into each other: sss-nnn-a-p.\"",
+      "file": "prompt-four-sounds-and-the-07f6e4.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-and-the-3669b5",
+      "kind": "prompt",
+      "text": "Four sounds, and the last two are close together. Slowly.",
+      "script": "Spoken instruction: \"Four sounds, and the last two are close together. Slowly.\"",
+      "file": "prompt-four-sounds-and-the-3669b5.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-and-the-65acc0",
+      "kind": "prompt",
+      "text": "Four sounds, and the last two are squashed close together. Go slowly.",
+      "script": "Spoken instruction: \"Four sounds, and the last two are squashed close together. Go slowly.\"",
+      "file": "prompt-four-sounds-and-the-65acc0.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-a-stag-5c2acb",
+      "kind": "prompt",
+      "text": "Four sounds. A stag is a deer with big antlers.",
+      "script": "Spoken instruction: \"Four sounds. A stag is a deer with big antlers.\"",
+      "file": "prompt-four-sounds-a-stag-5c2acb.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-slowly-even-3d87f6",
+      "kind": "prompt",
+      "text": "Four sounds. Slowly, even though it says fast.",
+      "script": "Spoken instruction: \"Four sounds. Slowly, even though it says fast.\"",
+      "file": "prompt-four-sounds-slowly-even-3d87f6.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-the-n-159132",
+      "kind": "prompt",
+      "text": "Four sounds. The /n/ is quick and easy to lose — go slowly.",
+      "script": "Spoken instruction: \"Four sounds. The /n/ is quick and easy to lose — go slowly.\"",
+      "file": "prompt-four-sounds-the-n-159132.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-the-n-b93393",
+      "kind": "prompt",
+      "text": "Four sounds. The /n/ is quick and easy to skip — say it anyway.",
+      "script": "Spoken instruction: \"Four sounds. The /n/ is quick and easy to skip — say it anyway.\"",
+      "file": "prompt-four-sounds-the-n-b93393.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-four-sounds-the-hum-8b2310",
+      "kind": "prompt",
+      "text": "Four sounds. The hum in the middle is easy to lose.",
+      "script": "Spoken instruction: \"Four sounds. The hum in the middle is easy to lose.\"",
+      "file": "prompt-four-sounds-the-hum-8b2310.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-four-words-in-a-d863b4",
+      "kind": "prompt",
+      "text": "Four words in a row — this is new. Point at the first one and read only that one.",
+      "script": "Spoken instruction: \"Four words in a row — this is new. Point at the first one and read only that one.\"",
+      "file": "prompt-four-words-in-a-d863b4.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-grin-has-two-sounds-fe5d50",
+      "kind": "prompt",
+      "text": "Grin has two sounds before the vowel. Say them both.",
+      "script": "Spoken instruction: \"Grin has two sounds before the vowel. Say them both.\"",
+      "file": "prompt-grin-has-two-sounds-fe5d50.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-here-is-our-second-8f9056",
+      "kind": "prompt",
+      "text": "Here is our second vowel. Every word you know has a vowel hiding in the middle of it.",
+      "script": "Spoken instruction: \"Here is our second vowel. Every word you know has a vowel hiding in the middle of it.\"",
+      "file": "prompt-here-is-our-second-8f9056.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-here-it-is-again-873b60",
+      "kind": "prompt",
+      "text": "Here it is again. What does it say?",
+      "script": "Spoken instruction: \"Here it is again. What does it say?\"",
+      "file": "prompt-here-it-is-again-873b60.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-hold-the-first-sound-2dc5be",
+      "kind": "prompt",
+      "text": "Hold the first sound as long as you like, then keep going.",
+      "script": "Spoken instruction: \"Hold the first sound as long as you like, then keep going.\"",
+      "file": "prompt-hold-the-first-sound-2dc5be.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-hold-the-first-sound-d93365",
+      "kind": "prompt",
+      "text": "Hold the first sound, then tap the second. Aaa-t.",
+      "script": "Spoken instruction: \"Hold the first sound, then tap the second. Aaa-t.\"",
+      "file": "prompt-hold-the-first-sound-d93365.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-hold-the-hiss-then-e110ce",
+      "kind": "prompt",
+      "text": "Hold the hiss, then finish at the back. A bag full of rocks makes a shelf sag.",
+      "script": "Spoken instruction: \"Hold the hiss, then finish at the back. A bag full of rocks makes a shelf sag.\"",
+      "file": "prompt-hold-the-hiss-then-e110ce.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-hold-the-hiss-then-dcf728",
+      "kind": "prompt",
+      "text": "Hold the hiss, then finish with a buzz.",
+      "script": "Spoken instruction: \"Hold the hiss, then finish with a buzz.\"",
+      "file": "prompt-hold-the-hiss-then-dcf728.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-hum-or-pop-at-d6ae2e",
+      "kind": "prompt",
+      "text": "Hum or pop at the end? Listen right to the last sound.",
+      "script": "Spoken instruction: \"Hum or pop at the end? Listen right to the last sound.\"",
+      "file": "prompt-hum-or-pop-at-d6ae2e.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-hum-small-vowel-buzz-88ccf7",
+      "kind": "prompt",
+      "text": "Hum, small vowel, buzz.",
+      "script": "Spoken instruction: \"Hum, small vowel, buzz.\"",
+      "file": "prompt-hum-small-vowel-buzz-88ccf7.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-hum-tap-or-buzz-554afa",
+      "kind": "prompt",
+      "text": "Hum, tap or buzz? Listen to the last sound.",
+      "script": "Spoken instruction: \"Hum, tap or buzz? Listen to the last sound.\"",
+      "file": "prompt-hum-tap-or-buzz-554afa.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-jill-is-a-name-3533f6",
+      "kind": "prompt",
+      "text": "Jill is a name. Two l's at the end, said once.",
+      "script": "Spoken instruction: \"Jill is a name. Two l's at the end, said once.\"",
+      "file": "prompt-jill-is-a-name-3533f6.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-just-a-puff-of-99464c",
+      "kind": "prompt",
+      "text": "Just a puff of warm air out of your throat — like fogging up a cold window. Your mouth does nothing.",
+      "script": "Spoken instruction: \"Just a puff of warm air out of your throat — like fogging up a cold window. Your mouth does nothing.\"",
+      "file": "prompt-just-a-puff-of-99464c.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-just-two-sounds-to-8569d2",
+      "kind": "prompt",
+      "text": "Just two sounds to start with. The vowel goes first this time.",
+      "script": "Spoken instruction: \"Just two sounds to start with. The vowel goes first this time.\"",
+      "file": "prompt-just-two-sounds-to-8569d2.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-f9db97",
+      "kind": "prompt",
+      "text": "Last hunt. Where is /fff/?",
+      "script": "Spoken instruction: \"Last hunt. Where is /fff/?\"",
+      "file": "prompt-last-hunt-where-is-f9db97.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-70c3eb",
+      "kind": "prompt",
+      "text": "Last hunt. Where is /m/?",
+      "script": "Spoken instruction: \"Last hunt. Where is /m/?\"",
+      "file": "prompt-last-hunt-where-is-70c3eb.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-bde036",
+      "kind": "prompt",
+      "text": "Last hunt. Where is the buzz?",
+      "script": "Spoken instruction: \"Last hunt. Where is the buzz?\"",
+      "file": "prompt-last-hunt-where-is-bde036.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-0cf09d",
+      "kind": "prompt",
+      "text": "Last hunt. Where is the hiss?",
+      "script": "Spoken instruction: \"Last hunt. Where is the hiss?\"",
+      "file": "prompt-last-hunt-where-is-0cf09d.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-c3be65",
+      "kind": "prompt",
+      "text": "Last hunt. Where is the sound from the back of your mouth?",
+      "script": "Spoken instruction: \"Last hunt. Where is the sound from the back of your mouth?\"",
+      "file": "prompt-last-hunt-where-is-c3be65.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-where-is-0ab7dd",
+      "kind": "prompt",
+      "text": "Last hunt. Where is the tap?",
+      "script": "Spoken instruction: \"Last hunt. Where is the tap?\"",
+      "file": "prompt-last-hunt-where-is-0ab7dd.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-which-one-4e792c",
+      "kind": "prompt",
+      "text": "Last hunt. Which one buzzes against your lip?",
+      "script": "Spoken instruction: \"Last hunt. Which one buzzes against your lip?\"",
+      "file": "prompt-last-hunt-which-one-4e792c.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-which-one-f32d86",
+      "kind": "prompt",
+      "text": "Last hunt. Which one is only breath?",
+      "script": "Spoken instruction: \"Last hunt. Which one is only breath?\"",
+      "file": "prompt-last-hunt-which-one-f32d86.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-which-one-c2dc3e",
+      "kind": "prompt",
+      "text": "Last hunt. Which one is today's nose sound?",
+      "script": "Spoken instruction: \"Last hunt. Which one is today's nose sound?\"",
+      "file": "prompt-last-hunt-which-one-c2dc3e.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-which-one-6e509b",
+      "kind": "prompt",
+      "text": "Last hunt. Which one is today's small vowel?",
+      "script": "Spoken instruction: \"Last hunt. Which one is today's small vowel?\"",
+      "file": "prompt-last-hunt-which-one-6e509b.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-last-hunt-which-one-0fa6f0",
+      "kind": "prompt",
+      "text": "Last hunt. Which one pops?",
+      "script": "Spoken instruction: \"Last hunt. Which one pops?\"",
+      "file": "prompt-last-hunt-which-one-0fa6f0.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-last-one-where-is-66a3c2",
+      "kind": "prompt",
+      "text": "Last one. Where is /a/?",
+      "script": "Spoken instruction: \"Last one. Where is /a/?\"",
+      "file": "prompt-last-one-where-is-66a3c2.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-lips-forward-in-a-f31b79",
+      "kind": "prompt",
+      "text": "Lips forward in a tiny circle, like blowing out a candle. Nothing touches — no teeth, no tongue.",
+      "script": "Spoken instruction: \"Lips forward in a tiny circle, like blowing out a candle. Nothing touches — no teeth, no tongue.\"",
+      "file": "prompt-lips-forward-in-a-f31b79.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-lips-shut-tight-then-624bf5",
+      "kind": "prompt",
+      "text": "Lips shut tight, then pop them open — with your voice on. Hand on your throat: /b/ buzzes, /p/ does not.",
+      "script": "Spoken instruction: \"Lips shut tight, then pop them open — with your voice on. Hand on your throat: /b/ buzzes, /p/ does not.\"",
+      "file": "prompt-lips-shut-tight-then-624bf5.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-lips-tongue-tap-or-50e4d3",
+      "kind": "prompt",
+      "text": "Lips, tongue tap, or buzz at the end?",
+      "script": "Spoken instruction: \"Lips, tongue tap, or buzz at the end?\"",
+      "file": "prompt-lips-tongue-tap-or-50e4d3.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-listen-carefully-which-one-9f96ec",
+      "kind": "prompt",
+      "text": "Listen carefully. Which one is it?",
+      "script": "Spoken instruction: \"Listen carefully. Which one is it?\"",
+      "file": "prompt-listen-carefully-which-one-9f96ec.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-listen-right-to-the-36f854",
+      "kind": "prompt",
+      "text": "Listen right to the end again.",
+      "script": "Spoken instruction: \"Listen right to the end again.\"",
+      "file": "prompt-listen-right-to-the-36f854.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-listen-to-the-first-0192b9",
+      "kind": "prompt",
+      "text": "Listen to the first sound only.",
+      "script": "Spoken instruction: \"Listen to the first sound only.\"",
+      "file": "prompt-listen-to-the-first-0192b9.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-listen-to-the-middle-ae11ee",
+      "kind": "prompt",
+      "text": "Listen to the middle.",
+      "script": "Spoken instruction: \"Listen to the middle.\"",
+      "file": "prompt-listen-to-the-middle-ae11ee.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-listen-to-the-middle-382618",
+      "kind": "prompt",
+      "text": "Listen to the middle. One is wide open, one is small.",
+      "script": "Spoken instruction: \"Listen to the middle. One is wide open, one is small.\"",
+      "file": "prompt-listen-to-the-middle-382618.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-listen-to-the-very-4a45f1",
+      "kind": "prompt",
+      "text": "Listen to the very first sound.",
+      "script": "Spoken instruction: \"Listen to the very first sound.\"",
+      "file": "prompt-listen-to-the-very-4a45f1.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-listen-to-which-sound-34ea36",
+      "kind": "prompt",
+      "text": "Listen to which sound comes first.",
+      "script": "Spoken instruction: \"Listen to which sound comes first.\"",
+      "file": "prompt-listen-to-which-sound-34ea36.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-long-words-that-end-6ba3c5",
+      "kind": "prompt",
+      "text": "Long words that end the same way. It is the first sound that decides it.",
+      "script": "Spoken instruction: \"Long words that end the same way. It is the first sound that decides it.\"",
+      "file": "prompt-long-words-that-end-6ba3c5.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-long-words-and-only-181e1b",
+      "kind": "prompt",
+      "text": "Long words, and only the last two sounds are different. Listen right to the end.",
+      "script": "Spoken instruction: \"Long words, and only the last two sounds are different. Listen right to the end.\"",
+      "file": "prompt-long-words-and-only-181e1b.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-longer-words-same-one-3f6cff",
+      "kind": "prompt",
+      "text": "Longer words, same one tiny difference. Mist is thin cloud sitting on the ground.",
+      "script": "Spoken instruction: \"Longer words, same one tiny difference. Mist is thin cloud sitting on the ground.\"",
+      "file": "prompt-longer-words-same-one-3f6cff.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-look-at-the-middle-e99b2f",
+      "kind": "prompt",
+      "text": "Look at the middle letter before you start.",
+      "script": "Spoken instruction: \"Look at the middle letter before you start.\"",
+      "file": "prompt-look-at-the-middle-e99b2f.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-nearly-cab-but-the-3c7eee",
+      "kind": "prompt",
+      "text": "Nearly cab, but the last pop has no buzz in it.",
+      "script": "Spoken instruction: \"Nearly cab, but the last pop has no buzz in it.\"",
+      "file": "prompt-nearly-cab-but-the-3c7eee.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-nearly-kid-the-last-9a4492",
+      "kind": "prompt",
+      "text": "Nearly kid. The last sound has lost its buzz.",
+      "script": "Spoken instruction: \"Nearly kid. The last sound has lost its buzz.\"",
+      "file": "prompt-nearly-kid-the-last-9a4492.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-nearly-rat-this-time-562291",
+      "kind": "prompt",
+      "text": "Nearly rat. This time the end hums instead of stopping.",
+      "script": "Spoken instruction: \"Nearly rat. This time the end hums instead of stopping.\"",
+      "file": "prompt-nearly-rat-this-time-562291.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-no-n-in-any-3ca4d7",
+      "kind": "prompt",
+      "text": "No /n/ in any of these. Read them the way you did before.",
+      "script": "Spoken instruction: \"No /n/ in any of these. Read them the way you did before.\"",
+      "file": "prompt-no-n-in-any-3ca4d7.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-no-help-this-time-5dcfbd",
+      "kind": "prompt",
+      "text": "No help this time.",
+      "script": "Spoken instruction: \"No help this time.\"",
+      "file": "prompt-no-help-this-time-5dcfbd.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-no-picture-for-this-2f0e32",
+      "kind": "prompt",
+      "text": "No picture for this one. The letters are the only clue.",
+      "script": "Spoken instruction: \"No picture for this one. The letters are the only clue.\"",
+      "file": "prompt-no-picture-for-this-2f0e32.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-now-g-at-both-fa8563",
+      "kind": "prompt",
+      "text": "Now /g/ at both ends. Watch what your tongue does twice.",
+      "script": "Spoken instruction: \"Now /g/ at both ends. Watch what your tongue does twice.\"",
+      "file": "prompt-now-g-at-both-fa8563.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-now-n-starts-the-5b6c75",
+      "kind": "prompt",
+      "text": "Now /n/ starts the word. To nag is to keep on and on asking.",
+      "script": "Spoken instruction: \"Now /n/ starts the word. To nag is to keep on and on asking.\"",
+      "file": "prompt-now-n-starts-the-5b6c75.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-now-listen-to-the-6623b3",
+      "kind": "prompt",
+      "text": "Now listen to the last sound instead.",
+      "script": "Spoken instruction: \"Now listen to the last sound instead.\"",
+      "file": "prompt-now-listen-to-the-6623b3.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-now-the-buzz-moves-eff27a",
+      "kind": "prompt",
+      "text": "Now the buzz moves to the front. A dam is a wall that stops a river.",
+      "script": "Spoken instruction: \"Now the buzz moves to the front. A dam is a wall that stops a river.\"",
+      "file": "prompt-now-the-buzz-moves-eff27a.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-now-the-hum-which-9f7b64",
+      "kind": "prompt",
+      "text": "Now the hum. Which one says /mmm/?",
+      "script": "Spoken instruction: \"Now the hum. Which one says /mmm/?\"",
+      "file": "prompt-now-the-hum-which-9f7b64.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-now-the-middle-sound-263801",
+      "kind": "prompt",
+      "text": "Now the middle sound and the last sound could both fool you. Listen to the whole word.",
+      "script": "Spoken instruction: \"Now the middle sound and the last sound could both fool you. Listen to the whole word.\"",
+      "file": "prompt-now-the-middle-sound-263801.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-now-the-other-one-b5d088",
+      "kind": "prompt",
+      "text": "Now the other one. Which says /a/?",
+      "script": "Spoken instruction: \"Now the other one. Which says /a/?\"",
+      "file": "prompt-now-the-other-one-b5d088.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-now-the-other-way-e80058",
+      "kind": "prompt",
+      "text": "Now the other way round. Which one taps behind your teeth?",
+      "script": "Spoken instruction: \"Now the other way round. Which one taps behind your teeth?\"",
+      "file": "prompt-now-the-other-way-e80058.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-now-the-pop-is-51e4b6",
+      "kind": "prompt",
+      "text": "Now the pop is at the end. The tip of something is its very point.",
+      "script": "Spoken instruction: \"Now the pop is at the end. The tip of something is its very point.\"",
+      "file": "prompt-now-the-pop-is-51e4b6.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-now-the-tap-goes-807262",
+      "kind": "prompt",
+      "text": "Now the tap goes first. Watch where it lands.",
+      "script": "Spoken instruction: \"Now the tap goes first. Watch where it lands.\"",
+      "file": "prompt-now-the-tap-goes-807262.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-now-the-wide-one-c1a39c",
+      "kind": "prompt",
+      "text": "Now the wide one. Which says /a/?",
+      "script": "Spoken instruction: \"Now the wide one. Which says /a/?\"",
+      "file": "prompt-now-the-wide-one-c1a39c.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-old-friends-read-each-f7b536",
+      "kind": "prompt",
+      "text": "Old friends. Read each one all the way to the end.",
+      "script": "Spoken instruction: \"Old friends. Read each one all the way to the end.\"",
+      "file": "prompt-old-friends-read-each-f7b536.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-old-friends-read-them-386311",
+      "kind": "prompt",
+      "text": "Old friends. Read them all the way to the end.",
+      "script": "Spoken instruction: \"Old friends. Read them all the way to the end.\"",
+      "file": "prompt-old-friends-read-them-386311.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-old-friends-you-have-724a9b",
+      "kind": "prompt",
+      "text": "Old friends. You have read every one of these before.",
+      "script": "Spoken instruction: \"Old friends. You have read every one of these before.\"",
+      "file": "prompt-old-friends-you-have-724a9b.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-old-ones-still-yours-5047f6",
+      "kind": "prompt",
+      "text": "Old ones. Still yours.",
+      "script": "Spoken instruction: \"Old ones. Still yours.\"",
+      "file": "prompt-old-ones-still-yours-5047f6.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-on-your-own-now-bd23ac",
+      "kind": "prompt",
+      "text": "On your own now.",
+      "script": "Spoken instruction: \"On your own now.\"",
+      "file": "prompt-on-your-own-now-bd23ac.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-once-more-a-bit-a4795d",
+      "kind": "prompt",
+      "text": "Once more, a bit faster.",
+      "script": "Spoken instruction: \"Once more, a bit faster.\"",
+      "file": "prompt-once-more-a-bit-a4795d.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-one-buzzes-and-one-e53c13",
+      "kind": "prompt",
+      "text": "One buzzes and one does not. Which one is /d/?",
+      "script": "Spoken instruction: \"One buzzes and one does not. Which one is /d/?\"",
+      "file": "prompt-one-buzzes-and-one-e53c13.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-one-from-each-of-4897c2",
+      "kind": "prompt",
+      "text": "One from each of the last few days, and one from further back.",
+      "script": "Spoken instruction: \"One from each of the last few days, and one from further back.\"",
+      "file": "prompt-one-from-each-of-4897c2.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-one-from-each-of-480a53",
+      "kind": "prompt",
+      "text": "One from each of the last few days.",
+      "script": "Spoken instruction: \"One from each of the last few days.\"",
+      "file": "prompt-one-from-each-of-480a53.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-one-from-each-of-ca8660",
+      "kind": "prompt",
+      "text": "One from each of the last few days. Ck is still only one pop.",
+      "script": "Spoken instruction: \"One from each of the last few days. Ck is still only one pop.\"",
+      "file": "prompt-one-from-each-of-ca8660.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-one-from-each-of-16dd2a",
+      "kind": "prompt",
+      "text": "One from each of the last few days. Sound out any that have gone fuzzy.",
+      "script": "Spoken instruction: \"One from each of the last few days. Sound out any that have gone fuzzy.\"",
+      "file": "prompt-one-from-each-of-16dd2a.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-one-from-each-week-39bfcf",
+      "kind": "prompt",
+      "text": "One from each week. Take your time and read them all the way through.",
+      "script": "Spoken instruction: \"One from each week. Take your time and read them all the way through.\"",
+      "file": "prompt-one-from-each-week-39bfcf.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-one-from-yesterday-and-866e3e",
+      "kind": "prompt",
+      "text": "One from yesterday and one from each day before it.",
+      "script": "Spoken instruction: \"One from yesterday and one from each day before it.\"",
+      "file": "prompt-one-from-yesterday-and-866e3e.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-one-from-yesterday-one-a14c1d",
+      "kind": "prompt",
+      "text": "One from yesterday, one from a week ago. All old friends.",
+      "script": "Spoken instruction: \"One from yesterday, one from a week ago. All old friends.\"",
+      "file": "prompt-one-from-yesterday-one-a14c1d.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-one-from-yesterday-one-5537d7",
+      "kind": "prompt",
+      "text": "One from yesterday, one from the day before, and some older ones.",
+      "script": "Spoken instruction: \"One from yesterday, one from the day before, and some older ones.\"",
+      "file": "prompt-one-from-yesterday-one-5537d7.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-one-hiss-is-thin-363b61",
+      "kind": "prompt",
+      "text": "One hiss is thin and sharp. The other is wide and soft. Find the wide one.",
+      "script": "Spoken instruction: \"One hiss is thin and sharp. The other is wide and soft. Find the wide one.\"",
+      "file": "prompt-one-hiss-is-thin-363b61.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-one-more-hunt-bcf7e7",
+      "kind": "prompt",
+      "text": "One more hunt.",
+      "script": "Spoken instruction: \"One more hunt.\"",
+      "file": "prompt-one-more-hunt-bcf7e7.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-6d7f97",
+      "kind": "prompt",
+      "text": "One of these has a hum hiding after the first pop.",
+      "script": "Spoken instruction: \"One of these has a hum hiding after the first pop.\"",
+      "file": "prompt-one-of-these-has-6d7f97.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-1b8357",
+      "kind": "prompt",
+      "text": "One of these has a hum hiding after the hiss. Listen hard at the start.",
+      "script": "Spoken instruction: \"One of these has a hum hiding after the hiss. Listen hard at the start.\"",
+      "file": "prompt-one-of-these-has-1b8357.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-d718ab",
+      "kind": "prompt",
+      "text": "One of these has a pop hiding after the hiss.",
+      "script": "Spoken instruction: \"One of these has a pop hiding after the hiss.\"",
+      "file": "prompt-one-of-these-has-d718ab.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-a79cd5",
+      "kind": "prompt",
+      "text": "One of these has an extra sound hiding before the last one.",
+      "script": "Spoken instruction: \"One of these has an extra sound hiding before the last one.\"",
+      "file": "prompt-one-of-these-has-a79cd5.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-40d32f",
+      "kind": "prompt",
+      "text": "One of these has an extra sound tucked in before the end.",
+      "script": "Spoken instruction: \"One of these has an extra sound tucked in before the end.\"",
+      "file": "prompt-one-of-these-has-40d32f.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-e2e95f",
+      "kind": "prompt",
+      "text": "One of these has no pop at the back at all.",
+      "script": "Spoken instruction: \"One of these has no pop at the back at all.\"",
+      "file": "prompt-one-of-these-has-e2e95f.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-has-21c6ed",
+      "kind": "prompt",
+      "text": "One of these has the h doing its work. Listen to the very first sound.",
+      "script": "Spoken instruction: \"One of these has the h doing its work. Listen to the very first sound.\"",
+      "file": "prompt-one-of-these-has-21c6ed.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-puts-f685cc",
+      "kind": "prompt",
+      "text": "One of these puts your teeth on your lip. The other one touches nothing at all.",
+      "script": "Spoken instruction: \"One of these puts your teeth on your lip. The other one touches nothing at all.\"",
+      "file": "prompt-one-of-these-puts-f685cc.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-starts-089d4d",
+      "kind": "prompt",
+      "text": "One of these starts with a hiss.",
+      "script": "Spoken instruction: \"One of these starts with a hiss.\"",
+      "file": "prompt-one-of-these-starts-089d4d.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-one-of-these-you-c8b27f",
+      "kind": "prompt",
+      "text": "One of these you drive and one blows air at you. Listen for the buzz.",
+      "script": "Spoken instruction: \"One of these you drive and one blows air at you. Listen for the buzz.\"",
+      "file": "prompt-one-of-these-you-c8b27f.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-only-the-last-sound-9a38b0",
+      "kind": "prompt",
+      "text": "Only the last sound is different this time.",
+      "script": "Spoken instruction: \"Only the last sound is different this time.\"",
+      "file": "prompt-only-the-last-sound-9a38b0.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-only-the-middle-has-11f050",
+      "kind": "prompt",
+      "text": "Only the middle has changed. Keep the ending as one quick pop.",
+      "script": "Spoken instruction: \"Only the middle has changed. Keep the ending as one quick pop.\"",
+      "file": "prompt-only-the-middle-has-11f050.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-only-the-middle-sound-6466d3",
+      "kind": "prompt",
+      "text": "Only the middle sound has changed since the last one.",
+      "script": "Spoken instruction: \"Only the middle sound has changed since the last one.\"",
+      "file": "prompt-only-the-middle-sound-6466d3.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-only-the-middle-sound-9ccaa6",
+      "kind": "prompt",
+      "text": "Only the middle sound has changed. Open your mouth wider for it.",
+      "script": "Spoken instruction: \"Only the middle sound has changed. Open your mouth wider for it.\"",
+      "file": "prompt-only-the-middle-sound-9ccaa6.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-open-your-mouth-just-33f0a0",
+      "kind": "prompt",
+      "text": "Open your mouth just a little and keep your tongue lazy and flat. /i/ is a small, quick sound.",
+      "script": "Spoken instruction: \"Open your mouth just a little and keep your tongue lazy and flat. /i/ is a small, quick sound.\"",
+      "file": "prompt-open-your-mouth-just-33f0a0.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-open-your-mouth-wide-a29983",
+      "kind": "prompt",
+      "text": "Open your mouth wide, like the doctor is looking in. /a/.",
+      "script": "Spoken instruction: \"Open your mouth wide, like the doctor is looking in. /a/.\"",
+      "file": "prompt-open-your-mouth-wide-a29983.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-point-at-each-word-37d607",
+      "kind": "prompt",
+      "text": "Point at each word as you go, and read the whole line again at the end.",
+      "script": "Spoken instruction: \"Point at each word as you go, and read the whole line again at the end.\"",
+      "file": "prompt-point-at-each-word-37d607.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-point-at-each-word-7f2527",
+      "kind": "prompt",
+      "text": "Point at each word as you go. Where did the wig end up?",
+      "script": "Spoken instruction: \"Point at each word as you go. Where did the wig end up?\"",
+      "file": "prompt-point-at-each-word-7f2527.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-point-at-each-word-fd9f1f",
+      "kind": "prompt",
+      "text": "Point at each word. What is the cat doing in there?",
+      "script": "Spoken instruction: \"Point at each word. What is the cat doing in there?\"",
+      "file": "prompt-point-at-each-word-fd9f1f.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-pop-at-the-back-200399",
+      "kind": "prompt",
+      "text": "Pop at the back, small vowel, tap at the front.",
+      "script": "Spoken instruction: \"Pop at the back, small vowel, tap at the front.\"",
+      "file": "prompt-pop-at-the-back-200399.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-pop-at-the-back-47939b",
+      "kind": "prompt",
+      "text": "Pop at the back, wide vowel, tap at the front.",
+      "script": "Spoken instruction: \"Pop at the back, wide vowel, tap at the front.\"",
+      "file": "prompt-pop-at-the-back-47939b.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-pop-at-the-front-1eddb8",
+      "kind": "prompt",
+      "text": "Pop at the front, back of the tongue at the end.",
+      "script": "Spoken instruction: \"Pop at the front, back of the tongue at the end.\"",
+      "file": "prompt-pop-at-the-front-1eddb8.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-pop-then-the-wide-d803b1",
+      "kind": "prompt",
+      "text": "Pop, then the wide vowel, then a tap at the end.",
+      "script": "Spoken instruction: \"Pop, then the wide vowel, then a tap at the end.\"",
+      "file": "prompt-pop-then-the-wide-d803b1.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-press-the-front-of-94ad40",
+      "kind": "prompt",
+      "text": "Press the front of your tongue to the roof of your mouth, just behind your teeth, then let go with a buzz.",
+      "script": "Spoken instruction: \"Press the front of your tongue to the roof of your mouth, just behind your teeth, then let go with a buzz.\"",
+      "file": "prompt-press-the-front-of-94ad40.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-press-your-lips-together-aa9f5b",
+      "kind": "prompt",
+      "text": "Press your lips together and hum. /mmm/.",
+      "script": "Spoken instruction: \"Press your lips together and hum. /mmm/.\"",
+      "file": "prompt-press-your-lips-together-aa9f5b.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-puff-then-the-wide-0db598",
+      "kind": "prompt",
+      "text": "Puff, then the wide vowel, then a tap.",
+      "script": "Spoken instruction: \"Puff, then the wide vowel, then a tap.\"",
+      "file": "prompt-puff-then-the-wide-0db598.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-pull-your-tongue-back-0421c9",
+      "kind": "prompt",
+      "text": "Pull your tongue back and bunch it up in the middle. The tip points at the roof but never touches it.",
+      "script": "Spoken instruction: \"Pull your tongue back and bunch it up in the middle. The tip points at the roof but never touches it.\"",
+      "file": "prompt-pull-your-tongue-back-0421c9.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-put-the-hiss-on-860286",
+      "kind": "prompt",
+      "text": "Put the hiss on the front. Careful — with /a/ in the middle this would be a different word.",
+      "script": "Spoken instruction: \"Put the hiss on the front. Careful — with /a/ in the middle this would be a different word.\"",
+      "file": "prompt-put-the-hiss-on-860286.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-quick-start-wide-vowel-9325de",
+      "kind": "prompt",
+      "text": "Quick start, wide vowel, hum at the end.",
+      "script": "Spoken instruction: \"Quick start, wide vowel, hum at the end.\"",
+      "file": "prompt-quick-start-wide-vowel-9325de.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-read-it-before-you-4bc8af",
+      "kind": "prompt",
+      "text": "Read it before you look away.",
+      "script": "Spoken instruction: \"Read it before you look away.\"",
+      "file": "prompt-read-it-before-you-4bc8af.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-read-it-once-word-7aeafa",
+      "kind": "prompt",
+      "text": "Read it once word by word, then once all the way through.",
+      "script": "Spoken instruction: \"Read it once word by word, then once all the way through.\"",
+      "file": "prompt-read-it-once-word-7aeafa.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-read-it-once-then-9dc1af",
+      "kind": "prompt",
+      "text": "Read it once, then again a bit faster.",
+      "script": "Spoken instruction: \"Read it once, then again a bit faster.\"",
+      "file": "prompt-read-it-once-then-9dc1af.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-read-it-slowly-who-0ab6db",
+      "kind": "prompt",
+      "text": "Read it slowly. Who is chasing who in this one?",
+      "script": "Spoken instruction: \"Read it slowly. Who is chasing who in this one?\"",
+      "file": "prompt-read-it-slowly-who-0ab6db.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-read-it-word-by-576f13",
+      "kind": "prompt",
+      "text": "Read it word by word, then say the whole line.",
+      "script": "Spoken instruction: \"Read it word by word, then say the whole line.\"",
+      "file": "prompt-read-it-word-by-576f13.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-read-it-then-have-c0295f",
+      "kind": "prompt",
+      "text": "Read it, then have a guess at what kim is saving it for.",
+      "script": "Spoken instruction: \"Read it, then have a guess at what kim is saving it for.\"",
+      "file": "prompt-read-it-then-have-c0295f.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-read-the-story-one-a2bc68",
+      "kind": "prompt",
+      "text": "Read the story one line at a time. Tap any word you want to hear again.",
+      "script": "Spoken instruction: \"Read the story one line at a time. Tap any word you want to hear again.\"",
+      "file": "prompt-read-the-story-one-a2bc68.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-round-lips-at-the-1719c0",
+      "kind": "prompt",
+      "text": "Round lips at the front and round lips at the end.",
+      "script": "Spoken instruction: \"Round lips at the front and round lips at the end.\"",
+      "file": "prompt-round-lips-at-the-1719c0.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-round-lips-or-teeth-76ef9c",
+      "kind": "prompt",
+      "text": "Round lips or teeth on your lip? The very first sound is the whole difference.",
+      "script": "Spoken instruction: \"Round lips or teeth on your lip? The very first sound is the whole difference.\"",
+      "file": "prompt-round-lips-or-teeth-76ef9c.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-round-lips-small-vowel-5cadc3",
+      "kind": "prompt",
+      "text": "Round lips, small vowel, pop at the end.",
+      "script": "Spoken instruction: \"Round lips, small vowel, pop at the end.\"",
+      "file": "prompt-round-lips-small-vowel-5cadc3.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-same-again-the-other-f04656",
+      "kind": "prompt",
+      "text": "Same again, the other way round.",
+      "script": "Spoken instruction: \"Same again, the other way round.\"",
+      "file": "prompt-same-again-the-other-f04656.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-same-again-buzz-at-4a3d6f",
+      "kind": "prompt",
+      "text": "Same again. Buzz at the start, or no buzz?",
+      "script": "Spoken instruction: \"Same again. Buzz at the start, or no buzz?\"",
+      "file": "prompt-same-again-buzz-at-4a3d6f.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-same-ending-as-hill-6f1c94",
+      "kind": "prompt",
+      "text": "Same ending as hill. Only the first sound has changed.",
+      "script": "Spoken instruction: \"Same ending as hill. Only the first sound has changed.\"",
+      "file": "prompt-same-ending-as-hill-6f1c94.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-same-ending-new-beginning-4fea81",
+      "kind": "prompt",
+      "text": "Same ending, new beginning.",
+      "script": "Spoken instruction: \"Same ending, new beginning.\"",
+      "file": "prompt-same-ending-new-beginning-4fea81.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-same-first-sound-same-412237",
+      "kind": "prompt",
+      "text": "Same first sound, same last sound. Only the middle tells you which.",
+      "script": "Spoken instruction: \"Same first sound, same last sound. Only the middle tells you which.\"",
+      "file": "prompt-same-first-sound-same-412237.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-same-puff-same-buzz-bff0d4",
+      "kind": "prompt",
+      "text": "Same puff, same buzz at the end. The middle is the only clue.",
+      "script": "Spoken instruction: \"Same puff, same buzz at the end. The middle is the only clue.\"",
+      "file": "prompt-same-puff-same-buzz-bff0d4.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-same-spot-at-the-66f7b1",
+      "kind": "prompt",
+      "text": "Same spot at the back for both. One buzzes and one is just a pop.",
+      "script": "Spoken instruction: \"Same spot at the back for both. One buzzes and one is just a pop.\"",
+      "file": "prompt-same-spot-at-the-66f7b1.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-same-start-as-wig-b92f4e",
+      "kind": "prompt",
+      "text": "Same start as wig. This one ends with a hum.",
+      "script": "Spoken instruction: \"Same start as wig. This one ends with a hum.\"",
+      "file": "prompt-same-start-as-wig-b92f4e.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-same-start-every-time-9408ab",
+      "kind": "prompt",
+      "text": "Same start every time. The ending is the only clue.",
+      "script": "Spoken instruction: \"Same start every time. The ending is the only clue.\"",
+      "file": "prompt-same-start-every-time-9408ab.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-same-start-and-this-7e07ac",
+      "kind": "prompt",
+      "text": "Same start, and this time the end hums.",
+      "script": "Spoken instruction: \"Same start, and this time the end hums.\"",
+      "file": "prompt-same-start-and-this-7e07ac.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-same-start-same-ending-e47daa",
+      "kind": "prompt",
+      "text": "Same start, same ending. Listen hard to the middle.",
+      "script": "Spoken instruction: \"Same start, same ending. Listen hard to the middle.\"",
+      "file": "prompt-same-start-same-ending-e47daa.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-same-start-same-ending-0fea6d",
+      "kind": "prompt",
+      "text": "Same start, same ending. The middle is the only clue.",
+      "script": "Spoken instruction: \"Same start, same ending. The middle is the only clue.\"",
+      "file": "prompt-same-start-same-ending-0fea6d.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-same-start-this-one-d4a721",
+      "kind": "prompt",
+      "text": "Same start. This one ends with the tongue up and humming.",
+      "script": "Spoken instruction: \"Same start. This one ends with the tongue up and humming.\"",
+      "file": "prompt-same-start-this-one-d4a721.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-same-tap-as-t-0b713c",
+      "kind": "prompt",
+      "text": "Same tap as /t/, behind your top teeth — but switch your voice on. Hand on your throat: /d/ buzzes.",
+      "script": "Spoken instruction: \"Same tap as /t/, behind your top teeth — but switch your voice on. Hand on your throat: /d/ buzzes.\"",
+      "file": "prompt-same-tap-as-t-0b713c.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-same-three-sounds-turned-89f364",
+      "kind": "prompt",
+      "text": "Same three sounds, turned around. Which one comes first now?",
+      "script": "Spoken instruction: \"Same three sounds, turned around. Which one comes first now?\"",
+      "file": "prompt-same-three-sounds-turned-89f364.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-same-trick-again-wide-16f8fa",
+      "kind": "prompt",
+      "text": "Same trick again. Wide mouth or small mouth in the middle?",
+      "script": "Spoken instruction: \"Same trick again. Wide mouth or small mouth in the middle?\"",
+      "file": "prompt-same-trick-again-wide-16f8fa.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-same-two-sounds-other-2aa508",
+      "kind": "prompt",
+      "text": "Same two sounds, other way round. What happens?",
+      "script": "Spoken instruction: \"Same two sounds, other way round. What happens?\"",
+      "file": "prompt-same-two-sounds-other-2aa508.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-say-it-next-to-a2ff89",
+      "kind": "prompt",
+      "text": "Say it next to wag. Your tongue is the only thing that changes.",
+      "script": "Spoken instruction: \"Say it next to wag. Your tongue is the only thing that changes.\"",
+      "file": "prompt-say-it-next-to-a2ff89.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-seven-words-take-a-22a5ee",
+      "kind": "prompt",
+      "text": "Seven words. Take a breath in the middle if you need to.",
+      "script": "Spoken instruction: \"Seven words. Take a breath in the middle if you need to.\"",
+      "file": "prompt-seven-words-take-a-22a5ee.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-short-and-sharp-say-6ff070",
+      "kind": "prompt",
+      "text": "Short and sharp. Say it once, not \"juh\".",
+      "script": "Spoken instruction: \"Short and sharp. Say it once, not \"juh\".\"",
+      "file": "prompt-short-and-sharp-say-6ff070.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-shut-your-lips-hold-aacb02",
+      "kind": "prompt",
+      "text": "Shut your lips, hold the air in, then pop them open. Put your hand in front of your mouth and feel the puff.",
+      "script": "Spoken instruction: \"Shut your lips, hold the air in, then pop them open. Put your hand in front of your mouth and feel the puff.\"",
+      "file": "prompt-shut-your-lips-hold-aacb02.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-six-words-now-take-6ef8ba",
+      "kind": "prompt",
+      "text": "Six words now. Take the first three, then the last three.",
+      "script": "Spoken instruction: \"Six words now. Take the first three, then the last three.\"",
+      "file": "prompt-six-words-now-take-6ef8ba.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-six-words-then-a-ab9c0e",
+      "kind": "prompt",
+      "text": "Six words, then a name, then another name. Finger under each one.",
+      "script": "Spoken instruction: \"Six words, then a name, then another name. Finger under each one.\"",
+      "file": "prompt-six-words-then-a-ab9c0e.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-small-vowel-in-the-9d7ddb",
+      "kind": "prompt",
+      "text": "Small vowel in the middle this time.",
+      "script": "Spoken instruction: \"Small vowel in the middle this time.\"",
+      "file": "prompt-small-vowel-in-the-9d7ddb.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-small-vowel-in-the-45f4ee",
+      "kind": "prompt",
+      "text": "Small vowel in the middle. A fin is the flap a fish steers with.",
+      "script": "Spoken instruction: \"Small vowel in the middle. A fin is the flap a fish steers with.\"",
+      "file": "prompt-small-vowel-in-the-45f4ee.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-small-vowel-in-the-c57191",
+      "kind": "prompt",
+      "text": "Small vowel in the middle. Do not let an uh sneak in after the /r/.",
+      "script": "Spoken instruction: \"Small vowel in the middle. Do not let an uh sneak in after the /r/.\"",
+      "file": "prompt-small-vowel-in-the-c57191.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-small-vowel-now-yesterday-701bea",
+      "kind": "prompt",
+      "text": "Small vowel now. Yesterday the cat hid under the bed.",
+      "script": "Spoken instruction: \"Small vowel now. Yesterday the cat hid under the bed.\"",
+      "file": "prompt-small-vowel-now-yesterday-701bea.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-sound-out-clam-carefully-0bb8d7",
+      "kind": "prompt",
+      "text": "Sound out clam carefully. Two sounds before the vowel.",
+      "script": "Spoken instruction: \"Sound out clam carefully. Two sounds before the vowel.\"",
+      "file": "prompt-sound-out-clam-carefully-0bb8d7.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-sound-out-each-word-a808cd",
+      "kind": "prompt",
+      "text": "Sound out each word, then go back to the start and say the whole line.",
+      "script": "Spoken instruction: \"Sound out each word, then go back to the start and say the whole line.\"",
+      "file": "prompt-sound-out-each-word-a808cd.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-start-at-the-left-39085b",
+      "kind": "prompt",
+      "text": "Start at the left edge. Aaa first, then mmm.",
+      "script": "Spoken instruction: \"Start at the left edge. Aaa first, then mmm.\"",
+      "file": "prompt-start-at-the-left-39085b.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-start-with-the-hum-394ce6",
+      "kind": "prompt",
+      "text": "Start with the hum, and do not let a little uh sneak in after it.",
+      "script": "Spoken instruction: \"Start with the hum, and do not let a little uh sneak in after it.\"",
+      "file": "prompt-start-with-the-hum-394ce6.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-start-with-the-tongue-c4fc11",
+      "kind": "prompt",
+      "text": "Start with the tongue up and humming, finish at the back.",
+      "script": "Spoken instruction: \"Start with the tongue up and humming, finish at the back.\"",
+      "file": "prompt-start-with-the-tongue-c4fc11.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-still-means-not-moving-5a1d34",
+      "kind": "prompt",
+      "text": "Still means not moving at all. Two l's, one sound.",
+      "script": "Spoken instruction: \"Still means not moving at all. Two l's, one sound.\"",
+      "file": "prompt-still-means-not-moving-5a1d34.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-stop-at-the-end-68f750",
+      "kind": "prompt",
+      "text": "Stop at the end for one and hum at the end for the other.",
+      "script": "Spoken instruction: \"Stop at the end for one and hum at the end for the other.\"",
+      "file": "prompt-stop-at-the-end-68f750.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-stretch-the-first-sound-f75422",
+      "kind": "prompt",
+      "text": "Stretch the first sound, then snap the last one shut.",
+      "script": "Spoken instruction: \"Stretch the first sound, then snap the last one shut.\"",
+      "file": "prompt-stretch-the-first-sound-f75422.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-stretch-the-hiss-then-26c0c3",
+      "kind": "prompt",
+      "text": "Stretch the hiss, then keep going.",
+      "script": "Spoken instruction: \"Stretch the hiss, then keep going.\"",
+      "file": "prompt-stretch-the-hiss-then-26c0c3.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-take-napkin-in-two-c2e7a1",
+      "kind": "prompt",
+      "text": "Take napkin in two bits: nap, then kin.",
+      "script": "Spoken instruction: \"Take napkin in two bits: nap, then kin.\"",
+      "file": "prompt-take-napkin-in-two-c2e7a1.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-take-swim-slowly-there-61cd15",
+      "kind": "prompt",
+      "text": "Take swim slowly — there is a /w/ hiding after the hiss.",
+      "script": "Spoken instruction: \"Take swim slowly — there is a /w/ hiding after the hiss.\"",
+      "file": "prompt-take-swim-slowly-there-61cd15.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-tap-the-one-that-18931e",
+      "kind": "prompt",
+      "text": "Tap the one that says /a/.",
+      "script": "Spoken instruction: \"Tap the one that says /a/.\"",
+      "file": "prompt-tap-the-one-that-18931e.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-teeth-almost-shut-tongue-8695b3",
+      "kind": "prompt",
+      "text": "Teeth almost shut, tongue behind them, let the air hiss out like a snake. /sss/.",
+      "script": "Spoken instruction: \"Teeth almost shut, tongue behind them, let the air hiss out like a snake. /sss/.\"",
+      "file": "prompt-teeth-almost-shut-tongue-8695b3.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-teeth-nearly-shut-lips-84711a",
+      "kind": "prompt",
+      "text": "Teeth nearly shut, lips pushed forward, tongue pulled back a little. The air comes out wide and soft — shhhhh.",
+      "script": "Spoken instruction: \"Teeth nearly shut, lips pushed forward, tongue pulled back a little. The air comes out wide and soft — shhhhh.\"",
+      "file": "prompt-teeth-nearly-shut-lips-84711a.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-teeth-on-the-lip-c02cc5",
+      "kind": "prompt",
+      "text": "Teeth on the lip, or lips together? Watch my mouth and then choose.",
+      "script": "Spoken instruction: \"Teeth on the lip, or lips together? Watch my mouth and then choose.\"",
+      "file": "prompt-teeth-on-the-lip-c02cc5.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-the-b-has-moved-8e14a3",
+      "kind": "prompt",
+      "text": "The b has moved to the end. A tab is the little flap you pull.",
+      "script": "Spoken instruction: \"The b has moved to the end. A tab is the little flap you pull.\"",
+      "file": "prompt-the-b-has-moved-8e14a3.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-the-back-of-your-5b7d0b",
+      "kind": "prompt",
+      "text": "The back of your tongue bumps the roof of your mouth, right at the back. Keep it short: /g/, not \"guh\".",
+      "script": "Spoken instruction: \"The back of your tongue bumps the roof of your mouth, right at the back. Keep it short: /g/, not \"guh\".\"",
+      "file": "prompt-the-back-of-your-5b7d0b.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-the-back-of-your-342937",
+      "kind": "prompt",
+      "text": "The back of your tongue humps up, touches the roof right at the back, and pops. No buzz, no puff of uh after it.",
+      "script": "Spoken instruction: \"The back of your tongue humps up, touches the roof right at the back, and pops. No buzz, no puff of uh after it.\"",
+      "file": "prompt-the-back-of-your-342937.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-the-back-of-your-24db0b",
+      "kind": "prompt",
+      "text": "The back of your tongue lifts up and touches the roof at the very back, then pops. No buzz at all.",
+      "script": "Spoken instruction: \"The back of your tongue lifts up and touches the roof at the very back, then pops. No buzz at all.\"",
+      "file": "prompt-the-back-of-your-24db0b.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-the-ending-is-the-a496b2",
+      "kind": "prompt",
+      "text": "The ending is the same in all three. It is the first sound that decides it.",
+      "script": "Spoken instruction: \"The ending is the same in all three. It is the first sound that decides it.\"",
+      "file": "prompt-the-ending-is-the-a496b2.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-the-hiss-and-the-dc3988",
+      "kind": "prompt",
+      "text": "The hiss and the hum, one after the other, before the vowel.",
+      "script": "Spoken instruction: \"The hiss and the hum, one after the other, before the vowel.\"",
+      "file": "prompt-the-hiss-and-the-dc3988.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-the-last-sound-decides-6aa1bd",
+      "kind": "prompt",
+      "text": "The last sound decides it. Does it buzz or not?",
+      "script": "Spoken instruction: \"The last sound decides it. Does it buzz or not?\"",
+      "file": "prompt-the-last-sound-decides-6aa1bd.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-the-last-sound-is-2be783",
+      "kind": "prompt",
+      "text": "The last sound is the only clue. Does it buzz?",
+      "script": "Spoken instruction: \"The last sound is the only clue. Does it buzz?\"",
+      "file": "prompt-the-last-sound-is-2be783.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-the-longest-word-yet-e9696d",
+      "kind": "prompt",
+      "text": "The longest word yet — six sounds. Read the first half, nap, then the second half, kin, then push them together.",
+      "script": "Spoken instruction: \"The longest word yet — six sounds. Read the first half, nap, then the second half, kin, then push them together.\"",
+      "file": "prompt-the-longest-word-yet-e9696d.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-the-pop-is-at-06ad0f",
+      "kind": "prompt",
+      "text": "The pop is at the end of both. It is the middle that changes.",
+      "script": "Spoken instruction: \"The pop is at the end of both. It is the middle that changes.\"",
+      "file": "prompt-the-pop-is-at-06ad0f.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-the-rim-is-the-9a571e",
+      "kind": "prompt",
+      "text": "The rim is the edge that goes all the way round a cup.",
+      "script": "Spoken instruction: \"The rim is the edge that goes all the way round a cup.\"",
+      "file": "prompt-the-rim-is-the-9a571e.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-the-same-two-sounds-2cb9e9",
+      "kind": "prompt",
+      "text": "The same two sounds. Which way round is it?",
+      "script": "Spoken instruction: \"The same two sounds. Which way round is it?\"",
+      "file": "prompt-the-same-two-sounds-2cb9e9.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-the-tick-a-clock-0b2fa7",
+      "kind": "prompt",
+      "text": "The tick a clock makes.",
+      "script": "Spoken instruction: \"The tick a clock makes.\"",
+      "file": "prompt-the-tick-a-clock-0b2fa7.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-the-very-same-two-c59bfb",
+      "kind": "prompt",
+      "text": "The very same two sounds, swapped. Read from the left and hear what changed.",
+      "script": "Spoken instruction: \"The very same two sounds, swapped. Read from the left and hear what changed.\"",
+      "file": "prompt-the-very-same-two-c59bfb.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-there-is-an-extra-4419a3",
+      "kind": "prompt",
+      "text": "There is an extra sound hiding in one of these.",
+      "script": "Spoken instruction: \"There is an extra sound hiding in one of these.\"",
+      "file": "prompt-there-is-an-extra-4419a3.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-these-all-still-have-6ccea3",
+      "kind": "prompt",
+      "text": "These all still have /a/ in the middle. Don't let today's new sound sneak in.",
+      "script": "Spoken instruction: \"These all still have /a/ in the middle. Don't let today's new sound sneak in.\"",
+      "file": "prompt-these-all-still-have-6ccea3.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-these-look-alike-find-3d7be8",
+      "kind": "prompt",
+      "text": "These look alike. Find /m/.",
+      "script": "Spoken instruction: \"These look alike. Find /m/.\"",
+      "file": "prompt-these-look-alike-find-3d7be8.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-these-three-all-hiss-710758",
+      "kind": "prompt",
+      "text": "These three all hiss a bit. Find the one that says /sss/.",
+      "script": "Spoken instruction: \"These three all hiss a bit. Find the one that says /sss/.\"",
+      "file": "prompt-these-three-all-hiss-710758.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-these-three-are-the-05a8d9",
+      "kind": "prompt",
+      "text": "These three are the same shape turned different ways. Find /b/ — its tummy points forward.",
+      "script": "Spoken instruction: \"These three are the same shape turned different ways. Find /b/ — its tummy points forward.\"",
+      "file": "prompt-these-three-are-the-05a8d9.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-these-three-look-a-5e0753",
+      "kind": "prompt",
+      "text": "These three look a bit alike. Find the one that says /d/.",
+      "script": "Spoken instruction: \"These three look a bit alike. Find the one that says /d/.\"",
+      "file": "prompt-these-three-look-a-5e0753.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-these-three-look-alike-0c1193",
+      "kind": "prompt",
+      "text": "These three look alike. Which one says /a/?",
+      "script": "Spoken instruction: \"These three look alike. Which one says /a/?\"",
+      "file": "prompt-these-three-look-alike-0c1193.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-these-two-look-almost-f2f2df",
+      "kind": "prompt",
+      "text": "These two look almost the same. Listen to the very first sound.",
+      "script": "Spoken instruction: \"These two look almost the same. Listen to the very first sound.\"",
+      "file": "prompt-these-two-look-almost-f2f2df.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-this-is-f-with-2c282c",
+      "kind": "prompt",
+      "text": "This is /f/ with the buzz turned on. Hold it: vvvvv.",
+      "script": "Spoken instruction: \"This is /f/ with the buzz turned on. Hold it: vvvvv.\"",
+      "file": "prompt-this-is-f-with-2c282c.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-this-is-the-hard-427d18",
+      "kind": "prompt",
+      "text": "This is the hard pair. Tongue back for one, lips only for the other.",
+      "script": "Spoken instruction: \"This is the hard pair. Tongue back for one, lips only for the other.\"",
+      "file": "prompt-this-is-the-hard-427d18.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-this-is-the-one-158c36",
+      "kind": "prompt",
+      "text": "This is the one to get right. Thin hiss or wide hiss?",
+      "script": "Spoken instruction: \"This is the one to get right. Thin hiss or wide hiss?\"",
+      "file": "prompt-this-is-the-one-158c36.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-this-is-the-very-7bdabe",
+      "kind": "prompt",
+      "text": "This is the very first sound. It says…",
+      "script": "Spoken instruction: \"This is the very first sound. It says…\"",
+      "file": "prompt-this-is-the-very-7bdabe.mp3",
+      "days": [
+        1
+      ]
+    },
+    {
+      "id": "prompt-this-one-happens-right-9508d2",
+      "kind": "prompt",
+      "text": "This one happens right at the back of your mouth. Keep it short and quiet.",
+      "script": "Spoken instruction: \"This one happens right at the back of your mouth. Keep it short and quiet.\"",
+      "file": "prompt-this-one-happens-right-9508d2.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-this-one-has-the-45cb14",
+      "kind": "prompt",
+      "text": "This one has the same sound at both ends, spelled two different ways. k at the front, ck at the back.",
+      "script": "Spoken instruction: \"This one has the same sound at both ends, spelled two different ways. k at the front, ck at the back.\"",
+      "file": "prompt-this-one-has-the-45cb14.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-this-one-is-t-544a38",
+      "kind": "prompt",
+      "text": "This one is /t/'s noisy twin. It says…",
+      "script": "Spoken instruction: \"This one is /t/'s noisy twin. It says…\"",
+      "file": "prompt-this-one-is-t-544a38.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-this-one-is-a-f40738",
+      "kind": "prompt",
+      "text": "This one is a hum you can hold. Keep the tongue up: llllll.",
+      "script": "Spoken instruction: \"This one is a hum you can hold. Keep the tongue up: llllll.\"",
+      "file": "prompt-this-one-is-a-f40738.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-this-one-is-made-396027",
+      "kind": "prompt",
+      "text": "This one is made with your lips only. Watch mine, then try.",
+      "script": "Spoken instruction: \"This one is made with your lips only. Watch mine, then try.\"",
+      "file": "prompt-this-one-is-made-396027.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-this-one-is-over-1acfd4",
+      "kind": "prompt",
+      "text": "This one is over almost before it starts. Listen hard.",
+      "script": "Spoken instruction: \"This one is over almost before it starts. Listen hard.\"",
+      "file": "prompt-this-one-is-over-1acfd4.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-this-one-is-over-6977ba",
+      "kind": "prompt",
+      "text": "This one is over in a flash. It says…",
+      "script": "Spoken instruction: \"This one is over in a flash. It says…\"",
+      "file": "prompt-this-one-is-over-6977ba.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-this-one-means-the-ff36ab",
+      "kind": "prompt",
+      "text": "This one means the back end of a boat. The blowy sound is in the middle.",
+      "script": "Spoken instruction: \"This one means the back end of a boat. The blowy sound is in the middle.\"",
+      "file": "prompt-this-one-means-the-ff36ab.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-this-one-says-k-3bfe4d",
+      "kind": "prompt",
+      "text": "This one says /k/ too — but look which letter is doing it. There is an a next, so it is c's turn.",
+      "script": "Spoken instruction: \"This one says /k/ too — but look which letter is doing it. There is an a next, so it is c's turn.\"",
+      "file": "prompt-this-one-says-k-3bfe4d.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-this-pair-lives-at-548502",
+      "kind": "prompt",
+      "text": "This pair lives at the end of a word. Listen to the very last sound in pack.",
+      "script": "Spoken instruction: \"This pair lives at the end of a word. Listen to the very last sound in pack.\"",
+      "file": "prompt-this-pair-lives-at-548502.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-this-time-g-starts-1d4ad1",
+      "kind": "prompt",
+      "text": "This time /g/ starts the word. Start at the back, end with the hiss.",
+      "script": "Spoken instruction: \"This time /g/ starts the word. Start at the back, end with the hiss.\"",
+      "file": "prompt-this-time-g-starts-1d4ad1.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-this-time-it-is-718448",
+      "kind": "prompt",
+      "text": "This time it is the ending that hisses or taps.",
+      "script": "Spoken instruction: \"This time it is the ending that hisses or taps.\"",
+      "file": "prompt-this-time-it-is-718448.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-this-time-sh-is-2f5d10",
+      "kind": "prompt",
+      "text": "This time sh is at the end. Hold it long: fiiishhh.",
+      "script": "Spoken instruction: \"This time sh is at the end. Hold it long: fiiishhh.\"",
+      "file": "prompt-this-time-sh-is-2f5d10.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-this-time-the-answer-cbc850",
+      "kind": "prompt",
+      "text": "This time the answer is the quiet one.",
+      "script": "Spoken instruction: \"This time the answer is the quiet one.\"",
+      "file": "prompt-this-time-the-answer-cbc850.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-those-two-letters-at-8350e4",
+      "kind": "prompt",
+      "text": "Those two letters at the end are one sound. Say it once.",
+      "script": "Spoken instruction: \"Those two letters at the end are one sound. Say it once.\"",
+      "file": "prompt-those-two-letters-at-8350e4.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-three-close-ones-listen-7f4589",
+      "kind": "prompt",
+      "text": "Three close ones. Listen right to the end.",
+      "script": "Spoken instruction: \"Three close ones. Listen right to the end.\"",
+      "file": "prompt-three-close-ones-listen-7f4589.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-three-hums-one-has-740e3e",
+      "kind": "prompt",
+      "text": "Three hums. One has the tongue tip up on the ridge, one has it pulled back, one has no tongue at all.",
+      "script": "Spoken instruction: \"Three hums. One has the tongue tip up on the ridge, one has it pulled back, one has no tongue at all.\"",
+      "file": "prompt-three-hums-one-has-740e3e.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-three-long-hisses-only-f7d34a",
+      "kind": "prompt",
+      "text": "Three long hisses. Only one of them uses two letters.",
+      "script": "Spoken instruction: \"Three long hisses. Only one of them uses two letters.\"",
+      "file": "prompt-three-long-hisses-only-f7d34a.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-three-names-for-the-107da7",
+      "kind": "prompt",
+      "text": "Three names for the ending. Only the start is different.",
+      "script": "Spoken instruction: \"Three names for the ending. Only the start is different.\"",
+      "file": "prompt-three-names-for-the-107da7.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-three-quick-ones-find-e4ebe2",
+      "kind": "prompt",
+      "text": "Three quick ones. Find the one that starts jam.",
+      "script": "Spoken instruction: \"Three quick ones. Find the one that starts jam.\"",
+      "file": "prompt-three-quick-ones-find-e4ebe2.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-three-quick-pops-two-eb1038",
+      "kind": "prompt",
+      "text": "Three quick pops. Two are at the back and one is at the front.",
+      "script": "Spoken instruction: \"Three quick pops. Two are at the back and one is at the front.\"",
+      "file": "prompt-three-quick-pops-two-eb1038.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-three-quick-pops-two-3adb46",
+      "kind": "prompt",
+      "text": "Three quick pops. Two are made at the back and one is right behind your teeth.",
+      "script": "Spoken instruction: \"Three quick pops. Two are made at the back and one is right behind your teeth.\"",
+      "file": "prompt-three-quick-pops-two-3adb46.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-three-quick-taps-find-c3a873",
+      "kind": "prompt",
+      "text": "Three quick taps. Find the one you make furthest back.",
+      "script": "Spoken instruction: \"Three quick taps. Find the one you make furthest back.\"",
+      "file": "prompt-three-quick-taps-find-c3a873.mp3",
+      "days": [
+        8
+      ]
+    },
+    {
+      "id": "prompt-three-quiet-breathy-sounds-688075",
+      "kind": "prompt",
+      "text": "Three quiet, breathy sounds. Find the one with no mouth shape at all.",
+      "script": "Spoken instruction: \"Three quiet, breathy sounds. Find the one with no mouth shape at all.\"",
+      "file": "prompt-three-quiet-breathy-sounds-688075.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-this-time-c452e9",
+      "kind": "prompt",
+      "text": "Three sounds this time. Don't stop in the middle — sssaaammm.",
+      "script": "Spoken instruction: \"Three sounds this time. Don't stop in the middle — sssaaammm.\"",
+      "file": "prompt-three-sounds-this-time-c452e9.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-left-to-d2bf7e",
+      "kind": "prompt",
+      "text": "Three sounds, left to right.",
+      "script": "Spoken instruction: \"Three sounds, left to right.\"",
+      "file": "prompt-three-sounds-left-to-d2bf7e.mp3",
+      "days": [
+        5
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-not-four-129ba3",
+      "kind": "prompt",
+      "text": "Three sounds, not four. The c and the k hold hands.",
+      "script": "Spoken instruction: \"Three sounds, not four. The c and the k hold hands.\"",
+      "file": "prompt-three-sounds-not-four-129ba3.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-keep-sh-a30cc4",
+      "kind": "prompt",
+      "text": "Three sounds. Keep sh together — it is one sound, not two.",
+      "script": "Spoken instruction: \"Three sounds. Keep sh together — it is one sound, not two.\"",
+      "file": "prompt-three-sounds-keep-sh-a30cc4.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-stretch-the-d8bdbe",
+      "kind": "prompt",
+      "text": "Three sounds. Stretch the first two and tap the last.",
+      "script": "Spoken instruction: \"Three sounds. Stretch the first two and tap the last.\"",
+      "file": "prompt-three-sounds-stretch-the-d8bdbe.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-three-that-start-the-947abf",
+      "kind": "prompt",
+      "text": "Three that start the same. Listen to the very end.",
+      "script": "Spoken instruction: \"Three that start the same. Listen to the very end.\"",
+      "file": "prompt-three-that-start-the-947abf.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-three-w-words-in-63a33c",
+      "kind": "prompt",
+      "text": "Three w words in one line. Read it once, then read it again quickly.",
+      "script": "Spoken instruction: \"Three w words in one line. Read it once, then read it again quickly.\"",
+      "file": "prompt-three-w-words-in-63a33c.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-to-dash-is-to-38688a",
+      "kind": "prompt",
+      "text": "To dash is to run somewhere fast.",
+      "script": "Spoken instruction: \"To dash is to run somewhere fast.\"",
+      "file": "prompt-to-dash-is-to-38688a.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-tongue-taps-just-behind-528261",
+      "kind": "prompt",
+      "text": "Tongue taps just behind your top teeth and lets go. /t/ — quick, no grunt after it.",
+      "script": "Spoken instruction: \"Tongue taps just behind your top teeth and lets go. /t/ — quick, no grunt after it.\"",
+      "file": "prompt-tongue-taps-just-behind-528261.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-tongue-tip-up-behind-79baf6",
+      "kind": "prompt",
+      "text": "Tongue tip up behind your top teeth and leave it there — the hum comes out round the sides.",
+      "script": "Spoken instruction: \"Tongue tip up behind your top teeth and leave it there — the hum comes out round the sides.\"",
+      "file": "prompt-tongue-tip-up-behind-79baf6.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-tongue-up-behind-your-a4e14b",
+      "kind": "prompt",
+      "text": "Tongue up behind your top teeth, and hum. The sound comes out of your nose — pinch it and /n/ disappears.",
+      "script": "Spoken instruction: \"Tongue up behind your top teeth, and hum. The sound comes out of your nose — pinch it and /n/ disappears.\"",
+      "file": "prompt-tongue-up-behind-your-a4e14b.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-top-teeth-down-on-c2d338",
+      "kind": "prompt",
+      "text": "Top teeth down on your bottom lip, then buzz. Your lip should tickle.",
+      "script": "Spoken instruction: \"Top teeth down on your bottom lip, then buzz. Your lip should tickle.\"",
+      "file": "prompt-top-teeth-down-on-c2d338.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-top-teeth-resting-on-eb93ae",
+      "kind": "prompt",
+      "text": "Top teeth resting on your bottom lip, then blow. /fff/ — no voice in it, just air.",
+      "script": "Spoken instruction: \"Top teeth resting on your bottom lip, then blow. /fff/ — no voice in it, just air.\"",
+      "file": "prompt-top-teeth-resting-on-eb93ae.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-two-k-sounds-in-d650ad",
+      "kind": "prompt",
+      "text": "Two /k/ sounds in this line, spelled two different ways. Can you spot them?",
+      "script": "Spoken instruction: \"Two /k/ sounds in this line, spelled two different ways. Can you spot them?\"",
+      "file": "prompt-two-k-sounds-in-d650ad.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-two-buzzy-words-next-2ee8c3",
+      "kind": "prompt",
+      "text": "Two buzzy words next to each other at the end. Slow down for them.",
+      "script": "Spoken instruction: \"Two buzzy words next to each other at the end. Slow down for them.\"",
+      "file": "prompt-two-buzzy-words-next-2ee8c3.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-two-f-s-at-67ff0b",
+      "kind": "prompt",
+      "text": "Two f's at the end, but they only say one sound. A staff is a long walking stick.",
+      "script": "Spoken instruction: \"Two f's at the end, but they only say one sound. A staff is a long walking stick.\"",
+      "file": "prompt-two-f-s-at-67ff0b.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-two-from-yesterday-and-e26997",
+      "kind": "prompt",
+      "text": "Two from yesterday and three from further back.",
+      "script": "Spoken instruction: \"Two from yesterday and three from further back.\"",
+      "file": "prompt-two-from-yesterday-and-e26997.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-two-hisses-in-this-815c67",
+      "kind": "prompt",
+      "text": "Two hisses in this line, and they are not the same hiss.",
+      "script": "Spoken instruction: \"Two hisses in this line, and they are not the same hiss.\"",
+      "file": "prompt-two-hisses-in-this-815c67.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-two-l-s-at-2519a8",
+      "kind": "prompt",
+      "text": "Two l's at the end, but they only say it once.",
+      "script": "Spoken instruction: \"Two l's at the end, but they only say it once.\"",
+      "file": "prompt-two-l-s-at-2519a8.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-two-letter-teams-in-eff763",
+      "kind": "prompt",
+      "text": "Two letter teams in one little word — sh at the front, ck at the back. Still only three sounds.",
+      "script": "Spoken instruction: \"Two letter teams in one little word — sh at the front, ck at the back. Still only three sounds.\"",
+      "file": "prompt-two-letter-teams-in-eff763.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-two-letters-and-neither-e69316",
+      "kind": "prompt",
+      "text": "Two letters, and neither one says its own sound. Together they make a brand new one.",
+      "script": "Spoken instruction: \"Two letters, and neither one says its own sound. Together they make a brand new one.\"",
+      "file": "prompt-two-letters-and-neither-e69316.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-two-letters-one-sound-4882a8",
+      "kind": "prompt",
+      "text": "Two letters, one sound at the end. Hold the hiss as long as a snake would.",
+      "script": "Spoken instruction: \"Two letters, one sound at the end. Hold the hiss as long as a snake would.\"",
+      "file": "prompt-two-letters-one-sound-4882a8.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-are-7fb685",
+      "kind": "prompt",
+      "text": "Two of these are quick taps. /p/ is the one you make with your lips.",
+      "script": "Spoken instruction: \"Two of these are quick taps. /p/ is the one you make with your lips.\"",
+      "file": "prompt-two-of-these-are-7fb685.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-have-308796",
+      "kind": "prompt",
+      "text": "Two of these have the same three sounds. Which way round is it?",
+      "script": "Spoken instruction: \"Two of these have the same three sounds. Which way round is it?\"",
+      "file": "prompt-two-of-these-have-308796.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-use-5b77fb",
+      "kind": "prompt",
+      "text": "Two of these use your teeth and one uses both lips. Find the buzzy one with teeth.",
+      "script": "Spoken instruction: \"Two of these use your teeth and one uses both lips. Find the buzzy one with teeth.\"",
+      "file": "prompt-two-of-these-use-5b77fb.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-two-people-doing-two-5932da",
+      "kind": "prompt",
+      "text": "Two people doing two things. Read to the word and, then stop for a breath.",
+      "script": "Spoken instruction: \"Two people doing two things. Read to the word and, then stop for a breath.\"",
+      "file": "prompt-two-people-doing-two-5932da.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-two-people-in-this-5b2c16",
+      "kind": "prompt",
+      "text": "Two people in this one. Who is digging?",
+      "script": "Spoken instruction: \"Two people in this one. Who is digging?\"",
+      "file": "prompt-two-people-in-this-5b2c16.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-two-people-this-time-7b2366",
+      "kind": "prompt",
+      "text": "Two people this time. Who danced?",
+      "script": "Spoken instruction: \"Two people this time. Who danced?\"",
+      "file": "prompt-two-people-this-time-7b2366.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-at-the-3f44b1",
+      "kind": "prompt",
+      "text": "Two sounds at the front, squashed together. A pop at the back, then the long /r/.",
+      "script": "Spoken instruction: \"Two sounds at the front, squashed together. A pop at the back, then the long /r/.\"",
+      "file": "prompt-two-sounds-at-the-3f44b1.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-at-the-5ed490",
+      "kind": "prompt",
+      "text": "Two sounds at the front, squashed up together. Say them both: /k/, /lll/.",
+      "script": "Spoken instruction: \"Two sounds at the front, squashed up together. Say them both: /k/, /lll/.\"",
+      "file": "prompt-two-sounds-at-the-5ed490.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-squashed-together-9dfa26",
+      "kind": "prompt",
+      "text": "Two sounds squashed together at the front. Say them both: /t/, /w/.",
+      "script": "Spoken instruction: \"Two sounds squashed together at the front. Say them both: /t/, /w/.\"",
+      "file": "prompt-two-sounds-squashed-together-9dfa26.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-squashed-together-2e3731",
+      "kind": "prompt",
+      "text": "Two sounds squashed together at the front. Say them both: fff, lll.",
+      "script": "Spoken instruction: \"Two sounds squashed together at the front. Say them both: fff, lll.\"",
+      "file": "prompt-two-sounds-squashed-together-2e3731.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-you-can-bb5f5a",
+      "kind": "prompt",
+      "text": "Two sounds you can both hold. Slide them together.",
+      "script": "Spoken instruction: \"Two sounds you can both hold. Slide them together.\"",
+      "file": "prompt-two-sounds-you-can-bb5f5a.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-vowel-first-d95b63",
+      "kind": "prompt",
+      "text": "Two sounds, vowel first. Stretch the second one: aaa-nnn.",
+      "script": "Spoken instruction: \"Two sounds, vowel first. Stretch the second one: aaa-nnn.\"",
+      "file": "prompt-two-sounds-vowel-first-d95b63.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-two-sounds-slide-them-d9af7c",
+      "kind": "prompt",
+      "text": "Two sounds. Slide them together without stopping.",
+      "script": "Spoken instruction: \"Two sounds. Slide them together without stopping.\"",
+      "file": "prompt-two-sounds-slide-them-d9af7c.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-two-vowels-now-a-64de60",
+      "kind": "prompt",
+      "text": "Two vowels now. /a/ opens your mouth wide, /i/ barely opens it at all. Find /i/.",
+      "script": "Spoken instruction: \"Two vowels now. /a/ opens your mouth wide, /i/ barely opens it at all. Find /i/.\"",
+      "file": "prompt-two-vowels-now-a-64de60.mp3",
+      "days": [
+        9
+      ]
+    },
+    {
+      "id": "prompt-vast-means-enormous-four-0a532a",
+      "kind": "prompt",
+      "text": "Vast means enormous. Four sounds — do not let the hiss disappear.",
+      "script": "Spoken instruction: \"Vast means enormous. Four sounds — do not let the hiss disappear.\"",
+      "file": "prompt-vast-means-enormous-four-0a532a.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-where-did-the-cat-eb213e",
+      "kind": "prompt",
+      "text": "Where did the cat hide?",
+      "script": "Spoken instruction: \"Where did the cat hide?\"",
+      "file": "prompt-where-did-the-cat-eb213e.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "prompt-which-one-hisses-019665",
+      "kind": "prompt",
+      "text": "Which one hisses?",
+      "script": "Spoken instruction: \"Which one hisses?\"",
+      "file": "prompt-which-one-hisses-019665.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-which-one-hums-8d52c1",
+      "kind": "prompt",
+      "text": "Which one hums?",
+      "script": "Spoken instruction: \"Which one hums?\"",
+      "file": "prompt-which-one-hums-8d52c1.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-which-one-is-the-025f74",
+      "kind": "prompt",
+      "text": "Which one is the blowy one?",
+      "script": "Spoken instruction: \"Which one is the blowy one?\"",
+      "file": "prompt-which-one-is-the-025f74.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "prompt-which-one-is-the-3564b2",
+      "kind": "prompt",
+      "text": "Which one is the quick tap?",
+      "script": "Spoken instruction: \"Which one is the quick tap?\"",
+      "file": "prompt-which-one-is-the-3564b2.mp3",
+      "days": [
+        4
+      ]
+    },
+    {
+      "id": "prompt-who-did-the-kicking-9735cb",
+      "kind": "prompt",
+      "text": "Who did the kicking, and what did it land near?",
+      "script": "Spoken instruction: \"Who did the kicking, and what did it land near?\"",
+      "file": "prompt-who-did-the-kicking-9735cb.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-wide-vowel-or-small-847a96",
+      "kind": "prompt",
+      "text": "Wide vowel or small vowel? That is the whole difference.",
+      "script": "Spoken instruction: \"Wide vowel or small vowel? That is the whole difference.\"",
+      "file": "prompt-wide-vowel-or-small-847a96.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "prompt-wide-vowel-this-time-ad886b",
+      "kind": "prompt",
+      "text": "Wide vowel this time.",
+      "script": "Spoken instruction: \"Wide vowel this time.\"",
+      "file": "prompt-wide-vowel-this-time-ad886b.mp3",
+      "days": [
+        11
+      ]
+    },
+    {
+      "id": "prompt-you-can-hold-this-a44c6e",
+      "kind": "prompt",
+      "text": "You can hold this one as long as you like, just like /m/.",
+      "script": "Spoken instruction: \"You can hold this one as long as you like, just like /m/.\"",
+      "file": "prompt-you-can-hold-this-a44c6e.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-you-can-hold-this-744bb1",
+      "kind": "prompt",
+      "text": "You can hold this one for as long as your breath lasts. Try it: rrrrrr.",
+      "script": "Spoken instruction: \"You can hold this one for as long as your breath lasts. Try it: rrrrrr.\"",
+      "file": "prompt-you-can-hold-this-744bb1.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-you-have-met-this-819eec",
+      "kind": "prompt",
+      "text": "You have met this sound before — c made it. This is its other letter, and it sounds exactly the same.",
+      "script": "Spoken instruction: \"You have met this sound before — c made it. This is its other letter, and it sounds exactly the same.\"",
+      "file": "prompt-you-have-met-this-819eec.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "prompt-you-have-read-all-5c870f",
+      "kind": "prompt",
+      "text": "You have read all of these before.",
+      "script": "Spoken instruction: \"You have read all of these before.\"",
+      "file": "prompt-you-have-read-all-5c870f.mp3",
+      "days": [
+        7
+      ]
+    },
+    {
+      "id": "prompt-you-know-this-one-c4797d",
+      "kind": "prompt",
+      "text": "You know this one. Same start, different ending.",
+      "script": "Spoken instruction: \"You know this one. Same start, different ending.\"",
+      "file": "prompt-you-know-this-one-c4797d.mp3",
+      "days": [
+        3
+      ]
+    },
+    {
+      "id": "prompt-your-first-story-one-dd8aa8",
+      "kind": "prompt",
+      "text": "Your first story. One line at a time — tap any word you want to hear.",
+      "script": "Spoken instruction: \"Your first story. One line at a time — tap any word you want to hear.\"",
+      "file": "prompt-your-first-story-one-dd8aa8.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "prompt-your-hip-is-where-620235",
+      "kind": "prompt",
+      "text": "Your hip is where your leg joins the rest of you.",
+      "script": "Spoken instruction: \"Your hip is where your leg joins the rest of you.\"",
+      "file": "prompt-your-hip-is-where-620235.mp3",
+      "days": [
+        12
+      ]
+    },
+    {
+      "id": "prompt-your-lips-do-the-e015bd",
+      "kind": "prompt",
+      "text": "Your lips do the same thing for both. Only one of them buzzes.",
+      "script": "Spoken instruction: \"Your lips do the same thing for both. Only one of them buzzes.\"",
+      "file": "prompt-your-lips-do-the-e015bd.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "prompt-your-lips-round-for-bbb140",
+      "kind": "prompt",
+      "text": "Your lips round for both. Only one of them moves your tongue.",
+      "script": "Spoken instruction: \"Your lips round for both. Only one of them moves your tongue.\"",
+      "file": "prompt-your-lips-round-for-bbb140.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "prompt-your-shin-is-the-0da7ad",
+      "kind": "prompt",
+      "text": "Your shin is the hard bit at the front of your leg. Same start as ship.",
+      "script": "Spoken instruction: \"Your shin is the hard bit at the front of your leg. Same start as ship.\"",
+      "file": "prompt-your-shin-is-the-0da7ad.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "prompt-your-tongue-is-in-11478d",
+      "kind": "prompt",
+      "text": "Your tongue is in the same spot for /n/ and /d/. One you can hold, one is a tap.",
+      "script": "Spoken instruction: \"Your tongue is in the same spot for /n/ and /d/. One you can hold, one is a tap.\"",
+      "file": "prompt-your-tongue-is-in-11478d.mp3",
+      "days": [
+        10
+      ]
+    },
+    {
+      "id": "prompt-your-tongue-starts-in-7e2698",
+      "kind": "prompt",
+      "text": "Your tongue starts in nearly the same place for both. One lets go with a tap, one with a buzz.",
+      "script": "Spoken instruction: \"Your tongue starts in nearly the same place for both. One lets go with a tap, one with a buzz.\"",
+      "file": "prompt-your-tongue-starts-in-7e2698.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "prompt-your-turn-all-by-12dec9",
+      "kind": "prompt",
+      "text": "Your turn, all by yourself.",
+      "script": "Spoken instruction: \"Your turn, all by yourself.\"",
+      "file": "prompt-your-turn-all-by-12dec9.mp3",
+      "days": [
+        2
+      ]
+    },
+    {
+      "id": "prompt-your-turn-6bcfbc",
+      "kind": "prompt",
+      "text": "Your turn.",
+      "script": "Spoken instruction: \"Your turn.\"",
+      "file": "prompt-your-turn-6bcfbc.mp3",
+      "days": [
+        6
+      ]
+    },
+    {
+      "id": "line-a-bad-cat-hid-f6abec",
+      "kind": "line",
+      "text": "a bad cat hid in a van.",
+      "script": "Read aloud, warmly, at storytime pace: \"a bad cat hid in a van.\"",
+      "file": "line-a-bad-cat-hid-f6abec.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "line-a-big-cat-c97d0f",
+      "kind": "line",
+      "text": "a big cat",
+      "script": "Read aloud, warmly, at storytime pace: \"a big cat\"",
+      "file": "line-a-big-cat-c97d0f.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-a-big-kid-9028e3",
+      "kind": "line",
+      "text": "a big kid",
+      "script": "Read aloud, warmly, at storytime pace: \"a big kid\"",
+      "file": "line-a-big-kid-9028e3.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-cat-can-lick-16bc86",
+      "kind": "line",
+      "text": "a cat can lick a fig.",
+      "script": "Read aloud, warmly, at storytime pace: \"a cat can lick a fig.\"",
+      "file": "line-a-cat-can-lick-16bc86.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-fat-cat-7cb01a",
+      "kind": "line",
+      "text": "a fat cat",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat cat\"",
+      "file": "line-a-fat-cat-7cb01a.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-fat-cat-naps-27beff",
+      "kind": "line",
+      "text": "a fat cat naps in a cab.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat cat naps in a cab.\"",
+      "file": "line-a-fat-cat-naps-27beff.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "line-a-fat-cat-sat-cbba58",
+      "kind": "line",
+      "text": "a fat cat sat in it.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat cat sat in it.\"",
+      "file": "line-a-fat-cat-sat-cbba58.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-fat-pig-sat-1343b1",
+      "kind": "line",
+      "text": "a fat pig sat still.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat pig sat still.\"",
+      "file": "line-a-fat-pig-sat-1343b1.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "line-a-fat-rat-34b01d",
+      "kind": "line",
+      "text": "a fat rat",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat rat\"",
+      "file": "line-a-fat-rat-34b01d.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-a-fat-rat-did-256ab5",
+      "kind": "line",
+      "text": "a fat rat did dash in.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat rat did dash in.\"",
+      "file": "line-a-fat-rat-did-256ab5.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-a-fat-rat-ran-92728f",
+      "kind": "line",
+      "text": "a fat rat ran at a cat.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fat rat ran at a cat.\"",
+      "file": "line-a-fat-rat-ran-92728f.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "line-a-fig-e29a7c",
+      "kind": "line",
+      "text": "a fig",
+      "script": "Read aloud, warmly, at storytime pace: \"a fig\"",
+      "file": "line-a-fig-e29a7c.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-fish-19233a",
+      "kind": "line",
+      "text": "a fish",
+      "script": "Read aloud, warmly, at storytime pace: \"a fish\"",
+      "file": "line-a-fish-19233a.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-a-fish-can-swim-803b6d",
+      "kind": "line",
+      "text": "a fish can swim in a big dish.",
+      "script": "Read aloud, warmly, at storytime pace: \"a fish can swim in a big dish.\"",
+      "file": "line-a-fish-can-swim-803b6d.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-a-napkin-can-fit-510d82",
+      "kind": "line",
+      "text": "a napkin can fit in a cap.",
+      "script": "Read aloud, warmly, at storytime pace: \"a napkin can fit in a cap.\"",
+      "file": "line-a-napkin-can-fit-510d82.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "line-a-rat-047346",
+      "kind": "line",
+      "text": "a rat",
+      "script": "Read aloud, warmly, at storytime pace: \"a rat\"",
+      "file": "line-a-rat-047346.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-a-rat-can-nip-151b9b",
+      "kind": "line",
+      "text": "a rat can nip at cash.",
+      "script": "Read aloud, warmly, at storytime pace: \"a rat can nip at cash.\"",
+      "file": "line-a-rat-can-nip-151b9b.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-dad-and-sam-swim-0a3d88",
+      "kind": "line",
+      "text": "dad and sam swim a lap.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad and sam swim a lap.\"",
+      "file": "line-dad-and-sam-swim-0a3d88.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "line-dad-did-dash-in-d082ae",
+      "kind": "line",
+      "text": "dad did dash in and it ran.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad did dash in and it ran.\"",
+      "file": "line-dad-did-dash-in-d082ae.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-dad-did-grin-at-fec632",
+      "kind": "line",
+      "text": "dad did grin at sam and pam.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad did grin at sam and pam.\"",
+      "file": "line-dad-did-grin-at-fec632.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "line-dad-had-a-bat-0cc6f7",
+      "kind": "line",
+      "text": "dad had a bat.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad had a bat.\"",
+      "file": "line-dad-had-a-bat-0cc6f7.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "line-dad-had-a-big-6fac39",
+      "kind": "line",
+      "text": "dad had a big van.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad had a big van.\"",
+      "file": "line-dad-had-a-big-6fac39.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "line-dad-hid-cash-in-c0a60c",
+      "kind": "line",
+      "text": "dad hid cash in a shack.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad hid cash in a shack.\"",
+      "file": "line-dad-hid-cash-in-c0a60c.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-dad-hid-it-in-5a5d7c",
+      "kind": "line",
+      "text": "dad hid it in a shack.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad hid it in a shack.\"",
+      "file": "line-dad-hid-it-in-5a5d7c.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-dad-lit-a-big-61f702",
+      "kind": "line",
+      "text": "dad lit a big lamp.",
+      "script": "Read aloud, warmly, at storytime pace: \"dad lit a big lamp.\"",
+      "file": "line-dad-lit-a-big-61f702.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "line-it-did-nip-at-328d8c",
+      "kind": "line",
+      "text": "it did nip at cash.",
+      "script": "Read aloud, warmly, at storytime pace: \"it did nip at cash.\"",
+      "file": "line-it-did-nip-at-328d8c.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-it-sat-in-a-516c13",
+      "kind": "line",
+      "text": "it sat in a sack.",
+      "script": "Read aloud, warmly, at storytime pace: \"it sat in a sack.\"",
+      "file": "line-it-sat-in-a-516c13.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-jill-will-wag-a-20d2aa",
+      "kind": "line",
+      "text": "jill will wag a twig at sam.",
+      "script": "Read aloud, warmly, at storytime pace: \"jill will wag a twig at sam.\"",
+      "file": "line-jill-will-wag-a-20d2aa.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "line-jim-had-jam-and-50dae1",
+      "kind": "line",
+      "text": "jim had jam and a fig.",
+      "script": "Read aloud, warmly, at storytime pace: \"jim had jam and a fig.\"",
+      "file": "line-jim-had-jam-and-50dae1.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "line-jim-hid-a-wig-358e86",
+      "kind": "line",
+      "text": "jim hid a wig in a bag.",
+      "script": "Read aloud, warmly, at storytime pace: \"jim hid a wig in a bag.\"",
+      "file": "line-jim-hid-a-wig-358e86.mp3",
+      "days": [
+        18
+      ]
+    },
+    {
+      "id": "line-jim-slid-and-hid-f9d25b",
+      "kind": "line",
+      "text": "jim slid and hid in a bin.",
+      "script": "Read aloud, warmly, at storytime pace: \"jim slid and hid in a bin.\"",
+      "file": "line-jim-slid-and-hid-f9d25b.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "line-jim-will-pick-a-1c828e",
+      "kind": "line",
+      "text": "jim will pick a fat fig.",
+      "script": "Read aloud, warmly, at storytime pace: \"jim will pick a fat fig.\"",
+      "file": "line-jim-will-pick-a-1c828e.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-kim-did-grin-at-a09f3f",
+      "kind": "line",
+      "text": "kim did grin at a cat in a sack.",
+      "script": "Read aloud, warmly, at storytime pace: \"kim did grin at a cat in a sack.\"",
+      "file": "line-kim-did-grin-at-a09f3f.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-kim-did-pack-a-738cd6",
+      "kind": "line",
+      "text": "kim did pack a fig in a sack.",
+      "script": "Read aloud, warmly, at storytime pace: \"kim did pack a fig in a sack.\"",
+      "file": "line-kim-did-pack-a-738cd6.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-kim-did-pack-it-99cde8",
+      "kind": "line",
+      "text": "kim did pack it in a sack.",
+      "script": "Read aloud, warmly, at storytime pace: \"kim did pack it in a sack.\"",
+      "file": "line-kim-did-pack-it-99cde8.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-kim-did-pat-a-c14295",
+      "kind": "line",
+      "text": "kim did pat a fat cat.",
+      "script": "Read aloud, warmly, at storytime pace: \"kim did pat a fat cat.\"",
+      "file": "line-kim-did-pat-a-c14295.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "line-kim-had-cash-in-03b4ca",
+      "kind": "line",
+      "text": "kim had cash in a big sack.",
+      "script": "Read aloud, warmly, at storytime pace: \"kim had cash in a big sack.\"",
+      "file": "line-kim-had-cash-in-03b4ca.mp3",
+      "days": [
+        22
+      ]
+    },
+    {
+      "id": "line-pam-and-jill-did-41a077",
+      "kind": "line",
+      "text": "pam and jill did a jig.",
+      "script": "Read aloud, warmly, at storytime pace: \"pam and jill did a jig.\"",
+      "file": "line-pam-and-jill-did-41a077.mp3",
+      "days": [
+        15
+      ]
+    },
+    {
+      "id": "line-pam-and-jim-fill-ac1261",
+      "kind": "line",
+      "text": "pam and jim fill a vast vat.",
+      "script": "Read aloud, warmly, at storytime pace: \"pam and jim fill a vast vat.\"",
+      "file": "line-pam-and-jim-fill-ac1261.mp3",
+      "days": [
+        17
+      ]
+    },
+    {
+      "id": "line-pam-and-tim-dig-c9a07b",
+      "kind": "line",
+      "text": "pam and tim dig a pit.",
+      "script": "Read aloud, warmly, at storytime pace: \"pam and tim dig a pit.\"",
+      "file": "line-pam-and-tim-dig-c9a07b.mp3",
+      "days": [
+        14
+      ]
+    },
+    {
+      "id": "line-pam-did-kick-a-9994bc",
+      "kind": "line",
+      "text": "pam did kick a can at dan.",
+      "script": "Read aloud, warmly, at storytime pace: \"pam did kick a can at dan.\"",
+      "file": "line-pam-did-kick-a-9994bc.mp3",
+      "days": [
+        21
+      ]
+    },
+    {
+      "id": "line-pam-hid-a-bib-e0898c",
+      "kind": "line",
+      "text": "pam hid a bib.",
+      "script": "Read aloud, warmly, at storytime pace: \"pam hid a bib.\"",
+      "file": "line-pam-hid-a-bib-e0898c.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "line-sam-and-dad-dig-2ede96",
+      "kind": "line",
+      "text": "sam and dad dig.",
+      "script": "Read aloud, warmly, at storytime pace: \"sam and dad dig.\"",
+      "file": "line-sam-and-dad-dig-2ede96.mp3",
+      "days": [
+        13
+      ]
+    },
+    {
+      "id": "line-sam-can-clap-and-b74e32",
+      "kind": "line",
+      "text": "sam can clap and pam can tap.",
+      "script": "Read aloud, warmly, at storytime pace: \"sam can clap and pam can tap.\"",
+      "file": "line-sam-can-clap-and-b74e32.mp3",
+      "days": [
+        16
+      ]
+    },
+    {
+      "id": "line-sam-can-skip-and-eba773",
+      "kind": "line",
+      "text": "sam can skip and kim can win.",
+      "script": "Read aloud, warmly, at storytime pace: \"sam can skip and kim can win.\"",
+      "file": "line-sam-can-skip-and-eba773.mp3",
+      "days": [
+        20
+      ]
+    },
+    {
+      "id": "line-tim-can-grin-at-41224a",
+      "kind": "line",
+      "text": "tim can grin at a big ram.",
+      "script": "Read aloud, warmly, at storytime pace: \"tim can grin at a big ram.\"",
+      "file": "line-tim-can-grin-at-41224a.mp3",
+      "days": [
+        19
+      ]
+    },
+    {
+      "id": "line-tim-hid-a-clam-6de4ad",
+      "kind": "line",
+      "text": "tim hid a clam in a cap.",
+      "script": "Read aloud, warmly, at storytime pace: \"tim hid a clam in a cap.\"",
+      "file": "line-tim-hid-a-clam-6de4ad.mp3",
+      "days": [
+        16
+      ]
+    }
+  ]
+}

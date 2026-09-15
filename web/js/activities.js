@@ -75,9 +75,18 @@ Activities.soundIntro = (act, ctx) => {
       nextBtn('My turn', ctx)));
 
   const enter = async () => {
-    await Speech.say('This one says');
-    await Speech.sound(entry);
-    if (keyword) { await sleep(180); await Speech.say(`${entry.say}, like in ${keyword}`); }
+    if (Speech.hasSound(entry)) {
+      await Speech.say('This one says');
+      await Speech.sound(entry);
+      if (keyword) { await sleep(180); await Speech.say(`like in ${keyword}`); }
+    } else if (keyword) {
+      // Nobody has recorded this sound yet, so the app doesn't pretend to make
+      // it -- it gives the child the word and lets the grown-up say the sound.
+      await Speech.say(`Listen to the ${wherePhrase(entry.display, keyword)} in`);
+      await Speech.word(keyword);
+      await sleep(120);
+      await Speech.word(keyword);
+    }
   };
   return { node, enter };
 };
@@ -90,7 +99,13 @@ Activities.soundMatch = (act, ctx) => {
   const instruction = act.prompt || 'Which one says this sound?';
   const tiles = el('div', { class: 'tiles' });
 
+  // With a recording, this plays the bare sound. Without one it plays the
+  // keyword, and "which letter does 'moon' start with?" is still a real
+  // exercise -- just an easier one.
   const ask = () => Speech.sound(target, { rate: 0.6 });
+  const askLead = () => (Speech.hasSound(target)
+    ? Promise.resolve()
+    : Speech.say(`Which one starts ${target.keyword}?`));
 
   for (const gid of choices) {
     const entry = ctx.phon[gid] || { display: gid };
@@ -115,7 +130,10 @@ Activities.soundMatch = (act, ctx) => {
 
   const node = screen(instruction, tiles,
     el('div', { class: 'actions' }, speakBtn('Play the sound', ask)));
-  return { node, enter: async () => { await Speech.say(instruction); await ask(); } };
+  return {
+    node,
+    enter: async () => { await Speech.say(instruction); await askLead(); await ask(); },
+  };
 };
 
 /* blend -- the heart of the whole thing ------------------------------------ */
