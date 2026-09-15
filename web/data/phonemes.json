@@ -1,0 +1,746 @@
+{
+  "a": {
+    "id": "a",
+    "display": "a",
+    "say": "aah",
+    "keyword": "apple",
+    "kind": "vowel",
+    "stretchy": true
+  },
+  "m": {
+    "id": "m",
+    "display": "m",
+    "say": "mmm",
+    "keyword": "moon",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "s": {
+    "id": "s",
+    "display": "s",
+    "say": "sss",
+    "keyword": "sun",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "t": {
+    "id": "t",
+    "display": "t",
+    "say": "t",
+    "keyword": "top",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "f": {
+    "id": "f",
+    "display": "f",
+    "say": "fff",
+    "keyword": "fish",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "d": {
+    "id": "d",
+    "display": "d",
+    "say": "d",
+    "keyword": "dog",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "g": {
+    "id": "g",
+    "display": "g",
+    "say": "g",
+    "keyword": "goat",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "i": {
+    "id": "i",
+    "display": "i",
+    "say": "ih",
+    "keyword": "igloo",
+    "kind": "vowel",
+    "stretchy": true
+  },
+  "n": {
+    "id": "n",
+    "display": "n",
+    "say": "nnn",
+    "keyword": "nest",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "p": {
+    "id": "p",
+    "display": "p",
+    "say": "p",
+    "keyword": "pig",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "h": {
+    "id": "h",
+    "display": "h",
+    "say": "hh",
+    "keyword": "hat",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "b": {
+    "id": "b",
+    "display": "b",
+    "say": "b",
+    "keyword": "bug",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "l": {
+    "id": "l",
+    "display": "l",
+    "say": "lll",
+    "keyword": "leaf",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "ll": {
+    "id": "ll",
+    "display": "ll",
+    "say": "lll",
+    "keyword": "hill",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "j": {
+    "id": "j",
+    "display": "j",
+    "say": "j",
+    "keyword": "jam",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "c": {
+    "id": "c",
+    "display": "c",
+    "say": "k",
+    "keyword": "cat",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "v": {
+    "id": "v",
+    "display": "v",
+    "say": "vvv",
+    "keyword": "van",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "w": {
+    "id": "w",
+    "display": "w",
+    "say": "wuh",
+    "keyword": "web",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "r": {
+    "id": "r",
+    "display": "r",
+    "say": "rrr",
+    "keyword": "rat",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "k": {
+    "id": "k",
+    "display": "k",
+    "say": "k",
+    "keyword": "kite",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "ck": {
+    "id": "ck",
+    "display": "ck",
+    "say": "k",
+    "keyword": "duck",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "sh": {
+    "id": "sh",
+    "display": "sh",
+    "say": "shh",
+    "keyword": "ship",
+    "kind": "digraph",
+    "stretchy": true
+  },
+  "ch": {
+    "id": "ch",
+    "display": "ch",
+    "say": "ch",
+    "keyword": "chip",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "th": {
+    "id": "th",
+    "display": "th",
+    "say": "thh",
+    "keyword": "this",
+    "kind": "digraph",
+    "stretchy": true
+  },
+  "o": {
+    "id": "o",
+    "display": "o",
+    "say": "awe",
+    "keyword": "otter",
+    "kind": "vowel",
+    "stretchy": true
+  },
+  "u": {
+    "id": "u",
+    "display": "u",
+    "say": "uh",
+    "keyword": "up",
+    "kind": "vowel",
+    "stretchy": true
+  },
+  "e": {
+    "id": "e",
+    "display": "e",
+    "say": "eh",
+    "keyword": "egg",
+    "kind": "vowel",
+    "stretchy": true
+  },
+  "y": {
+    "id": "y",
+    "display": "y",
+    "say": "yuh",
+    "keyword": "yak",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "x": {
+    "id": "x",
+    "display": "x",
+    "say": "ks",
+    "keyword": "box",
+    "kind": "consonant",
+    "stretchy": false
+  },
+  "z": {
+    "id": "z",
+    "display": "z",
+    "say": "zzz",
+    "keyword": "zip",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "zz": {
+    "id": "zz",
+    "display": "zz",
+    "say": "zzz",
+    "keyword": "jazz",
+    "kind": "consonant",
+    "stretchy": true
+  },
+  "qu": {
+    "id": "qu",
+    "display": "qu",
+    "say": "kw",
+    "keyword": "queen",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "wh": {
+    "id": "wh",
+    "display": "wh",
+    "say": "wuh",
+    "keyword": "whale",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "ng": {
+    "id": "ng",
+    "display": "ng",
+    "say": "ng",
+    "keyword": "king",
+    "kind": "digraph",
+    "stretchy": true
+  },
+  "nk": {
+    "id": "nk",
+    "display": "nk",
+    "say": "nk",
+    "keyword": "pink",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "nd": {
+    "id": "nd",
+    "display": "nd",
+    "say": "nd",
+    "keyword": "sand",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "mp": {
+    "id": "mp",
+    "display": "mp",
+    "say": "mp",
+    "keyword": "camp",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "ft": {
+    "id": "ft",
+    "display": "ft",
+    "say": "ft",
+    "keyword": "gift",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "st": {
+    "id": "st",
+    "display": "st",
+    "say": "sst",
+    "keyword": "stop",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "sn": {
+    "id": "sn",
+    "display": "sn",
+    "say": "ssn",
+    "keyword": "snack",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "sw": {
+    "id": "sw",
+    "display": "sw",
+    "say": "ssw",
+    "keyword": "swim",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "fl": {
+    "id": "fl",
+    "display": "fl",
+    "say": "ffl",
+    "keyword": "flag",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "fr": {
+    "id": "fr",
+    "display": "fr",
+    "say": "ffr",
+    "keyword": "frog",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "sc": {
+    "id": "sc",
+    "display": "sc",
+    "say": "ssk",
+    "keyword": "scat",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "sk": {
+    "id": "sk",
+    "display": "sk",
+    "say": "ssk",
+    "keyword": "skip",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "sp": {
+    "id": "sp",
+    "display": "sp",
+    "say": "ssp",
+    "keyword": "spin",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "bl": {
+    "id": "bl",
+    "display": "bl",
+    "say": "bl",
+    "keyword": "block",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "cl": {
+    "id": "cl",
+    "display": "cl",
+    "say": "kl",
+    "keyword": "club",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "pl": {
+    "id": "pl",
+    "display": "pl",
+    "say": "pl",
+    "keyword": "plan",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "br": {
+    "id": "br",
+    "display": "br",
+    "say": "br",
+    "keyword": "brick",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "tr": {
+    "id": "tr",
+    "display": "tr",
+    "say": "tr",
+    "keyword": "truck",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "cr": {
+    "id": "cr",
+    "display": "cr",
+    "say": "kr",
+    "keyword": "crab",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "dr": {
+    "id": "dr",
+    "display": "dr",
+    "say": "dr",
+    "keyword": "drum",
+    "kind": "blend",
+    "stretchy": false
+  },
+  "ie": {
+    "id": "ie",
+    "display": "ie",
+    "say": "eye",
+    "keyword": "pie",
+    "kind": "team",
+    "stretchy": true
+  },
+  "oe": {
+    "id": "oe",
+    "display": "oe",
+    "say": "oh",
+    "keyword": "toes",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ue": {
+    "id": "ue",
+    "display": "ue",
+    "say": "oo",
+    "keyword": "blue",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ee": {
+    "id": "ee",
+    "display": "ee",
+    "say": "ee",
+    "keyword": "bee",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ea": {
+    "id": "ea",
+    "display": "ea",
+    "say": "ee",
+    "keyword": "sea",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ai": {
+    "id": "ai",
+    "display": "ai",
+    "say": "ay",
+    "keyword": "rain",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ay": {
+    "id": "ay",
+    "display": "ay",
+    "say": "ay",
+    "keyword": "day",
+    "kind": "team",
+    "stretchy": true
+  },
+  "oa": {
+    "id": "oa",
+    "display": "oa",
+    "say": "oh",
+    "keyword": "boat",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ow": {
+    "id": "ow",
+    "display": "ow",
+    "say": "oh",
+    "keyword": "snow",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ou": {
+    "id": "ou",
+    "display": "ou",
+    "say": "ow",
+    "keyword": "loud",
+    "kind": "team",
+    "stretchy": true
+  },
+  "oi": {
+    "id": "oi",
+    "display": "oi",
+    "say": "oy",
+    "keyword": "coin",
+    "kind": "team",
+    "stretchy": true
+  },
+  "oy": {
+    "id": "oy",
+    "display": "oy",
+    "say": "oy",
+    "keyword": "toy",
+    "kind": "team",
+    "stretchy": true
+  },
+  "aw": {
+    "id": "aw",
+    "display": "aw",
+    "say": "aw",
+    "keyword": "saw",
+    "kind": "team",
+    "stretchy": true
+  },
+  "oo": {
+    "id": "oo",
+    "display": "oo",
+    "say": "oo",
+    "keyword": "moon",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ew": {
+    "id": "ew",
+    "display": "ew",
+    "say": "oo",
+    "keyword": "flew",
+    "kind": "team",
+    "stretchy": true
+  },
+  "igh": {
+    "id": "igh",
+    "display": "igh",
+    "say": "eye",
+    "keyword": "night",
+    "kind": "team",
+    "stretchy": true
+  },
+  "air": {
+    "id": "air",
+    "display": "air",
+    "say": "air",
+    "keyword": "chair",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ar": {
+    "id": "ar",
+    "display": "ar",
+    "say": "arr",
+    "keyword": "car",
+    "kind": "team",
+    "stretchy": true
+  },
+  "or": {
+    "id": "or",
+    "display": "or",
+    "say": "or",
+    "keyword": "fork",
+    "kind": "team",
+    "stretchy": true
+  },
+  "er": {
+    "id": "er",
+    "display": "er",
+    "say": "er",
+    "keyword": "her",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ir": {
+    "id": "ir",
+    "display": "ir",
+    "say": "er",
+    "keyword": "bird",
+    "kind": "team",
+    "stretchy": true
+  },
+  "ur": {
+    "id": "ur",
+    "display": "ur",
+    "say": "er",
+    "keyword": "fur",
+    "kind": "team",
+    "stretchy": true
+  },
+  "a_e": {
+    "id": "a_e",
+    "display": "a-e",
+    "say": "ay",
+    "keyword": "cake",
+    "kind": "silent-e",
+    "stretchy": true
+  },
+  "i_e": {
+    "id": "i_e",
+    "display": "i-e",
+    "say": "eye",
+    "keyword": "kite",
+    "kind": "silent-e",
+    "stretchy": true
+  },
+  "o_e": {
+    "id": "o_e",
+    "display": "o-e",
+    "say": "oh",
+    "keyword": "home",
+    "kind": "silent-e",
+    "stretchy": true
+  },
+  "u_e": {
+    "id": "u_e",
+    "display": "u-e",
+    "say": "oo",
+    "keyword": "flute",
+    "kind": "silent-e",
+    "stretchy": true
+  },
+  "e_e": {
+    "id": "e_e",
+    "display": "e-e",
+    "say": "ee",
+    "keyword": "eve",
+    "kind": "silent-e",
+    "stretchy": true
+  },
+  "all": {
+    "id": "all",
+    "display": "all",
+    "say": "all",
+    "keyword": "ball",
+    "kind": "team",
+    "stretchy": true
+  },
+  "alk": {
+    "id": "alk",
+    "display": "alk",
+    "say": "awk",
+    "keyword": "walk",
+    "kind": "team",
+    "stretchy": true
+  },
+  "kn": {
+    "id": "kn",
+    "display": "kn",
+    "say": "nnn",
+    "keyword": "knock",
+    "kind": "silent-letter",
+    "stretchy": true
+  },
+  "wr": {
+    "id": "wr",
+    "display": "wr",
+    "say": "rrr",
+    "keyword": "write",
+    "kind": "silent-letter",
+    "stretchy": true
+  },
+  "ge": {
+    "id": "ge",
+    "display": "ge",
+    "say": "j",
+    "keyword": "cage",
+    "kind": "digraph",
+    "stretchy": false
+  },
+  "-s": {
+    "id": "-s",
+    "display": "-s",
+    "say": "sss",
+    "keyword": "cats",
+    "kind": "suffix",
+    "stretchy": true
+  },
+  "-ed": {
+    "id": "-ed",
+    "display": "-ed",
+    "say": "ed",
+    "keyword": "landed",
+    "kind": "suffix",
+    "stretchy": false
+  },
+  "-le": {
+    "id": "-le",
+    "display": "-le",
+    "say": "ul",
+    "keyword": "little",
+    "kind": "suffix",
+    "stretchy": true
+  },
+  "-e": {
+    "id": "-e",
+    "display": "-e",
+    "say": "ee",
+    "keyword": "me",
+    "kind": "team",
+    "stretchy": true
+  },
+  "-o": {
+    "id": "-o",
+    "display": "-o",
+    "say": "oh",
+    "keyword": "go",
+    "kind": "team",
+    "stretchy": true
+  },
+  "-y": {
+    "id": "-y",
+    "display": "-y",
+    "say": "eye",
+    "keyword": "fly",
+    "kind": "team",
+    "stretchy": true
+  },
+  "-ey": {
+    "id": "-ey",
+    "display": "-y",
+    "say": "ee",
+    "keyword": "happy",
+    "kind": "team",
+    "stretchy": true
+  },
+  "-ie": {
+    "id": "-ie",
+    "display": "-ie",
+    "say": "ee",
+    "keyword": "cookie",
+    "kind": "team",
+    "stretchy": true
+  }
+}

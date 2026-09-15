@@ -1,0 +1,2821 @@
+{
+  "source": "Order of concepts follows the public Mentava Scope and Sequence; all lesson content on this site is original.",
+  "stages": [
+    {
+      "number": 1,
+      "name": "Letters and first words",
+      "range": [
+        1,
+        20
+      ],
+      "blurb": "One letter at a time, and the first words you can sound out."
+    },
+    {
+      "number": 2,
+      "name": "Letter teams and blends",
+      "range": [
+        21,
+        50
+      ],
+      "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+    },
+    {
+      "number": 3,
+      "name": "Long vowels and silent e",
+      "range": [
+        51,
+        71
+      ],
+      "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+    },
+    {
+      "number": 4,
+      "name": "Vowel teams and tricky spellings",
+      "range": [
+        72,
+        103
+      ],
+      "blurb": "Vowels that work in pairs, and the words English spells oddly."
+    },
+    {
+      "number": 5,
+      "name": "On to real books",
+      "range": [
+        104,
+        120
+      ],
+      "blurb": "The last common words and endings, then real books."
+    }
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "kind": "phonics",
+      "focus": "a says /a/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "a"
+      ],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 2,
+      "kind": "phonics",
+      "focus": "m says /m/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "m"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "am"
+      ]
+    },
+    {
+      "level": 3,
+      "kind": "phonics",
+      "focus": "s says /s/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "s"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "sam"
+      ]
+    },
+    {
+      "level": 4,
+      "kind": "phonics",
+      "focus": "t says /t/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "t"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "sat",
+        "mat",
+        "at"
+      ]
+    },
+    {
+      "level": 5,
+      "kind": "review",
+      "focus": "Reading left to right",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 6,
+      "kind": "phonics",
+      "focus": "f says /f/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "f"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "fat"
+      ]
+    },
+    {
+      "level": 7,
+      "kind": "phonics",
+      "focus": "d says /d/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "d"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "sad",
+        "mad"
+      ]
+    },
+    {
+      "level": 8,
+      "kind": "phonics",
+      "focus": "g says /g/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "g"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "sag",
+        "gas"
+      ]
+    },
+    {
+      "level": 9,
+      "kind": "phonics",
+      "focus": "i says /i/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "i"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "fit",
+        "fig",
+        "sit",
+        "dig",
+        "it"
+      ]
+    },
+    {
+      "level": 10,
+      "kind": "phonics",
+      "focus": "n says /n/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "n"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "fin",
+        "man",
+        "in",
+        "fan",
+        "an"
+      ]
+    },
+    {
+      "level": 11,
+      "kind": "phonics",
+      "focus": "p says /p/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "p"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "pig",
+        "nap",
+        "pan",
+        "pit",
+        "pat"
+      ]
+    },
+    {
+      "level": 12,
+      "kind": "phonics",
+      "focus": "h says /h/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "h"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "hit",
+        "him",
+        "had",
+        "hid",
+        "ham"
+      ]
+    },
+    {
+      "level": 13,
+      "kind": "phonics",
+      "focus": "b says /b/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "b"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "bag",
+        "big",
+        "bat"
+      ]
+    },
+    {
+      "level": 14,
+      "kind": "phonics",
+      "focus": "l says /l/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "l",
+        "ll"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "lip",
+        "lap",
+        "lit",
+        "lid",
+        "hill",
+        "fill"
+      ]
+    },
+    {
+      "level": 15,
+      "kind": "phonics",
+      "focus": "j says /j/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "j"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "jam",
+        "jim"
+      ]
+    },
+    {
+      "level": 16,
+      "kind": "phonics",
+      "focus": "c says /k/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "c"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "can",
+        "cat",
+        "cab",
+        "cap"
+      ]
+    },
+    {
+      "level": 17,
+      "kind": "phonics",
+      "focus": "v says /v/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "v"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "van"
+      ]
+    },
+    {
+      "level": 18,
+      "kind": "phonics",
+      "focus": "w says /w/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "w"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "win",
+        "wig"
+      ]
+    },
+    {
+      "level": 19,
+      "kind": "phonics",
+      "focus": "r says /r/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "r"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "rat",
+        "rip",
+        "ran"
+      ]
+    },
+    {
+      "level": 20,
+      "kind": "phonics",
+      "focus": "k says /k/",
+      "stage": {
+        "number": 1,
+        "name": "Letters and first words",
+        "range": [
+          1,
+          20
+        ],
+        "blurb": "One letter at a time, and the first words you can sound out."
+      },
+      "graphemes": [
+        "k"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "kid",
+        "napkin"
+      ]
+    },
+    {
+      "level": 21,
+      "kind": "phonics",
+      "focus": "ck says /k/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "ck"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "pick",
+        "pack",
+        "lick"
+      ]
+    },
+    {
+      "level": 22,
+      "kind": "phonics",
+      "focus": "sh says /sh/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "sh"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "ship",
+        "fish",
+        "shack",
+        "wish",
+        "dash"
+      ]
+    },
+    {
+      "level": 23,
+      "kind": "phonics",
+      "focus": "ch says /ch/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "ch"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "chick",
+        "chip",
+        "rich",
+        "chat"
+      ]
+    },
+    {
+      "level": 24,
+      "kind": "phonics",
+      "focus": "th says /th/ (voiced)",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "th"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "that",
+        "this",
+        "than"
+      ]
+    },
+    {
+      "level": 25,
+      "kind": "sight",
+      "focus": "the",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "the"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 26,
+      "kind": "phonics",
+      "focus": "o says /o/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "o"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "not",
+        "rock",
+        "got",
+        "chop",
+        "shot"
+      ]
+    },
+    {
+      "level": 27,
+      "kind": "phonics",
+      "focus": "nd blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "nd"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "pond",
+        "sand",
+        "and",
+        "land"
+      ]
+    },
+    {
+      "level": 28,
+      "kind": "phonics",
+      "focus": "-s makes it plural",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "-s"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "cats",
+        "dogs"
+      ]
+    },
+    {
+      "level": 29,
+      "kind": "phonics",
+      "focus": "mp blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "mp"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "chimp",
+        "camp",
+        "lump"
+      ]
+    },
+    {
+      "level": 30,
+      "kind": "phonics",
+      "focus": "ft blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "ft"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "gift",
+        "lift",
+        "soft"
+      ]
+    },
+    {
+      "level": 31,
+      "kind": "phonics",
+      "focus": "st blend (ending)",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "st"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "lost",
+        "mist",
+        "fast"
+      ]
+    },
+    {
+      "level": 32,
+      "kind": "phonics",
+      "focus": "sn blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "sn"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "snack",
+        "snag",
+        "snip",
+        "sniff",
+        "milk"
+      ]
+    },
+    {
+      "level": 33,
+      "kind": "phonics",
+      "focus": "sw blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "sw"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "swim",
+        "swam",
+        "swag"
+      ]
+    },
+    {
+      "level": 34,
+      "kind": "phonics",
+      "focus": "fl blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "fl"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "flip",
+        "flap",
+        "flop",
+        "flag",
+        "flat"
+      ]
+    },
+    {
+      "level": 35,
+      "kind": "sight",
+      "focus": "is",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "is"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 36,
+      "kind": "phonics",
+      "focus": "fr blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "fr"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "frog",
+        "frost"
+      ]
+    },
+    {
+      "level": 37,
+      "kind": "phonics",
+      "focus": "ng says /ng/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "ng"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "long",
+        "sang",
+        "king",
+        "standing",
+        "digging"
+      ]
+    },
+    {
+      "level": 38,
+      "kind": "phonics",
+      "focus": "nk says /nk/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "nk"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "bank",
+        "wink",
+        "pink",
+        "tank",
+        "rink"
+      ]
+    },
+    {
+      "level": 39,
+      "kind": "phonics",
+      "focus": "u says /u/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "u"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "duck",
+        "jump",
+        "muffin",
+        "bus",
+        "fun"
+      ]
+    },
+    {
+      "level": 40,
+      "kind": "phonics",
+      "focus": "sc and sk blends",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "sc",
+        "sk"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "skip",
+        "mask",
+        "ask"
+      ]
+    },
+    {
+      "level": 41,
+      "kind": "phonics",
+      "focus": "st blend (starting)",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": [
+        "stand",
+        "stuck",
+        "stop",
+        "stick"
+      ]
+    },
+    {
+      "level": 42,
+      "kind": "phonics",
+      "focus": "sp blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "sp"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "spin",
+        "spot",
+        "spit"
+      ]
+    },
+    {
+      "level": 43,
+      "kind": "phonics",
+      "focus": "sk blend (starting)",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": [
+        "skip",
+        "skunk",
+        "skin",
+        "skim"
+      ]
+    },
+    {
+      "level": 44,
+      "kind": "phonics",
+      "focus": "e says /e/",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "best",
+        "pet",
+        "left",
+        "hen",
+        "red"
+      ]
+    },
+    {
+      "level": 45,
+      "kind": "sight",
+      "focus": "they",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "they"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 46,
+      "kind": "phonics",
+      "focus": "bl blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "bl"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "blimp",
+        "black",
+        "block",
+        "blond"
+      ]
+    },
+    {
+      "level": 47,
+      "kind": "phonics",
+      "focus": "cl blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "cl"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "clams",
+        "cliff",
+        "club",
+        "cluck",
+        "class"
+      ]
+    },
+    {
+      "level": 48,
+      "kind": "phonics",
+      "focus": "pl blend",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "pl"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "plant",
+        "plum",
+        "plan",
+        "plus",
+        "plot"
+      ]
+    },
+    {
+      "level": 49,
+      "kind": "phonics",
+      "focus": "br and tr blends",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "br",
+        "tr"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "bring",
+        "brush",
+        "brick",
+        "truck",
+        "trod",
+        "trip"
+      ]
+    },
+    {
+      "level": 50,
+      "kind": "phonics",
+      "focus": "cr and dr blends",
+      "stage": {
+        "number": 2,
+        "name": "Letter teams and blends",
+        "range": [
+          21,
+          50
+        ],
+        "blurb": "Two letters that make one sound, and words that start or end with two sounds."
+      },
+      "graphemes": [
+        "cr",
+        "dr"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "crush",
+        "crab",
+        "craft",
+        "drink",
+        "drag",
+        "drum"
+      ]
+    },
+    {
+      "level": 51,
+      "kind": "phonics",
+      "focus": "ie says /ie/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ie"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "pie",
+        "lie",
+        "ties",
+        "flies",
+        "cries"
+      ]
+    },
+    {
+      "level": 52,
+      "kind": "phonics",
+      "focus": "i_e (silent e)",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "i_e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "time",
+        "hike",
+        "ride",
+        "slide",
+        "kite"
+      ]
+    },
+    {
+      "level": 53,
+      "kind": "phonics",
+      "focus": "oe says /oe/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "oe"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "toes",
+        "doe",
+        "goes"
+      ]
+    },
+    {
+      "level": 54,
+      "kind": "phonics",
+      "focus": "o_e (silent e)",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "o_e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "rode",
+        "home",
+        "stone",
+        "hope",
+        "broke"
+      ]
+    },
+    {
+      "level": 55,
+      "kind": "phonics",
+      "focus": "the long a sound",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 56,
+      "kind": "phonics",
+      "focus": "a_e (silent e)",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "a_e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "cake",
+        "plane",
+        "snake",
+        "plate",
+        "came"
+      ]
+    },
+    {
+      "level": 57,
+      "kind": "phonics",
+      "focus": "ue says /oo/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ue"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "blue",
+        "glue",
+        "true"
+      ]
+    },
+    {
+      "level": 58,
+      "kind": "phonics",
+      "focus": "u_e (silent e)",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "u_e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "tune",
+        "flute",
+        "june",
+        "tube",
+        "dune"
+      ]
+    },
+    {
+      "level": 59,
+      "kind": "phonics",
+      "focus": "ee says /ee/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ee"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "bee",
+        "tree",
+        "street",
+        "sheep",
+        "sleep"
+      ]
+    },
+    {
+      "level": 60,
+      "kind": "phonics",
+      "focus": "e_e (silent e)",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "e_e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "pete",
+        "steve",
+        "eve",
+        "here"
+      ]
+    },
+    {
+      "level": 61,
+      "kind": "review",
+      "focus": "Review: silent e",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 62,
+      "kind": "phonics",
+      "focus": "ar says /ar/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ar"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "car",
+        "art",
+        "star",
+        "shark",
+        "farm"
+      ]
+    },
+    {
+      "level": 63,
+      "kind": "sight",
+      "focus": "are",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "are"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 64,
+      "kind": "phonics",
+      "focus": "or says /or/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "or"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "for",
+        "corn",
+        "fork",
+        "morning",
+        "storm"
+      ]
+    },
+    {
+      "level": 65,
+      "kind": "phonics",
+      "focus": "er says /er/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "er"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "her",
+        "after",
+        "under",
+        "sister",
+        "dinner"
+      ]
+    },
+    {
+      "level": 66,
+      "kind": "phonics",
+      "focus": "ir says /er/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ir"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "girl",
+        "bird",
+        "shirt",
+        "chirp",
+        "stir"
+      ]
+    },
+    {
+      "level": 67,
+      "kind": "phonics",
+      "focus": "ur says /er/",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [
+        "ur"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "fur",
+        "hurt",
+        "burn",
+        "surf",
+        "curl"
+      ]
+    },
+    {
+      "level": 68,
+      "kind": "review",
+      "focus": "Review: bossy r",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 69,
+      "kind": "review",
+      "focus": "Review: silent e + bossy r",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 70,
+      "kind": "sight",
+      "focus": "I, want",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "i",
+        "want"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 71,
+      "kind": "sight",
+      "focus": "to, do",
+      "stage": {
+        "number": 3,
+        "name": "Long vowels and silent e",
+        "range": [
+          51,
+          71
+        ],
+        "blurb": "The letter that sneaks onto the end of a word and changes the vowel."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "to",
+        "do"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 72,
+      "kind": "phonics",
+      "focus": "ay says /ae/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "ay"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "day",
+        "hay",
+        "play",
+        "stay",
+        "spray"
+      ]
+    },
+    {
+      "level": 73,
+      "kind": "phonics",
+      "focus": "ai says /ae/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "ai"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "rain",
+        "tail",
+        "trail",
+        "wait",
+        "paint"
+      ]
+    },
+    {
+      "level": 74,
+      "kind": "review",
+      "focus": "Review: ay and ai",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 75,
+      "kind": "phonics",
+      "focus": "ea says /ee/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "ea"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "sea",
+        "read",
+        "treat",
+        "dream",
+        "clean"
+      ]
+    },
+    {
+      "level": 76,
+      "kind": "phonics",
+      "focus": "oa says /oe/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "oa"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "boat",
+        "soap",
+        "toad",
+        "toast",
+        "float"
+      ]
+    },
+    {
+      "level": 77,
+      "kind": "phonics",
+      "focus": "ow says /oe/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "ow"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "row",
+        "show",
+        "snow",
+        "own",
+        "blow"
+      ]
+    },
+    {
+      "level": 78,
+      "kind": "review",
+      "focus": "Review: ea, oa, ow",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 79,
+      "kind": "review",
+      "focus": "Review: ay, ai, ea, oa, ow",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 80,
+      "kind": "phonics",
+      "focus": "ou says /ow/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "ou"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "found",
+        "shout",
+        "loud",
+        "ground",
+        "outside"
+      ]
+    },
+    {
+      "level": 81,
+      "kind": "phonics",
+      "focus": "oi says /oi/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "oi"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "coin",
+        "oil",
+        "boil",
+        "point",
+        "join"
+      ]
+    },
+    {
+      "level": 82,
+      "kind": "phonics",
+      "focus": "oy says /oi/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "oy"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "boy",
+        "toy",
+        "enjoy",
+        "joy",
+        "cowboy"
+      ]
+    },
+    {
+      "level": 83,
+      "kind": "review",
+      "focus": "Review: ou, oi, oy",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 84,
+      "kind": "phonics",
+      "focus": "e at the end says /ee/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "-e"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "we",
+        "be",
+        "he",
+        "she",
+        "me"
+      ]
+    },
+    {
+      "level": 85,
+      "kind": "phonics",
+      "focus": "o at the end says /oe/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "-o"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "go",
+        "no",
+        "so",
+        "hippo",
+        "hello"
+      ]
+    },
+    {
+      "level": 86,
+      "kind": "review",
+      "focus": "Review: long e and o endings",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": []
+    },
+    {
+      "level": 87,
+      "kind": "phonics",
+      "focus": "y says /y/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "y"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "yak",
+        "yes",
+        "yum",
+        "yell",
+        "yard"
+      ]
+    },
+    {
+      "level": 88,
+      "kind": "sight",
+      "focus": "you",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "you"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 89,
+      "kind": "sight",
+      "focus": "said",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "said"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 90,
+      "kind": "phonics",
+      "focus": "qu says /kw/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "qu"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "quack",
+        "quick",
+        "squid",
+        "squish",
+        "queen"
+      ]
+    },
+    {
+      "level": 91,
+      "kind": "phonics",
+      "focus": "x says /ks/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "x"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "box",
+        "six",
+        "fox",
+        "mix",
+        "next"
+      ]
+    },
+    {
+      "level": 92,
+      "kind": "phonics",
+      "focus": "z says /z/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "z",
+        "zz"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "maze",
+        "zipper",
+        "prize",
+        "froze",
+        "jazz"
+      ]
+    },
+    {
+      "level": 93,
+      "kind": "phonics",
+      "focus": "aw says /aw/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "aw"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "saw",
+        "draw",
+        "hawk",
+        "claw",
+        "straw"
+      ]
+    },
+    {
+      "level": 94,
+      "kind": "phonics",
+      "focus": "-all says /all/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "all"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "all",
+        "ball",
+        "wall",
+        "small",
+        "mall"
+      ]
+    },
+    {
+      "level": 95,
+      "kind": "phonics",
+      "focus": "y at the end says /ie/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "-y"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "my",
+        "by",
+        "shy",
+        "fly",
+        "try"
+      ]
+    },
+    {
+      "level": 96,
+      "kind": "phonics",
+      "focus": "wh says /w/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "wh"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "why",
+        "whale",
+        "white",
+        "wheel",
+        "when"
+      ]
+    },
+    {
+      "level": 97,
+      "kind": "sight",
+      "focus": "what",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "what"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 98,
+      "kind": "sight",
+      "focus": "where",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "where"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 99,
+      "kind": "sight",
+      "focus": "there, here, of",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "there",
+        "here",
+        "of"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 100,
+      "kind": "phonics",
+      "focus": "th says /th/ (unvoiced)",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": [
+        "thing",
+        "thick",
+        "thank",
+        "throw",
+        "thunder"
+      ]
+    },
+    {
+      "level": 101,
+      "kind": "sight",
+      "focus": "could, would, should",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "could",
+        "would",
+        "should"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 102,
+      "kind": "sight",
+      "focus": "any, anywhere, many",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "any",
+        "anywhere",
+        "many"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 103,
+      "kind": "phonics",
+      "focus": "oo says /uu/ and /oo/",
+      "stage": {
+        "number": 4,
+        "name": "Vowel teams and tricky spellings",
+        "range": [
+          72,
+          103
+        ],
+        "blurb": "Vowels that work in pairs, and the words English spells oddly."
+      },
+      "graphemes": [
+        "oo"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "good",
+        "cook",
+        "foot",
+        "wood",
+        "shook",
+        "food",
+        "boot",
+        "goose",
+        "moon",
+        "pool"
+      ]
+    },
+    {
+      "level": 104,
+      "kind": "sight",
+      "focus": "house, mouse",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "house",
+        "mouse"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 105,
+      "kind": "phonics",
+      "focus": "-ed endings",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "-ed"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "opened",
+        "backed",
+        "jumped",
+        "landed"
+      ]
+    },
+    {
+      "level": 106,
+      "kind": "phonics",
+      "focus": "ow says /ow/",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [],
+      "seedWords": [
+        "how",
+        "down",
+        "brown",
+        "cow",
+        "owl"
+      ]
+    },
+    {
+      "level": 107,
+      "kind": "phonics",
+      "focus": "igh and -alk",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "igh",
+        "alk"
+      ],
+      "sightWords": [
+        "other",
+        "mother",
+        "brother"
+      ],
+      "seedWords": [
+        "high",
+        "night",
+        "bright",
+        "might",
+        "light",
+        "walk",
+        "talk"
+      ]
+    },
+    {
+      "level": 108,
+      "kind": "phonics",
+      "focus": "-le endings",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "-le"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "little",
+        "bubble",
+        "juggle",
+        "puzzle",
+        "turtle",
+        "candle"
+      ]
+    },
+    {
+      "level": 109,
+      "kind": "sight",
+      "focus": "tomorrow, today, father",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "tomorrow",
+        "today",
+        "father"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 110,
+      "kind": "sight",
+      "focus": "bye, your, friend",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "bye",
+        "your",
+        "friend"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 111,
+      "kind": "phonics",
+      "focus": "ew says /oo/",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "ew"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "flew",
+        "news",
+        "grew",
+        "chew"
+      ]
+    },
+    {
+      "level": 112,
+      "kind": "sight",
+      "focus": "again, were",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "again",
+        "were"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 113,
+      "kind": "sight",
+      "focus": "some, horse, hooray",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "some",
+        "horse",
+        "hooray"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 114,
+      "kind": "phonics",
+      "focus": "kn and wr (silent letters)",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "kn",
+        "wr"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "knew",
+        "knit",
+        "knight",
+        "knock",
+        "wrap",
+        "write",
+        "wrong"
+      ]
+    },
+    {
+      "level": 115,
+      "kind": "phonics",
+      "focus": "air, and our and eyes",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "air"
+      ],
+      "sightWords": [
+        "our",
+        "eyes"
+      ],
+      "seedWords": [
+        "air",
+        "airport",
+        "airplane",
+        "chair",
+        "hair"
+      ]
+    },
+    {
+      "level": 116,
+      "kind": "phonics",
+      "focus": "y at the end says /ee/",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "-ey"
+      ],
+      "sightWords": [
+        "who",
+        "was"
+      ],
+      "seedWords": [
+        "happy",
+        "baby",
+        "sorry",
+        "pretty",
+        "funny",
+        "every"
+      ]
+    },
+    {
+      "level": 117,
+      "kind": "sight",
+      "focus": "oh, have, put, away",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "oh",
+        "have",
+        "put",
+        "away"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 118,
+      "kind": "sight",
+      "focus": "one, whole, worth, able",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [],
+      "sightWords": [
+        "one",
+        "done",
+        "whole",
+        "worth",
+        "able",
+        "table"
+      ],
+      "seedWords": []
+    },
+    {
+      "level": 119,
+      "kind": "phonics",
+      "focus": "-ie at the end",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "-ie"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "piggie",
+        "cookie",
+        "brownie",
+        "movie"
+      ]
+    },
+    {
+      "level": 120,
+      "kind": "phonics",
+      "focus": "soft g says /j/",
+      "stage": {
+        "number": 5,
+        "name": "On to real books",
+        "range": [
+          104,
+          120
+        ],
+        "blurb": "The last common words and endings, then real books."
+      },
+      "graphemes": [
+        "ge"
+      ],
+      "sightWords": [],
+      "seedWords": [
+        "giraffe",
+        "gentle",
+        "gem",
+        "age",
+        "cage",
+        "gerald"
+      ]
+    }
+  ]
+}

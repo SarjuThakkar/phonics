@@ -1,0 +1,61 @@
+{
+  "level": 1,
+  "title": "a says /a/",
+  "kidTitle": "Meet the letter a",
+  "parentNote": "Today is one letter and one sound: a says /a/, the sound at the start of \"apple\". Say the sound, never the letter name — \"ay\" is the name, and a child who learns names first has to unlearn them before they can sound out a single word. Day one is short on purpose; five happy minutes beats twenty tired ones.",
+  "newGraphemes": ["a"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "a",
+      "keyword": "apple",
+      "picture": "🍎",
+      "mouthCue": "Open your mouth wide, like the doctor is looking in. /a/.",
+      "prompt": "This is the very first sound. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "o"],
+      "prompt": "Tap the one that says /a/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "m", "s"],
+      "prompt": "Find it again."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "e", "o"],
+      "prompt": "These three look alike. Which one says /a/?"
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "a",
+      "keyword": "ant",
+      "picture": "🐜",
+      "prompt": "Here it is again. What does it say?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "c", "t"],
+      "prompt": "Tap the one that says /a/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "i", "u"],
+      "prompt": "One more hunt."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "d", "g", "o"],
+      "prompt": "Last one. Where is /a/?"
+    }
+  ]
+}

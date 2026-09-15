@@ -1,0 +1,20 @@
+{
+  "built": [
+    1,
+    2
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "title": "a says /a/",
+      "kidTitle": "Meet the letter a",
+      "activities": 8
+    },
+    {
+      "level": 2,
+      "title": "m says /m/",
+      "kidTitle": "Meet the letter m",
+      "activities": 12
+    }
+  ]
+}

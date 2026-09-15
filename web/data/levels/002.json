@@ -1,0 +1,80 @@
+{
+  "level": 2,
+  "title": "m says /m/",
+  "kidTitle": "Meet the letter m",
+  "parentNote": "Today your child reads their first word. /m/ is a hum — you can hold it as long as you like, which makes it the easiest sound to blend onto. When you sound out \"am\", stretch the two sounds together without stopping in between: \"aaammm\", then \"am\". That run-together is the whole trick, and it is the thing that takes longest to click. If it doesn't today, it will.",
+  "newGraphemes": ["m"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "m",
+      "keyword": "moon",
+      "picture": "🌙",
+      "mouthCue": "Press your lips together and hum. /mmm/.",
+      "prompt": "A new one today. It says…"
+    },
+    {
+      "type": "soundMatch",
+      "target": "m",
+      "choices": ["m", "a"],
+      "prompt": "Which one hums?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "m",
+      "choices": ["m", "n", "w"],
+      "prompt": "These look alike. Find /m/."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "m"],
+      "prompt": "Now the other one. Which says /a/?"
+    },
+    {
+      "type": "blend",
+      "word": "am",
+      "parts": ["a", "m"],
+      "prompt": "Two sounds. Slide them together without stopping."
+    },
+    {
+      "type": "blend",
+      "word": "ma",
+      "parts": ["m", "a"],
+      "prompt": "Same two sounds, other way round. What happens?"
+    },
+    {
+      "type": "blend",
+      "word": "am",
+      "parts": ["a", "m"],
+      "prompt": "Once more, a bit faster."
+    },
+    {
+      "type": "readWord",
+      "word": "am",
+      "prompt": "Your turn, all by yourself."
+    },
+    {
+      "type": "readWord",
+      "word": "ma"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "am",
+      "choices": ["am", "ma"],
+      "prompt": "Listen carefully. Which one is it?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ma",
+      "choices": ["ma", "am"]
+    },
+    {
+      "type": "soundMatch",
+      "target": "m",
+      "choices": ["m", "a", "s", "o"],
+      "prompt": "Last hunt. Where is /m/?"
+    }
+  ]
+}
