@@ -269,6 +269,29 @@ def validate_level(path: pathlib.Path) -> Report:
     return r
 
 
+def check_speech_index() -> list[str]:
+    """Has a new lesson added sounds or phrases nobody has been asked to record?
+
+    Every new word, sentence and instruction is something a human voice will
+    eventually say, so the recording list has to grow with the course rather
+    than being rebuilt once and forgotten.
+    """
+    index_path = DATA / "speech-index.json"
+    if not index_path.exists():
+        return ["web/data/speech-index.json is missing -- run tools/build_speech_index.py"]
+    try:
+        from tools.build_speech_index import fingerprint
+    except Exception:
+        return []
+    stored = json.loads(index_path.read_text()).get("sourceFingerprint")
+    if stored != fingerprint():
+        return ["the recording list is out of date -- these lessons say things "
+                "nobody has been asked to record yet. Run:\n"
+                "        python3 tools/build_speech_index.py && "
+                "python3 tools/build_audio_manifest.py"]
+    return []
+
+
 def main() -> int:
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     quiet = "--quiet" in sys.argv
@@ -301,9 +324,12 @@ def main() -> int:
             for w in r.warnings:
                 print(f"    warn    {w}")
 
+    stale = check_speech_index() if not args else []
     if not quiet:
         print(f"\n{len(paths) - failed}/{len(paths)} levels valid")
-    return 1 if failed else 0
+        for msg in stale:
+            print(f"\n!!  {msg}")
+    return 1 if (failed or stale) else 0
 
 
 if __name__ == "__main__":

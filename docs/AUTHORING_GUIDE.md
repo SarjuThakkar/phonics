@@ -66,6 +66,11 @@ python3 tools/lexicon.py 37 king sang thing wish
 
 # 4. This must pass with zero errors. It is not advisory.
 python3 tools/validate.py 37
+
+# 5. When the whole batch is done: rebuild the day list AND the recording list.
+python3 tools/build_manifest.py
+python3 tools/build_speech_index.py
+python3 tools/build_audio_manifest.py
 ```
 
 `tools/inventory.py` is the brief. It prints the day's assignment, every sound
@@ -76,6 +81,20 @@ running is the most common way these lessons go stale.
 `tools/validate.py` enforces everything in section 2 mechanically. **Do not
 report a level as finished until it validates clean.** Warnings are worth
 fixing; errors are not negotiable.
+
+**Every new sound, word, sentence and instruction you write is something a
+human voice will eventually record.** The site plays a real recording wherever
+one exists and falls back to the browser's synthetic voice otherwise, and the
+list of what can be recorded lives in `web/data/speech-index.json`. It does not
+update itself: `tools/build_speech_index.py` rebuilds it, and a full
+`tools/validate.py` run fails if you forget, because a lesson whose lines are
+missing from that list can never be spoken in a real voice. Run the three build
+commands above at the end of every batch.
+
+This is also a reason to **reuse an instruction rather than reword it**. Ten
+lessons that all say "Your turn. Read this word." need one recording; ten
+lessons that each phrase it differently need ten. Write a custom `prompt` when
+it teaches something the default doesn't — not for variety's sake.
 
 ---
 

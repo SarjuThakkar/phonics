@@ -1,5 +1,6 @@
 {
   "note": "Every string the site speaks. Record any of them into web/audio/human/<id>.mp3 and the site will use the recording instead of the browser voice.",
+  "sourceFingerprint": "cbdc112c09a088d3",
   "counts": {
     "sound": 93,
     "ui": 16,

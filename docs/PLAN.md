@@ -55,8 +55,10 @@ The project is at /home/treehouse/services/phonics.
       BEFORE building activities around them.
    c. Write web/data/levels/<NNN>.json.
    d. `python3 tools/validate.py <day>` — fix every error AND every warning.
-4. Then `python3 tools/validate.py` (all must pass) and
-   `python3 tools/build_manifest.py`.
+4. Then `python3 tools/validate.py` (all must pass), then
+   `python3 tools/build_manifest.py`, `python3 tools/build_speech_index.py`
+   and `python3 tools/build_audio_manifest.py` -- the last two add whatever
+   your lessons newly say to the recording list.
 
 <any milestones falling in this batch: first sentences (13), first stories
 (21), capitals (23), the first digraph (22), a review day, a sight-word day>
@@ -129,13 +131,26 @@ Adding the hostname needed three things, not one: the ingress rule in
 `sudo systemctl restart cloudflared` — the config is a symlink into the repo, so
 a pull rewrites routing without applying it.
 
-## Open questions / later
+## The recorded voice
 
-- **Real recordings.** Everything is spoken by the browser's built-in voice,
-  which is good at words and mediocre at isolated sounds (see the header of
-  `tools/build_phonemes.py`). Recording ~90 grapheme sounds in a human voice is
-  the single biggest quality win available, and the engine already has the hook
-  for it.
+The site plays a human recording wherever one exists and the browser's
+synthetic voice everywhere else, and it never synthesises a bare letter sound
+at all -- synthesis says the letter *name* for "a", which is the one thing a
+phonics course must not teach. Until a sound is recorded the app says the
+keyword instead and lets the grown-up model it.
+
+- `web/data/speech-index.json` — every string the site can say, with a stable
+  id and filename. **Regenerated at the end of every authoring batch**; a full
+  `validate.py` run fails if it is stale, because new lessons add new things to
+  say and they have to reach the recording list.
+- `/record.html` — records them from the microphone, saving each file already
+  named correctly. Nothing is uploaded.
+- `web/audio/human/` — drop recordings here, then `build_audio_manifest.py`.
+
+Priority is the 93 `sound-*` files. They are about twenty minutes of work and
+worth more than the other 542 recordings together.
+
+## Open questions / later
 - **Pictures.** Activities take an optional emoji. Real illustrations would be
   better, particularly for the stories.
 - **Day 55** in the source sequence ("the long a sound", seed words *bae, sae,

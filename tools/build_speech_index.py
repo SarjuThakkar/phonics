@@ -38,6 +38,22 @@ def short(text: str) -> str:
     return hashlib.sha1(text.encode()).hexdigest()[:6]
 
 
+def fingerprint() -> str:
+    """A hash of everything the index is derived from.
+
+    Stored in the index so validate.py can tell when a newly authored lesson
+    has added sounds or phrases that nobody has been asked to record yet.
+    """
+    h = hashlib.sha1()
+    for path in sorted(LEVELS.glob("[0-9][0-9][0-9].json")):
+        h.update(path.read_bytes())
+    for name in ("activities.js", "lesson.js"):
+        h.update((ROOT / "web" / "js" / name).read_bytes())
+    h.update((DATA / "phonemes.json").read_bytes())
+    h.update((DATA / "sequence.json").read_bytes())
+    return h.hexdigest()[:16]
+
+
 def sound_id(gid: str) -> str:
     """A readable, collision-free filename per grapheme.
 
@@ -168,6 +184,7 @@ def main() -> None:
         "note": "Every string the site speaks. Record any of them into "
                 "web/audio/human/<id>.mp3 and the site will use the recording "
                 "instead of the browser voice.",
+        "sourceFingerprint": fingerprint(),
         "counts": dict(counts),
         "entries": entries,
     }, indent=2, ensure_ascii=False) + "\n")
