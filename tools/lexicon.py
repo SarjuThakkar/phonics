@@ -105,6 +105,10 @@ IRREGULAR: dict[str, int | None] = {
     "sold": None, "fold": None, "bold": None, "roll": None, "toll": None,
     # silent letters this course never teaches at all
     "sign": None, "gnat": None, "gnaw": None, "gnome": None, "half": None,
+    # -all: the a is not short here, so these read wrong until -all is taught.
+    # The floss-rule day tempts an author straight into them.
+    "all": 94, "ball": 94, "call": 94, "fall": 94, "hall": 94, "tall": 94,
+    "wall": 94, "small": 94, "mall": 94, "stall": 94, "walls": 94,
     "calf": None, "calm": None, "palm": None,
     # honest once the grapheme that explains them is taught
     "know": 114, "knee": 114, "knew": 114, "knock": 114, "knit": 114,
@@ -303,11 +307,39 @@ def words_in(text: str) -> list[str]:
     return [m.group(0) for m in WORD_RE.finditer(text)]
 
 
+def consonant_clusters(word: str, level: int) -> list[str]:
+    """Runs of two or more consonants that are not a taught team or a doubled
+    letter. A cluster is harder than a CVC word by a step the scope and
+    sequence deliberately delays until day 27, so it is worth counting."""
+    table = phonemes()
+    known = {table[g]["display"].replace("-", "") for g in unlocked_through(level)["graphemes"] if g in table}
+    masked = word.lower()
+    for pat in sorted((p for p in known if len(p) > 1), key=len, reverse=True):
+        masked = masked.replace(pat, "\u00b7" * len(pat))
+    out = []
+    for m in re.finditer(r"[^aeiou\u00b7]{2,}", masked):
+        chunk = word.lower()[m.start():m.end()]
+        if len(set(chunk)) > 1:          # ll, ff, ss are the floss rule, not a cluster
+            out.append(chunk)
+    return out
+
+
 if __name__ == "__main__":
     import sys
 
     level = int(sys.argv[1])
-    for word in sys.argv[2:]:
-        parts = segment(word, unlocked_through(level)["graphemes"])
-        sight = word.lower() in set(unlocked_through(level)["sightWords"])
-        print(f"{word:12} {'SIGHT WORD' if sight else (' + '.join(parts) if parts else 'NOT DECODABLE')}")
+    words = sys.argv[2:]
+    problems = dict(check_words(words, level))
+    unlocked = unlocked_through(level)
+    for word in words:
+        if word in problems:
+            verdict = f"NO -- {problems[word]}"
+        elif word.lower() in set(unlocked["sightWords"]):
+            verdict = "SIGHT WORD"
+        else:
+            parts = segment(word, unlocked["graphemes"])
+            verdict = " + ".join(parts) if parts else "NO -- cannot be sounded out yet"
+            hard = consonant_clusters(word, level)
+            if hard and level < 27:
+                verdict += f"   (cluster {'/'.join(hard)} -- harder than a CVC word, use sparingly before day 27)"
+        print(f"{word:12} {verdict}")

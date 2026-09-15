@@ -1,0 +1,158 @@
+{
+  "level": 17,
+  "title": "v says /v/",
+  "kidTitle": "Meet the letter v",
+  "parentNote": "Today is /vvv/, and it is /f/ with the voice switched on: top teeth resting on the bottom lip, air squeezing past, and this time a buzz that makes the lip tickle. Because the mouth shape is identical, children slide straight back to /f/ and read van as \"fan\" — every word today is paired with its f twin for exactly that reason. The other common swap is /b/, where the lips come together instead of the teeth coming down; if that happens, ask to see the top teeth touch the lip before they start. Hold the sound rather than clipping it, vvvvv, so they can hear the buzz for longer than a moment. There are only a handful of v words a child can read this early, so today is a small set worked hard.",
+  "newGraphemes": [
+    "v"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "v",
+      "keyword": "van",
+      "picture": "🚐",
+      "mouthCue": "Top teeth down on your bottom lip, then buzz. Your lip should tickle.",
+      "prompt": "This is /f/ with the buzz turned on. Hold it: vvvvv."
+    },
+    {
+      "type": "soundMatch",
+      "target": "v",
+      "choices": [
+        "v",
+        "f"
+      ],
+      "prompt": "Exactly the same mouth for both. Only one of them tickles your lip."
+    },
+    {
+      "type": "soundMatch",
+      "target": "v",
+      "choices": [
+        "v",
+        "f",
+        "b"
+      ],
+      "prompt": "Two of these use your teeth and one uses both lips. Find the buzzy one with teeth."
+    },
+    {
+      "type": "blend",
+      "word": "van",
+      "parts": [
+        "v",
+        "a",
+        "n"
+      ],
+      "picture": "🚐",
+      "prompt": "Buzz, wide vowel, hum."
+    },
+    {
+      "type": "blend",
+      "word": "vat",
+      "parts": [
+        "v",
+        "a",
+        "t"
+      ],
+      "prompt": "A vat is a huge tub. Only the last sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "vast",
+      "parts": [
+        "v",
+        "a",
+        "s",
+        "t"
+      ],
+      "prompt": "Vast means enormous. Four sounds — do not let the hiss disappear."
+    },
+    {
+      "type": "readWord",
+      "word": "van",
+      "picture": "🚐"
+    },
+    {
+      "type": "readWord",
+      "word": "vat"
+    },
+    {
+      "type": "readWord",
+      "word": "vast"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "van",
+      "choices": [
+        "van",
+        "fan"
+      ],
+      "prompt": "One of these you drive and one blows air at you. Listen for the buzz."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "vat",
+      "choices": [
+        "vat",
+        "fat"
+      ],
+      "prompt": "Same again. Buzz at the start, or no buzz?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fast",
+      "choices": [
+        "fast",
+        "vast"
+      ],
+      "prompt": "This time the answer is the quiet one."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "van",
+      "choices": [
+        "van",
+        "ban"
+      ],
+      "prompt": "Teeth on the lip, or lips together? Watch my mouth and then choose."
+    },
+    {
+      "type": "sentence",
+      "text": "dad had a big van.",
+      "prompt": "Read it word by word, then say the whole line."
+    },
+    {
+      "type": "sentence",
+      "text": "pam and jim fill a vast vat.",
+      "prompt": "Two buzzy words next to each other at the end. Slow down for them."
+    },
+    {
+      "type": "sentence",
+      "text": "a bad cat hid in a van.",
+      "prompt": "Where did the cat hide?"
+    },
+    {
+      "type": "review",
+      "label": "One word from each of the last few days",
+      "words": [
+        "clam",
+        "jig",
+        "fill",
+        "bib",
+        "mast"
+      ],
+      "prompt": "Five days, five words. Read them all the way through."
+    },
+    {
+      "type": "soundMatch",
+      "target": "v",
+      "choices": [
+        "v",
+        "f",
+        "b",
+        "c"
+      ],
+      "prompt": "Last hunt. Which one buzzes against your lip?"
+    }
+  ]
+}

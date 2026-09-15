@@ -20,7 +20,8 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
-from tools.lexicon import check_words, phonemes, sequence, unlocked_through, words_in
+from tools.lexicon import (check_words, consonant_clusters, phonemes, sequence,
+                           unlocked_through, words_in)
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "web" / "data"
@@ -28,6 +29,7 @@ LEVELS_DIR = DATA / "levels"
 
 MAX_ACTIVITIES = 30
 CAPITALS_FROM = 23   # the day capital letters are taught
+BLENDS_FROM = 27     # the day consonant blends start being taught
 
 
 def min_activities(level: int) -> int:
@@ -211,6 +213,23 @@ def validate_level(path: pathlib.Path) -> Report:
     # --- the rule that matters most -------------------------------------
     for word, reason in check_words(shown_words, level):
         r.error(f"'{word}': {reason}")
+
+    # --- connected text is punctuated ------------------------------------
+    for text in [a.get("text", "") for a in activities if a.get("type") == "sentence"] + \
+                [ln for a in activities if a.get("type") == "story" for ln in a.get("lines", [])]:
+        if text.strip() and text.strip()[-1] not in ".!?":
+            r.error(f'"{text}": a sentence ends with . ! or ?')
+
+    # --- clusters are a step the sequence delays until day 27 -------------
+    # Blends (st, nd, fl...) are taught from day 27 on. Before that a cluster
+    # word is decodable but genuinely harder than the CVC words these days are
+    # built from, so a lesson full of them is harder than intended.
+    if level < BLENDS_FROM:
+        hard = sorted({w.lower() for w in shown_words if consonant_clusters(w, level)})
+        if len(hard) > 3:
+            r.warn(f"{len(hard)} cluster words before day {BLENDS_FROM} ({', '.join(hard[:6])}"
+                   f"{'…' if len(hard) > 6 else ''}) -- prefer simple consonant-vowel-consonant "
+                   f"words here and keep clusters to a couple of stretch words")
 
     # --- capital letters are themselves a lesson, on day 23 --------------
     # Before then a child has only ever seen lowercase forms, so an "A" is a

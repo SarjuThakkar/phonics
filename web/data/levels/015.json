@@ -1,0 +1,155 @@
+{
+  "level": 15,
+  "title": "j says /j/",
+  "kidTitle": "Meet the letter j",
+  "parentNote": "Today is /j/, the sound at the start of jam. The front of the tongue presses up against the roof of the mouth just behind the teeth, then lets go all at once with the voice buzzing — it is one quick sound, not two. The usual trouble is the extra vowel: \"juh\" turns jam into \"juh-am\" and the child never hears a whole word. Clip it short and let the vowel that follows do its own work. There are not many j words in English, so today is a small set read several ways rather than a long list, and you will meet jim and jill, who will turn up again.",
+  "newGraphemes": [
+    "j"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "j",
+      "keyword": "jam",
+      "picture": "🍓",
+      "mouthCue": "Press the front of your tongue to the roof of your mouth, just behind your teeth, then let go with a buzz.",
+      "prompt": "Short and sharp. Say it once, not \"juh\"."
+    },
+    {
+      "type": "soundMatch",
+      "target": "j",
+      "choices": [
+        "j",
+        "d"
+      ],
+      "prompt": "Your tongue starts in nearly the same place for both. One lets go with a tap, one with a buzz."
+    },
+    {
+      "type": "soundMatch",
+      "target": "j",
+      "choices": [
+        "j",
+        "d",
+        "g"
+      ],
+      "prompt": "Three quick ones. Find the one that starts jam."
+    },
+    {
+      "type": "blend",
+      "word": "jam",
+      "parts": [
+        "j",
+        "a",
+        "m"
+      ],
+      "picture": "🍓",
+      "prompt": "Quick start, wide vowel, hum at the end."
+    },
+    {
+      "type": "blend",
+      "word": "jab",
+      "parts": [
+        "j",
+        "a",
+        "b"
+      ],
+      "picture": "🥊",
+      "prompt": "A jab is a quick little poke. Only the last sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "jig",
+      "parts": [
+        "j",
+        "i",
+        "g"
+      ],
+      "picture": "💃",
+      "prompt": "A jig is a bouncy dance. Small vowel this time."
+    },
+    {
+      "type": "blend",
+      "word": "jill",
+      "parts": [
+        "j",
+        "i",
+        "ll"
+      ],
+      "prompt": "Jill is a name. Two l's at the end, said once."
+    },
+    {
+      "type": "readWord",
+      "word": "jim"
+    },
+    {
+      "type": "readWord",
+      "word": "jam",
+      "picture": "🍓"
+    },
+    {
+      "type": "readWord",
+      "word": "jig"
+    },
+    {
+      "type": "readWord",
+      "word": "jill"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "jam",
+      "choices": [
+        "jam",
+        "jab"
+      ],
+      "prompt": "Hum or pop at the end? Listen right to the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "jig",
+      "choices": [
+        "jig",
+        "dig",
+        "big"
+      ],
+      "prompt": "The ending is the same in all three. It is the first sound that decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "jill",
+      "choices": [
+        "jill",
+        "bill",
+        "fill"
+      ],
+      "prompt": "Three names for the ending. Only the start is different."
+    },
+    {
+      "type": "sentence",
+      "text": "jim had jam and a fig.",
+      "prompt": "Read it once word by word, then once all the way through."
+    },
+    {
+      "type": "sentence",
+      "text": "pam and jill did a jig.",
+      "prompt": "Two people this time. Who danced?"
+    },
+    {
+      "type": "sentence",
+      "text": "jim slid and hid in a bin.",
+      "prompt": "Seven words. Take a breath in the middle if you need to."
+    },
+    {
+      "type": "review",
+      "label": "Words from this week and last",
+      "words": [
+        "hill",
+        "lamp",
+        "bib",
+        "hand",
+        "mist"
+      ],
+      "prompt": "One from yesterday, one from the day before, and some older ones."
+    }
+  ]
+}

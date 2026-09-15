@@ -1,0 +1,174 @@
+{
+  "level": 14,
+  "title": "l says /l/",
+  "kidTitle": "Meet the letter l",
+  "parentNote": "Today is /lll/: the tongue tip goes up behind the top teeth and stays there humming while the air slides out around the sides. Two things usually go wrong. The first is that /l/ turns into a /w/ — \"lamp\" comes out \"wamp\" — which is a tongue that never went up; ask to see the tongue touch the spot, then say it. The second is that children add a vowel and say \"luh\", which makes \"lip\" into \"luh-ip\"; hold the sound instead, lllll, like a hum. You will also meet a double l today, in words like hill and fill. Two letters, one sound — English simply likes to double l, f and s at the end of a short word, and there is nothing to work out. If they try to say it twice, cover the second l with your thumb and let them read it, then take your thumb away and show them it sounds the same.",
+  "newGraphemes": [
+    "l",
+    "ll"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "l",
+      "keyword": "leaf",
+      "picture": "🍃",
+      "mouthCue": "Tongue tip up behind your top teeth and leave it there — the hum comes out round the sides.",
+      "prompt": "This one is a hum you can hold. Keep the tongue up: llllll."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "ll",
+      "keyword": "hill",
+      "picture": "⛰️",
+      "mouthCue": "Exactly the same tongue, exactly the same hum. Two letters, one sound.",
+      "prompt": "At the end of a short word, l likes to bring a friend along. They still only say it once."
+    },
+    {
+      "type": "soundMatch",
+      "target": "l",
+      "choices": [
+        "l",
+        "n",
+        "d"
+      ],
+      "prompt": "All three put your tongue in the same spot. Find the one that keeps humming."
+    },
+    {
+      "type": "blend",
+      "word": "lap",
+      "parts": [
+        "l",
+        "a",
+        "p"
+      ],
+      "prompt": "Start with the hum, and do not let a little uh sneak in after it."
+    },
+    {
+      "type": "blend",
+      "word": "lid",
+      "parts": [
+        "l",
+        "i",
+        "d"
+      ],
+      "picture": "🥫",
+      "prompt": "Hum, small vowel, buzz."
+    },
+    {
+      "type": "blend",
+      "word": "hill",
+      "parts": [
+        "h",
+        "i",
+        "ll"
+      ],
+      "picture": "⛰️",
+      "prompt": "Those two letters at the end are one sound. Say it once."
+    },
+    {
+      "type": "blend",
+      "word": "fill",
+      "parts": [
+        "f",
+        "i",
+        "ll"
+      ],
+      "prompt": "Same ending as hill. Only the first sound has changed."
+    },
+    {
+      "type": "blend",
+      "word": "flag",
+      "parts": [
+        "f",
+        "l",
+        "a",
+        "g"
+      ],
+      "picture": "🚩",
+      "prompt": "Two sounds squashed together at the front. Say them both: fff, lll."
+    },
+    {
+      "type": "blend",
+      "word": "slip",
+      "parts": [
+        "s",
+        "l",
+        "i",
+        "p"
+      ],
+      "prompt": "The hiss and the hum, one after the other, before the vowel."
+    },
+    {
+      "type": "readWord",
+      "word": "lip",
+      "picture": "👄"
+    },
+    {
+      "type": "readWord",
+      "word": "bill",
+      "prompt": "A duck has a bill. So does a letter that comes asking for money."
+    },
+    {
+      "type": "readWord",
+      "word": "lamp",
+      "picture": "💡"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lap",
+      "choices": [
+        "lap",
+        "lip"
+      ],
+      "prompt": "Wide vowel or small vowel? That is the whole difference."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "slip",
+      "choices": [
+        "slip",
+        "sip"
+      ],
+      "prompt": "One of these has a hum hiding after the hiss. Listen hard at the start."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hill",
+      "choices": [
+        "hill",
+        "hid",
+        "hip"
+      ],
+      "prompt": "Same start every time. The ending is the only clue."
+    },
+    {
+      "type": "sentence",
+      "text": "dad lit a big lamp.",
+      "prompt": "Point at each word as you go, and read the whole line again at the end."
+    },
+    {
+      "type": "sentence",
+      "text": "a fat pig sat still.",
+      "prompt": "Still means not moving at all. Two l's, one sound."
+    },
+    {
+      "type": "sentence",
+      "text": "pam and tim dig a pit.",
+      "prompt": "Six words now. Take the first three, then the last three."
+    },
+    {
+      "type": "review",
+      "label": "Words from yesterday and last week",
+      "words": [
+        "band",
+        "bib",
+        "hand",
+        "snap",
+        "fig"
+      ],
+      "prompt": "Two from yesterday and three from further back."
+    }
+  ]
+}

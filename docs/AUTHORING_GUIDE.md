@@ -144,7 +144,9 @@ would be confusing, leave it out when it wouldn't.
 { "type": "soundIntro", "grapheme": "ng", "keyword": "king", "picture": "👑",
   "mouthCue": "The back of your tongue lifts up, like the end of a hum." }
 ```
-One per level, first. `grapheme` must be a key in `web/data/phonemes.json`.
+**One per new grapheme**, first in the lesson — so a day that introduces two
+(day 14 teaches `l` and `ll`) gets two, each with its own keyword and mouth
+cue. `grapheme` must be a key in `web/data/phonemes.json`.
 `keyword` defaults to the one in that file; override it only if yours is more
 concrete for a small child. `picture` is a single emoji and is worth including.
 `mouthCue` is optional and lovely — one short sentence about what the mouth
@@ -271,10 +273,19 @@ a child is behind.
   only met `a` should not be asked to recognise `A`. From day 23, sentences
   start with a capital and names are capitalised normally. The validator
   enforces both directions.
-- **Punctuation:** full stops from day 13, question marks and exclamation marks
-  from day 23, commas from about day 50. No apostrophes until they are taught —
-  contractions and possessives are not decodable and the validator will reject
-  them.
+- **Punctuation:** every sentence and story line ends with `.`, `!` or `?` —
+  the validator checks this. Full stops from day 13; question marks and
+  exclamation marks from day 23; commas from about day 50. No apostrophes until
+  they are taught — contractions and possessives are not decodable and the
+  validator will reject them.
+- **Before day 27, prefer simple consonant-vowel-consonant words.** Consonant
+  blends (`st`, `nd`, `fl`, `sn`…) are not taught until days 27–50. A word like
+  "stand" or "snap" is decodable earlier — the letters are all known — but it is
+  a genuine step harder than "sat", and a lesson built out of them is harder
+  than this point in the course intends. Two or three cluster words per lesson
+  is fine, used as the deliberate stretch at the end of the blend block and
+  always blended before they turn up in a sentence. More than three and the
+  validator will say so.
 - **Names:** short decodable ones only — sam, jim, pam, tim, meg, dan. A name is
   a free real-world word and children love seeing them; use them.
 - **No filler.** "Sam sat. Sam sat on a mat. Sam is sad." is three sentences

@@ -1,0 +1,167 @@
+{
+  "level": 13,
+  "title": "b says /b/",
+  "kidTitle": "Meet the letter b",
+  "parentNote": "Today is /b/: lips pressed shut, then popped open with your voice switched on. It is /p/ with the buzz added, so \"bit\" and \"pit\" are the pair to listen for, and because b and d are mirror images on the page a child who says \"dig\" for \"big\" is misreading the shape, not the sound. Today is also the day the words start standing next to each other in sentences, and that is a much bigger jump than it looks: a child who can read \"bat\" on its own often stalls when it has three neighbours, because they are holding the first word in their head while sounding out the second. Read each sentence once yourself, slowly, then let them have it. Finger under each word, one word at a time, and if it falls apart halfway just go back to the start of the line rather than pushing on.",
+  "newGraphemes": [
+    "b"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "b",
+      "keyword": "bug",
+      "picture": "🐛",
+      "mouthCue": "Lips shut tight, then pop them open — with your voice on. Hand on your throat: /b/ buzzes, /p/ does not.",
+      "prompt": "Another noisy twin. Shut your lips, then let them go."
+    },
+    {
+      "type": "soundMatch",
+      "target": "b",
+      "choices": [
+        "b",
+        "p"
+      ],
+      "prompt": "Your lips do the same thing for both. Only one of them buzzes."
+    },
+    {
+      "type": "soundMatch",
+      "target": "b",
+      "choices": [
+        "b",
+        "d",
+        "p"
+      ],
+      "prompt": "These three are the same shape turned different ways. Find /b/ — its tummy points forward."
+    },
+    {
+      "type": "blend",
+      "word": "bat",
+      "parts": [
+        "b",
+        "a",
+        "t"
+      ],
+      "picture": "🦇",
+      "prompt": "Pop, then the wide vowel, then a tap at the end."
+    },
+    {
+      "type": "blend",
+      "word": "big",
+      "parts": [
+        "b",
+        "i",
+        "g"
+      ],
+      "prompt": "Small vowel in the middle this time."
+    },
+    {
+      "type": "blend",
+      "word": "bag",
+      "parts": [
+        "b",
+        "a",
+        "g"
+      ],
+      "picture": "👜",
+      "prompt": "Only the middle sound has changed since the last one."
+    },
+    {
+      "type": "blend",
+      "word": "bib",
+      "parts": [
+        "b",
+        "i",
+        "b"
+      ],
+      "picture": "🍼",
+      "prompt": "A pop at the front and a pop at the end. Same letter both times."
+    },
+    {
+      "type": "blend",
+      "word": "band",
+      "parts": [
+        "b",
+        "a",
+        "n",
+        "d"
+      ],
+      "picture": "🥁",
+      "prompt": "Four sounds. The /n/ is quick and easy to skip — say it anyway."
+    },
+    {
+      "type": "readWord",
+      "word": "bad"
+    },
+    {
+      "type": "readWord",
+      "word": "bin",
+      "picture": "🗑️"
+    },
+    {
+      "type": "readWord",
+      "word": "bit"
+    },
+    {
+      "type": "readWord",
+      "word": "tab",
+      "prompt": "The b has moved to the end. A tab is the little flap you pull."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bat",
+      "choices": [
+        "bat",
+        "bad",
+        "bag"
+      ],
+      "prompt": "All three start the same. The last sound decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bin",
+      "choices": [
+        "bin",
+        "pin"
+      ],
+      "prompt": "Buzz or no buzz? That is the only difference."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "big",
+      "choices": [
+        "big",
+        "dig"
+      ],
+      "prompt": "These two look almost the same. Listen to the very first sound."
+    },
+    {
+      "type": "sentence",
+      "text": "dad had a bat.",
+      "prompt": "Four words in a row — this is new. Point at the first one and read only that one."
+    },
+    {
+      "type": "sentence",
+      "text": "pam hid a bib.",
+      "prompt": "Sound out each word, then go back to the start and say the whole line."
+    },
+    {
+      "type": "sentence",
+      "text": "sam and dad dig.",
+      "prompt": "Two people in this one. Who is digging?"
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "hand",
+        "fig",
+        "snap",
+        "mist",
+        "tap"
+      ],
+      "prompt": "Old friends. Read them all the way to the end."
+    }
+  ]
+}

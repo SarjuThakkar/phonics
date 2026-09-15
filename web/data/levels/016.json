@@ -1,0 +1,178 @@
+{
+  "level": 16,
+  "title": "c says /k/",
+  "kidTitle": "Meet the letter c",
+  "parentNote": "Today c says /k/. It is made right at the back of the mouth — the back of the tongue humps up, touches, and pops — which makes it the hardest sound so far to feel, because nothing you can see moves. Its twin is /g/, made in exactly the same spot with the voice switched on, so \"cap\" and \"gap\" are the pair worth practising; a hand on the throat settles it. The other usual slip is \"cuh\" instead of a clean /k/, which turns cat into \"cuh-at\". One thing to know for yourself rather than to teach: this same sound gets written another way later in the course, so if your child meets it in a book and asks, you can simply say that English has more than one letter for it. Every c in today's lesson says /k/.",
+  "newGraphemes": [
+    "c"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "c",
+      "keyword": "cat",
+      "picture": "🐱",
+      "mouthCue": "The back of your tongue lifts up and touches the roof at the very back, then pops. No buzz at all.",
+      "prompt": "This one happens right at the back of your mouth. Keep it short and quiet."
+    },
+    {
+      "type": "soundMatch",
+      "target": "c",
+      "choices": [
+        "c",
+        "g"
+      ],
+      "prompt": "Same spot at the back for both. One buzzes and one is just a pop."
+    },
+    {
+      "type": "soundMatch",
+      "target": "c",
+      "choices": [
+        "c",
+        "g",
+        "t"
+      ],
+      "prompt": "Three quick pops. Two are at the back and one is at the front."
+    },
+    {
+      "type": "blend",
+      "word": "cat",
+      "parts": [
+        "c",
+        "a",
+        "t"
+      ],
+      "picture": "🐱",
+      "prompt": "Pop at the back, wide vowel, tap at the front."
+    },
+    {
+      "type": "blend",
+      "word": "can",
+      "parts": [
+        "c",
+        "a",
+        "n"
+      ],
+      "picture": "🥫",
+      "prompt": "Same start. This one ends with the tongue up and humming."
+    },
+    {
+      "type": "blend",
+      "word": "cab",
+      "parts": [
+        "c",
+        "a",
+        "b"
+      ],
+      "picture": "🚕",
+      "prompt": "A cab is a taxi. Back pop, front pop."
+    },
+    {
+      "type": "blend",
+      "word": "cap",
+      "parts": [
+        "c",
+        "a",
+        "p"
+      ],
+      "picture": "🧢",
+      "prompt": "Nearly cab, but the last pop has no buzz in it."
+    },
+    {
+      "type": "blend",
+      "word": "clap",
+      "parts": [
+        "c",
+        "l",
+        "a",
+        "p"
+      ],
+      "picture": "👏",
+      "prompt": "Two sounds at the front, squashed up together. Say them both: /k/, /lll/."
+    },
+    {
+      "type": "blend",
+      "word": "camp",
+      "parts": [
+        "c",
+        "a",
+        "m",
+        "p"
+      ],
+      "picture": "⛺",
+      "prompt": "Four sounds. The hum in the middle is easy to lose."
+    },
+    {
+      "type": "readWord",
+      "word": "cap",
+      "picture": "🧢"
+    },
+    {
+      "type": "readWord",
+      "word": "clam",
+      "picture": "🦪",
+      "prompt": "A clam shuts itself up inside two shells."
+    },
+    {
+      "type": "readWord",
+      "word": "clip",
+      "picture": "📎"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cap",
+      "choices": [
+        "cap",
+        "gap"
+      ],
+      "prompt": "Both start at the back of your mouth. Hand on your throat: which one buzzes?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "can",
+      "choices": [
+        "cat",
+        "cap",
+        "can"
+      ],
+      "prompt": "All three start the same. Everything depends on the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "clap",
+      "choices": [
+        "clap",
+        "cap"
+      ],
+      "prompt": "One of these has a hum hiding after the first pop."
+    },
+    {
+      "type": "sentence",
+      "text": "a fat cat naps in a cab.",
+      "prompt": "Point at each word. What is the cat doing in there?"
+    },
+    {
+      "type": "sentence",
+      "text": "sam can clap and pam can tap.",
+      "prompt": "Eight words — the longest yet. Read the first half, then the second."
+    },
+    {
+      "type": "sentence",
+      "text": "tim hid a clam in a cap.",
+      "prompt": "Sound out clam carefully. Two sounds before the vowel."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "jam",
+        "hill",
+        "flag",
+        "band",
+        "snap"
+      ],
+      "prompt": "One from each of the last few days, and one from further back."
+    }
+  ]
+}
