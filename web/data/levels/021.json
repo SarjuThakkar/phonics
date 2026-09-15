@@ -1,0 +1,140 @@
+{
+  "level": 21,
+  "title": "ck says /k/",
+  "kidTitle": "Two letters, one pop",
+  "parentNote": "This is the third way to write a sound your child has had for a while: c said /k/, then k said /k/, and today ck says /k/ as well — one pop, not two. The place is what tells you which one to use, and it is worth saying out loud: ck only ever turns up at the END of a short word, right after the little vowel, and never at the start. The mistake to listen for is sounding both letters, so \"pick\" comes out \"pi-cuh-kuh\"; cover the k with your finger, read it, then uncover it and read it again exactly the same way. Today is also the day stories start. Three or four lines is a lot of reading held together at once, so read the whole thing to them first, then let them have it — and if they run out of steam, the questions can wait for the second go.",
+  "newGraphemes": ["ck"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ck",
+      "keyword": "pack",
+      "picture": "🎒",
+      "mouthCue": "Exactly the same back-of-the-tongue pop as c and k. Two letters on the page, one job for your mouth.",
+      "prompt": "This pair lives at the end of a word. Listen to the very last sound in pack."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ck",
+      "choices": ["ck", "g"],
+      "prompt": "Both are made at the back. Hand on your throat — which one buzzes?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "ck",
+      "choices": ["ck", "g", "t"],
+      "prompt": "Find the two letters that share one pop."
+    },
+    {
+      "type": "blend",
+      "word": "pack",
+      "parts": ["p", "a", "ck"],
+      "picture": "🎒",
+      "prompt": "Three sounds, not four. The c and the k hold hands."
+    },
+    {
+      "type": "blend",
+      "word": "pick",
+      "parts": ["p", "i", "ck"],
+      "prompt": "Only the middle has changed. Keep the ending as one quick pop."
+    },
+    {
+      "type": "blend",
+      "word": "lick",
+      "parts": ["l", "i", "ck"],
+      "picture": "👅",
+      "prompt": "Start with the tongue up and humming, finish at the back."
+    },
+    {
+      "type": "blend",
+      "word": "sick",
+      "parts": ["s", "i", "ck"],
+      "picture": "🤒",
+      "prompt": "A long hiss, then a small vowel, then stop."
+    },
+    {
+      "type": "blend",
+      "word": "kick",
+      "parts": ["k", "i", "ck"],
+      "picture": "⚽",
+      "prompt": "This one has the same sound at both ends, spelled two different ways. k at the front, ck at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "sack",
+      "picture": "🛍️"
+    },
+    {
+      "type": "readWord",
+      "word": "back"
+    },
+    {
+      "type": "readWord",
+      "word": "tick",
+      "prompt": "The tick a clock makes."
+    },
+    {
+      "type": "readWord",
+      "word": "jack",
+      "prompt": "A name, and it works just like the others."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pack",
+      "choices": ["pack", "pick"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tack",
+      "choices": ["tick", "tack", "tap"],
+      "prompt": "One of these has no pop at the back at all."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "kick",
+      "choices": ["kick", "kit"],
+      "prompt": "Both start the same. Does it end at the back of your mouth or at your teeth?"
+    },
+    {
+      "type": "sentence",
+      "text": "jim will pick a fat fig.",
+      "prompt": "Read it once, then again a bit faster."
+    },
+    {
+      "type": "sentence",
+      "text": "pam did kick a can at dan.",
+      "prompt": "Who did the kicking, and what did it land near?"
+    },
+    {
+      "type": "story",
+      "title": "a cat in a sack",
+      "prompt": "Your first story. One line at a time — tap any word you want to hear.",
+      "lines": [
+        "kim did pack a fig in a sack.",
+        "a fat cat sat in it.",
+        "a cat can lick a fig.",
+        "kim did grin at a cat in a sack."
+      ],
+      "questions": [
+        {
+          "prompt": "kim did pack it in a sack.",
+          "choices": ["a fig", "a rat"],
+          "answer": "a fig"
+        },
+        {
+          "prompt": "it sat in a sack.",
+          "choices": ["a fat cat", "a big kid"],
+          "answer": "a fat cat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["kid", "rat", "wig", "van", "jam"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

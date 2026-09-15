@@ -1,0 +1,191 @@
+{
+  "level": 22,
+  "title": "sh says /sh/",
+  "kidTitle": "Meet sh",
+  "parentNote": "Yesterday two letters shared a sound your child already had. Today two letters make a sound that is genuinely new: sh is not /s/ and it is not /h/, it is /shhh/ — the noise you make asking for quiet — and neither of the letters can be heard in it. That is what makes it different from something like sk in \"skip\", where you really do hear both sounds one after the other; here you hear one sound and one sound only. The error, almost every time, is reading the letters separately, so \"ship\" becomes \"s-hip\"; cover the h with a finger and ask what is left, then uncover it and say the whole thing as one long hiss. For the mouth: /s/ is a thin sharp hiss with the tongue forward, /shhh/ is wide and soft with the lips pushed out — say sip and ship back to back and let them watch your lips move.",
+  "newGraphemes": [
+    "sh"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sh",
+      "keyword": "ship",
+      "picture": "🚢",
+      "mouthCue": "Teeth nearly shut, lips pushed forward, tongue pulled back a little. The air comes out wide and soft — shhhhh.",
+      "prompt": "Two letters, and neither one says its own sound. Together they make a brand new one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sh",
+      "choices": [
+        "sh",
+        "s"
+      ],
+      "prompt": "One hiss is thin and sharp. The other is wide and soft. Find the wide one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sh",
+      "choices": [
+        "sh",
+        "s",
+        "f"
+      ],
+      "prompt": "Three long hisses. Only one of them uses two letters."
+    },
+    {
+      "type": "blend",
+      "word": "ship",
+      "parts": [
+        "sh",
+        "i",
+        "p"
+      ],
+      "picture": "🚢",
+      "prompt": "Three sounds. Keep sh together — it is one sound, not two."
+    },
+    {
+      "type": "blend",
+      "word": "shin",
+      "parts": [
+        "sh",
+        "i",
+        "n"
+      ],
+      "prompt": "Your shin is the hard bit at the front of your leg. Same start as ship."
+    },
+    {
+      "type": "blend",
+      "word": "fish",
+      "parts": [
+        "f",
+        "i",
+        "sh"
+      ],
+      "picture": "🐟",
+      "prompt": "This time sh is at the end. Hold it long: fiiishhh."
+    },
+    {
+      "type": "blend",
+      "word": "wish",
+      "parts": [
+        "w",
+        "i",
+        "sh"
+      ],
+      "picture": "⭐",
+      "prompt": "Round lips at the front and round lips at the end."
+    },
+    {
+      "type": "blend",
+      "word": "shack",
+      "parts": [
+        "sh",
+        "a",
+        "ck"
+      ],
+      "picture": "🏚️",
+      "prompt": "Two letter teams in one little word — sh at the front, ck at the back. Still only three sounds."
+    },
+    {
+      "type": "readWord",
+      "word": "dish",
+      "picture": "🍽️"
+    },
+    {
+      "type": "readWord",
+      "word": "cash",
+      "picture": "💵"
+    },
+    {
+      "type": "readWord",
+      "word": "dash",
+      "prompt": "To dash is to run somewhere fast."
+    },
+    {
+      "type": "readWord",
+      "word": "mash",
+      "picture": "🥔"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ship",
+      "choices": [
+        "ship",
+        "sip"
+      ],
+      "prompt": "This is the one to get right. Thin hiss or wide hiss?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shack",
+      "choices": [
+        "shack",
+        "sack"
+      ],
+      "prompt": "One of these has the h doing its work. Listen to the very first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dash",
+      "choices": [
+        "dash",
+        "dish"
+      ],
+      "prompt": "Same start, same ending. The middle is the only clue."
+    },
+    {
+      "type": "sentence",
+      "text": "a fish can swim in a big dish.",
+      "prompt": "Two hisses in this line, and they are not the same hiss."
+    },
+    {
+      "type": "sentence",
+      "text": "kim had cash in a big sack.",
+      "prompt": "Read it, then have a guess at what kim is saving it for."
+    },
+    {
+      "type": "story",
+      "title": "a rat in a shack",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "dad hid cash in a shack.",
+        "a fat rat did dash in.",
+        "a rat can nip at cash.",
+        "dad did dash in and it ran."
+      ],
+      "questions": [
+        {
+          "prompt": "dad hid it in a shack.",
+          "choices": [
+            "cash",
+            "a fish"
+          ],
+          "answer": "cash"
+        },
+        {
+          "prompt": "it did nip at cash.",
+          "choices": [
+            "a fat rat",
+            "a big cat"
+          ],
+          "answer": "a fat rat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "pack",
+        "kid",
+        "rat",
+        "wig",
+        "cab"
+      ],
+      "prompt": "One from each of the last few days. Ck is still only one pop."
+    }
+  ]
+}

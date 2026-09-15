@@ -45,6 +45,17 @@ function screen(instruction, ...content) {
     ...content);
 }
 
+
+/** "first sound" / "last sound" / just "sound", depending on where the letters
+ * actually sit in the keyword. ck and ll only ever appear at the end of a word,
+ * so calling that the first sound was simply wrong. */
+function wherePhrase(letters, keyword) {
+  const k = keyword.toLowerCase(), l = letters.toLowerCase();
+  if (k.startsWith(l)) return 'first sound';
+  if (k.endsWith(l)) return 'last sound';
+  return 'sound';
+}
+
 /* soundIntro --------------------------------------------------------------- */
 
 Activities.soundIntro = (act, ctx) => {
@@ -57,7 +68,7 @@ Activities.soundIntro = (act, ctx) => {
     glyph,
     el('div', { class: 'keyword' },
       act.picture ? el('span', { class: 'pic' }, act.picture) : null,
-      keyword ? `like the first sound in “${keyword}”` : null),
+      keyword ? `like the ${wherePhrase(entry.display, keyword)} in “${keyword}”` : null),
     act.mouthCue ? el('p', { class: 'instruction' }, act.mouthCue) : null,
     el('div', { class: 'actions' },
       speakBtn('Hear it again', () => Speech.sound(entry)),

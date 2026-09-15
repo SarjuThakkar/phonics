@@ -213,7 +213,14 @@ Must be a real sentence a person might say — "The pig is in the mud" is fine,
       "answer": "Sang a song" }
   ] }
 ```
-Required from day 21. At least 3 lines and at least one question. One idea per
+Required from day 21. At least 3 lines and at least one question.
+
+**A comprehension question has to be decodable too, and that is harder than it
+sounds**: "what", "who" and "the" are not readable until late (and "what" never
+becomes decodable at all), so a real *question* is impossible before day 25.
+Until then, use a fill-the-gap statement — `"kim did pack it in a sack."` with
+choices `["a fig", "a rat"]`. It reads naturally when spoken aloud and still
+needs the story to answer. One idea per
 line. **The question must need the story to answer** — a question answerable
 from the picture on the box, or from general knowledge, teaches guessing.
 Questions and choices obey the decodability rule too: the child reads them.

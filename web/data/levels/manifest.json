@@ -16,7 +16,12 @@
     14,
     15,
     16,
-    17
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
   ],
   "levels": [
     {
@@ -120,6 +125,36 @@
       "title": "v says /v/",
       "kidTitle": "Meet the letter v",
       "activities": 18
+    },
+    {
+      "level": 18,
+      "title": "w says /w/",
+      "kidTitle": "Meet the letter w",
+      "activities": 19
+    },
+    {
+      "level": 19,
+      "title": "r says /r/",
+      "kidTitle": "Meet the letter r",
+      "activities": 19
+    },
+    {
+      "level": 20,
+      "title": "k says /k/",
+      "kidTitle": "Meet the letter k",
+      "activities": 19
+    },
+    {
+      "level": 21,
+      "title": "ck says /k/",
+      "kidTitle": "Two letters, one pop",
+      "activities": 19
+    },
+    {
+      "level": 22,
+      "title": "sh says /sh/",
+      "kidTitle": "Meet sh",
+      "activities": 19
     }
   ]
 }

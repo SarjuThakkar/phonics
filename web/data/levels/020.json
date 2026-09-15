@@ -1,0 +1,122 @@
+{
+  "level": 20,
+  "title": "k says /k/",
+  "kidTitle": "Meet the letter k",
+  "parentNote": "Today's letter makes a sound your child already owns: k says /k/, exactly the same back-of-the-tongue pop that c made a few days ago. Two letters, one sound — and that is the whole lesson, so say it plainly rather than letting them think k is something new. English does share the job out by a rule, and at this point in the course the rule is beautifully tidy: with an a after it you write c (cat, can, cap), with an i after it you write k (kid, kit, kim). Every word today obeys that, so if they ask why, you have a real answer. The thing that goes wrong is a puffy \"kuh\" — \"kid\" becomes \"kuh-id\" — so clip it short and quiet, and keep a hand on the throat to check it does not buzz into /g/. Tomorrow a third spelling of this same sound turns up, so today is worth getting clean.",
+  "newGraphemes": ["k"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "k",
+      "keyword": "kid",
+      "picture": "🧒",
+      "mouthCue": "The back of your tongue humps up, touches the roof right at the back, and pops. No buzz, no puff of uh after it.",
+      "prompt": "You have met this sound before — c made it. This is its other letter, and it sounds exactly the same."
+    },
+    {
+      "type": "soundMatch",
+      "target": "k",
+      "choices": ["k", "g"],
+      "prompt": "Both happen at the back of your mouth. Hand on your throat: one buzzes and one does not."
+    },
+    {
+      "type": "soundMatch",
+      "target": "k",
+      "choices": ["k", "g", "t"],
+      "prompt": "Three quick pops. Two are made at the back and one is right behind your teeth."
+    },
+    {
+      "type": "blend",
+      "word": "kid",
+      "parts": ["k", "i", "d"],
+      "picture": "🧒",
+      "prompt": "Pop at the back, small vowel, tap at the front."
+    },
+    {
+      "type": "blend",
+      "word": "kit",
+      "parts": ["k", "i", "t"],
+      "picture": "🧰",
+      "prompt": "Nearly kid. The last sound has lost its buzz."
+    },
+    {
+      "type": "blend",
+      "word": "kim",
+      "parts": ["k", "i", "m"],
+      "prompt": "A name this time. It ends with lips shut and humming."
+    },
+    {
+      "type": "blend",
+      "word": "skip",
+      "parts": ["s", "k", "i", "p"],
+      "picture": "🤸",
+      "prompt": "A hiss and a pop, squashed together at the front. Say them both: /s/, /k/."
+    },
+    {
+      "type": "blend",
+      "word": "napkin",
+      "parts": ["n", "a", "p", "k", "i", "n"],
+      "prompt": "The longest word yet — six sounds. Read the first half, nap, then the second half, kin, then push them together."
+    },
+    {
+      "type": "readWord",
+      "word": "kit",
+      "picture": "🧰"
+    },
+    {
+      "type": "readWord",
+      "word": "kid",
+      "picture": "🧒"
+    },
+    {
+      "type": "readWord",
+      "word": "kim"
+    },
+    {
+      "type": "readWord",
+      "word": "can",
+      "picture": "🥫",
+      "prompt": "This one says /k/ too — but look which letter is doing it. There is an a next, so it is c's turn."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "kid",
+      "choices": ["kid", "kit", "kim"],
+      "prompt": "All three start with the same pop. Everything hangs on the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "skip",
+      "choices": ["skip", "sip"],
+      "prompt": "One of these has a pop hiding after the hiss."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "kit",
+      "choices": ["kit", "kin"],
+      "prompt": "Stop at the end for one and hum at the end for the other."
+    },
+    {
+      "type": "sentence",
+      "text": "kim did pat a fat cat.",
+      "prompt": "Two /k/ sounds in this line, spelled two different ways. Can you spot them?"
+    },
+    {
+      "type": "sentence",
+      "text": "a napkin can fit in a cap.",
+      "prompt": "Take napkin in two bits: nap, then kin."
+    },
+    {
+      "type": "sentence",
+      "text": "sam can skip and kim can win.",
+      "prompt": "Two people doing two things. Read to the word and, then stop for a breath."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["rat", "wig", "van", "cab", "jam"],
+      "prompt": "One from each of the last few days. Sound out any that have gone fuzzy."
+    }
+  ]
+}

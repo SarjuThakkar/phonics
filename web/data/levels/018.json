@@ -1,0 +1,121 @@
+{
+  "level": 18,
+  "title": "w says /w/",
+  "kidTitle": "Meet the letter w",
+  "parentNote": "Today is /w/, and it is made with the lips on their own: push them forward into a tight little circle, the shape you make to blow out a candle, then let the sound slide straight into the vowel. The slip to listen for is yesterday's letter — /v/ presses your top teeth onto your bottom lip, /w/ touches nothing at all — so if \"win\" comes out \"vin\", ask to see the teeth lift off. The other habit is a fat \"wuh\", which turns \"wig\" into \"wuh-ig\"; keep it short and let it run into the sound after it. A hand held in front of the mouth settles it — /w/ pushes a puff of air forward, /v/ just buzzes on the lip.",
+  "newGraphemes": ["w"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "w",
+      "keyword": "web",
+      "picture": "🕸️",
+      "mouthCue": "Lips forward in a tiny circle, like blowing out a candle. Nothing touches — no teeth, no tongue.",
+      "prompt": "This one is made with your lips only. Watch mine, then try."
+    },
+    {
+      "type": "soundMatch",
+      "target": "w",
+      "choices": ["w", "v"],
+      "prompt": "One of these puts your teeth on your lip. The other one touches nothing at all."
+    },
+    {
+      "type": "soundMatch",
+      "target": "w",
+      "choices": ["w", "v", "m"],
+      "prompt": "All three are made with your lips. Find the one that pushes air forward."
+    },
+    {
+      "type": "blend",
+      "word": "wig",
+      "parts": ["w", "i", "g"],
+      "prompt": "Round lips, small vowel, pop at the end."
+    },
+    {
+      "type": "blend",
+      "word": "win",
+      "parts": ["w", "i", "n"],
+      "picture": "🏆",
+      "prompt": "Same start as wig. This one ends with a hum."
+    },
+    {
+      "type": "blend",
+      "word": "wag",
+      "parts": ["w", "a", "g"],
+      "picture": "🐕",
+      "prompt": "Only the middle sound has changed. Open your mouth wider for it."
+    },
+    {
+      "type": "blend",
+      "word": "twig",
+      "parts": ["t", "w", "i", "g"],
+      "picture": "🌿",
+      "prompt": "Two sounds squashed together at the front. Say them both: /t/, /w/."
+    },
+    {
+      "type": "blend",
+      "word": "swim",
+      "parts": ["s", "w", "i", "m"],
+      "picture": "🏊",
+      "prompt": "A hiss, then the round lips. Four sounds — do not let the /w/ get lost."
+    },
+    {
+      "type": "readWord",
+      "word": "will",
+      "prompt": "Two l's at the end, but they only say it once."
+    },
+    {
+      "type": "readWord",
+      "word": "win",
+      "picture": "🏆"
+    },
+    {
+      "type": "readWord",
+      "word": "wag"
+    },
+    {
+      "type": "readWord",
+      "word": "wig"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "win",
+      "choices": ["win", "wig", "will"],
+      "prompt": "All three start the same way. The last sound decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "wag",
+      "choices": ["wag", "wig"],
+      "prompt": "Listen to the middle. One is wide open, one is small."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "will",
+      "choices": ["will", "fill"],
+      "prompt": "Round lips or teeth on your lip? The very first sound is the whole difference."
+    },
+    {
+      "type": "sentence",
+      "text": "jim hid a wig in a bag.",
+      "prompt": "Point at each word as you go. Where did the wig end up?"
+    },
+    {
+      "type": "sentence",
+      "text": "dad and sam swim a lap.",
+      "prompt": "Take swim slowly — there is a /w/ hiding after the hiss."
+    },
+    {
+      "type": "sentence",
+      "text": "jill will wag a twig at sam.",
+      "prompt": "Three w words in one line. Read it once, then read it again quickly."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["van", "jam", "hill", "cab", "fig"],
+      "prompt": "Old friends. Read each one all the way to the end."
+    }
+  ]
+}

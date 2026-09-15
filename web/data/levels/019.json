@@ -1,0 +1,121 @@
+{
+  "level": 19,
+  "title": "r says /r/",
+  "kidTitle": "Meet the letter r",
+  "parentNote": "Today is /r/, and it is the one sound so far where nothing touches anything: the tongue pulls back and bunches up in the middle of the mouth, the tip hovers without landing, and the lips round a little. Because the lips round, /r/ and yesterday's /w/ come out almost the same for a lot of children — \"rat\" turns into \"wat\", \"rig\" into \"wig\" — and the fix is the tongue, not the lips: ask them to feel the back of the tongue lift and pull back while the tip stays down. The other slip is \"ruh\", which makes \"rip\" into \"ruh-ip\"; stretch it instead, rrrrrip, because /r/ is a sound you can hold. Say the pair rig and wig for them a few times and let them tell you which is which before they read anything.",
+  "newGraphemes": ["r"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "r",
+      "keyword": "rat",
+      "picture": "🐀",
+      "mouthCue": "Pull your tongue back and bunch it up in the middle. The tip points at the roof but never touches it.",
+      "prompt": "You can hold this one for as long as your breath lasts. Try it: rrrrrr."
+    },
+    {
+      "type": "soundMatch",
+      "target": "r",
+      "choices": ["r", "w"],
+      "prompt": "Your lips round for both. Only one of them moves your tongue."
+    },
+    {
+      "type": "soundMatch",
+      "target": "r",
+      "choices": ["r", "l", "w"],
+      "prompt": "Three hums. One has the tongue tip up on the ridge, one has it pulled back, one has no tongue at all."
+    },
+    {
+      "type": "blend",
+      "word": "rat",
+      "parts": ["r", "a", "t"],
+      "picture": "🐀",
+      "prompt": "Stretch the first sound, then snap the last one shut."
+    },
+    {
+      "type": "blend",
+      "word": "ran",
+      "parts": ["r", "a", "n"],
+      "prompt": "Nearly rat. This time the end hums instead of stopping."
+    },
+    {
+      "type": "blend",
+      "word": "rip",
+      "parts": ["r", "i", "p"],
+      "prompt": "Small vowel in the middle. Do not let an uh sneak in after the /r/."
+    },
+    {
+      "type": "blend",
+      "word": "rag",
+      "parts": ["r", "a", "g"],
+      "picture": "🧽",
+      "prompt": "Say it next to wag. Your tongue is the only thing that changes."
+    },
+    {
+      "type": "blend",
+      "word": "grin",
+      "parts": ["g", "r", "i", "n"],
+      "picture": "😁",
+      "prompt": "Two sounds at the front, squashed together. A pop at the back, then the long /r/."
+    },
+    {
+      "type": "readWord",
+      "word": "rim",
+      "prompt": "The rim is the edge that goes all the way round a cup."
+    },
+    {
+      "type": "readWord",
+      "word": "rib"
+    },
+    {
+      "type": "readWord",
+      "word": "ram",
+      "picture": "🐏"
+    },
+    {
+      "type": "readWord",
+      "word": "rag",
+      "picture": "🧽"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rig",
+      "choices": ["rig", "wig"],
+      "prompt": "This is the hard pair. Tongue back for one, lips only for the other."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rip",
+      "choices": ["rip", "lip"],
+      "prompt": "Does the tongue touch behind your teeth, or does it stay back?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ran",
+      "choices": ["ran", "rat", "rag"],
+      "prompt": "All three start alike. Hold on to the very last sound."
+    },
+    {
+      "type": "sentence",
+      "text": "a fat rat ran at a cat.",
+      "prompt": "Read it slowly. Who is chasing who in this one?"
+    },
+    {
+      "type": "sentence",
+      "text": "tim can grin at a big ram.",
+      "prompt": "Grin has two sounds before the vowel. Say them both."
+    },
+    {
+      "type": "sentence",
+      "text": "dad did grin at sam and pam.",
+      "prompt": "Six words, then a name, then another name. Finger under each one."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["wig", "van", "cab", "jam", "hill"],
+      "prompt": "One from yesterday and one from each day before it."
+    }
+  ]
+}
