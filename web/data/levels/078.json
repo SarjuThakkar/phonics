@@ -1,0 +1,181 @@
+{
+  "level": 78,
+  "title": "Review: ea, oa, ow",
+  "kidTitle": "Three teams, two sounds",
+  "parentNote": "No new sound today. Just the three teams from the last three days, and the useful thing about them is that they only make two sounds between them: ea says ee, and oa and ow both say oh. So the first question is never which team is it, it is which sound is it — ee or oh. Once your child has sorted a word into the oh pile, the old rule finishes the job: oa sits in the middle (coach, goal, loaf), ow sits on the end (low, pillow, elbow). The slip to expect is a word like loaf being read as leaf, because ea and oa look alike at a glance and the rest of the word is identical. Slow that one down: cover everything but the two vowel letters and ask only ee or oh, then uncover and read. If they are tired, stop after the first story — the second one can wait until tomorrow.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "ea",
+      "choices": ["ea", "oa", "ow"],
+      "prompt": "Three teams from this week. Two of them say oh. Find the one that says ee."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ow",
+      "choices": ["ow", "ea", "ee"],
+      "prompt": "Now the other way round. Two of these say ee. Find the one that says oh."
+    },
+    {
+      "type": "blend",
+      "word": "peach",
+      "parts": ["p", "ea", "ch"],
+      "picture": "🍑",
+      "prompt": "Sort it first. Is the team in the middle an ee or an oh?"
+    },
+    {
+      "type": "blend",
+      "word": "coach",
+      "parts": ["c", "oa", "ch"],
+      "picture": "🚌",
+      "prompt": "The same ending, but a different team in the middle. This one is the oh."
+    },
+    {
+      "type": "blend",
+      "word": "goal",
+      "parts": ["g", "oa", "l"],
+      "picture": "⚽"
+    },
+    {
+      "type": "blend",
+      "word": "pillow",
+      "parts": ["p", "i", "ll", "ow"],
+      "picture": "🛏️",
+      "prompt": "Still an oh, but the word stops at the team. On the end it is ow."
+    },
+    {
+      "type": "blend",
+      "word": "elbow",
+      "parts": ["e", "l", "b", "ow"],
+      "picture": "💪"
+    },
+    {
+      "type": "blend",
+      "word": "oatmeal",
+      "parts": ["oa", "t", "m", "ea", "l"],
+      "picture": "🥣",
+      "prompt": "The long one, and it has both sounds in it. An oh at the front and an ee in the middle."
+    },
+    {
+      "type": "readWord",
+      "word": "peanut",
+      "picture": "🥜"
+    },
+    {
+      "type": "readWord",
+      "word": "cloak",
+      "picture": "🧥"
+    },
+    {
+      "type": "readWord",
+      "word": "foal",
+      "picture": "🐴"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "leaf",
+      "choices": ["leaf", "loaf", "low"],
+      "prompt": "Three words that start with an l. Listen for ee or oh, and then for the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "boast",
+      "choices": ["boast", "beast", "best"],
+      "prompt": "This one is hard. One has a team that says oh, one has a team that says ee, and one has no team at all."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "moat",
+      "choices": ["moat", "meat", "mow"],
+      "prompt": "All three begin with an m. Two of them say oh, and only one of those stops at the team."
+    },
+    {
+      "type": "sentence",
+      "text": "The goat did eat the oats, and then it did eat the soap."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want a peach, or do they want to sit on the beach?"
+    },
+    {
+      "type": "sentence",
+      "text": "A crow did land on the willow and did peck at the peanut."
+    },
+    {
+      "type": "story",
+      "title": "The seal on the beach",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg did take a peach and a bag to the beach.",
+        "A seal did creep up the sand and did peep at the bag.",
+        "It did sneak the peach and did eat the lot in a flash.",
+        "Meg did stamp and did tell it to stop.",
+        "The seal did flap and did bark back at Meg.",
+        "Then it did drop a fat fish on the mat at her feet.",
+        "Meg did grin. It is not a peach, but it is a deal."
+      ],
+      "questions": [
+        {
+          "prompt": "The seal did creep up the sand and did sneak ...",
+          "choices": ["the peach", "the bag", "the mat"],
+          "answer": "the peach"
+        },
+        {
+          "prompt": "Meg did stamp, and the seal did ...",
+          "choices": ["bark back", "run off", "sit still"],
+          "answer": "bark back"
+        },
+        {
+          "prompt": "The seal did drop a ... on the mat.",
+          "choices": ["fat fish", "red coat", "big crab"],
+          "answer": "fat fish"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The goat in the rowboat",
+      "prompt": "A second story, and it is all the oh sound this time.",
+      "lines": [
+        "Bart did load oats and a cloak in the rowboat.",
+        "The goat did jump in with him, and the boat did sit low.",
+        "Bart did row and row, and the boat did creep on, slow and slow.",
+        "Then the goat did eat the oats. Then it did eat the cloak.",
+        "Bart did moan. The goat did not.",
+        "A crow did land on the goat and did peck at its coat.",
+        "Bart did row back to the road. The oats and the cloak sat in the goat."
+      ],
+      "questions": [
+        {
+          "prompt": "Bart did load oats and a ... in the rowboat.",
+          "choices": ["cloak", "bowl", "coach"],
+          "answer": "cloak"
+        },
+        {
+          "prompt": "The goat did eat the oats, and then it did eat ...",
+          "choices": ["the cloak", "the boat", "the crow"],
+          "answer": "the cloak"
+        },
+        {
+          "prompt": "Bart did row back to the road with just ...",
+          "choices": ["the fat goat", "the oats", "the cloak"],
+          "answer": "the fat goat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The two teams from the start of the week",
+      "words": ["snail", "spray", "paint", "stay", "tray"],
+      "prompt": "ai and ay. Same sound, and it is the end of the word that tells you which one."
+    },
+    {
+      "type": "review",
+      "label": "The stage before this one",
+      "words": ["storm", "shirt", "crate", "thick", "flute"],
+      "prompt": "Older friends. Bossy r, a quiet e, and a digraph from a long way back."
+    }
+  ]
+}

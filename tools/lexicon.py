@@ -150,6 +150,23 @@ IRREGULAR: dict[str, int | None] = {
     "board": None, "broad": None, "roar": None, "soar": None,
     # a short a in an unstressed syllable, not the ar taught on day 62
     "arrow": None, "carrot": None, "sparrow": None,
+    # ou not saying /ow/ -- either an unrelated vowel sound, or the whole
+    # -ough family, which segments letter-by-letter without a fight even
+    # though none of its five real pronunciations are /ow/. Found by the
+    # day 78-82 author.
+    "touch": None, "soup": None, "group": None, "double": None,
+    "trouble": None, "cousin": None, "couple": None, "famous": None,
+    "southern": None, "though": None, "through": None, "thought": None,
+    "bought": None, "fought": None, "cough": None, "dough": None,
+    "rough": None, "tough": None, "enough": None,
+    # ou + r is the untaught "our"/"oor" team -- same family as the ar/er/ea/
+    # oa + r traps above, just for ou.
+    "pour": None, "tour": None, "court": None, "source": None,
+    "mourn": None, "our": None, "sour": None, "flour": None,
+    # oi/oy not saying the taught /oy/, or hiding an untaught sound nearby
+    "noise": None, "poison": None, "voice": None, "choice": None,
+    "moisten": None, "toilet": None, "royal": None, "loyal": None,
+    "annoy": None, "ahoy": None, "destroy": None, "joyful": None,
 }
 
 

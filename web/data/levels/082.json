@@ -1,0 +1,157 @@
+{
+  "level": 82,
+  "title": "oy says /oy/",
+  "kidTitle": "Meet oy",
+  "parentNote": "oy says exactly what oi said yesterday — boy, toy, joy, enjoy. Your child cannot hear any difference between them, because there is none, and the choice is made the same way ay and ai made it: oi goes in the middle, with sounds after it (coin, boil, point), and oy goes on the end, where the word stops (boy, joy, enjoy). Say the rule once and then let the pairs do the work — boil and boy, join and joy are in here side by side on purpose. The slip to expect is not in the reading but in the confidence: a child who reads boy correctly will often still ask whether it ought to be boi, and the honest answer is that they are right to think it sounds the same, and English simply keeps two spellings and parks each one in its own place.",
+  "newGraphemes": ["oy"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "oy",
+      "keyword": "toy",
+      "picture": "🧸",
+      "mouthCue": "The same slide as yesterday: round mouth first, then back into a smile.",
+      "prompt": "Two letters, and the sound is one you met yesterday. Same slide, different spelling: oy."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oy",
+      "choices": ["oy", "ou", "oa"],
+      "prompt": "Three teams that start with an o. Find the one that slides."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oy",
+      "choices": ["oy", "ay", "ow"],
+      "prompt": "Three teams that like the end of a word. Find today's."
+    },
+    {
+      "type": "blend",
+      "word": "boy",
+      "parts": ["b", "oy"],
+      "picture": "👦",
+      "prompt": "Two sounds, and the word stops at the team. On the end it is oy."
+    },
+    {
+      "type": "blend",
+      "word": "boil",
+      "parts": ["b", "oi", "l"],
+      "picture": "♨️",
+      "prompt": "The same start and the same sound, but an l keeps coming. In the middle it is oi."
+    },
+    {
+      "type": "blend",
+      "word": "toy",
+      "parts": ["t", "oy"],
+      "picture": "🧸"
+    },
+    {
+      "type": "blend",
+      "word": "joy",
+      "parts": ["j", "oy"]
+    },
+    {
+      "type": "blend",
+      "word": "enjoy",
+      "parts": ["e", "n", "j", "oy"],
+      "prompt": "Two beats, and it still stops at the team. That is why it is oy on the end."
+    },
+    {
+      "type": "blend",
+      "word": "oyster",
+      "parts": ["oy", "st", "er"],
+      "picture": "🦪",
+      "prompt": "The odd one. Here the team is at the front, which oy hardly ever does."
+    },
+    {
+      "type": "readWord",
+      "word": "toys",
+      "picture": "🪀"
+    },
+    {
+      "type": "readWord",
+      "word": "soy"
+    },
+    {
+      "type": "readWord",
+      "word": "Troy"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "boy",
+      "choices": ["boy", "boil", "bay"],
+      "prompt": "Two of these slide. Listen for a sound after the team, and if there is one it is the oi."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "join",
+      "choices": ["join", "joy", "jay"],
+      "prompt": "The other way round this time. This word does not stop at the team."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "toy",
+      "choices": ["toy", "toil", "tow"],
+      "prompt": "This one is hard. Two of them slide and one says oh, and only one of the three stops."
+    },
+    {
+      "type": "sentence",
+      "text": "The boy did drop the toy in the damp soil, and I did dig it out."
+    },
+    {
+      "type": "sentence",
+      "text": "Roy and I do enjoy a trip to the sea, and I want to take the toy boat."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to join us, or do they want to stay in and sort the toys?"
+    },
+    {
+      "type": "story",
+      "title": "Roy and the toy boat",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Roy did want to sail the toy boat at the pond.",
+        "It is a joy to see it float, but then the wind did get up.",
+        "The boat did spin round and round and did land in a reed bed.",
+        "Roy did moan. The toy is stuck, and the soil at the rim is damp.",
+        "Then I did point at a long stick on the ground.",
+        "Roy did grab it and did poke at the reed bed.",
+        "Out did pop the boat, and a big frog did pop out with it.",
+        "The frog sat on the toy boat and did not want to get off.",
+        "Roy did grin and did sail the frog round the pond.",
+        "That is a toy boat and a frog. Roy did enjoy that a lot."
+      ],
+      "questions": [
+        {
+          "prompt": "Roy did want to sail the toy boat at ...",
+          "choices": ["the pond", "the sea", "the bay"],
+          "answer": "the pond"
+        },
+        {
+          "prompt": "The boat did spin round and did land in ...",
+          "choices": ["a reed bed", "the soil", "the grass"],
+          "answer": "a reed bed"
+        },
+        {
+          "prompt": "Out did pop the boat, and out did pop ...",
+          "choices": ["a big frog", "a coin", "a crow"],
+          "answer": "a big frog"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's spelling of today's sound",
+      "words": ["coin", "oil", "point", "soil", "moist"],
+      "prompt": "Every one of these has a sound after the team. That is how you know it is oi."
+    },
+    {
+      "type": "review",
+      "label": "Teams from the last two weeks",
+      "words": ["shout", "cloud", "stay", "beach", "snow"],
+      "prompt": "ou, ay, ea and ow. Four teams, and not one of them slides."
+    }
+  ]
+}

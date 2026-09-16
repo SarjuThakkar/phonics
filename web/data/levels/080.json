@@ -1,0 +1,157 @@
+{
+  "level": 80,
+  "title": "ou says /ow/",
+  "kidTitle": "Meet ou",
+  "parentNote": "ou says /ow/ — the noise you make when you stub a toe. loud, shout, found, cloud, ground. This is a brand new sound, not another spelling of something we have already done, and that is worth saying out loud because it looks so much like a team we met three days ago. ow still says /oh/ (snow, blow, grow) and it will keep saying /oh/ for a long time yet; today's sound belongs to ou and only ou. The slip to expect is the two getting swapped, so loud comes out as lohd, or snow comes out with an ouch in it. Keep a snow word and a loud word side by side on the sofa and point at whichever one they need. Nothing else about ou changes: it sits in the middle or at the front, two letters, one sound, and the u never speaks on its own.",
+  "newGraphemes": ["ou"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ou",
+      "keyword": "loud",
+      "picture": "📣",
+      "mouthCue": "Your mouth drops wide open and then squeezes small and round, all in one go: ow.",
+      "prompt": "A brand new sound. Two letters, and the u does not speak on its own: ou."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "ow", "oa"],
+      "prompt": "This is the hard one. Two of these say oh. Only the new team says ow."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "or", "o"],
+      "prompt": "Three things an o can be part of. Find the new one."
+    },
+    {
+      "type": "blend",
+      "word": "out",
+      "parts": ["ou", "t"],
+      "prompt": "The team comes first here. Say it, then the t."
+    },
+    {
+      "type": "blend",
+      "word": "loud",
+      "parts": ["l", "ou", "d"],
+      "picture": "📣"
+    },
+    {
+      "type": "blend",
+      "word": "shout",
+      "parts": ["sh", "ou", "t"],
+      "picture": "😮"
+    },
+    {
+      "type": "blend",
+      "word": "cloud",
+      "parts": ["cl", "ou", "d"],
+      "picture": "☁️"
+    },
+    {
+      "type": "blend",
+      "word": "round",
+      "parts": ["r", "ou", "nd"],
+      "picture": "⭕"
+    },
+    {
+      "type": "blend",
+      "word": "outside",
+      "parts": ["ou", "t", "s", "i", "de"],
+      "picture": "🌳",
+      "prompt": "The long one. The team at the front, and a quiet e hiding at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "found",
+      "picture": "🔎"
+    },
+    {
+      "type": "readWord",
+      "word": "ground"
+    },
+    {
+      "type": "readWord",
+      "word": "mouth",
+      "picture": "👄"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "loud",
+      "choices": ["loud", "load", "low"],
+      "prompt": "Three words with an l, and three teams that all look a bit alike. Listen for the ow."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shout",
+      "choices": ["shout", "show", "shot"],
+      "prompt": "All three start with sh. One says ow, one says oh, and one is just a short o."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "found",
+      "choices": ["found", "fond", "foam"],
+      "prompt": "This one is hard. The whole difference is in the middle of each word."
+    },
+    {
+      "type": "sentence",
+      "text": "I did shout out loud, and the cat did dash out and up the oak."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to sit outside on the grass, or do they want to stay in?"
+    },
+    {
+      "type": "sentence",
+      "text": "The dog did creep round the shed and did sniff at a big mud mound."
+    },
+    {
+      "type": "story",
+      "title": "The loud sound in the shed",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg and I sat outside on the ground and did munch hot toast.",
+        "Then the shed did let out a loud sound. Bang! Bang!",
+        "I did drop the toast. The sound did not stop.",
+        "It did sound like a drum bumping round and round.",
+        "Meg is not the sort to stand and wait, and I am.",
+        "Meg did creep up to the shed and did lift the flap.",
+        "Out did dash a fat red hen, and it did land on the ground.",
+        "It had found a tin tub, and it did stamp in it. Bang! Bang!",
+        "Meg did grin. The drum is a hen, and the hen is proud.",
+        "I did pick up the toast. The hen did want it, but I did not let it."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and I sat outside on the ground and did munch ...",
+          "choices": ["hot toast", "a green bean", "a big peach"],
+          "answer": "hot toast"
+        },
+        {
+          "prompt": "Meg did lift the flap, and out did dash ...",
+          "choices": ["a fat red hen", "a big drum", "a black crow"],
+          "answer": "a fat red hen"
+        },
+        {
+          "prompt": "The loud sound is the hen stamping in ...",
+          "choices": ["a tin tub", "the grass", "the toast"],
+          "answer": "a tin tub"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ow still says oh",
+      "words": ["snow", "blow", "crow", "grow", "row"],
+      "prompt": "Not one of these is today's sound. ow keeps its old job, and ou is the new one."
+    },
+    {
+      "type": "review",
+      "label": "The stage before this one",
+      "words": ["church", "bird", "globe", "stove", "burn"],
+      "prompt": "Bossy r and the quiet e, back for a visit."
+    }
+  ]
+}

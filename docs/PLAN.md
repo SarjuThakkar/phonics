@@ -82,12 +82,11 @@ next batch goes out, which is the main reason the days keep improving.
 ## Status
 
 Remaining batches, in order — this is the schedule, and it is the thing to
-pick up if a session is interrupted. Batches 1–9 (days 28–72) are done,
+pick up if a session is interrupted. Batches 1–10 (days 28–77) are done,
 committed, pushed and live.
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 10 | 73–77 | ai says /ae/; Review: ay and ai; ea says /ee/; oa says /oe/; ow says /oe/ |
 | 11 | 78–82 | Review: ea, oa, ow; Review: ay, ai, ea, oa, ow; ou says /ow/; oi says /oi/; oy says /oi/ |
 | 12 | 83–87 | Review: ou, oi, oy; e at the end says /ee/; o at the end says /oe/; Review: long e and o endings; y says /y/ |
 | 13 | 88–92 | you; said; qu says /kw/; x says /ks/; z says /z/ |
@@ -181,3 +180,8 @@ worth more than the other 542 recordings together.
 - **Day 55** in the source sequence ("the long a sound", seed words *bae, sae,
   hae*) is a sound-introduction day with no real English words — it is written
   as ear training for the long-a sound ahead of `a_e` on day 56.
+- **Day 82's seed word `cowboy`** is the same class of bug as day 29's `lump`,
+  except permanent rather than deferred: it contains `ow`, and this course
+  never teaches `ow` saying /ow/ at all (the sequence's `ow` levels are all
+  the /oh/ reading — snow, grow). `boy`, `toy`, `enjoy`, `joy` all work fine;
+  skip `cowboy`, or swap it for `tomboy` if a compound word is wanted there.

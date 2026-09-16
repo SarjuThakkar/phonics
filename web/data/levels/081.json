@@ -1,0 +1,157 @@
+{
+  "level": 81,
+  "title": "oi says /oy/",
+  "kidTitle": "Meet oi",
+  "parentNote": "oi says /oy/ — coin, oil, boil, join, point. It is a sound that slides: it starts as an oh and ends as an ee, all inside one beat, which is why it feels like two sounds and is written with two letters. The slip to expect is your child stopping halfway and saying oh, so coin comes out as cone. Say it long and let them hear the slide — oooo-eeee — then say it fast. It is also worth knowing where oi lives: it sits at the front or the middle of a word, with a sound after it, and it almost never ends one. That last part matters tomorrow, when the other spelling for this sound turns up and takes the end of the word for itself.",
+  "newGraphemes": ["oi"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "oi",
+      "keyword": "coin",
+      "picture": "🪙",
+      "mouthCue": "Start with a round o, then pull the corners of your mouth back into a smile. The sound slides as you do it.",
+      "prompt": "A new sound, and it slides. Round mouth first, smile after: oi."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oi",
+      "choices": ["oi", "ou", "oa"],
+      "prompt": "Three teams that start with an o. One says ow, one says oh, and one is the new slide."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oi",
+      "choices": ["oi", "or", "ow"],
+      "prompt": "Find today's team again. Listen for the mouth that moves."
+    },
+    {
+      "type": "blend",
+      "word": "oil",
+      "parts": ["oi", "l"],
+      "picture": "🛢️",
+      "prompt": "The team comes first. Slide it, then add the l."
+    },
+    {
+      "type": "blend",
+      "word": "boil",
+      "parts": ["b", "oi", "l"],
+      "picture": "♨️"
+    },
+    {
+      "type": "blend",
+      "word": "coin",
+      "parts": ["c", "oi", "n"],
+      "picture": "🪙"
+    },
+    {
+      "type": "blend",
+      "word": "join",
+      "parts": ["j", "oi", "n"]
+    },
+    {
+      "type": "blend",
+      "word": "point",
+      "parts": ["p", "oi", "n", "t"],
+      "picture": "👉",
+      "prompt": "Two sounds after the team this time. Do not stop until you get to the t."
+    },
+    {
+      "type": "blend",
+      "word": "tinfoil",
+      "parts": ["t", "i", "n", "f", "oi", "l"],
+      "picture": "🌯",
+      "prompt": "The long one. Read the first bit, then the second bit, then push them up against each other."
+    },
+    {
+      "type": "readWord",
+      "word": "soil",
+      "picture": "🪴"
+    },
+    {
+      "type": "readWord",
+      "word": "coil"
+    },
+    {
+      "type": "readWord",
+      "word": "moist"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "coin",
+      "choices": ["coin", "cone", "corn"],
+      "prompt": "Three words with a c and an n. One slides, one says oh, and one has a bossy r."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "boil",
+      "choices": ["boil", "bowl", "boat"],
+      "prompt": "This one is hard. Two of these say oh in the middle. Listen for the mouth that moves."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "point",
+      "choices": ["point", "paint", "pound"],
+      "prompt": "Three teams, three sounds, and the rest of each word is the same."
+    },
+    {
+      "type": "sentence",
+      "text": "I did drop a coin in the soil, and then I did dig it up."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to join us, or do they want to sit and point at the fish?"
+    },
+    {
+      "type": "sentence",
+      "text": "The pot did boil, and hot steam did run out the spout."
+    },
+    {
+      "type": "story",
+      "title": "The coin in the soil",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg did dig in the damp soil and did spot tinfoil in the mud.",
+        "Under the foil sat a coin, dark and damp.",
+        "Meg did rub it on her coat, and it did shine.",
+        "I did want to join in, and I did dig with her.",
+        "I did turn up a bent nail and a tin lid.",
+        "Meg did grin and did point at the damp soil under the oak.",
+        "I did dig, and up came a coin. Then a coin. Then a coin.",
+        "Meg did hand the lot to Dad.",
+        "Dad did boil the coins in a pot to get the muck off.",
+        "The coins sit in a jar on the shelf, and they do shine."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did dig in the damp soil and did spot ...",
+          "choices": ["tinfoil", "a bent nail", "a tin lid"],
+          "answer": "tinfoil"
+        },
+        {
+          "prompt": "Under the foil sat ...",
+          "choices": ["a coin", "a nail", "a jar"],
+          "answer": "a coin"
+        },
+        {
+          "prompt": "Dad did boil the coins in a pot to ...",
+          "choices": ["get the muck off", "make them hot", "melt them"],
+          "answer": "get the muck off"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's team",
+      "words": ["loud", "shout", "round", "cloud", "ground"],
+      "prompt": "ou, and it says ow. Today's team is the one that slides."
+    },
+    {
+      "type": "review",
+      "label": "Teams from last week",
+      "words": ["train", "clay", "beach", "float", "snow"],
+      "prompt": "ai, ay, ea, oa and ow. Check where the team sits in each one."
+    }
+  ]
+}

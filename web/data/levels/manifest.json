@@ -76,7 +76,12 @@
     74,
     75,
     76,
-    77
+    77,
+    78,
+    79,
+    80,
+    81,
+    82
   ],
   "levels": [
     {
@@ -539,6 +544,36 @@
       "level": 77,
       "title": "ow says /oh/",
       "kidTitle": "Meet ow",
+      "activities": 21
+    },
+    {
+      "level": 78,
+      "title": "Review: ea, oa, ow",
+      "kidTitle": "Three teams, two sounds",
+      "activities": 21
+    },
+    {
+      "level": 79,
+      "title": "Review: ay, ai, ea, oa, ow",
+      "kidTitle": "Where the team sits",
+      "activities": 21
+    },
+    {
+      "level": 80,
+      "title": "ou says /ow/",
+      "kidTitle": "Meet ou",
+      "activities": 21
+    },
+    {
+      "level": 81,
+      "title": "oi says /oy/",
+      "kidTitle": "Meet oi",
+      "activities": 21
+    },
+    {
+      "level": 82,
+      "title": "oy says /oy/",
+      "kidTitle": "Meet oy",
       "activities": 21
     }
   ]

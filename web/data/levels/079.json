@@ -1,0 +1,180 @@
+{
+  "level": 79,
+  "title": "Review: ay, ai, ea, oa, ow",
+  "kidTitle": "Where the team sits",
+  "parentNote": "All five vowel teams in one day: ay, ai, ea, oa and ow. Today is not about the sounds, it is about the place. Look at where the two letters sit and a pattern falls out — ai and oa live in the middle of a word, with more sounds after them (bait, moan), and ay and ow live on the end, where the word stops (bay, mow). Two different sounds, one identical rule. ea is the odd one that goes in both places, which is why tea and team are both fine. The slip to expect is a word like bait read as bay, or load read as low: your child sees the team, says it, and stops instead of reading on to the end. Run a finger under the whole word before they say anything. If a word ends in a team, there is nothing after it to miss.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "ai",
+      "choices": ["ai", "ea", "oa"],
+      "prompt": "Three teams that live in the middle of a word. Find the one that says the letter name a."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ow",
+      "choices": ["ow", "ay", "ee"],
+      "prompt": "Three teams that can sit on the end of a word. Find the one that says oh."
+    },
+    {
+      "type": "blend",
+      "word": "bay",
+      "parts": ["b", "ay"],
+      "picture": "🏖️",
+      "prompt": "Two sounds, and the word stops at the team. On the end it is ay."
+    },
+    {
+      "type": "blend",
+      "word": "bait",
+      "parts": ["b", "ai", "t"],
+      "picture": "🪱",
+      "prompt": "The same start and the same sound, but a t keeps coming. In the middle it is ai."
+    },
+    {
+      "type": "blend",
+      "word": "mow",
+      "parts": ["m", "ow"],
+      "prompt": "A different sound, and the very same rule. It stops at the team, and that is ow."
+    },
+    {
+      "type": "blend",
+      "word": "moan",
+      "parts": ["m", "oa", "n"],
+      "prompt": "And a sound after it, which makes it oa. The rule does not care which sound it is."
+    },
+    {
+      "type": "blend",
+      "word": "tea",
+      "parts": ["t", "ea"],
+      "picture": "🍵"
+    },
+    {
+      "type": "blend",
+      "word": "team",
+      "parts": ["t", "ea", "m"],
+      "prompt": "ea is the odd one. It sits on the end and it sits in the middle, and it never swaps for a partner."
+    },
+    {
+      "type": "blend",
+      "word": "daydream",
+      "parts": ["d", "ay", "dr", "ea", "m"],
+      "picture": "💭",
+      "prompt": "The long one. An ay on the end of the first bit, and an ea in the middle of the rest."
+    },
+    {
+      "type": "readWord",
+      "word": "stray",
+      "picture": "🐈"
+    },
+    {
+      "type": "readWord",
+      "word": "grain",
+      "picture": "🌾"
+    },
+    {
+      "type": "readWord",
+      "word": "throat"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bait",
+      "choices": ["bait", "beat", "boat"],
+      "prompt": "The same b and the same t. Everything you need is in the two letters in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mail",
+      "choices": ["mail", "meal", "mow"],
+      "prompt": "Three words with an m, and three teams. Two of them have a sound after the team."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "load",
+      "choices": ["load", "low", "lay"],
+      "prompt": "This one is hard. Two of these stop at the team. Only one reads on to a d."
+    },
+    {
+      "type": "sentence",
+      "text": "The grain is in the pail, and a stray goat did eat the lot."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to stay at the bay for the day, or do they want to row back?"
+    },
+    {
+      "type": "sentence",
+      "text": "I did lay the wet coat on the rail, and the wind did blow on it."
+    },
+    {
+      "type": "story",
+      "title": "The train to the sea",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "On a gray day, Meg and I did wait for the train to the sea.",
+        "Rain did drip on the rail, and the train did creep in slow.",
+        "Meg did lay her bag on a seat and did eat a peach.",
+        "I did see a boat float past, and then a crow on a mast.",
+        "At the bay, Meg and I did dig in the sand and did fill a pail.",
+        "Then a big wave did soak the coat that Meg did lay on the sand.",
+        "The sun did sit low and did glow red, and the day did fade.",
+        "On the train back, Meg did nap, and I did daydream."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and I did wait for the train to ...",
+          "choices": ["the sea", "the barn", "the shed"],
+          "answer": "the sea"
+        },
+        {
+          "prompt": "I did see a boat float past, and then a crow on ...",
+          "choices": ["a mast", "the rail", "the sand"],
+          "answer": "a mast"
+        },
+        {
+          "prompt": "At the bay a big wave did soak ...",
+          "choices": ["the coat", "the pail", "the train"],
+          "answer": "the coat"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The snail and the mail",
+      "prompt": "A second story. This one is short, and the snail wins.",
+      "lines": [
+        "Dad did lay the mail on the step and did shut the gate.",
+        "A snail did creep up on it, slow and slow.",
+        "It did munch on the mail and did make a slick trail.",
+        "Dad came back and did moan at the hole in the mail.",
+        "I did pick the snail up and did set it in the grass.",
+        "The snail did wait. Then it did creep back to the step.",
+        "This time the mail sat up on the gate, and the snail did not."
+      ],
+      "questions": [
+        {
+          "prompt": "Dad did lay the mail on ...",
+          "choices": ["the step", "the gate", "the grass"],
+          "answer": "the step"
+        },
+        {
+          "prompt": "The snail did munch on the mail and did make ...",
+          "choices": ["a slick trail", "a red coat", "a fat bean"],
+          "answer": "a slick trail"
+        },
+        {
+          "prompt": "In the end the mail sat ...",
+          "choices": ["up on the gate", "on the step", "in the grass"],
+          "answer": "up on the gate"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "One word for each team",
+      "words": ["play", "rain", "clean", "toast", "snow"],
+      "prompt": "ay, ai, ea, oa, ow. Say each one, then say where the team is sitting."
+    }
+  ]
+}
