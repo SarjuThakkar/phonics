@@ -1,0 +1,145 @@
+{
+  "level": 55,
+  "title": "the long a sound",
+  "kidTitle": "a says its name",
+  "parentNote": "Today is the odd one out: the sound is the long a — the ay in they, in rain, in cake — and the course has not yet given your child a single way to spell it, so this is a listening day, and tomorrow the spelling arrives. The game is the whole lesson: say a pair of words and ask whether the a says aah or says its own name. cat and cake. hat and hate. tap and tape. plan and plane. Stretch the long one until it is silly — aaaay — because a child who cannot hear the difference cannot use tomorrow's rule however well they learn it. What is on the screen today is this week's long i and long o words, because they are the same trick with a different vowel: the vowel stops saying its everyday sound and says its own name instead. Read those out loud and tomorrow's silent e on an a will feel obvious rather than arbitrary.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "readWord",
+      "word": "they",
+      "prompt": "You can read this one already. Say it slowly and stretch the end: thaaay. That ay is the sound we are hunting today."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "o", "u"],
+      "prompt": "Now the everyday a, the one in cat. Tap it. It is the sound that ay is hiding behind."
+    },
+    {
+      "type": "blend",
+      "word": "tie",
+      "parts": ["t", "ie"],
+      "picture": "👔",
+      "prompt": "Two letters, one sound: the i saying its own name."
+    },
+    {
+      "type": "blend",
+      "word": "toe",
+      "parts": ["t", "oe"],
+      "picture": "🦶",
+      "prompt": "Same shape of word, but now it is the o saying its own name."
+    },
+    {
+      "type": "blend",
+      "word": "hike",
+      "parts": ["h", "i", "ke"],
+      "picture": "🥾",
+      "prompt": "A quiet e on the end, so the i says its name in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "home",
+      "parts": ["h", "o", "me"],
+      "picture": "🏠"
+    },
+    {
+      "type": "blend",
+      "word": "bedtime",
+      "parts": ["b", "e", "d", "t", "i", "me"],
+      "picture": "🛏",
+      "prompt": "A long one with two vowels in it. The first one is short and the second one says its name."
+    },
+    {
+      "type": "readWord",
+      "word": "spoke"
+    },
+    {
+      "type": "readWord",
+      "word": "tries"
+    },
+    {
+      "type": "readWord",
+      "word": "note",
+      "picture": "📝"
+    },
+    {
+      "type": "readWord",
+      "word": "tiptoe",
+      "picture": "👣"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "robe",
+      "choices": ["rob", "robe"],
+      "prompt": "Listen to the middle sound. Short, or the vowel saying its name?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "slid",
+      "choices": ["slid", "slide"],
+      "prompt": "Listen to the middle sound. Short, or the vowel saying its name?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dime",
+      "choices": ["dim", "dime"],
+      "prompt": "One of these is a coin. It is the one with the silent e on the end."
+    },
+    {
+      "type": "sentence",
+      "text": "They hid a bone in a hole, and the dog dug it up."
+    },
+    {
+      "type": "sentence",
+      "text": "At bedtime, Meg rode home on a bike."
+    },
+    {
+      "type": "sentence",
+      "text": "The mole sat up on a stone and did grin at them!"
+    },
+    {
+      "type": "story",
+      "title": "Tim hides at bedtime",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "It is bedtime, and Tim did hide inside the shed.",
+        "Mum and Meg did not spot him.",
+        "They did hunt in the pine and up the slope.",
+        "Then Meg did spot ten toes in the gap!",
+        "Tim did grin and did not run.",
+        "At nine Tim is in bed, and the dog hid inside the shed."
+      ],
+      "questions": [
+        {
+          "prompt": "Tim did hide inside ...",
+          "choices": ["the shed", "the bin"],
+          "answer": "the shed"
+        },
+        {
+          "prompt": "Meg did spot ...",
+          "choices": ["ten toes", "a big doe"],
+          "answer": "ten toes"
+        },
+        {
+          "prompt": "At nine the dog hid inside ...",
+          "choices": ["the shed", "the bed"],
+          "answer": "the shed"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Long vowels from this week",
+      "words": ["lie", "five", "doe", "cone", "flies"],
+      "prompt": "Four days, two vowels, one trick: the vowel says its own name."
+    },
+    {
+      "type": "review",
+      "label": "Short a, the everyday a",
+      "words": ["cat", "hat", "bag", "van", "lap"],
+      "prompt": "Every one of these has the everyday a. Tomorrow you will see what a silent e does to it."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "level": 53,
+  "title": "oe says /oe/",
+  "kidTitle": "Meet oe",
+  "parentNote": "Today oe says oh — the letter o's own name — as in toes. Two things usually go wrong. Some children say both letters, so toe comes out \"toh-ee\"; others read the o short and turn toe into top. Both are fixed the same way: put a finger under the oe so the pair is covered as one lump, sound out what is either side of it, then uncover it and say the whole word. Round your lips when you model it — oh is made with the lips pushed forward, and a slack mouth says \"uh\" instead. Say tie and toe one after the other a few times: the only thing that changes is the team in the middle, and hearing that change is most of today's work.",
+  "newGraphemes": ["oe"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "oe",
+      "keyword": "toes",
+      "picture": "🦶",
+      "mouthCue": "Push your lips forward into a small round o, like you are about to blow out a candle.",
+      "prompt": "Another team of two letters. They do not say o and then e. Together they say oh."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oe",
+      "choices": ["oe", "o", "e"],
+      "prompt": "Two of these work on their own. One is a team of two letters saying one sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oe",
+      "choices": ["oe", "ie", "o"],
+      "prompt": "Two teams here. One says eye and one says oh. Find the one that says oh."
+    },
+    {
+      "type": "blend",
+      "word": "toe",
+      "parts": ["t", "oe"],
+      "picture": "🦶",
+      "prompt": "Only two sounds in this word. The oe is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "doe",
+      "parts": ["d", "oe"],
+      "picture": "🦌",
+      "prompt": "A doe is a deer with no antlers on her head."
+    },
+    {
+      "type": "blend",
+      "word": "hoe",
+      "parts": ["h", "oe"],
+      "prompt": "A hoe digs up the mud in a garden."
+    },
+    {
+      "type": "blend",
+      "word": "goes",
+      "parts": ["g", "oe", "s"],
+      "prompt": "Three sounds now. Keep the oe in one piece in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "tiptoe",
+      "parts": ["t", "i", "p", "t", "oe"],
+      "picture": "👣",
+      "prompt": "A long one. The o is short at the front and the team says oh at the end."
+    },
+    {
+      "type": "readWord",
+      "word": "toes",
+      "picture": "🦶"
+    },
+    {
+      "type": "readWord",
+      "word": "foe"
+    },
+    {
+      "type": "readWord",
+      "word": "hoes"
+    },
+    {
+      "type": "readWord",
+      "word": "foes"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "toe",
+      "choices": ["toe", "tie"],
+      "prompt": "Both start with t. The team in the middle is the only thing that changes."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "toes",
+      "choices": ["toes", "toe"],
+      "prompt": "Listen right to the end. Is there one, or more than one?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "goes",
+      "choices": ["goes", "got", "gets"],
+      "prompt": "All three start with g. The middle sound decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "Joe goes up the steps on tiptoe."
+    },
+    {
+      "type": "sentence",
+      "text": "The doe goes past the shed, but Joe did not spot it."
+    },
+    {
+      "type": "sentence",
+      "text": "Ten wet toes! Joe drops the hoe and runs up the hill."
+    },
+    {
+      "type": "story",
+      "title": "Joe and the doe",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Joe digs in the mud with a big hoe.",
+        "A doe goes past the shed and stops at the crop.",
+        "Joe goes up on tiptoe and did not stomp.",
+        "The doe did not run off. It steps on ten wet toes!",
+        "Joe hops up and drops the hoe in the pond.",
+        "The doe did munch the crop, and Joe rubs ten red toes."
+      ],
+      "questions": [
+        {
+          "prompt": "Joe digs in the mud with ...",
+          "choices": ["a big hoe", "a big pot"],
+          "answer": "a big hoe"
+        },
+        {
+          "prompt": "The doe steps on ...",
+          "choices": ["ten wet toes", "the hoe"],
+          "answer": "ten wet toes"
+        },
+        {
+          "prompt": "In the end the doe did munch ...",
+          "choices": ["the crop", "a bun"],
+          "answer": "the crop"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Silent e from yesterday",
+      "words": ["kite", "time", "hide", "five", "smile"],
+      "prompt": "The quiet e on the end is still doing its job. Do not say it."
+    },
+    {
+      "type": "review",
+      "label": "Blends from last week",
+      "words": ["blush", "clamp", "brag", "trot", "plum"],
+      "prompt": "Two sounds at the front of each one. Say them both."
+    }
+  ]
+}

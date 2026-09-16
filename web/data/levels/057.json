@@ -1,0 +1,145 @@
+{
+  "level": 57,
+  "title": "ue says /oo/",
+  "kidTitle": "Meet ue",
+  "parentNote": "Today's team is ue, and it says oo, as in blue. The commonest slip is saying the letter's own name — \"b-you\" for blue — and it is an honest mistake, because ue really does say yoo in a few words further down the road. For now, oo is the one to practise: push your lips forward into a small circle, like blowing a bubble, and hold it steady. The other slip is sounding out both letters, so glue comes out \"gloo-eh\"; point at the ue as one chunk, exactly the way you did with ie and oe. Only a handful of words use this spelling — blue, glue, true, clue — so today is short on new words and long on practice. If your child is still going strong at the end, read the story a second time and let them do more of it.",
+  "newGraphemes": ["ue"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ue",
+      "keyword": "blue",
+      "picture": "🔵",
+      "mouthCue": "Push your lips forward into a tiny circle, like blowing a bubble, and hold it: ooo.",
+      "prompt": "Another team of two letters. They do not say u and then e. Together they say oo."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ue",
+      "choices": ["ue", "u", "e"],
+      "prompt": "Two of these work on their own. One is a team of two letters saying one sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ue",
+      "choices": ["ue", "oe", "ie"],
+      "prompt": "Three teams, three different sounds. Find the one that says oo."
+    },
+    {
+      "type": "blend",
+      "word": "blue",
+      "parts": ["bl", "ue"],
+      "picture": "🔵",
+      "prompt": "Only two sounds in this word. The ue is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "true",
+      "parts": ["tr", "ue"],
+      "prompt": "Same ending. Only the blend at the front has changed."
+    },
+    {
+      "type": "blend",
+      "word": "clue",
+      "parts": ["cl", "ue"]
+    },
+    {
+      "type": "blend",
+      "word": "glue",
+      "parts": ["g", "l", "ue"],
+      "prompt": "Three sounds this time: g, then l, then the team."
+    },
+    {
+      "type": "blend",
+      "word": "clues",
+      "parts": ["cl", "ue", "s"],
+      "prompt": "Keep the ue in one piece in the middle and add the s at the end."
+    },
+    {
+      "type": "readWord",
+      "word": "glues"
+    },
+    {
+      "type": "readWord",
+      "word": "Sue"
+    },
+    {
+      "type": "readWord",
+      "word": "untrue"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "glue",
+      "choices": ["glue", "clue"],
+      "prompt": "Same ending. Only the first sound is different."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "blue",
+      "choices": ["blue", "blues"],
+      "prompt": "Listen right to the end. Is there an s on it?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "true",
+      "choices": ["true", "trot", "tries"],
+      "prompt": "All three start with tr. The sound after it decides which one you heard."
+    },
+    {
+      "type": "sentence",
+      "text": "Sue got a blue bike, and Tim got a blue hat."
+    },
+    {
+      "type": "sentence",
+      "text": "It is true! The glue is still stuck on the desk."
+    },
+    {
+      "type": "sentence",
+      "text": "Sue did glue the rag on a stick and made a blue flag."
+    },
+    {
+      "type": "story",
+      "title": "The blue glue",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sue made a kite with a stick, a rag and blue glue.",
+        "The glue got on the desk and on the dog.",
+        "Then Meg came in and sat on the desk.",
+        "Meg is stuck! Sue did tug and tug.",
+        "Meg got up, but the hat did not. It is still stuck.",
+        "It is true: the dog is blue and the desk is blue.",
+        "The kite is not blue. The kite is red!"
+      ],
+      "questions": [
+        {
+          "prompt": "Sue made a kite with a stick, a rag and ...",
+          "choices": ["blue glue", "red tape"],
+          "answer": "blue glue"
+        },
+        {
+          "prompt": "Meg came in and sat on ...",
+          "choices": ["the desk", "the bed"],
+          "answer": "the desk"
+        },
+        {
+          "prompt": "Meg got up, but ...",
+          "choices": ["the hat did not", "the dog did not"],
+          "answer": "the hat did not"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "a and a quiet e, from yesterday",
+      "words": ["cake", "snake", "plate", "made", "lane"],
+      "prompt": "The e on the end is still silent, and the a is still saying its name."
+    },
+    {
+      "type": "review",
+      "label": "Short u, on its own",
+      "words": ["mug", "plug", "drum", "hunt", "tub"],
+      "prompt": "One letter, one everyday u sound. No team here."
+    }
+  ]
+}

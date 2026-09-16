@@ -51,7 +51,12 @@
     49,
     50,
     51,
-    52
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
   ],
   "levels": [
     {
@@ -365,6 +370,36 @@
       "title": "i_e (silent e)",
       "kidTitle": "The silent e",
       "activities": 21
+    },
+    {
+      "level": 53,
+      "title": "oe says /oe/",
+      "kidTitle": "Meet oe",
+      "activities": 21
+    },
+    {
+      "level": 54,
+      "title": "o_e (silent e)",
+      "kidTitle": "o and a quiet e",
+      "activities": 21
+    },
+    {
+      "level": 55,
+      "title": "the long a sound",
+      "kidTitle": "a says its name",
+      "activities": 20
+    },
+    {
+      "level": 56,
+      "title": "a_e (silent e)",
+      "kidTitle": "a and a quiet e",
+      "activities": 21
+    },
+    {
+      "level": 57,
+      "title": "ue says /oo/",
+      "kidTitle": "Meet ue",
+      "activities": 20
     }
   ]
 }

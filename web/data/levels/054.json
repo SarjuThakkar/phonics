@@ -1,0 +1,154 @@
+{
+  "level": 54,
+  "title": "o_e (silent e)",
+  "kidTitle": "o and a quiet e",
+  "parentNote": "The silent e now does its trick to an o: hop becomes hope, not becomes note, rod becomes rode. The idea is two days old already, so the new part is only the vowel — but the old habit is strong and the commonest slip is reading straight past the e, so hope comes out as hop. Write hop, read it together, then add an e in a different colour and read it again; four or five pairs teach it faster than any explaining. The other slip is sounding the e out — \"hoh-puh\" — so when you point, keep the p and the e covered as one lump and let the o say its name in the middle. If your child asks about come or gone, English simply breaks its own rule in those two; say so plainly and move on.",
+  "newGraphemes": ["o_e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "o_e",
+      "keyword": "home",
+      "picture": "🏠",
+      "mouthCue": "Lips pushed forward into a round o — the same shape as yesterday, held a little longer.",
+      "prompt": "The e on the end says nothing. It reaches back over the m and tells the o to say its own name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "o_e",
+      "choices": ["o_e", "o", "oe"],
+      "prompt": "Three ways of writing an o. Which one has a silent e waiting at the end?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "o_e",
+      "choices": ["o_e", "i_e", "o"],
+      "prompt": "Two of these have a gap with a silent e after it. Only one makes an o sound."
+    },
+    {
+      "type": "blend",
+      "word": "home",
+      "parts": ["h", "o", "me"],
+      "picture": "🏠",
+      "prompt": "Three sounds, not four. The m and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "hope",
+      "parts": ["h", "o", "pe"],
+      "prompt": "Same start as home. Only the lump at the end is different."
+    },
+    {
+      "type": "blend",
+      "word": "rode",
+      "parts": ["r", "o", "de"]
+    },
+    {
+      "type": "blend",
+      "word": "stone",
+      "parts": ["st", "o", "ne"],
+      "picture": "🪨",
+      "prompt": "Two sounds at the front this time, and the quiet e still at the back."
+    },
+    {
+      "type": "blend",
+      "word": "broke",
+      "parts": ["br", "o", "ke"],
+      "prompt": "The longest one. Front blend, o saying its name, then ke."
+    },
+    {
+      "type": "readWord",
+      "word": "bone",
+      "picture": "🦴"
+    },
+    {
+      "type": "readWord",
+      "word": "cone",
+      "picture": "🍦"
+    },
+    {
+      "type": "readWord",
+      "word": "globe",
+      "picture": "🌍"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hope",
+      "choices": ["hop", "hope"],
+      "prompt": "Same three letters at the front. One of them has the silent e on the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "not",
+      "choices": ["not", "note"],
+      "prompt": "Listen to the middle sound. Short o, or the o saying its name?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rode",
+      "choices": ["rod", "rode", "rope"],
+      "prompt": "Two of these have the silent e. The sound just before it decides which."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tone",
+      "choices": ["toe", "tone"],
+      "prompt": "Both say the o sound. One has a team of two letters and one has a silent e on the end."
+    },
+    {
+      "type": "sentence",
+      "text": "The doe goes up the slope, and Joe rode home."
+    },
+    {
+      "type": "sentence",
+      "text": "A mole dug a hole in the path and hid in it."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg broke the cone, and Joe did not help!"
+    },
+    {
+      "type": "story",
+      "title": "The mole and the hole",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Joe rode up the slope with Meg on a red bike.",
+        "A mole had dug a big hole in the path.",
+        "The bike hit the hole and broke!",
+        "Meg got a rope and did tug the bike home.",
+        "The mole sat up on a stone and did grin.",
+        "It did not help. It did munch the rope."
+      ],
+      "questions": [
+        {
+          "prompt": "Joe rode up the slope on ...",
+          "choices": ["a red bike", "a red bus"],
+          "answer": "a red bike"
+        },
+        {
+          "prompt": "The bike hit ...",
+          "choices": ["a big hole", "a big stone"],
+          "answer": "a big hole"
+        },
+        {
+          "prompt": "Meg did tug the bike home with ...",
+          "choices": ["a rope", "a hoe"],
+          "answer": "a rope"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "oe from yesterday",
+      "words": ["toe", "doe", "goes", "hoes", "tiptoe"],
+      "prompt": "The same sound as today, spelled the other way."
+    },
+    {
+      "type": "review",
+      "label": "Short o, with no e on the end",
+      "words": ["hop", "not", "rod", "job", "shop"],
+      "prompt": "No silent e here, so the o stays short. Read them the old way."
+    }
+  ]
+}

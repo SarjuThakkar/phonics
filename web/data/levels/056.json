@@ -1,0 +1,154 @@
+{
+  "level": 56,
+  "title": "a_e (silent e)",
+  "kidTitle": "a and a quiet e",
+  "parentNote": "This is the third vowel to get the silent e, and the one that pays off most, because a_e is everywhere: cake, made, name, plate. The e still says nothing and still reaches back over one consonant to tell the a to say its own name — the ay sound your child spent yesterday listening for. Two things go wrong. The first is reading straight past the e, so cape comes out cap; cover the e with your finger, read the short word, then lift the finger and read it again — cap and cape, tap and tape, plan and plane. The second is the sound itself: ay starts with the mouth open and finishes in a smile, and a child whose jaw never moves says \"keck\" for cake, so say it slowly and let them watch your mouth close. One warning: have is spelled exactly like these words and ignores the rule completely. If it comes up, just tell them so — it is an old cheat and not something they got wrong.",
+  "newGraphemes": ["a_e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "a_e",
+      "keyword": "cake",
+      "picture": "🎂",
+      "mouthCue": "Your mouth opens wide, then slides up into a smile. Two shapes, one sound: ay.",
+      "prompt": "The e on the end says nothing. It reaches back over the k and tells the a to say its own name — the sound you hunted yesterday."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a_e",
+      "choices": ["a_e", "a", "i_e"],
+      "prompt": "Two of these are an a. Which one has the silent e waiting at the end?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "a_e",
+      "choices": ["a_e", "o_e", "i_e"],
+      "prompt": "All three have a gap and a silent e. Listen to the vowel that goes in the gap."
+    },
+    {
+      "type": "blend",
+      "word": "cake",
+      "parts": ["c", "a", "ke"],
+      "picture": "🎂",
+      "prompt": "Three sounds, not four. The k and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "came",
+      "parts": ["c", "a", "me"],
+      "prompt": "Same start as cake. Only the lump at the end is different."
+    },
+    {
+      "type": "blend",
+      "word": "gate",
+      "parts": ["g", "a", "te"],
+      "picture": "🚪"
+    },
+    {
+      "type": "blend",
+      "word": "snake",
+      "parts": ["sn", "a", "ke"],
+      "picture": "🐍",
+      "prompt": "Two sounds at the front, and the quiet e still at the back."
+    },
+    {
+      "type": "blend",
+      "word": "plate",
+      "parts": ["pl", "a", "te"],
+      "picture": "🍽"
+    },
+    {
+      "type": "readWord",
+      "word": "lake"
+    },
+    {
+      "type": "readWord",
+      "word": "grape",
+      "picture": "🍇"
+    },
+    {
+      "type": "readWord",
+      "word": "wave",
+      "picture": "🌊"
+    },
+    {
+      "type": "readWord",
+      "word": "skate",
+      "picture": "⛸"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cape",
+      "choices": ["cap", "cape"],
+      "prompt": "Same three letters at the front. One of them has the silent e on the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "plan",
+      "choices": ["plan", "plane"],
+      "prompt": "Listen to the middle sound. Short a, or the a saying its name?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snake",
+      "choices": ["snack", "snake"],
+      "prompt": "One you can eat and one you should not. Listen right to the end of it."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg made a cake, and Tim ate the lot!"
+    },
+    {
+      "type": "sentence",
+      "text": "A snake came up the lane and hid in the shade."
+    },
+    {
+      "type": "sentence",
+      "text": "The plane came in late, and Meg did not wave at it."
+    },
+    {
+      "type": "story",
+      "title": "The snake and the cake",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg made a cake and set it on a plate.",
+        "They came up the lane and sat in the shade at the lake.",
+        "Then a snake came up and did grab the cake!",
+        "Meg and Tim did run at it, but the snake did not shift.",
+        "It had a big lump in it. The lump is the cake!",
+        "They gave the snake a name. It is Cake Snake!",
+        "Meg made the same cake at home, and Cake Snake did not get it."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg made a cake and set it on ...",
+          "choices": ["a plate", "a mat"],
+          "answer": "a plate"
+        },
+        {
+          "prompt": "The snake did grab ...",
+          "choices": ["the cake", "the plate"],
+          "answer": "the cake"
+        },
+        {
+          "prompt": "They gave the snake a name. It is ...",
+          "choices": ["Cake Snake", "Big Mole"],
+          "answer": "Cake Snake"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Short a, with no e on the end",
+      "words": ["ham", "chat", "flag", "crab", "stamp"],
+      "prompt": "No silent e here, so the a stays short. Read them the old way."
+    },
+    {
+      "type": "review",
+      "label": "The silent e on the other vowels",
+      "words": ["kite", "slide", "home", "broke", "note"],
+      "prompt": "The same quiet e, doing the same job to a different vowel."
+    }
+  ]
+}

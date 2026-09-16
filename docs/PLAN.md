@@ -81,16 +81,13 @@ next batch goes out, which is the main reason the days keep improving.
 
 ## Status
 
-Days 1–27 written and live. Remaining batches, in order — this is the schedule,
+Days 1–52 written and live. Remaining batches, in order — this is the schedule,
 and it is the thing to pick up if a session is interrupted:
+
+Batches 1–5 (days 28–52) are done, committed, pushed and live. Remaining:
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 1 | 28–32 | -s makes it plural; mp blend; ft blend; st blend (ending); sn blend |
-| 2 | 33–37 | sw blend; fl blend; is; fr blend; ng says /ng/ |
-| 3 | 38–42 | nk says /nk/; u says /u/; sc and sk blends; st blend (starting); sp blend |
-| 4 | 43–47 | sk blend (starting); e says /e/; they; bl blend; cl blend |
-| 5 | 48–52 | pl blend; br and tr blends; cr and dr blends; ie says /ie/; i_e (silent e) |
 | 6 | 53–57 | oe says /oe/; o_e (silent e); the long a sound; a_e (silent e); ue says /oo/ |
 | 7 | 58–62 | u_e (silent e); ee says /ee/; e_e (silent e); Review: silent e; ar says /ar/ |
 | 8 | 63–67 | are; or says /or/; er says /er/; ir says /er/; ur says /er/ |
