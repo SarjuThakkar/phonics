@@ -81,18 +81,45 @@ next batch goes out, which is the main reason the days keep improving.
 
 ## Status
 
-| Days | Stage | State |
-|---|---|---|
-| 1–2 | Letters and first words | ✅ written by hand as the reference lessons |
-| 3–17 | Letters and first words → sentences | ✅ |
-| 18–20 | Letters and first words | 🔄 in progress |
-| 21–50 | Letter teams and blends | 🔄 21–22 in progress |
-| 51–71 | Long vowels and silent e | ⬜ |
-| 72–103 | Vowel teams and tricky spellings | ⬜ |
-| 104–120 | On to real books | ⬜ |
+Days 1–27 written and live. Remaining batches, in order — this is the schedule,
+and it is the thing to pick up if a session is interrupted:
 
-Milestones already passed: sentences start on day 13, stories on day 21,
-capital letters on day 23.
+| Batch | Days | What it teaches |
+|---|---|---|
+| 1 | 28–32 | -s makes it plural; mp blend; ft blend; st blend (ending); sn blend |
+| 2 | 33–37 | sw blend; fl blend; is; fr blend; ng says /ng/ |
+| 3 | 38–42 | nk says /nk/; u says /u/; sc and sk blends; st blend (starting); sp blend |
+| 4 | 43–47 | sk blend (starting); e says /e/; they; bl blend; cl blend |
+| 5 | 48–52 | pl blend; br and tr blends; cr and dr blends; ie says /ie/; i_e (silent e) |
+| 6 | 53–57 | oe says /oe/; o_e (silent e); the long a sound; a_e (silent e); ue says /oo/ |
+| 7 | 58–62 | u_e (silent e); ee says /ee/; e_e (silent e); Review: silent e; ar says /ar/ |
+| 8 | 63–67 | are; or says /or/; er says /er/; ir says /er/; ur says /er/ |
+| 9 | 68–72 | Review: bossy r; Review: silent e + bossy r; I, want; to, do; ay says /ae/ |
+| 10 | 73–77 | ai says /ae/; Review: ay and ai; ea says /ee/; oa says /oe/; ow says /oe/ |
+| 11 | 78–82 | Review: ea, oa, ow; Review: ay, ai, ea, oa, ow; ou says /ow/; oi says /oi/; oy says /oi/ |
+| 12 | 83–87 | Review: ou, oi, oy; e at the end says /ee/; o at the end says /oe/; Review: long e and o endings; y says /y/ |
+| 13 | 88–92 | you; said; qu says /kw/; x says /ks/; z says /z/ |
+| 14 | 93–97 | aw says /aw/; -all says /all/; y at the end says /ie/; wh says /w/; what |
+| 15 | 98–102 | where; there, here, of; th says /th/ (unvoiced); could, would, should; any, anywhere, many |
+| 16 | 103–107 | oo says /uu/ and /oo/; house, mouse; -ed endings; ow says /ow/; igh and -alk |
+| 17 | 108–112 | -le endings; tomorrow, today, father; bye, your, friend; ew says /oo/; again, were |
+| 18 | 113–117 | some, horse, hooray; kn and wr (silent letters); air, and our and eyes; y at the end says /ee/; oh, have, put, away |
+| 19 | 118–120 | one, whole, worth, able; -ie at the end; soft g says /j/ |
+
+Milestones to call out in the relevant batch prompt, because an author who
+isn't told will miss them:
+
+- **day 35** `is` — the first "X is Y" sentence becomes possible, which changes
+  what can be written more than most sounds do
+- **day 44** `e` — the last short vowel; the whole CVC space is finally open
+- **day 52** `i_e` — silent e, the first time a letter changes another letter
+- **day 61, 68, 69, 74, 78, 79, 83, 86** — review days, no new sound: longer
+  stories, mixed word sets, harder questions
+- **day 55** — "the long a sound" has no real English words (its seed words are
+  nonsense); write it as ear training for the sound ahead of `a_e` on day 56
+- **day 84/85** `-e` and `-o` at the end — "we, be, he", "go, no, so"
+- **day 100** unvoiced `th` — the voiced one was day 24
+- **day 104 on** — the last stage; stories reach 10–14 lines
 
 ### Known drift: consonant clusters before day 27
 
