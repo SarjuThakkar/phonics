@@ -1,0 +1,138 @@
+{
+  "level": 42,
+  "title": "sp blend",
+  "kidTitle": "Meet sp",
+  "parentNote": "sp is the last of the three s-pairs: your child now has st, sk and sp, and they only differ in what the hiss runs into. In spin and spot the s slides straight into a p with no gap, and the usual slip is exactly the one from yesterday — the s gets dropped and spin comes out pin. Say the two words back to back yourself, spin and pin, and let them hear the extra sound at the front. sp works at the end of a word too, in gasp and wisp, and there is one activity today that puts it there so the pair is not tied to one end of the word.",
+  "newGraphemes": ["sp"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sp",
+      "keyword": "spin",
+      "picture": "🌀",
+      "mouthCue": "Hiss the s with your teeth almost shut, then shut your lips and pop them open for the p.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sp",
+      "choices": ["sp", "st", "sk"],
+      "prompt": "You know all three of these now. They all start with a hiss. Which one ends with your lips?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "sp",
+      "choices": ["sp", "p", "mp"],
+      "prompt": "All three end with your lips. Find the one that starts with a hiss."
+    },
+    {
+      "type": "blend",
+      "word": "spin",
+      "parts": ["s", "p", "i", "n"],
+      "picture": "🌀",
+      "prompt": "Say the hiss and the pop on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "spot",
+      "parts": ["sp", "o", "t"],
+      "prompt": "Now keep sp in one piece. Three sounds: sp, o, t."
+    },
+    {
+      "type": "blend",
+      "word": "spun",
+      "parts": ["sp", "u", "n"]
+    },
+    {
+      "type": "blend",
+      "word": "spill",
+      "parts": ["sp", "i", "ll"],
+      "prompt": "Two l letters on the end, but only one sound."
+    },
+    {
+      "type": "blend",
+      "word": "gasp",
+      "parts": ["g", "a", "sp"],
+      "prompt": "Now the pair has hopped to the back of the word. It says exactly the same thing."
+    },
+    {
+      "type": "readWord",
+      "word": "spit"
+    },
+    {
+      "type": "readWord",
+      "word": "spud",
+      "picture": "🥔"
+    },
+    {
+      "type": "readWord",
+      "word": "spots",
+      "picture": "🐆"
+    },
+    {
+      "type": "readWord",
+      "word": "spat"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "spin",
+      "choices": ["spin", "pin"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "spot",
+      "choices": ["spot", "spit"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "spill",
+      "choices": ["spill", "still"],
+      "prompt": "Both start with a hiss. Is the next sound a pop from your lips or a tap from your tongue?"
+    },
+    {
+      "type": "sentence",
+      "text": "Sam did spin the top and it did not stop."
+    },
+    {
+      "type": "sentence",
+      "text": "Is that a spud in the pot?"
+    },
+    {
+      "type": "sentence",
+      "text": "A big cat with spots did run past us!"
+    },
+    {
+      "type": "story",
+      "title": "The top that did not stop",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sam got a top and did spin it fast on the mat.",
+        "The top did spin and spin and did not stop.",
+        "It did hop off the mat and did spin in the mud!",
+        "Mud did spit up and got a spot on the cat.",
+        "The cat did gasp and ran off and Sam did grin."
+      ],
+      "questions": [
+        {
+          "prompt": "The top did hop off the mat and did spin in it.",
+          "choices": ["the mud", "the pond"],
+          "answer": "the mud"
+        },
+        {
+          "prompt": "It got a spot on it and did run off.",
+          "choices": ["the cat", "the dog"],
+          "answer": "the cat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["stuck", "mask", "duck", "pink", "frost"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

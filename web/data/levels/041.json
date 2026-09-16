@@ -1,0 +1,137 @@
+{
+  "level": 41,
+  "title": "st blend (starting)",
+  "kidTitle": "st at the front",
+  "parentNote": "There is no new sound today. Back on day 31 your child learnt st on the END of a word — fast, lost, must — and today those same two letters move to the FRONT: stop, stick, stand, stuck. It is worth saying that out loud to them, because it is the whole lesson: same letters, same two sounds, other end of the word. A blend at the front is genuinely harder than one at the back, though, because the child has to hold /s/ /t/ in mind while the rest of the word is still arriving, and the usual slip is dropping the s altogether so stop comes out top. If that happens, cover the t and everything after it, get the hiss on its own, then uncover the rest.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "st",
+      "keyword": "stop",
+      "picture": "🛑",
+      "mouthCue": "Hiss the s with your teeth almost shut, then tap your tongue down for the t.",
+      "prompt": "You already know this pair from the end of fast and lost. Today it moves to the front."
+    },
+    {
+      "type": "soundMatch",
+      "target": "st",
+      "choices": ["st", "sk", "sn"],
+      "prompt": "Three pairs that all start with a hiss. Find the one that ends with a tap."
+    },
+    {
+      "type": "blend",
+      "word": "stop",
+      "parts": ["s", "t", "o", "p"],
+      "picture": "🛑",
+      "prompt": "Say the hiss and the tap on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "stick",
+      "parts": ["st", "i", "ck"],
+      "prompt": "Now keep st in one piece. Three sounds: st, i, ck."
+    },
+    {
+      "type": "blend",
+      "word": "stand",
+      "parts": ["st", "a", "nd"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "blend",
+      "word": "stuck",
+      "parts": ["st", "u", "ck"]
+    },
+    {
+      "type": "blend",
+      "word": "stunt",
+      "parts": ["st", "u", "n", "t"],
+      "prompt": "The longest one. Four sounds and a t at each end."
+    },
+    {
+      "type": "readWord",
+      "word": "stump",
+      "picture": "🪵"
+    },
+    {
+      "type": "readWord",
+      "word": "stack"
+    },
+    {
+      "type": "readWord",
+      "word": "stomp"
+    },
+    {
+      "type": "readWord",
+      "word": "still"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stop",
+      "choices": ["stop", "top"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stand",
+      "choices": ["stand", "sand"],
+      "prompt": "Same again. Is there a tap after the hiss?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stuck",
+      "choices": ["stuck", "stick"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "Stop! The bus is stuck in the mud."
+    },
+    {
+      "type": "sentence",
+      "text": "Sam did stand on a stump and did stomp."
+    },
+    {
+      "type": "sentence",
+      "text": "Is the long stick still in the pond?"
+    },
+    {
+      "type": "story",
+      "title": "Stuck on the hill",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "The bus is stuck in the mud on a big hill.",
+        "Gus did stomp and did stand at the back.",
+        "The bus did not shift. It is stuck fast.",
+        "A fat hog did run up and did jump in the bus!",
+        "The bus did tip and did pop up. It is not stuck!"
+      ],
+      "questions": [
+        {
+          "prompt": "The bus is stuck in it.",
+          "choices": ["the mud", "the sand"],
+          "answer": "the mud"
+        },
+        {
+          "prompt": "It did jump in the bus and got it up the hill.",
+          "choices": ["a fat hog", "a big stick"],
+          "answer": "a fat hog"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "st on the END, from day 31",
+      "words": ["fast", "lost", "mist", "must", "frost"],
+      "prompt": "The same two letters, back where you met them."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["mask", "duck", "pink", "song", "swim"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

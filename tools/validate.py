@@ -21,7 +21,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 from tools.lexicon import (check_words, consonant_clusters, phonemes, sequence,
-                           unlocked_through, words_in)
+                           unlocked_through, untaught_blend, words_in)
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "web" / "data"
@@ -230,6 +230,14 @@ def validate_level(path: pathlib.Path) -> Report:
             r.warn(f"{len(hard)} cluster words before day {BLENDS_FROM} ({', '.join(hard[:6])}"
                    f"{'…' if len(hard) > 6 else ''}) -- prefer simple consonant-vowel-consonant "
                    f"words here and keep clusters to a couple of stretch words")
+
+    # --- don't spend a blend the course hasn't taught yet -----------------
+    early = sorted({w.lower() for w in shown_words if untaught_blend(w, level)})
+    if early:
+        which = {untaught_blend(w, level) for w in early}
+        r.warn(f"uses blends taught later ({', '.join(sorted(which))}): "
+               f"{', '.join(early[:6])}{'…' if len(early) > 6 else ''} -- letter-legal, "
+               f"but it spends the lesson that was going to teach them")
 
     # --- capital letters are themselves a lesson, on day 23 --------------
     # Before then a child has only ever seen lowercase forms, so an "A" is a

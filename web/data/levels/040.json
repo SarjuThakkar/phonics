@@ -1,0 +1,147 @@
+{
+  "level": 40,
+  "title": "sc and sk blends",
+  "kidTitle": "Meet sc and sk",
+  "parentNote": "Today is one sound made of two — a hiss and then a hard k — and English spells it two different ways for no good reason at all. At the front of a word it is usually sc, as in scat and scan. At the back of a word it is always sk, as in ask, mask and dusk. Both say exactly the same thing, so the only thing to learn is that the two spellings are twins. The wobble to expect is a child putting a little vowel between them — \"suh-cat\" — so run the hiss straight into the k with nothing in between. sk also turns up at the FRONT of words, in skip and skin, but that is a few days away; today the back of the word is enough.",
+  "newGraphemes": ["sc", "sk"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sc",
+      "keyword": "scat",
+      "picture": "🐈",
+      "mouthCue": "Hiss the s with your teeth almost shut, then hump the back of your tongue up and pop it.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "sk",
+      "keyword": "mask",
+      "picture": "🎭",
+      "mouthCue": "Exactly the same mouth as sc. The hiss, then the pop at the back.",
+      "prompt": "This one is the twin. Same two sounds, other spelling, and it likes the end of a word."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sc",
+      "choices": ["sc", "sn", "st"],
+      "prompt": "Three hisses. This one ends with a pop at the back of your mouth."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sk",
+      "choices": ["sk", "ck", "nk"],
+      "prompt": "All three have a k in them. Find the one that starts with a hiss."
+    },
+    {
+      "type": "blend",
+      "word": "ask",
+      "parts": ["a", "s", "k"],
+      "prompt": "Three sounds, and the last two run together at the end."
+    },
+    {
+      "type": "blend",
+      "word": "scat",
+      "parts": ["s", "c", "a", "t"],
+      "picture": "🐈",
+      "prompt": "Now the pair is at the front. Say the two sounds, then say them fast."
+    },
+    {
+      "type": "blend",
+      "word": "scan",
+      "parts": ["s", "c", "a", "n"]
+    },
+    {
+      "type": "blend",
+      "word": "mask",
+      "parts": ["m", "a", "s", "k"],
+      "picture": "🎭",
+      "prompt": "Back to the end of the word. Same two sounds, other spelling."
+    },
+    {
+      "type": "blend",
+      "word": "flask",
+      "parts": ["f", "l", "a", "s", "k"],
+      "prompt": "The longest one. A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "dusk",
+      "picture": "🌆"
+    },
+    {
+      "type": "readWord",
+      "word": "tusk",
+      "picture": "🦣"
+    },
+    {
+      "type": "readWord",
+      "word": "risk"
+    },
+    {
+      "type": "readWord",
+      "word": "scab"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mask",
+      "choices": ["mask", "mast"],
+      "prompt": "Both end with a hiss and a pop. Which pop is it?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "scat",
+      "choices": ["scat", "sat"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "task",
+      "choices": ["task", "tusk"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "Sam did ask and got a big mask."
+    },
+    {
+      "type": "sentence",
+      "text": "Scat! The cat did run up the hill fast."
+    },
+    {
+      "type": "sentence",
+      "text": "At dusk the bats flit and the frogs sing."
+    },
+    {
+      "type": "story",
+      "title": "The mask in the sand",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sam did dig in the sand and got a mask.",
+        "It is a big pink mask with a long tusk.",
+        "Sam did pop the mask on and did run at Pam.",
+        "Pam did jump up and did run off fast.",
+        "Sam did lift the mask up and Pam did grin."
+      ],
+      "questions": [
+        {
+          "prompt": "Sam did dig in the sand and got it.",
+          "choices": ["a mask", "a flask"],
+          "answer": "a mask"
+        },
+        {
+          "prompt": "Pam did run off fast but it is just ...",
+          "choices": ["Sam", "a cat"],
+          "answer": "Sam"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["duck", "pink", "song", "frost", "swim"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

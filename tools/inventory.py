@@ -80,7 +80,15 @@ def main() -> int:
     for w in spec["sightWords"]:
         print(f"    sight word: {w}")
     if not spec["graphemes"] and not spec["sightWords"]:
-        print("    nothing new — this is a review level; consolidate, don't introduce")
+        if spec["kind"] == "review":
+            print("    nothing new — this is a review level; consolidate, don't introduce")
+        else:
+            # Days 41 and 43 move st and sk to the front of a word, having
+            # taught them at the end. No new grapheme, but a real lesson.
+            print("    no NEW grapheme today, but this is not a review day: the")
+            print("    focus above is a letter pair the child already knows doing")
+            print("    something new. Teach the move, and note the validator still")
+            print("    requires the full lesson shape (blends, a story, the lot).")
     if spec["seedWords"]:
         print("\n  words the scope and sequence lists here (use them, and add more):")
         print(wrap(spec["seedWords"]))

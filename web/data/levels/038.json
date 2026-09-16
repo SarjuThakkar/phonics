@@ -1,0 +1,141 @@
+{
+  "level": 38,
+  "title": "nk says /nk/",
+  "kidTitle": "Meet nk",
+  "parentNote": "Yesterday was ng, the hum made right at the back of the mouth in king and song. Today is that very same hum with a k popped on the end: pink is really the ng sound and then /k/, which is why nk is easy the day after ng and would be baffling on any other day. The usual wobble is reading the n as an ordinary n, so pink comes out \"pinn-k\" with a click in the middle. Say the whole word yourself first and let them hear that the ending runs together as one piece, just like ng did. If they can say ng, they can already say nk.",
+  "newGraphemes": ["nk"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "nk",
+      "keyword": "pink",
+      "picture": "🌸",
+      "mouthCue": "Start the hum you learnt yesterday, then pop it open with a k.",
+      "prompt": "You already know the first half of this one. It is the ng hum with a k on the end."
+    },
+    {
+      "type": "soundMatch",
+      "target": "nk",
+      "choices": ["nk", "ng", "n"],
+      "prompt": "All three start the same way at the back of your mouth. This one ends with a pop."
+    },
+    {
+      "type": "soundMatch",
+      "target": "nk",
+      "choices": ["nk", "nd"],
+      "prompt": "Two endings, both with a pop. Listen for which pop it is."
+    },
+    {
+      "type": "blend",
+      "word": "pink",
+      "parts": ["p", "i", "nk"],
+      "picture": "🌸",
+      "prompt": "Three sounds, not four. Keep nk together on the end."
+    },
+    {
+      "type": "blend",
+      "word": "wink",
+      "parts": ["w", "i", "nk"],
+      "picture": "😉",
+      "prompt": "Only the first sound has changed. Keep the ending exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "bank",
+      "parts": ["b", "a", "nk"],
+      "picture": "🏦"
+    },
+    {
+      "type": "blend",
+      "word": "honk",
+      "parts": ["h", "o", "nk"],
+      "picture": "🚗",
+      "prompt": "Same ending, with a round mouth in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "stink",
+      "parts": ["st", "i", "nk"],
+      "prompt": "The longest one. A blend on the front and the new ending on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "rink",
+      "picture": "⛸️"
+    },
+    {
+      "type": "readWord",
+      "word": "sink",
+      "picture": "🚰"
+    },
+    {
+      "type": "readWord",
+      "word": "tank"
+    },
+    {
+      "type": "readWord",
+      "word": "think"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bank",
+      "choices": ["bank", "bang"],
+      "prompt": "One of these ends with a pop and one just hums."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rink",
+      "choices": ["rink", "ring"],
+      "prompt": "Same again. Listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sank",
+      "choices": ["sank", "sink"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "Frank did wink at the pink pig."
+    },
+    {
+      "type": "sentence",
+      "text": "The big tank sank in the sand!"
+    },
+    {
+      "type": "sentence",
+      "text": "Pam sang a song at the rink."
+    },
+    {
+      "type": "story",
+      "title": "The stink at the rink",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sam and Pam sang a long song at the rink.",
+        "Pam did stop and did sniff. A bad stink!",
+        "It is not the fish and it is not the hot dog.",
+        "Sam did sniff a lot and got a pink sock.",
+        "Sam did fling the sock in a bin and Pam sang on."
+      ],
+      "questions": [
+        {
+          "prompt": "Sam did sniff a lot and got it.",
+          "choices": ["a pink sock", "a hot dog"],
+          "answer": "a pink sock"
+        },
+        {
+          "prompt": "Sam did fling the sock in it.",
+          "choices": ["a bin", "a tank"],
+          "answer": "a bin"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["song", "frost", "swim", "flock", "chop"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

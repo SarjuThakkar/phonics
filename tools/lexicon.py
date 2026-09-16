@@ -329,6 +329,26 @@ def words_in(text: str) -> list[str]:
     return [m.group(0) for m in WORD_RE.finditer(text)]
 
 
+def untaught_blend(word: str, level: int) -> str | None:
+    """A word starting with a blend this course teaches on a LATER day.
+
+    "club" is letter-legal long before day 47, because a blend contributes its
+    letters individually -- but using it early quietly spends the lesson that
+    was going to teach it. Advisory, not fatal: plenty of clusters (gr, sl) are
+    never taught as blends at all and are fine to use.
+    """
+    table = phonemes()
+    unlocked = set(unlocked_through(level)["graphemes"])
+    w = word.lower()
+    for gid, entry in table.items():
+        if entry["kind"] != "blend" or gid in unlocked:
+            continue
+        letters = entry["display"]
+        if w.startswith(letters) and len(w) > len(letters):
+            return letters
+    return None
+
+
 def consonant_clusters(word: str, level: int) -> list[str]:
     """Runs of two or more consonants that are not a taught team or a doubled
     letter. A cluster is harder than a CVC word by a step the scope and

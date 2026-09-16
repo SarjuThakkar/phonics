@@ -1,0 +1,152 @@
+{
+  "level": 39,
+  "title": "u says /u/",
+  "kidTitle": "Meet u",
+  "parentNote": "u is the fourth of the five vowels, and after today only e is left. It opens more doors than any sound since the first week: up, us, but, run, sun, jump, must, munch. \"up\" in particular is a word this course has not been able to write down once in thirty-eight days. The trouble with u is that it has the least shape of any vowel — the mouth just drops open and grunts — so a child who is unsure of a middle sound tends to guess a instead, and cup comes out cap. That is exactly what the pairs in the middle of today's lesson are for: cup and cap, hut and hot, bug and big. Say both words slowly yourself and let them hear that only the middle moved.",
+  "newGraphemes": ["u"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "u",
+      "keyword": "up",
+      "picture": "☝️",
+      "mouthCue": "Your mouth flops open and your tongue does nothing at all. It is the grunt in up.",
+      "prompt": "This is the fourth vowel. After today there is only one left."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u",
+      "choices": ["u", "a", "o"],
+      "prompt": "Three vowels, all made with your mouth open. Find the one that just grunts."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u",
+      "choices": ["u", "i", "a"],
+      "prompt": "Same again. Listen for the one with no shape at all."
+    },
+    {
+      "type": "blend",
+      "word": "up",
+      "parts": ["u", "p"],
+      "picture": "☝️",
+      "prompt": "Only two sounds, and the course has been waiting a long time for this one."
+    },
+    {
+      "type": "blend",
+      "word": "sun",
+      "parts": ["s", "u", "n"],
+      "picture": "☀️"
+    },
+    {
+      "type": "blend",
+      "word": "mud",
+      "parts": ["m", "u", "d"],
+      "prompt": "Only the middle sound is new. The rest you have known for weeks."
+    },
+    {
+      "type": "blend",
+      "word": "duck",
+      "parts": ["d", "u", "ck"],
+      "picture": "🦆"
+    },
+    {
+      "type": "blend",
+      "word": "jump",
+      "parts": ["j", "u", "mp"],
+      "prompt": "A blend on the end. Keep the m and the p in one piece."
+    },
+    {
+      "type": "blend",
+      "word": "munch",
+      "parts": ["m", "u", "n", "ch"],
+      "prompt": "The longest one. Four sounds, and the last two letters are a team."
+    },
+    {
+      "type": "readWord",
+      "word": "bus",
+      "picture": "🚌"
+    },
+    {
+      "type": "readWord",
+      "word": "bug",
+      "picture": "🐛"
+    },
+    {
+      "type": "readWord",
+      "word": "cup",
+      "picture": "☕"
+    },
+    {
+      "type": "readWord",
+      "word": "must"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cup",
+      "choices": ["cup", "cap"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hut",
+      "choices": ["hut", "hot"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bug",
+      "choices": ["bug", "big"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "run",
+      "choices": ["run", "ran", "rug"],
+      "prompt": "Three this time. Two of them change the middle and one changes the end."
+    },
+    {
+      "type": "sentence",
+      "text": "The sun is up but Sam is not."
+    },
+    {
+      "type": "sentence",
+      "text": "Jim did jump in the mud and got a bug on him."
+    },
+    {
+      "type": "sentence",
+      "text": "Run up the hill and jump on the bus!"
+    },
+    {
+      "type": "story",
+      "title": "The duck on the bus",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A duck got on the bus and sat on Gus.",
+        "Gus did not fuss. Gus did not jump up.",
+        "The duck did munch a bun and did honk a lot.",
+        "Gus got up and sat at the back.",
+        "The duck did jump up and sat on Gus!"
+      ],
+      "questions": [
+        {
+          "prompt": "The duck did munch it on the bus.",
+          "choices": ["a bun", "a nut"],
+          "answer": "a bun"
+        },
+        {
+          "prompt": "Gus did not fuss. Gus got up and sat at ...",
+          "choices": ["the back", "the top"],
+          "answer": "the back"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["pink", "king", "frost", "flash", "rock"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

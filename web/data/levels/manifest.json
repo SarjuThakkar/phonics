@@ -36,7 +36,12 @@
     34,
     35,
     36,
-    37
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
   ],
   "levels": [
     {
@@ -260,6 +265,36 @@
       "title": "ng says /ng/",
       "kidTitle": "Meet ng",
       "activities": 19
+    },
+    {
+      "level": 38,
+      "title": "nk says /nk/",
+      "kidTitle": "Meet nk",
+      "activities": 20
+    },
+    {
+      "level": 39,
+      "title": "u says /u/",
+      "kidTitle": "Meet u",
+      "activities": 22
+    },
+    {
+      "level": 40,
+      "title": "sc and sk blends",
+      "kidTitle": "Meet sc and sk",
+      "activities": 21
+    },
+    {
+      "level": 41,
+      "title": "st blend (starting)",
+      "kidTitle": "st at the front",
+      "activities": 20
+    },
+    {
+      "level": 42,
+      "title": "sp blend",
+      "kidTitle": "Meet sp",
+      "activities": 20
     }
   ]
 }
