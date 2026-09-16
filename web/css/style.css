@@ -235,3 +235,16 @@ details.parents .body { color: var(--ink-soft); line-height: 1.6; }
 .rec-card pre { text-align: left; background: #f6f1e8; padding: 12px 14px; border-radius: 12px; overflow-x: auto; font-size: .9rem; }
 details.parents pre { background: #f6f1e8; padding: 12px 14px; border-radius: 12px; overflow-x: auto; font-size: .9rem; }
 details.parents code { background: #f6f1e8; padding: 1px 5px; border-radius: 5px; font-size: .9em; }
+
+.rec-dest { display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+            color: var(--ink-soft); font-size: .95rem; margin-bottom: 4px; }
+.rec-saved { color: var(--leaf); font-weight: 700; }
+.rec-how { margin: 6px auto 12px; max-width: 46ch; }
+.rec-say { font-size: 1.35rem; color: var(--ink); margin-bottom: 8px; }
+.rec-say b { font-size: 1.9rem; color: var(--berry); letter-spacing: .04em; }
+.rec-words { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.5; }
+.rec-words b { color: var(--ink); }
+.rec-avoid { margin-top: 10px; padding: 8px 14px; border-radius: 12px;
+             background: #fff3f4; color: #99383f; font-size: .98rem; display: inline-block; }
+.rec-dayfilter { background: #fff9ed; border: 2px dashed #e8cfa0; color: #6b5636;
+                 padding: 10px 16px; border-radius: 14px; font-size: 1rem; }

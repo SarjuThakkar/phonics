@@ -28,6 +28,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 from tools.lexicon import phonemes, sequence, words_in
+from tools.pronunciation import guide
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "web" / "data"
@@ -71,6 +72,17 @@ def slug(text: str, words: int = 4) -> str:
     return "-".join(parts) or "x"
 
 
+SLASHED = re.compile(r"/[a-z_-]{1,4}/")
+
+
+def script_for(text: str) -> str:
+    """Instructions are read as written -- except for /a/, which is notation
+    for the sound itself and would be nonsense read aloud."""
+    note = (' Where it says something like /a/, say the SOUND itself, '
+            'not "slash a slash".' if SLASHED.search(text) else "")
+    return f'Spoken instruction: "{text}"{note}'
+
+
 def ui_phrases() -> list[str]:
     """The fixed things the player says, read straight out of the player.
 
@@ -91,14 +103,56 @@ def ui_phrases() -> list[str]:
     return sorted(set(out))
 
 
+# Fixed lines the player speaks for each activity type, beyond whatever the
+# lesson supplies. Must match web/js/activities.js and lesson.js.
+PLAYER_LINES = {
+    "soundIntro": ["This one says", "Listen to the first sound in"],
+    "soundMatch": ["Which one says this sound?", "Yes!", "Not that one. Listen again."],
+    "blend": ["Sound it out, then say it fast."],
+    "readWord": ["Your turn. Read this word."],
+    "chooseWord": ["Which word is this?", "Listen again."],
+    "sentence": ["Read it out loud. Tap any word you get stuck on."],
+    "story": ["Read the story. Tap a word for help.", "Here is a story.",
+              "That\u2019s right!", "Have another look at the story."],
+    "sightWord": ["This one we just remember."],
+    "review": ["Read them all. Tap each one when you\u2019ve said it."],
+}
+ALWAYS_SPOKEN = ["You did it! Great reading."]
+
+
+def plans(entries: list[dict]) -> dict[str, list[str]]:
+    """For each day, exactly the recordings that cover that one lesson.
+
+    Computed here so the command line and the record page can never disagree
+    about what "record day 1" means.
+    """
+    by_text = {e["text"].strip().lower(): e["id"] for e in entries}
+    out: dict[str, list[str]] = {}
+    for path in sorted(LEVELS.glob("[0-9][0-9][0-9].json")):
+        level = json.loads(path.read_text())
+        day = level["level"]
+        ids: list[str] = []
+        for text in ALWAYS_SPOKEN:
+            ids.append(by_text.get(text.strip().lower()))
+        for t in sorted({a["type"] for a in level["activities"]}):
+            for text in PLAYER_LINES.get(t, []):
+                ids.append(by_text.get(text.strip().lower()))
+        ids += [e["id"] for e in entries if day in e.get("days", [])]
+        out[str(day)] = list(dict.fromkeys(i for i in ids if i))
+    return out
+
+
 def collect() -> list[dict]:
     entries: dict[str, dict] = {}
 
-    def add(kind: str, id_: str, text: str, script: str, day: int | None):
+    def add(kind: str, id_: str, text: str, script: str, day: int | None,
+            how: dict | None = None):
         e = entries.setdefault(id_, {
             "id": id_, "kind": kind, "text": text, "script": script,
             "file": f"{id_}.mp3", "days": [],
         })
+        if how:
+            e["how"] = how
         if day and day not in e["days"]:
             e["days"].append(day)
 
@@ -113,13 +167,13 @@ def collect() -> list[dict]:
                 continue
             seen.add(gid)
             e = table[gid]
-            hold = "Hold it for about a second" if e["stretchy"] else \
-                   "Keep it short and clean -- /t/, not \"tuh\""
+            how = guide(gid) or {}
             add("sound", sound_id(gid),
                 e["display"],
-                f'The SOUND of "{e["display"]}" as in "{e["keyword"]}" -- '
-                f'not the letter name. {hold}.',
-                lvl["level"])
+                f'Say "{how.get("say", e["display"])}" — the sound in '
+                + ", ".join(how.get("words", [e["keyword"]])) + ".",
+                lvl["level"],
+                how=how)
 
     # --- words, sentences, story lines, and any prompt an author wrote -------
     for path in sorted(LEVELS.glob("[0-9][0-9][0-9].json")):
@@ -153,12 +207,10 @@ def collect() -> list[dict]:
             for line in lines:
                 add("line", f"line-{slug(line)}-{short(line)}", line,
                     f'Read aloud, warmly, at storytime pace: "{line}"', day)
-            if act.get("prompt"):
-                add("prompt", f"prompt-{slug(act['prompt'])}-{short(act['prompt'])}",
-                    act["prompt"], f'Spoken instruction: "{act["prompt"]}"', day)
-            if act.get("mouthCue"):
-                add("prompt", f"prompt-{slug(act['mouthCue'])}-{short(act['mouthCue'])}",
-                    act["mouthCue"], f'Spoken instruction: "{act["mouthCue"]}"', day)
+            for key in ("prompt", "mouthCue"):
+                if act.get(key):
+                    add("prompt", f"prompt-{slug(act[key])}-{short(act[key])}",
+                        act[key], script_for(act[key]), day)
 
     # --- the player's own fixed lines ---------------------------------------
     for text in ui_phrases():
@@ -186,6 +238,7 @@ def main() -> None:
                 "instead of the browser voice.",
         "sourceFingerprint": fingerprint(),
         "counts": dict(counts),
+        "plans": plans(entries),
         "entries": entries,
     }, indent=2, ensure_ascii=False) + "\n")
     print(f"wrote speech index: {len(entries)} recordable strings "

@@ -1,9 +1,9 @@
 /* The recording studio.
  *
  * Walks the speech index, records each line from the microphone, and saves it
- * already named with the right id. Nothing is uploaded anywhere: each take is
- * saved to the device, and the files get copied into web/audio/human/ on the
- * Pi, where tools/build_audio_manifest.py picks them up.
+ * under the right id. With the upload passphrase it posts straight to the Pi
+ * and the recording is live on the site immediately; without one it falls back
+ * to downloading each take to the device, to be copied across by hand.
  *
  * Deliberately plain. It is a tool for one person, not part of the course.
  */
@@ -19,6 +19,9 @@ const state = {
   lastBlob: null,
   lastUrl: null,
   stream: null,
+  token: null,
+  saving: false,
+  saved: '',
 };
 
 const KINDS = [
@@ -29,7 +32,16 @@ const KINDS = [
   ['line', 'Sentences and stories', 'Read these warmly, at storytime pace.'],
 ];
 
-const list = () => state.entries.filter((e) => e.kind === state.kind);
+const dayFilter = parseInt(new URLSearchParams(location.search).get('day') || '', 10) || null;
+
+/* With ?day=N the studio shows only what that lesson says -- about a dozen
+ * files -- which is the sensible way to try the whole idea before committing
+ * to all 635. The app's own fixed lines come along because every lesson uses
+ * them. */
+let dayPlan = null;   // set from speech-index.json's plans at boot
+const inScope = (e) => !dayFilter || !dayPlan || dayPlan.has(e.id);
+
+const list = () => state.entries.filter((e) => e.kind === state.kind && inScope(e));
 
 /* ------------------------------------------------------------- recording -- */
 
@@ -76,18 +88,68 @@ function extFor(blob) {
   return 'webm';
 }
 
-function save() {
+/** Post the take to the Pi, where it is live on the site immediately. Falls
+ * back to a plain download if there's no token or the upload fails, so a
+ * recording is never lost to a flaky connection. */
+async function save() {
   const entry = list()[state.i];
   if (!state.lastBlob || !entry) return;
-  const a = document.createElement('a');
-  a.href = state.lastUrl;
-  a.download = `${entry.id}.${extFor(state.lastBlob)}`;
-  a.click();
+
+  if (state.token) {
+    state.saving = true;
+    render();
+    try {
+      const body = new FormData();
+      body.append('file', state.lastBlob, `${entry.id}.${extFor(state.lastBlob)}`);
+      const res = await fetch(`api/recordings/${entry.id}`, {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${state.token}` },
+        body,
+      });
+      if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
+      const out = await res.json();
+      entry.done = true;
+      state.saved = `Saved — live on the site now (${out.recorded} recorded)`;
+    } catch (err) {
+      state.saved = `Upload failed (${err.message}). Saved to this device instead.`;
+      download(entry);
+    } finally {
+      state.saving = false;
+    }
+  } else {
+    download(entry);
+    state.saved = 'Saved to this device.';
+  }
+
   state.recorded[entry.id] = true;
   try {
     localStorage.setItem('phonics.recorded.v1', JSON.stringify(state.recorded));
   } catch (e) { /* ignore */ }
   next();
+}
+
+function download(entry) {
+  const a = document.createElement('a');
+  a.href = state.lastUrl;
+  a.download = `${entry.id}.${extFor(state.lastBlob)}`;
+  a.click();
+}
+
+async function askToken() {
+  const token = prompt('Upload passphrase (from phonics-upload.env on the Pi).\n\n'
+    + 'Leave blank to just save recordings to this device instead.');
+  if (!token) return;
+  const res = await fetch('api/check', {
+    method: 'POST', headers: { Authorization: `Bearer ${token}` },
+  });
+  if (res.ok) {
+    state.token = token;
+    try { localStorage.setItem('phonics.token.v1', token); } catch (e) { /* ignore */ }
+    state.saved = 'Connected. Recordings now save straight to the site.';
+  } else {
+    state.saved = 'That passphrase was not accepted.';
+  }
+  render();
 }
 
 function next() {
@@ -110,14 +172,34 @@ function render() {
         class: 'btn' + (k === state.kind ? ' btn-primary' : ''),
         onclick: () => { state.kind = k; state.i = 0; state.lastBlob = null; render(); },
       }, label, ' ', el('span', { class: 'rec-count' },
-        `${state.entries.filter((e) => e.kind === k && (state.recorded[e.id] || e.done)).length}/${state.entries.filter((e) => e.kind === k).length}`)))),
+        `${state.entries.filter((e) => e.kind === k && inScope(e) && (state.recorded[e.id] || e.done)).length}/${state.entries.filter((e) => e.kind === k && inScope(e)).length}`)))),
+
+    dayFilter ? el('p', { class: 'rec-dayfilter' },
+      `Showing only what day ${dayFilter} says — `,
+      el('b', {}, `${state.entries.filter(inScope).length} recordings cover that whole lesson`),
+      '. ', el('a', { href: 'record.html' }, 'Show everything →')) : null,
 
     el('p', { class: 'blurb' }, KINDS.find(([k]) => k === state.kind)[2]),
+
+    el('div', { class: 'rec-dest' },
+      state.token
+        ? el('span', {}, '\u2713 Saving straight to the site.')
+        : el('span', {}, 'Saving to this device only. '),
+      el('button', { class: 'btn btn-quiet', onclick: askToken },
+        state.token ? 'Change passphrase' : 'Connect to the site \u2192'),
+      state.saved ? el('span', { class: 'rec-saved' }, state.saved) : null),
 
     entry ? el('div', { class: 'rec-card' },
       el('div', { class: 'rec-progress' }, `${state.i + 1} of ${entries.length} · ${doneHere} recorded`),
       el('div', { class: 'rec-text' }, entry.text),
-      el('p', { class: 'rec-script' }, entry.script),
+      entry.how ? el('div', { class: 'rec-how' },
+        el('div', { class: 'rec-say' }, 'Say: ', el('b', {}, entry.how.say)),
+        el('div', { class: 'rec-words' }, 'It\u2019s the sound in ',
+          entry.how.words.map((w, i) => el('span', {},
+            i ? ', ' : '', el('b', {}, w))),
+          ' \u2014 say those three out loud and listen for the bit they share.'),
+        entry.how.avoid ? el('div', { class: 'rec-avoid' }, entry.how.avoid) : null)
+        : el('p', { class: 'rec-script' }, entry.script),
       el('p', { class: 'rec-file' }, entry.file,
         entry.done ? el('span', { class: 'rec-have' }, ' · already recorded') : null,
         entry.days && entry.days.length
@@ -130,7 +212,10 @@ function render() {
           onclick: () => (recording ? stopRec() : startRec()),
         }, recording ? '⏹ Stop' : '⏺ Record'),
         state.lastBlob ? el('button', { class: 'btn', onclick: () => new Audio(state.lastUrl).play() }, '▶ Play back') : null,
-        state.lastBlob ? el('button', { class: 'btn btn-primary btn-big', onclick: save }, '⬇ Save & next') : null),
+        state.lastBlob ? el('button', {
+          class: 'btn btn-primary btn-big',
+          onclick: save,
+        }, state.saving ? 'Saving…' : (state.token ? '✓ Save & next' : '⬇ Save & next')) : null),
 
       el('div', { class: 'actions' },
         el('button', {
@@ -177,13 +262,19 @@ cd ~/services &amp;&amp; docker compose up -d --build phonics</pre>
 (async function boot() {
   try {
     state.recorded = JSON.parse(localStorage.getItem('phonics.recorded.v1')) || {};
+    state.token = localStorage.getItem('phonics.token.v1') || null;
   } catch (e) { state.recorded = {}; }
 
   const [index, manifest] = await Promise.all([
     Data.get('data/speech-index.json'),
-    Data.get('data/audio-manifest.json').catch(() => ({ files: {} })),
+    // Ask the server, not the cached manifest: this is the page that changes it.
+    fetch('api/recordings').then((r) => r.json())
+      .catch(() => Data.get('data/audio-manifest.json').catch(() => ({ files: {} }))),
   ]);
   state.entries = index.entries.map((e) => ({ ...e, done: !!manifest.files[e.id] }));
+  if (dayFilter && index.plans && index.plans[dayFilter]) {
+    dayPlan = new Set(index.plans[dayFilter]);
+  }
 
   if (!navigator.mediaDevices || !window.MediaRecorder) {
     app.replaceChildren(el('div', { class: 'rec-card' },
