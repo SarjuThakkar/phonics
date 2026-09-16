@@ -84,11 +84,10 @@ next batch goes out, which is the main reason the days keep improving.
 Days 1–52 written and live. Remaining batches, in order — this is the schedule,
 and it is the thing to pick up if a session is interrupted:
 
-Batches 1–6 (days 28–57) are done, committed, pushed and live. Remaining:
+Batches 1–7 (days 28–62) are done, committed, pushed and live. Remaining:
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 7 | 58–62 | u_e (silent e); ee says /ee/; e_e (silent e); Review: silent e; ar says /ar/ |
 | 8 | 63–67 | are; or says /or/; er says /er/; ir says /er/; ur says /er/ |
 | 9 | 68–72 | Review: bossy r; Review: silent e + bossy r; I, want; to, do; ay says /ae/ |
 | 10 | 73–77 | ai says /ae/; Review: ay and ai; ea says /ee/; oa says /oe/; ow says /oe/ |

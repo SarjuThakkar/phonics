@@ -1,0 +1,152 @@
+{
+  "level": 67,
+  "title": "ur says /er/",
+  "kidTitle": "Meet ur",
+  "parentNote": "This is the last of the bossy r family and the third spelling of the same sound: ur says er, as in fur, turn and hurt. So er, ir and ur are now three ways of writing one noise, which sounds like bad news and is actually good news — whichever one your child meets, the answer is er. Say that plainly, because a child who thinks there are three sounds to keep straight will slow right down. The slip to watch for is the u trying to speak: fur coming out as fuh, or turn as too-rn. Cover everything except the ur, say er, then rebuild the word. If the three spellings are getting muddled, read the ur words on their own today and leave the mixing to the review day.",
+  "newGraphemes": ["ur"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ur",
+      "keyword": "fur",
+      "picture": "🐻",
+      "mouthCue": "The same again: curl your tongue back and say er. Three spellings, one sound.",
+      "prompt": "The last of the bossy r team. This time the r has got hold of a u, and it still says er."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ur",
+      "choices": ["ur", "u", "ar"],
+      "prompt": "One of these has the r in charge of a u. The other r one has an a under it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ur",
+      "choices": ["ur", "u", "u_e"],
+      "prompt": "Three ways to use a u, and all three say something different."
+    },
+    {
+      "type": "blend",
+      "word": "fur",
+      "parts": ["f", "ur"],
+      "picture": "🐻",
+      "prompt": "Two sounds. Say the f, then the team, and do not let the u speak."
+    },
+    {
+      "type": "blend",
+      "word": "turn",
+      "parts": ["t", "ur", "n"]
+    },
+    {
+      "type": "blend",
+      "word": "hurt",
+      "parts": ["h", "ur", "t"]
+    },
+    {
+      "type": "blend",
+      "word": "surf",
+      "parts": ["s", "ur", "f"],
+      "picture": "🌊"
+    },
+    {
+      "type": "blend",
+      "word": "church",
+      "parts": ["ch", "ur", "ch"],
+      "picture": "⛪",
+      "prompt": "Three teams in one short word, and the same ch at each end."
+    },
+    {
+      "type": "readWord",
+      "word": "burn",
+      "picture": "🔥"
+    },
+    {
+      "type": "readWord",
+      "word": "curl"
+    },
+    {
+      "type": "readWord",
+      "word": "burst",
+      "picture": "💥"
+    },
+    {
+      "type": "readWord",
+      "word": "turnip"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "turn",
+      "choices": ["turn", "torn", "tan"],
+      "prompt": "All three start with t. The middle decides which one you heard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hurt",
+      "choices": ["hurt", "hut", "hurl"],
+      "prompt": "Listen to the middle, and then right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "curl",
+      "choices": ["curl", "girl"],
+      "prompt": "Two spellings of the same middle sound. Only the first letter tells them apart."
+    },
+    {
+      "type": "sentence",
+      "text": "The cat did curl up on the fur rug and did purr."
+    },
+    {
+      "type": "sentence",
+      "text": "Burt fell off the curb, but it did not hurt."
+    },
+    {
+      "type": "sentence",
+      "text": "Mark did turn the churn, and then the butter came."
+    },
+    {
+      "type": "story",
+      "title": "The burnt turnips",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Burt did dig up three fat turnips for dinner.",
+        "Burt did chop them up and did set the pot on.",
+        "Then a bird did chirp, and Burt ran after it.",
+        "Burt did not turn the pot off.",
+        "The turnips did burn, and black smoke came up.",
+        "Burt ran back in. The turnips are burnt and hard.",
+        "Then Meg came in with butter and a fresh pot.",
+        "Burt did grin. Burnt turnip is not dinner. It is dirt!"
+      ],
+      "questions": [
+        {
+          "prompt": "Burt did dig up three fat ...",
+          "choices": ["turnips", "birds", "forks"],
+          "answer": "turnips"
+        },
+        {
+          "prompt": "Burt ran after ...",
+          "choices": ["a bird", "a cat", "a stork"],
+          "answer": "a bird"
+        },
+        {
+          "prompt": "Then Meg came in with butter and ...",
+          "choices": ["a fresh pot", "a big fork", "a red shirt"],
+          "answer": "a fresh pot"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ir and er, the same sound as ur",
+      "words": ["bird", "girl", "shirt", "after", "silver"],
+      "prompt": "Three spellings, one sound. Say each of these, then say fur."
+    },
+    {
+      "type": "review",
+      "label": "u with no r after it",
+      "words": ["cup", "jump", "stuck", "bun", "shut"],
+      "prompt": "No r here, so the u says its everyday sound. Read one of these, then read fur again."
+    }
+  ]
+}

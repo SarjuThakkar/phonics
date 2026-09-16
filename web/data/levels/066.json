@@ -1,0 +1,152 @@
+{
+  "level": 66,
+  "title": "ir says /er/",
+  "kidTitle": "Meet ir",
+  "parentNote": "Today is the first time this course says that one sound has two spellings: ir says er, exactly the same sound your child met yesterday, as in bird, girl and shirt. Children usually find this outrageous, and they are right — but reading is the easy direction, and that is all we are doing today. Both spellings say er, so both are read the same way. The slip to listen for is the i trying to say something: bird coming out as bid, or as byrd with the i saying its name. Cover the b and the d, point at the ir on its own and say er, then let them put the word back together. If they ask how to know which spelling to write, say honestly that you have to remember that one, and that nobody is asking them to write it yet.",
+  "newGraphemes": ["ir"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ir",
+      "keyword": "bird",
+      "picture": "🐦",
+      "mouthCue": "Exactly the same as er: curl your tongue back and say er. The letters changed, the sound did not.",
+      "prompt": "A new spelling and no new sound. ir says er, just like the er you met yesterday."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ir",
+      "choices": ["ir", "i", "ar"],
+      "prompt": "One of these has the r in charge of an i. Listen for the r on the end of the sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ir",
+      "choices": ["ir", "i", "i_e"],
+      "prompt": "Three ways to use an i, and all three say something different."
+    },
+    {
+      "type": "blend",
+      "word": "stir",
+      "parts": ["st", "ir"],
+      "picture": "🥄",
+      "prompt": "Two sounds. Say the st, then the team, and do not let the i speak."
+    },
+    {
+      "type": "blend",
+      "word": "bird",
+      "parts": ["b", "ir", "d"],
+      "picture": "🐦"
+    },
+    {
+      "type": "blend",
+      "word": "girl",
+      "parts": ["g", "ir", "l"],
+      "picture": "👧"
+    },
+    {
+      "type": "blend",
+      "word": "shirt",
+      "parts": ["sh", "ir", "t"],
+      "picture": "👕"
+    },
+    {
+      "type": "blend",
+      "word": "chirp",
+      "parts": ["ch", "ir", "p"],
+      "prompt": "A team at the front and a team in the middle. Two letters, one sound, both times."
+    },
+    {
+      "type": "readWord",
+      "word": "first"
+    },
+    {
+      "type": "readWord",
+      "word": "third"
+    },
+    {
+      "type": "readWord",
+      "word": "dirt"
+    },
+    {
+      "type": "readWord",
+      "word": "skirt",
+      "picture": "👗"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bird",
+      "choices": ["bird", "bid"],
+      "prompt": "One of these has the r bossing the i. Listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shirt",
+      "choices": ["shirt", "short", "shut"],
+      "prompt": "All three start with sh. The middle decides which one you heard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "first",
+      "choices": ["first", "fist", "fir"],
+      "prompt": "Listen to the middle, and then right to the end."
+    },
+    {
+      "type": "sentence",
+      "text": "The girl in the red shirt did spot a bird."
+    },
+    {
+      "type": "sentence",
+      "text": "Stir the corn, and then stir it a third time."
+    },
+    {
+      "type": "sentence",
+      "text": "That is not dirt on her skirt. That is jam!"
+    },
+    {
+      "type": "story",
+      "title": "The shirt in the fir tree",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg left her red shirt on the grass in the sun.",
+        "After dinner, the shirt is not on the grass.",
+        "Meg and her sister did hunt for it, and did not spot it.",
+        "Then Jen did spot it, up in the fir tree.",
+        "A big bird did drag it up and did stuff it in a nest.",
+        "In the nest are three eggs, and the bird did chirp at Meg.",
+        "Meg did not get her shirt back.",
+        "But Meg did grin. A shirt is just a shirt, and that nest is the best."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg left her red shirt on ...",
+          "choices": ["the grass", "the bed", "the cart"],
+          "answer": "the grass"
+        },
+        {
+          "prompt": "Jen did spot the shirt up in ...",
+          "choices": ["the fir tree", "the shed", "the barn"],
+          "answer": "the fir tree"
+        },
+        {
+          "prompt": "In the nest are ...",
+          "choices": ["three eggs", "three girls", "three shirts"],
+          "answer": "three eggs"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "er, the same sound spelled the other way",
+      "words": ["her", "after", "under", "sister", "silver"],
+      "prompt": "Say these, then say bird. The sound is the same in every one, and the letters are not."
+    },
+    {
+      "type": "review",
+      "label": "i with no r after it",
+      "words": ["pig", "chin", "skip", "fish", "wind"],
+      "prompt": "No r here, so the i says its everyday sound. Read one of these, then read bird again."
+    }
+  ]
+}

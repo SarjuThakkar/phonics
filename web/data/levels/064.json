@@ -1,0 +1,152 @@
+{
+  "level": 64,
+  "title": "or says /or/",
+  "kidTitle": "Meet or",
+  "parentNote": "This is the second bossy r. Two days ago the r got hold of an a and made ar; today it does the same to an o and the pair say or, as in fork, corn and storm. Two slips turn up here. The first is the a hanging about from last week, so corn comes out carn — say the pair yourself, car and corn, and let your child hear the swap. The second is sounding the letters one at a time, so fork becomes fo-ruk; point at the or as one chunk, the way you did with ar. Round your lips into a little o and let the r roll off the end. Today also quietly unlocks \"for\", which your child has been unable to read for sixty-three days and will now meet everywhere.",
+  "newGraphemes": ["or"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "or",
+      "keyword": "fork",
+      "picture": "🍴",
+      "mouthCue": "Round your lips into a little o, then let the r roll off the end: or.",
+      "prompt": "Another team where the r is in charge. The o has given up its everyday sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "or",
+      "choices": ["or", "ar", "o"],
+      "prompt": "Two of these have an r bossing a vowel. Listen for which vowel is under it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "or",
+      "choices": ["or", "o", "o_e"],
+      "prompt": "Three ways to use an o, and all three say something different."
+    },
+    {
+      "type": "blend",
+      "word": "for",
+      "parts": ["f", "or"],
+      "prompt": "Only two sounds in this one, and the or is one of them. You have wanted this word for weeks."
+    },
+    {
+      "type": "blend",
+      "word": "corn",
+      "parts": ["c", "or", "n"],
+      "picture": "🌽"
+    },
+    {
+      "type": "blend",
+      "word": "fork",
+      "parts": ["f", "or", "k"],
+      "picture": "🍴"
+    },
+    {
+      "type": "blend",
+      "word": "storm",
+      "parts": ["st", "or", "m"],
+      "picture": "⛈️"
+    },
+    {
+      "type": "blend",
+      "word": "morning",
+      "parts": ["m", "or", "n", "i", "ng"],
+      "prompt": "The longest one. Five sounds and two bits: say mor, then ning, then push them together."
+    },
+    {
+      "type": "readWord",
+      "word": "born"
+    },
+    {
+      "type": "readWord",
+      "word": "short"
+    },
+    {
+      "type": "readWord",
+      "word": "porch",
+      "picture": "🏡"
+    },
+    {
+      "type": "readWord",
+      "word": "thorn",
+      "picture": "🌹"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fork",
+      "choices": ["fork", "fort", "for"],
+      "prompt": "All three start the same. Listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "corn",
+      "choices": ["corn", "cord", "card"],
+      "prompt": "Two have an o under the r and one has an a. Listen to the middle, then the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "storm",
+      "choices": ["storm", "stork", "star"],
+      "prompt": "Two of these are the same until the very last sound."
+    },
+    {
+      "type": "sentence",
+      "text": "Mark got a big fork for the hot corn."
+    },
+    {
+      "type": "sentence",
+      "text": "In the morning a storm came, and the corn is flat."
+    },
+    {
+      "type": "sentence",
+      "text": "Is that a horn, or is it a stork?"
+    },
+    {
+      "type": "story",
+      "title": "The stork in the storm",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A big storm hit the farm in the morning.",
+        "Mark ran for the porch, and Meg ran for the barn.",
+        "The corn is flat, and the red flag is torn.",
+        "Then Mark did spot a stork stuck in the thorns.",
+        "It can not get free, and it did honk and honk.",
+        "Meg got a fork and did lift the thorns up.",
+        "The stork got free and did land on the porch.",
+        "Mark did grin. The storm got the corn, and they got a stork!"
+      ],
+      "questions": [
+        {
+          "prompt": "Mark ran for the porch, and Meg ran for ...",
+          "choices": ["the barn", "the corn", "the cart"],
+          "answer": "the barn"
+        },
+        {
+          "prompt": "Mark did spot a stork stuck in ...",
+          "choices": ["the thorns", "the corn", "the barn"],
+          "answer": "the thorns"
+        },
+        {
+          "prompt": "Meg got a fork and did lift up ...",
+          "choices": ["the thorns", "the flag", "the stork"],
+          "answer": "the thorns"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ar, the r that got the a",
+      "words": ["car", "farm", "sharp", "chart", "barn"],
+      "prompt": "The team from two days ago. Same bossy r, a different vowel under it."
+    },
+    {
+      "type": "review",
+      "label": "o with no r after it",
+      "words": ["shop", "pond", "frog", "sock", "stomp"],
+      "prompt": "No r here, so the o says its everyday sound. Read one of these, then read corn again."
+    }
+  ]
+}

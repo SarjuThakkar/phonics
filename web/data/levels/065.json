@@ -1,0 +1,153 @@
+{
+  "level": 65,
+  "title": "er says /er/",
+  "kidTitle": "Meet er",
+  "parentNote": "The third bossy r, and the busiest one in English — er sits on the end of an enormous number of words: sister, dinner, under, after, silver, winter. The slip here is the opposite of the usual one. Because we have spent two days saying ARR and OR loudly, children stamp on the er too, so sister comes out sist-ERR. At the end of a word er is a mumble, not a shout; say the word at normal speed yourself and let them copy the music of it. The other thing worth saying out loud, because it is coming tomorrow: er is the first sound in this course that has more than one spelling. Reading is the easy direction — every spelling of it says er. Spelling it is a later problem and not today's.",
+  "newGraphemes": ["er"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "er",
+      "keyword": "hammer",
+      "picture": "🔨",
+      "mouthCue": "Say uh, then curl your tongue back and turn the r on: er. Nothing else in your mouth moves.",
+      "prompt": "The third team where the r is in charge. This time it has got hold of an e."
+    },
+    {
+      "type": "soundMatch",
+      "target": "er",
+      "choices": ["er", "ar", "or"],
+      "prompt": "All three have an r in charge. Listen for the vowel hiding under it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "er",
+      "choices": ["er", "e", "e_e"],
+      "prompt": "Three ways to use an e, and all three say something different."
+    },
+    {
+      "type": "blend",
+      "word": "her",
+      "parts": ["h", "er"],
+      "prompt": "Only two sounds, and the er is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "fern",
+      "parts": ["f", "er", "n"],
+      "picture": "🌿",
+      "prompt": "Now the team is in the middle. Keep it in one piece and add the n."
+    },
+    {
+      "type": "blend",
+      "word": "under",
+      "parts": ["u", "n", "d", "er"]
+    },
+    {
+      "type": "blend",
+      "word": "hammer",
+      "parts": ["h", "a", "mm", "er"],
+      "picture": "🔨"
+    },
+    {
+      "type": "blend",
+      "word": "sister",
+      "parts": ["s", "i", "st", "er"],
+      "picture": "👧",
+      "prompt": "The longest one. Say sist, then er, and keep the er soft."
+    },
+    {
+      "type": "readWord",
+      "word": "after"
+    },
+    {
+      "type": "readWord",
+      "word": "silver"
+    },
+    {
+      "type": "readWord",
+      "word": "winter",
+      "picture": "❄️"
+    },
+    {
+      "type": "readWord",
+      "word": "dinner",
+      "picture": "🍽️"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "her",
+      "choices": ["her", "hen", "hard"],
+      "prompt": "Listen to the end. Is it an n, or is it the r bossing the e?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "better",
+      "choices": ["better", "batter", "butter"],
+      "prompt": "Same start, same end. Only the vowel in the middle moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "winter",
+      "choices": ["winter", "winner"],
+      "prompt": "One of these has a t in the middle and one does not. Listen hard."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg got her red jumper and ran for the river."
+    },
+    {
+      "type": "sentence",
+      "text": "The silver hammer is under the ladder."
+    },
+    {
+      "type": "sentence",
+      "text": "Is dinner better in summer, or in winter?"
+    },
+    {
+      "type": "story",
+      "title": "The letter under the fern",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg and her sister Jen are in the shed after dinner.",
+        "Jen is up the ladder, and Meg is under it.",
+        "Then a letter fell off the top shelf and did land on Meg.",
+        "The letter is for her! It is thin, and it is silver.",
+        "In the letter is a plan: dig under the big fern.",
+        "Meg and Jen did run off and did dig under the fern.",
+        "In the mud is a tin, and in the tin is a silver hammer.",
+        "Jen did grin. Never chuck a letter in the bin!"
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and her sister Jen are in the shed after ...",
+          "choices": ["dinner", "summer", "winter"],
+          "answer": "dinner"
+        },
+        {
+          "prompt": "In the letter is a plan: dig under ...",
+          "choices": ["the big fern", "the ladder", "the shed"],
+          "answer": "the big fern"
+        },
+        {
+          "prompt": "In the tin is ...",
+          "choices": ["a silver hammer", "a red jumper", "a thin letter"],
+          "answer": "a silver hammer"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "or, from yesterday",
+      "words": ["corn", "fork", "storm", "porch", "short"],
+      "prompt": "Yesterday's team. Same bossy r, but it is an o underneath, not an e."
+    },
+    {
+      "type": "review",
+      "label": "Words from the stage before",
+      "words": ["shop", "chick", "bang", "stamp", "thin"],
+      "prompt": "Older friends. Not one bossy r among them."
+    }
+  ]
+}

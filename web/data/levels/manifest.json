@@ -61,7 +61,12 @@
     59,
     60,
     61,
-    62
+    62,
+    63,
+    64,
+    65,
+    66,
+    67
   ],
   "levels": [
     {
@@ -434,6 +439,36 @@
       "level": 62,
       "title": "ar says /ar/",
       "kidTitle": "Meet ar",
+      "activities": 21
+    },
+    {
+      "level": 63,
+      "title": "are",
+      "kidTitle": "A word we just know",
+      "activities": 22
+    },
+    {
+      "level": 64,
+      "title": "or says /or/",
+      "kidTitle": "Meet or",
+      "activities": 21
+    },
+    {
+      "level": 65,
+      "title": "er says /er/",
+      "kidTitle": "Meet er",
+      "activities": 21
+    },
+    {
+      "level": 66,
+      "title": "ir says /er/",
+      "kidTitle": "Meet ir",
+      "activities": 21
+    },
+    {
+      "level": 67,
+      "title": "ur says /er/",
+      "kidTitle": "Meet ur",
       "activities": 21
     }
   ]

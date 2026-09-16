@@ -1,0 +1,155 @@
+{
+  "level": 63,
+  "title": "are",
+  "kidTitle": "A word we just know",
+  "parentNote": "\"are\" is the fourth word in this course we learn whole instead of sounding out, and it lands the day after ar on purpose. Yesterday your child learned that ar says arr, as in car — and are is that same sound with an e stuck on the end doing nothing. That e is the trouble. For a fortnight a silent e has meant the vowel says its name, so a thinking child reads are as air, which is excellent reasoning and the wrong answer. Don't correct the reasoning; just say \"this one is a cheat — it says are\" and carry on. It is worth a whole day because of what it opens up: the stars are out, they are late, are the tarts in the jar? Until now there was no way to write any of that down.",
+  "newGraphemes": [],
+  "newSightWords": ["are"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "are",
+      "sentence": "The stars are up, and it is dark.",
+      "prompt": "Do not sound this one out. It is a word we just know by sight: are."
+    },
+    {
+      "type": "readWord",
+      "word": "are",
+      "prompt": "No sounding out. Look at it and say it: are."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ar",
+      "choices": ["ar", "a", "a_e"],
+      "prompt": "Three ways to use an a. Find the one that are copies."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a_e",
+      "choices": ["a_e", "ar", "a"],
+      "prompt": "Now find the one where the quiet e makes the a say its own name. That is what are refuses to do."
+    },
+    {
+      "type": "blend",
+      "word": "harm",
+      "parts": ["h", "ar", "m"],
+      "prompt": "No new sound today, so these are all words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "march",
+      "parts": ["m", "ar", "ch"],
+      "picture": "🥁"
+    },
+    {
+      "type": "blend",
+      "word": "spark",
+      "parts": ["sp", "ar", "k"],
+      "picture": "✨"
+    },
+    {
+      "type": "blend",
+      "word": "scarf",
+      "parts": ["sc", "ar", "f"],
+      "picture": "🧣"
+    },
+    {
+      "type": "blend",
+      "word": "brave",
+      "parts": ["br", "a", "ve"],
+      "prompt": "This one has no r in it. The e on the end is quiet and the a says its name."
+    },
+    {
+      "type": "readWord",
+      "word": "chart",
+      "picture": "📊"
+    },
+    {
+      "type": "readWord",
+      "word": "harp"
+    },
+    {
+      "type": "readWord",
+      "word": "arch",
+      "picture": "🌉"
+    },
+    {
+      "type": "readWord",
+      "word": "smart"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "are",
+      "choices": ["are", "art"],
+      "prompt": "Listen right to the end. Is there one more sound after the arr?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chart",
+      "choices": ["chart", "charm", "chat"],
+      "prompt": "All three start the same. The last sound decides which one you heard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "harp",
+      "choices": ["harp", "hard", "ham"],
+      "prompt": "Two of these have the r bossing the a. Listen to the middle, then the end."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg and Mark are in the park, and they are late."
+    },
+    {
+      "type": "sentence",
+      "text": "Are the jam tarts in the big jar?"
+    },
+    {
+      "type": "sentence",
+      "text": "They are not sharks! They are three fat fish."
+    },
+    {
+      "type": "story",
+      "title": "Stars in the dark",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Mark and Meg are on the grass, and they are up late.",
+        "It is star time!",
+        "But a big lamp is on, and the stars are not sharp.",
+        "Mark ran up the path and did flip the lamp off.",
+        "At last it is dark, and the stars are big and sharp.",
+        "Then Meg did spot a star that did shift.",
+        "It is not a star. It is a jet!",
+        "Meg did smile. Stars are not fast, and jets are."
+      ],
+      "questions": [
+        {
+          "prompt": "Mark and Meg are up late on ...",
+          "choices": ["the grass", "the cart", "the path"],
+          "answer": "the grass"
+        },
+        {
+          "prompt": "A big lamp is on, and the stars are not ...",
+          "choices": ["sharp", "dark", "hard"],
+          "answer": "sharp"
+        },
+        {
+          "prompt": "The star that did shift is not a star. It is ...",
+          "choices": ["a jet", "a cart", "a lamp"],
+          "answer": "a jet"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Bossy r, from yesterday",
+      "words": ["car", "star", "farm", "dark", "barn"],
+      "prompt": "The r got hold of the a in every one of these, and not one of them has an e on the end."
+    },
+    {
+      "type": "review",
+      "label": "The quiet e, from last week",
+      "words": ["cake", "bike", "home", "tune", "Steve"],
+      "prompt": "Here the e on the end does its job and the vowel says its name. Say are after these and hear how it breaks the rule."
+    }
+  ]
+}
