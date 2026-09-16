@@ -26,7 +26,12 @@
     24,
     25,
     26,
-    27
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
   ],
   "levels": [
     {
@@ -165,7 +170,7 @@
       "level": 23,
       "title": "ch says /ch/",
       "kidTitle": "Meet ch",
-      "activities": 20
+      "activities": 19
     },
     {
       "level": 24,
@@ -189,6 +194,36 @@
       "level": 27,
       "title": "nd blend",
       "kidTitle": "Two sounds in a hurry",
+      "activities": 19
+    },
+    {
+      "level": 28,
+      "title": "-s makes it plural",
+      "kidTitle": "One or lots",
+      "activities": 19
+    },
+    {
+      "level": 29,
+      "title": "mp blend",
+      "kidTitle": "Meet mp",
+      "activities": 19
+    },
+    {
+      "level": 30,
+      "title": "ft blend",
+      "kidTitle": "Meet ft",
+      "activities": 19
+    },
+    {
+      "level": 31,
+      "title": "st blend (ending)",
+      "kidTitle": "Meet st",
+      "activities": 19
+    },
+    {
+      "level": 32,
+      "title": "sn blend",
+      "kidTitle": "Meet sn",
       "activities": 19
     }
   ]

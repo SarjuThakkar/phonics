@@ -1,0 +1,137 @@
+{
+  "level": 32,
+  "title": "sn blend",
+  "kidTitle": "Meet sn",
+  "parentNote": "The last few blends all sat on the end of a word. This one sits at the front: sn, as in snack and snip and sniff. Front blends are harder, because the child has to hold two sounds in their head before they even reach the vowel, and what usually comes out is the first sound on its own — \"sack\" for \"snack\", \"sip\" for \"snip\". Slide the two together slowly, ssss-nnn, both made with the tongue in the same spot behind the teeth, and only then add the rest of the word. If they read the word as \"sun-ack\", they are putting a vowel in the middle; shorten the s and speed it up.",
+  "newGraphemes": ["sn"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sn",
+      "keyword": "snack",
+      "picture": "🍎",
+      "mouthCue": "Hiss the s, then hum the n without moving your tongue. It stays behind your top teeth the whole time.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sn",
+      "choices": ["sn", "s"],
+      "prompt": "One of these starts with a hiss and then hums. Find the one that hums."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sn",
+      "choices": ["sn", "s", "n"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "snap",
+      "parts": ["s", "n", "a", "p"],
+      "prompt": "The new blend goes first this time. Slide the s into the n before you say the rest."
+    },
+    {
+      "type": "blend",
+      "word": "snip",
+      "parts": ["s", "n", "i", "p"],
+      "picture": "✂️",
+      "prompt": "Only the middle has changed. Keep the front exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "snag",
+      "parts": ["s", "n", "a", "g"],
+      "prompt": "A snag is a bit that gets stuck."
+    },
+    {
+      "type": "blend",
+      "word": "snack",
+      "parts": ["s", "n", "a", "ck"],
+      "picture": "🍎",
+      "prompt": "The new blend at the front and the ck team at the back."
+    },
+    {
+      "type": "blend",
+      "word": "sniff",
+      "parts": ["s", "n", "i", "ff"],
+      "picture": "👃",
+      "prompt": "The longest one. Two letters at each end and one sound in the middle."
+    },
+    {
+      "type": "readWord",
+      "word": "snaps"
+    },
+    {
+      "type": "readWord",
+      "word": "snacks",
+      "picture": "🍿"
+    },
+    {
+      "type": "readWord",
+      "word": "milk",
+      "picture": "🥛"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snap",
+      "choices": ["snap", "sap"],
+      "prompt": "Listen right at the front. Is there an n in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snip",
+      "choices": ["snip", "sip"],
+      "prompt": "Same again. The word is longer than it sounds."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snack",
+      "choices": ["snack", "sack", "snag"],
+      "prompt": "This time check the front and the back."
+    },
+    {
+      "type": "sentence",
+      "text": "Pam did snip a bit off the bag."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the dog sniff at the ham?"
+    },
+    {
+      "type": "sentence",
+      "text": "Sam had milk and a snack at the camp."
+    },
+    {
+      "type": "story",
+      "title": "Snap!",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Jim sat on the sand with milk and a snack.",
+        "A big dog did romp in and sniff at it.",
+        "Snap! The dog got the snack.",
+        "Jim had the milk and did not sob.",
+        "The dog did lick the hand and Jim did grin."
+      ],
+      "questions": [
+        {
+          "prompt": "The dog got it with a snap.",
+          "choices": ["the snack", "the milk"],
+          "answer": "the snack"
+        },
+        {
+          "prompt": "Jim sat on it.",
+          "choices": ["the sand", "the raft"],
+          "answer": "the sand"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["fast", "lift", "camp", "dogs", "hand"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

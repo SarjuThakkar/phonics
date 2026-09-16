@@ -1,0 +1,137 @@
+{
+  "level": 29,
+  "title": "mp blend",
+  "kidTitle": "Meet mp",
+  "parentNote": "Another blend today — two letters, two sounds, said almost on top of each other: mp, as in camp. It lives on the end of words, so the trouble is the same as it was with nd: the last sound gets dropped and \"camp\" comes out \"cam\", \"lamp\" comes out \"lam\". The fix is physical. Both sounds happen with the lips shut, so have your child press their lips together, hum the m, and then pop them open for the p — mmm-p. Once they can feel the pop they stop leaving it off. Say the word at normal speed straight afterwards so it doesn't get stuck sounding like two words.",
+  "newGraphemes": ["mp"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "mp",
+      "keyword": "camp",
+      "picture": "🏕️",
+      "mouthCue": "Shut your lips and hum for m, then pop them open for p. Both sounds happen in the same place.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "mp",
+      "choices": ["mp", "m"],
+      "prompt": "One of these stops with a little pop on the end. Find the one with the pop."
+    },
+    {
+      "type": "soundMatch",
+      "target": "mp",
+      "choices": ["mp", "m", "p"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "camp",
+      "parts": ["c", "a", "m", "p"],
+      "picture": "🏕️",
+      "prompt": "Four sounds. Do not let the p slip off the end."
+    },
+    {
+      "type": "blend",
+      "word": "lamp",
+      "parts": ["l", "a", "m", "p"],
+      "picture": "💡",
+      "prompt": "Only the first sound has changed. Keep the ending exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "damp",
+      "parts": ["d", "a", "m", "p"],
+      "prompt": "Hum the m for a long time, then pop the p: dammmm-p."
+    },
+    {
+      "type": "blend",
+      "word": "chimp",
+      "parts": ["ch", "i", "m", "p"],
+      "picture": "🐒",
+      "prompt": "A team at the front and the new blend at the back."
+    },
+    {
+      "type": "blend",
+      "word": "chomp",
+      "parts": ["ch", "o", "m", "p"],
+      "prompt": "The same word with a round mouth in the middle."
+    },
+    {
+      "type": "readWord",
+      "word": "ramp"
+    },
+    {
+      "type": "readWord",
+      "word": "limp"
+    },
+    {
+      "type": "readWord",
+      "word": "lamps",
+      "picture": "💡",
+      "prompt": "The new blend with yesterday's ending stuck on the back."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "camp",
+      "choices": ["camp", "cap"],
+      "prompt": "Listen right to the very end. Is there an m in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lamp",
+      "choices": ["lamp", "lap"],
+      "prompt": "Same again. The word is longer than it sounds."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chomp",
+      "choices": ["chomp", "chimp", "champ"],
+      "prompt": "All three end the same way. This time the clue is in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "The chimp did chomp on a big fig."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the damp dog limp on the ramp?"
+    },
+    {
+      "type": "sentence",
+      "text": "Tim had a lamp and a hot pan at the camp."
+    },
+    {
+      "type": "story",
+      "title": "The chimp at the camp",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Tim and Pam did camp on the sand.",
+        "Pam had ham and chips in a big bag.",
+        "A damp chimp did romp in and chomp on the ham!",
+        "Tim ran at the chimp and it ran off.",
+        "Tim did lock the bag in the van."
+      ],
+      "questions": [
+        {
+          "prompt": "The chimp did chomp on it.",
+          "choices": ["the ham", "the chips"],
+          "answer": "the ham"
+        },
+        {
+          "prompt": "Tim did lock the bag in it.",
+          "choices": ["the van", "the pot"],
+          "answer": "the van"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["hats", "land", "sock", "wish", "cab"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

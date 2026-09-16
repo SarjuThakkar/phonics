@@ -82,15 +82,21 @@ TRAP_EXCEPTIONS = {"ge", "ll", "zz"}
 IRREGULAR: dict[str, int | None] = {
     # /z/ hiding behind a final s
     "is": None, "his": None, "as": None, "has": None, "was": None,
+    # a single vowel at the end of a short word says its name, which this
+    # course does not teach until days 84-85. "no" sounded out is "nah".
+    "go": 85, "no": 85, "so": 85, "ho": 85,
+    "he": 84, "she": 84, "we": 84, "me": 84, "be": 84,
+    "hi": None, "why": 95, "by": 95, "my": 95,
     # the everyday irregulars
     "of": None, "to": None, "into": None, "do": None, "who": None, "you": None,
+    "for": 64, "here": 60, "pretty": 116, "every": 116,
     "your": None, "they": None, "their": None, "the": None, "there": None,
-    "here": None, "where": None, "what": None, "want": None, "said": None,
+    "where": None, "what": None, "want": None, "said": None,
     "says": None, "are": None, "one": None, "once": None, "two": None,
     "some": None, "come": None, "done": None, "none": None, "love": None,
     "give": None, "live": None, "have": None, "been": None, "does": None,
-    "from": None, "for": None, "four": None, "again": None, "were": None,
-    "any": None, "many": None, "every": None, "pretty": None, "busy": None,
+    "from": None, "four": None, "again": None, "were": None,
+    "any": None, "many": None, "busy": None,
     "friend": None, "eye": None, "eyes": None, "buy": None, "put": None,
     "pull": None, "full": None, "push": None, "could": None, "would": None,
     "should": None, "only": None, "move": None, "prove": None, "sure": None,
@@ -246,12 +252,12 @@ def untaught_trap(word: str, graphemes: list[str]) -> str | None:
     return None
 
 
-def segment(word: str, graphemes: list[str]) -> list[str] | None:
+def segment(word: str, graphemes: list[str], *, check_traps: bool = True) -> list[str] | None:
     """Split `word` into unlocked graphemes, or return None if it can't be read."""
     w = word.lower().strip()
     if not w or not re.fullmatch(r"[a-z]+", w):
         return None
-    if untaught_trap(w, graphemes):
+    if check_traps and untaught_trap(w, graphemes):
         return None
     anywhere, end_only, silent_e = patterns_for(graphemes)
 
@@ -282,10 +288,8 @@ def check_words(words: list[str], level: int) -> list[tuple[str, str]]:
         w = raw.lower().strip()
         if not w:
             continue
-        if w in sight or w in seeds:
-            # Seed words come from the scope and sequence itself: they are
-            # sanctioned at their level even when a strict reading of the
-            # grapheme set would argue ("here" on the e-e level contains "er").
+        is_seed = w in seeds
+        if w in sight:
             continue
         if w in IRREGULAR:
             honest_from = IRREGULAR[w]
@@ -297,10 +301,15 @@ def check_words(words: list[str], level: int) -> list[tuple[str, str]]:
                 problems.append((raw, f"is not readable until the spelling that explains "
                                       f"it is taught, on day {honest_from}"))
                 continue
-        trap = untaught_trap(w, unlocked["graphemes"])
+        # A seed word comes from the scope and sequence itself, so it is allowed
+        # to contain a letter team taught later -- "here" on the silent-e day
+        # contains an "er" that belongs to day 65. It is NOT allowed to be
+        # unreadable: day 29's seed word "lump" needs a "u" that arrives on day
+        # 39, and showing it would be exactly the mistake this file prevents.
+        trap = None if is_seed else untaught_trap(w, unlocked["graphemes"])
         if trap:
             problems.append((raw, f'contains "{trap}", which is not taught until later'))
-        elif segment(w, unlocked["graphemes"]) is None:
+        elif segment(w, unlocked["graphemes"], check_traps=not is_seed) is None:
             problems.append((raw, f"cannot be sounded out with the letters taught by level {level}"))
     return problems
 

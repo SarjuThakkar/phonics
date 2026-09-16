@@ -1,0 +1,137 @@
+{
+  "level": 31,
+  "title": "st blend (ending)",
+  "kidTitle": "Meet st",
+  "parentNote": "Today is st on the END of a word — fast, mist, lost. It turns up at the front of words too, but that is a later day, so keep to endings for now. The s is a long hiss and the t is a tap, and the usual trouble is the tap going missing: \"fast\" comes out \"fass\" and \"mist\" comes out \"miss\". Stretch the hiss yourself and land the t hard — fassss-t — then say it at speed. This is also the first blend where the two sounds are easy to swap, so if you hear \"fats\" for \"fast\", point at the letters left to right with your finger while they say it.",
+  "newGraphemes": ["st"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "st",
+      "keyword": "fast",
+      "picture": "🏃",
+      "mouthCue": "Hiss the s with your teeth almost shut, then tap your tongue down for the t.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "st",
+      "choices": ["st", "s"],
+      "prompt": "One of these stops with a little tap on the end. Find the one with the tap."
+    },
+    {
+      "type": "soundMatch",
+      "target": "st",
+      "choices": ["st", "s", "t"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "fast",
+      "parts": ["f", "a", "s", "t"],
+      "picture": "🏃",
+      "prompt": "Four sounds. Do not let the t slip off the end."
+    },
+    {
+      "type": "blend",
+      "word": "last",
+      "parts": ["l", "a", "s", "t"],
+      "prompt": "Only the first sound has changed. Keep the ending exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "mist",
+      "parts": ["m", "i", "s", "t"],
+      "prompt": "Hold the s for a long time, then tap the t: misssss-t."
+    },
+    {
+      "type": "blend",
+      "word": "fist",
+      "parts": ["f", "i", "s", "t"],
+      "picture": "✊"
+    },
+    {
+      "type": "blend",
+      "word": "lost",
+      "parts": ["l", "o", "s", "t"],
+      "prompt": "The new blend with a round mouth in the middle."
+    },
+    {
+      "type": "readWord",
+      "word": "list",
+      "picture": "📝"
+    },
+    {
+      "type": "readWord",
+      "word": "mast",
+      "picture": "⛵",
+      "prompt": "The big pole a sail hangs on."
+    },
+    {
+      "type": "readWord",
+      "word": "fists",
+      "picture": "✊"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fast",
+      "choices": ["fast", "fat"],
+      "prompt": "Listen right to the very end. Is there an s in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mist",
+      "choices": ["mist", "miss"],
+      "prompt": "Same again. One of these stops with a tap and one does not."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lost",
+      "choices": ["lost", "last", "list"],
+      "prompt": "All three end the same way. This time the clue is in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "The soft cat got lost in the loft."
+    },
+    {
+      "type": "sentence",
+      "text": "Did Pam and Tim jog fast in the mist?"
+    },
+    {
+      "type": "sentence",
+      "text": "Jim had the last fig on the list."
+    },
+    {
+      "type": "story",
+      "title": "Lost in the mist",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pam and the dog ran fast on the hill.",
+        "The mist got thick and Pam got lost.",
+        "Pam sat on a damp rock and did sob.",
+        "The dog ran off fast and got Tim.",
+        "Tim and the dog got Pam back at last!"
+      ],
+      "questions": [
+        {
+          "prompt": "Pam got lost in it.",
+          "choices": ["the mist", "the pond"],
+          "answer": "the mist"
+        },
+        {
+          "prompt": "The dog ran off and got him.",
+          "choices": ["Tim", "Jim"],
+          "answer": "Tim"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["gift", "chomp", "hats", "pond", "sock"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

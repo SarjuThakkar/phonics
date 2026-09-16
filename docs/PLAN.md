@@ -180,6 +180,12 @@ worth more than the other 542 recordings together.
 ## Open questions / later
 - **Pictures.** Activities take an optional emoji. Real illustrations would be
   better, particularly for the stories.
+- **Day 29's seed word `lump`** needs a `u`, which the sequence itself does not
+  teach until day 39 — the one word in the published scope and sequence that a
+  child could not read on the day it is listed. `camp` and `chimp` work; skip
+  `lump`. `tools/lexicon.py` now catches this class of thing: a seed word is
+  allowed to contain a letter team taught later ("here" on the silent-e day),
+  but it is not allowed to be unreadable.
 - **Day 55** in the source sequence ("the long a sound", seed words *bae, sae,
   hae*) is a sound-introduction day with no real English words — it is written
   as ear training for the long-a sound ahead of `a_e` on day 56.

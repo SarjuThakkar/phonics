@@ -1,0 +1,191 @@
+{
+  "level": 30,
+  "title": "ft blend",
+  "kidTitle": "Meet ft",
+  "parentNote": "Today's blend is ft, the ending in gift and soft and lift. It is a hard one to hear because the f is a long breathy sound and the t is a tiny tap right on the end of it, so children often stop at the f and read \"soft\" as \"sof\". Have them hold the f out — sooooff — and then tap the t with the tip of the tongue, and point out that their teeth are on their lip for the f and let go for the t. The other thing that happens is the two sounds getting swapped round, so \"lift\" comes out \"lifet\"; if that happens, slow the whole word down rather than just the ending.",
+  "newGraphemes": [
+    "ft"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ft",
+      "keyword": "gift",
+      "picture": "🎁",
+      "mouthCue": "Top teeth on your bottom lip to hiss the f, then let go and tap your tongue for the t.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ft",
+      "choices": [
+        "ft",
+        "f"
+      ],
+      "prompt": "One of these stops with a little tap on the end. Find the one with the tap."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ft",
+      "choices": [
+        "ft",
+        "f",
+        "t"
+      ],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "lift",
+      "parts": [
+        "l",
+        "i",
+        "f",
+        "t"
+      ],
+      "prompt": "Four sounds. Do not let the t slip off the end."
+    },
+    {
+      "type": "blend",
+      "word": "gift",
+      "parts": [
+        "g",
+        "i",
+        "f",
+        "t"
+      ],
+      "picture": "🎁",
+      "prompt": "Only the first sound has changed. Keep the ending exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "soft",
+      "parts": [
+        "s",
+        "o",
+        "f",
+        "t"
+      ],
+      "prompt": "Hold the f for a long time, then tap the t: sooooff-t."
+    },
+    {
+      "type": "blend",
+      "word": "raft",
+      "parts": [
+        "r",
+        "a",
+        "f",
+        "t"
+      ],
+      "picture": "🛶"
+    },
+    {
+      "type": "blend",
+      "word": "shift",
+      "parts": [
+        "sh",
+        "i",
+        "f",
+        "t"
+      ],
+      "prompt": "A team at the front and the new blend at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "loft"
+    },
+    {
+      "type": "readWord",
+      "word": "daft",
+      "prompt": "A daft dog is a silly one."
+    },
+    {
+      "type": "readWord",
+      "word": "gifts",
+      "picture": "🎁"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lift",
+      "choices": [
+        "lift",
+        "lit"
+      ],
+      "prompt": "Listen right to the very end. Is there an f in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "raft",
+      "choices": [
+        "raft",
+        "rat"
+      ],
+      "prompt": "Same again. The word is longer than it sounds."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "soft",
+      "choices": [
+        "soft",
+        "sock",
+        "shot"
+      ],
+      "prompt": "All three start with the same hiss. This time the clue is at the end."
+    },
+    {
+      "type": "sentence",
+      "text": "Pam did lift the soft cat off the mat."
+    },
+    {
+      "type": "sentence",
+      "text": "Jim got a gift and did grin."
+    },
+    {
+      "type": "sentence",
+      "text": "The raft did tip and Tim got damp."
+    },
+    {
+      "type": "story",
+      "title": "The gift on the raft",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Jim did lift a big gift on the raft.",
+        "The raft did tip and the gift did drop in the pond.",
+        "Pam did hop in the pond and got the gift back.",
+        "The gift had a soft hat in it.",
+        "Pam had the hat on and did grin at Jim."
+      ],
+      "questions": [
+        {
+          "prompt": "The gift did drop in it.",
+          "choices": [
+            "the pond",
+            "the sand"
+          ],
+          "answer": "the pond"
+        },
+        {
+          "prompt": "Pam had it on and did grin.",
+          "choices": [
+            "the soft hat",
+            "the big raft"
+          ],
+          "answer": "the soft hat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "camp",
+        "dogs",
+        "land",
+        "shot",
+        "thin"
+      ],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

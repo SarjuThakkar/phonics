@@ -1,0 +1,198 @@
+{
+  "level": 28,
+  "title": "-s makes it plural",
+  "kidTitle": "One or lots",
+  "parentNote": "Today is less a new sound than a new job for an old one: stick an s on the end and one cat becomes two cats. Say the pair out loud together — cat, cats; dog, dogs — so your child hears the ending as extra meaning, not just extra noise. Here is the thing that catches everybody out, and it is worth knowing before it happens: that s only hisses after a hard sound like t or ck (cats, rocks). After a buzzy one it turns into a /z/, so dogs is \"dog-z\" and pigs is \"pig-z\". Your child will say it that way naturally, because that is how English works; don't correct them back to a hiss. If they read \"cat\" and stop, cover the s with a finger, then slide it away and let them add the ending on.",
+  "newGraphemes": [
+    "-s"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-s",
+      "keyword": "cats",
+      "picture": "🐈",
+      "mouthCue": "Teeth almost shut, tongue just behind them, and let the air hiss out.",
+      "prompt": "You know this letter already. Today it has a job: on the end of a word it means more than one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-s",
+      "choices": [
+        "-s",
+        "sh",
+        "th"
+      ],
+      "prompt": "Three quiet, breathy sounds. Find the one that hisses like a snake."
+    },
+    {
+      "type": "blend",
+      "word": "cats",
+      "parts": [
+        "c",
+        "a",
+        "t",
+        "s"
+      ],
+      "picture": "🐈",
+      "prompt": "Sound out cat, then add the ending on: cat — s."
+    },
+    {
+      "type": "blend",
+      "word": "hats",
+      "parts": [
+        "h",
+        "a",
+        "t",
+        "s"
+      ],
+      "picture": "🎩",
+      "prompt": "One hat, and now a whole pile of them."
+    },
+    {
+      "type": "blend",
+      "word": "rocks",
+      "parts": [
+        "r",
+        "o",
+        "ck",
+        "s"
+      ],
+      "picture": "🪨",
+      "prompt": "The ck team stays together and the ending goes on the back."
+    },
+    {
+      "type": "blend",
+      "word": "dogs",
+      "parts": [
+        "d",
+        "o",
+        "g",
+        "s"
+      ],
+      "picture": "🐕",
+      "prompt": "Listen hard to this ending. After a buzzy sound like g it buzzes too: dog — z."
+    },
+    {
+      "type": "blend",
+      "word": "pigs",
+      "parts": [
+        "p",
+        "i",
+        "g",
+        "s"
+      ],
+      "picture": "🐖",
+      "prompt": "Same buzz on the end as dogs. The letter is s and it is doing the job of a z."
+    },
+    {
+      "type": "blend",
+      "word": "hands",
+      "parts": [
+        "h",
+        "a",
+        "nd",
+        "s"
+      ],
+      "picture": "✋",
+      "prompt": "The longest one. Keep the nd from last week in one piece."
+    },
+    {
+      "type": "readWord",
+      "word": "pots",
+      "picture": "🍲"
+    },
+    {
+      "type": "readWord",
+      "word": "ships",
+      "picture": "🚢"
+    },
+    {
+      "type": "readWord",
+      "word": "bags",
+      "picture": "🎒"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cats",
+      "choices": [
+        "cats",
+        "cat"
+      ],
+      "prompt": "One of them, or a lot of them? The ending tells you."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dogs",
+      "choices": [
+        "dogs",
+        "dog"
+      ],
+      "prompt": "Same again, and this time the ending buzzes."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "socks",
+      "choices": [
+        "socks",
+        "sock",
+        "sacks"
+      ],
+      "prompt": "Check the end and the middle on this one."
+    },
+    {
+      "type": "sentence",
+      "text": "The cats sat on the hot rocks."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the dogs dig pits in the sand?"
+    },
+    {
+      "type": "sentence",
+      "text": "Jim had chips and figs in the sack."
+    },
+    {
+      "type": "story",
+      "title": "Cats in the bags",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pam did pack the big bags with hats and socks.",
+        "The cats did hop in and sat on the socks.",
+        "Pam did tip the bags and the cats ran off.",
+        "The cats sat on the hats and had a nap."
+      ],
+      "questions": [
+        {
+          "prompt": "The cats did hop in it.",
+          "choices": [
+            "the bags",
+            "the pots"
+          ],
+          "answer": "the bags"
+        },
+        {
+          "prompt": "The cats sat on it and had a nap.",
+          "choices": [
+            "the hats",
+            "the socks"
+          ],
+          "answer": "the hats"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "hand",
+        "shot",
+        "thick",
+        "back",
+        "van"
+      ],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}
