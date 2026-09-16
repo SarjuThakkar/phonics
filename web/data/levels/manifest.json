@@ -56,7 +56,12 @@
     54,
     55,
     56,
-    57
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
   ],
   "levels": [
     {
@@ -400,6 +405,36 @@
       "title": "ue says /oo/",
       "kidTitle": "Meet ue",
       "activities": 20
+    },
+    {
+      "level": 58,
+      "title": "u_e (silent e)",
+      "kidTitle": "u and a quiet e",
+      "activities": 21
+    },
+    {
+      "level": 59,
+      "title": "ee says /ee/",
+      "kidTitle": "Meet ee",
+      "activities": 21
+    },
+    {
+      "level": 60,
+      "title": "e_e (silent e)",
+      "kidTitle": "e and a quiet e",
+      "activities": 22
+    },
+    {
+      "level": 61,
+      "title": "Review: silent e",
+      "kidTitle": "The quiet e, all five",
+      "activities": 23
+    },
+    {
+      "level": 62,
+      "title": "ar says /ar/",
+      "kidTitle": "Meet ar",
+      "activities": 21
     }
   ]
 }

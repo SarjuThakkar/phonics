@@ -1,0 +1,156 @@
+{
+  "level": 60,
+  "title": "e_e (silent e)",
+  "kidTitle": "e and a quiet e",
+  "parentNote": "This finishes the set: every vowel has now had the silent e treatment, and today it is the e itself. One e, a consonant, then a quiet e — and the first e says ee, the sound your child met yesterday in bee and tree. Two things to know before you start. This spelling is genuinely rare, so today is a short list of words practised hard rather than a long one skimmed: Pete, Steve, Eve, theme, here. And most of them are names, which is not a cheat — names are where this pattern actually lives. The slip is the same as every silent e day: reading straight past the e, so Pete comes out pet and theme comes out them. Cover the last e with your finger, read the short word, lift the finger, read it again. Say both out loud yourself first; the difference is easier to hear than to explain.",
+  "newGraphemes": ["e_e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "e_e",
+      "keyword": "Pete",
+      "picture": "🧑",
+      "mouthCue": "Lips wide in a smile, teeth almost shut: eee. The same sound as yesterday's bee.",
+      "prompt": "The e on the end says nothing. It reaches back over the t and tells the first e to say ee."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e_e",
+      "choices": ["e_e", "e", "ee"],
+      "prompt": "All three are made of e. One of them has a gap with a letter hiding in it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e_e",
+      "choices": ["e_e", "a_e", "u_e"],
+      "prompt": "All three have a gap and a quiet e. Listen to the vowel that goes in the gap."
+    },
+    {
+      "type": "blend",
+      "word": "Eve",
+      "parts": ["E", "ve"],
+      "prompt": "Only two sounds. The v and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "Pete",
+      "parts": ["P", "e", "te"],
+      "prompt": "Three sounds, not four. The t and the e go together at the end."
+    },
+    {
+      "type": "blend",
+      "word": "here",
+      "parts": ["h", "e", "re"],
+      "picture": "📍"
+    },
+    {
+      "type": "blend",
+      "word": "theme",
+      "parts": ["th", "e", "me"],
+      "prompt": "A theme is a tune that comes back. Two letters at the front, one sound."
+    },
+    {
+      "type": "blend",
+      "word": "Steve",
+      "parts": ["St", "e", "ve"],
+      "prompt": "The longest one. Two sounds crowd in at the front before the e."
+    },
+    {
+      "type": "readWord",
+      "word": "here"
+    },
+    {
+      "type": "readWord",
+      "word": "Pete"
+    },
+    {
+      "type": "readWord",
+      "word": "Eve"
+    },
+    {
+      "type": "readWord",
+      "word": "Steve"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "Pete",
+      "choices": ["pet", "Pete"],
+      "prompt": "Same three letters at the front. One of them has the silent e on the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "theme",
+      "choices": ["them", "theme"],
+      "prompt": "Listen to the middle. Short e, or the e saying ee?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "here",
+      "choices": ["here", "hen", "hem"],
+      "prompt": "All three start with h and an e. The end of the word decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "Pete and Steve did sit here in the grass and did not get up."
+    },
+    {
+      "type": "sentence",
+      "text": "Here is a green tree, and up here is a big bee!"
+    },
+    {
+      "type": "sentence",
+      "text": "Did Eve get here on a bike? Eve did run!"
+    },
+    {
+      "type": "story",
+      "title": "Eve up the tree",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pete and Steve came here at three.",
+        "Eve is not here. Eve is up in the tree!",
+        "Eve did wave at them and did grin.",
+        "Then a big bee came, and Eve did not grin at it.",
+        "Steve did hum a theme, and the bee came at him!",
+        "Pete did set sweet feed on a flat stone.",
+        "The bee did shift off and sat on the feed.",
+        "Eve is back on the grass at last. But Pete is up the tree!"
+      ],
+      "questions": [
+        {
+          "prompt": "Pete and Steve came here at ...",
+          "choices": ["three", "ten"],
+          "answer": "three"
+        },
+        {
+          "prompt": "Steve did hum a theme, and the bee ...",
+          "choices": ["came at him", "did sleep"],
+          "answer": "came at him"
+        },
+        {
+          "prompt": "At the end, up the tree is ...",
+          "choices": ["Pete", "Eve"],
+          "answer": "Pete"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ee, from yesterday",
+      "words": ["bee", "tree", "sheep", "green", "street"],
+      "prompt": "The same ee sound, spelled the other way. Two e's side by side, no gap."
+    },
+    {
+      "type": "review",
+      "label": "Short e, with no e on the end",
+      "words": ["pet", "them", "bed", "step", "well"],
+      "prompt": "No silent e here, so the e stays short. Read them the old way."
+    },
+    {
+      "type": "review",
+      "label": "The quiet e on every other vowel",
+      "words": ["cake", "hike", "home", "flute", "note"],
+      "prompt": "Four vowels, one quiet e, one job. Today's e was the last of the set."
+    }
+  ]
+}

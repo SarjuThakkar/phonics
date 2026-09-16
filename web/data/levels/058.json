@@ -1,0 +1,151 @@
+{
+  "level": 58,
+  "title": "u_e (silent e)",
+  "kidTitle": "u and a quiet e",
+  "parentNote": "This is the last of the silent e vowels, and it says oo: flute, tune, June, rude. The e is quiet as always and reaches back over one consonant to change the u. The slip to listen for is the short u sneaking back in, so tube comes out tub and flute comes out flut — cover the e with your finger, read the short word, lift the finger, read it again: tub and tube, plum and plume. Say the oo with your lips pushed forward in a small circle, the same shape as yesterday's blue and glue, and tell your child that is on purpose: English has two ways to spell one sound and today they have both. One honest warning, in case they meet it in a book — cube and huge use these same letters but say yoo, not oo. That is a different job for another day, and not a mistake they made.",
+  "newGraphemes": ["u_e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "u_e",
+      "keyword": "flute",
+      "picture": "🎶",
+      "mouthCue": "Lips pushed forward in a small circle, held steady: ooo. The same shape as blue.",
+      "prompt": "The e on the end says nothing. It reaches back over the t and tells the u to say oo."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u_e",
+      "choices": ["u_e", "u", "e"],
+      "prompt": "Two of these work on their own. One is a u with a silent e waiting at the end."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u_e",
+      "choices": ["u_e", "o_e", "i_e"],
+      "prompt": "All three have a gap and a quiet e. Listen to the vowel that goes in the gap."
+    },
+    {
+      "type": "blend",
+      "word": "tube",
+      "parts": ["t", "u", "be"],
+      "prompt": "Three sounds, not four. The b and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "tune",
+      "parts": ["t", "u", "ne"],
+      "picture": "🎵",
+      "prompt": "Same start as tube. Only the lump at the end is different."
+    },
+    {
+      "type": "blend",
+      "word": "dune",
+      "parts": ["d", "u", "ne"],
+      "picture": "🏜"
+    },
+    {
+      "type": "blend",
+      "word": "flute",
+      "parts": ["fl", "u", "te"],
+      "picture": "🎶",
+      "prompt": "Two sounds at the front, and the quiet e still at the back."
+    },
+    {
+      "type": "blend",
+      "word": "prune",
+      "parts": ["pr", "u", "ne"]
+    },
+    {
+      "type": "readWord",
+      "word": "June"
+    },
+    {
+      "type": "readWord",
+      "word": "rule"
+    },
+    {
+      "type": "readWord",
+      "word": "rude"
+    },
+    {
+      "type": "readWord",
+      "word": "flutes"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tube",
+      "choices": ["tub", "tube"],
+      "prompt": "Same three letters at the front. One of them has the silent e on the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dune",
+      "choices": ["tune", "dune"],
+      "prompt": "Same ending. Only the first sound is different."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rule",
+      "choices": ["rude", "rule"],
+      "prompt": "Listen to the sound just before the quiet e."
+    },
+    {
+      "type": "sentence",
+      "text": "June did make a tune on the flute, and the dog did hum."
+    },
+    {
+      "type": "sentence",
+      "text": "Tim sat on a big sand dune and ate a prune!"
+    },
+    {
+      "type": "sentence",
+      "text": "Is it rude if a dog sits on the flute?"
+    },
+    {
+      "type": "story",
+      "title": "June and the flute",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "June got a flute in a long blue tube.",
+        "June sat up on a sand dune and did make a tune.",
+        "The tune did drift up the hill and past the hut.",
+        "A mole came up. Then a crab. Then the dog.",
+        "The mole and the crab sat still, but the dog did not!",
+        "The dog did dig, and the dune fell in on the flute.",
+        "June did dig and dig and got the flute back.",
+        "June made a rule: the dog can hum, but the dog can not dig."
+      ],
+      "questions": [
+        {
+          "prompt": "June got a flute in ...",
+          "choices": ["a long blue tube", "a big red bag"],
+          "answer": "a long blue tube"
+        },
+        {
+          "prompt": "The mole and the crab sat still, but ...",
+          "choices": ["the dog did not", "June did not"],
+          "answer": "the dog did not"
+        },
+        {
+          "prompt": "June made a rule: the dog can not ...",
+          "choices": ["dig", "hum"],
+          "answer": "dig"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ue, from yesterday",
+      "words": ["blue", "glue", "true", "clue", "Sue"],
+      "prompt": "The same oo sound, spelled the other way. Two spellings, one sound."
+    },
+    {
+      "type": "review",
+      "label": "Short u, with no e on the end",
+      "words": ["sun", "bun", "mud", "stump", "jump"],
+      "prompt": "No silent e here, so the u stays short. Read them the old way."
+    }
+  ]
+}

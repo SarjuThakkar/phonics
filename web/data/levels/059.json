@@ -1,0 +1,156 @@
+{
+  "level": 59,
+  "title": "ee says /ee/",
+  "kidTitle": "Meet ee",
+  "parentNote": "Two e's side by side say ee, as in bee, tree and sheep. After a fortnight of silent e this one is a relief: the letters are right next to each other, they always say the same thing, and there is no rule to remember. The slip to watch for is the short e coming back, so feed is read as fed and sleep as slip — that one letter of difference is the whole lesson, so say the pair yourself and let them hear it: fed, feed. ship, sheep. Point at the two e's as one chunk, not as e and then e, the same way you did with ie and ue. Pull your lips wide into a smile and hold it — eee — and if they are enjoying it, hunt for ee on the cereal box at breakfast; it is one of the easiest spellings to spot in the wild.",
+  "newGraphemes": ["ee"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ee",
+      "keyword": "bee",
+      "picture": "🐝",
+      "mouthCue": "Pull your lips wide into a smile, teeth almost shut, and hold it: eee.",
+      "prompt": "Two of the same letter, standing together. They do not say e and then e. Together they say ee."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ee",
+      "choices": ["ee", "e", "i"],
+      "prompt": "One of these is a team of two letters. The other two work on their own."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ee",
+      "choices": ["ee", "ie", "oe"],
+      "prompt": "Three teams, three different sounds. Find the one that says ee."
+    },
+    {
+      "type": "blend",
+      "word": "bee",
+      "parts": ["b", "ee"],
+      "picture": "🐝",
+      "prompt": "Only two sounds in this word. The ee is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "feed",
+      "parts": ["f", "ee", "d"],
+      "prompt": "Now the team is in the middle. Keep it in one piece and add the d."
+    },
+    {
+      "type": "blend",
+      "word": "sheep",
+      "parts": ["sh", "ee", "p"],
+      "picture": "🐑"
+    },
+    {
+      "type": "blend",
+      "word": "sleep",
+      "parts": ["s", "l", "ee", "p"],
+      "picture": "😴",
+      "prompt": "Four sounds: s, then l, then the team, then p."
+    },
+    {
+      "type": "blend",
+      "word": "street",
+      "parts": ["st", "r", "ee", "t"],
+      "prompt": "The longest one. Three sounds crowd in at the front before the team."
+    },
+    {
+      "type": "readWord",
+      "word": "tree",
+      "picture": "🌳"
+    },
+    {
+      "type": "readWord",
+      "word": "three",
+      "picture": "3️⃣"
+    },
+    {
+      "type": "readWord",
+      "word": "green",
+      "picture": "🟢"
+    },
+    {
+      "type": "readWord",
+      "word": "teeth",
+      "picture": "🦷"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sheep",
+      "choices": ["ship", "sheep"],
+      "prompt": "One floats and one says baa. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "feed",
+      "choices": ["fed", "feed"],
+      "prompt": "One e, or two? Listen to the middle sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "three",
+      "choices": ["tree", "three"],
+      "prompt": "Same ending. Only the sound at the very front is different."
+    },
+    {
+      "type": "sentence",
+      "text": "A bee sat on the green tree and did not see Meg."
+    },
+    {
+      "type": "sentence",
+      "text": "Did Sam feed the three sheep at the gate?"
+    },
+    {
+      "type": "sentence",
+      "text": "Sweet grass is the best bit, and the sheep sleep in it."
+    },
+    {
+      "type": "story",
+      "title": "Three sheep on the street",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Three sheep got free and ran up the street.",
+        "Meg did see them at the green gate.",
+        "Sam ran up with sweet feed in a red tin.",
+        "The sheep did stop and did sniff at the tin.",
+        "Sam did shake the tin, and the sheep did keep up with him!",
+        "Meg did shut the gate, and the three sheep did get in.",
+        "Then Meg did see the dog with the red tin.",
+        "The dog ate the sweet feed. The dog did sleep till three!"
+      ],
+      "questions": [
+        {
+          "prompt": "Three sheep got free and ran up ...",
+          "choices": ["the street", "the hill"],
+          "answer": "the street"
+        },
+        {
+          "prompt": "Sam ran up with sweet feed in ...",
+          "choices": ["a red tin", "a green bag"],
+          "answer": "a red tin"
+        },
+        {
+          "prompt": "The dog ate the feed and did sleep till ...",
+          "choices": ["three", "ten"],
+          "answer": "three"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "u and a quiet e, from yesterday",
+      "words": ["flute", "tune", "dune", "June", "rule"],
+      "prompt": "The e on the end is still silent, and the u is still saying oo."
+    },
+    {
+      "type": "review",
+      "label": "Short e, on its own",
+      "words": ["bed", "ten", "get", "help", "desk"],
+      "prompt": "One e, one everyday sound. Say these and then say the ee words again."
+    }
+  ]
+}

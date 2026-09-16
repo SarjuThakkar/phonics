@@ -1,0 +1,189 @@
+{
+  "level": 61,
+  "title": "Review: silent e",
+  "kidTitle": "The quiet e, all five",
+  "parentNote": "Nothing new today. Over the last fortnight the silent e has been added to all five vowels — a_e, e_e, i_e, o_e, u_e — and today they come back mixed up together, which is much harder than meeting them one at a time. Expect it to be slower than the individual days were, and expect the same slip on all of them: reading straight past the e, so cape comes out cap and tube comes out tub. The finger trick still works. Cover the last e, read the short word, lift the finger, read it again. There are two stories today instead of one, so if your child is flagging, read the first one and leave the second for tomorrow — stopping while it is still going well is better than pushing to the end of the list.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "a_e",
+      "choices": ["a_e", "e_e", "i_e", "o_e"],
+      "prompt": "Four words with a gap and a quiet e. Listen to the vowel that goes in the gap."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u_e",
+      "choices": ["u_e", "o_e", "e_e", "a_e"],
+      "prompt": "Same four letters at the end. Only the vowel at the front tells them apart."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i_e",
+      "choices": ["i_e", "i", "u"],
+      "prompt": "One of these has a quiet e waiting. That is the one where the vowel says its name."
+    },
+    {
+      "type": "blend",
+      "word": "cave",
+      "parts": ["c", "a", "ve"],
+      "picture": "🕳",
+      "prompt": "Three sounds. The v and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "bone",
+      "parts": ["b", "o", "ne"],
+      "picture": "🦴"
+    },
+    {
+      "type": "blend",
+      "word": "five",
+      "parts": ["f", "i", "ve"],
+      "picture": "5️⃣"
+    },
+    {
+      "type": "blend",
+      "word": "tune",
+      "parts": ["t", "u", "ne"],
+      "picture": "🎵"
+    },
+    {
+      "type": "blend",
+      "word": "stripe",
+      "parts": ["st", "r", "i", "pe"],
+      "prompt": "The longest one. Three sounds crowd in at the front, and the e is still quiet."
+    },
+    {
+      "type": "readWord",
+      "word": "Pete"
+    },
+    {
+      "type": "readWord",
+      "word": "smile",
+      "picture": "😀"
+    },
+    {
+      "type": "readWord",
+      "word": "flame",
+      "picture": "🔥"
+    },
+    {
+      "type": "readWord",
+      "word": "inside"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cape",
+      "choices": ["cap", "cape", "cake"],
+      "prompt": "Three words, one sound apart. Listen to the end and then the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hope",
+      "choices": ["hop", "hope", "home"],
+      "prompt": "Two of these have the quiet e. The last sound decides which one you heard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tube",
+      "choices": ["tub", "tube", "tune"],
+      "prompt": "Listen right to the end. Short u, or the u saying oo?"
+    },
+    {
+      "type": "sentence",
+      "text": "Eve gave Pete a ripe grape, and Pete ate the lot!"
+    },
+    {
+      "type": "sentence",
+      "text": "Did Steve hide the note inside the blue tube?"
+    },
+    {
+      "type": "sentence",
+      "text": "The snake slid up the slope and hid in the shade."
+    },
+    {
+      "type": "story",
+      "title": "The stone in the hole",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pete and Eve made a den on the slope.",
+        "Eve dug a hole, and Pete got a big flat stone.",
+        "The stone slid in the hole and got stuck.",
+        "Eve did tug at it. Pete did tug at it. It did not shift.",
+        "Then Steve came up the lane with a rope.",
+        "They tied the rope on the stone and did tug.",
+        "The stone came up, and it came up fast!",
+        "In the hole is a tin, and inside the tin is a note."
+      ],
+      "questions": [
+        {
+          "prompt": "Eve dug a hole, and Pete got ...",
+          "choices": ["a big flat stone", "a long rope", "a red tin"],
+          "answer": "a big flat stone"
+        },
+        {
+          "prompt": "Steve came up the lane with ...",
+          "choices": ["a rope", "a stone", "a note"],
+          "answer": "a rope"
+        },
+        {
+          "prompt": "Inside the tin is ...",
+          "choices": ["a note", "a cake", "a flute"],
+          "answer": "a note"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The bike with a name",
+      "prompt": "One more. This one has a joke in it.",
+      "lines": [
+        "Pete got a bike, and Pete gave the bike a name.",
+        "The name is Mud.",
+        "Eve did smile. That is not a name!",
+        "Pete rode Mud up the slope and in the shade.",
+        "Then Pete rode Mud in the mud.",
+        "Mud is stuck in the mud!",
+        "Eve and Steve did tug the bike up, and it came free.",
+        "Eve did smile at Pete. Mud is the best name!"
+      ],
+      "questions": [
+        {
+          "prompt": "Pete gave the bike a name. The name is ...",
+          "choices": ["Mud", "Bike", "Pete"],
+          "answer": "Mud"
+        },
+        {
+          "prompt": "Then Pete rode Mud in ...",
+          "choices": ["the mud", "the shade", "the lane"],
+          "answer": "the mud"
+        },
+        {
+          "prompt": "Eve and Steve did tug the bike up, and it ...",
+          "choices": ["came free", "got stuck", "fell in"],
+          "answer": "came free"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Long vowels with no silent e",
+      "words": ["tie", "toe", "blue", "bee", "three"],
+      "prompt": "The vowel still says its name, but there is no gap and no quiet e. A team does the job."
+    },
+    {
+      "type": "review",
+      "label": "Short vowels, no e on the end",
+      "words": ["cap", "hop", "slid", "tub", "pet"],
+      "prompt": "Every one of these turns into a silent e word if you stick an e on it. Try it out loud."
+    },
+    {
+      "type": "review",
+      "label": "Two-letter teams from the stage before",
+      "words": ["shop", "chat", "thick", "bang", "sink"],
+      "prompt": "Older friends. Two letters, one sound, and no vowel saying its name anywhere."
+    }
+  ]
+}

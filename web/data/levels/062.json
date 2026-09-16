@@ -1,0 +1,156 @@
+{
+  "level": 62,
+  "title": "ar says /ar/",
+  "kidTitle": "Meet ar",
+  "parentNote": "Today the r starts bossing the vowel about. On its own the a says the short sound in cat, but put an r straight after it and the pair say ar, as in car, star and farm. The slip to listen for is the short a hanging on, so car comes out cah and park comes out pack — say the pair yourself and let them hear it: cat, cart. back, bark. The other slip is sounding the two letters out one at a time, so farm comes out fa-rum; point at the ar as one chunk, exactly the way you did with ee and ue. Open your mouth wide, like at the dentist, and pull your tongue back: arrr. It is a satisfying noise and worth being silly with.",
+  "newGraphemes": ["ar"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ar",
+      "keyword": "car",
+      "picture": "🚗",
+      "mouthCue": "Open wide, like at the dentist, and pull your tongue back: arrr.",
+      "prompt": "Two letters, one sound. The r has got hold of the a, so the a no longer says its everyday sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ar",
+      "choices": ["ar", "a", "o"],
+      "prompt": "One of these is a team of two letters. Listen for the r on the end of the sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ar",
+      "choices": ["ar", "a", "a_e"],
+      "prompt": "All three are built out of a, and all three say something different."
+    },
+    {
+      "type": "blend",
+      "word": "car",
+      "parts": ["c", "ar"],
+      "picture": "🚗",
+      "prompt": "Only two sounds in this word. The ar is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "star",
+      "parts": ["st", "ar"],
+      "picture": "⭐",
+      "prompt": "Same ending as car. Only the front has changed."
+    },
+    {
+      "type": "blend",
+      "word": "art",
+      "parts": ["ar", "t"],
+      "picture": "🎨",
+      "prompt": "This time the team starts the word. Say the ar first, then the t."
+    },
+    {
+      "type": "blend",
+      "word": "farm",
+      "parts": ["f", "ar", "m"],
+      "picture": "🚜",
+      "prompt": "Now the team is in the middle. Keep it in one piece and add the m."
+    },
+    {
+      "type": "blend",
+      "word": "shark",
+      "parts": ["sh", "ar", "k"],
+      "picture": "🦈"
+    },
+    {
+      "type": "readWord",
+      "word": "park",
+      "picture": "🌳"
+    },
+    {
+      "type": "readWord",
+      "word": "dark",
+      "picture": "🌙"
+    },
+    {
+      "type": "readWord",
+      "word": "card"
+    },
+    {
+      "type": "readWord",
+      "word": "hard"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cart",
+      "choices": ["cat", "cart"],
+      "prompt": "One of these has the r in it, bossing the a about. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "card",
+      "choices": ["car", "card"],
+      "prompt": "Listen right to the end. Is there one more sound after the ar?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shark",
+      "choices": ["shark", "sharp", "shop"],
+      "prompt": "Two of these start the same way. The last sound decides which one you heard."
+    },
+    {
+      "type": "sentence",
+      "text": "Mark did park the red car in the dark."
+    },
+    {
+      "type": "sentence",
+      "text": "That is not a star. That is a spark!"
+    },
+    {
+      "type": "sentence",
+      "text": "Meg ate a jam tart in the park, and Mark ate three."
+    },
+    {
+      "type": "story",
+      "title": "The star on the farm",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "It is dark on the farm, and Mark can not sleep.",
+        "Mark got up and did sit on the barn steps.",
+        "Up in the dark is a star. It is big and sharp.",
+        "Then the star came in fast and did land in the grass!",
+        "Mark ran up. It is not a star.",
+        "It is a kite with a lamp on it.",
+        "Meg is up the hill with the string, and Meg did not spot Mark.",
+        "Mark did smile. Meg made a star on the farm!"
+      ],
+      "questions": [
+        {
+          "prompt": "It is dark on the farm, and Mark can not ...",
+          "choices": ["sleep", "run", "dig"],
+          "answer": "sleep"
+        },
+        {
+          "prompt": "The star came in fast and did land in ...",
+          "choices": ["the grass", "the pond", "the barn"],
+          "answer": "the grass"
+        },
+        {
+          "prompt": "It is not a star. It is ...",
+          "choices": ["a kite with a lamp", "a red car", "a big shark"],
+          "answer": "a kite with a lamp"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The quiet e, from the review day",
+      "words": ["cape", "five", "home", "flute", "Pete"],
+      "prompt": "All five vowels, all with a silent e on the end. Still saying their own names."
+    },
+    {
+      "type": "review",
+      "label": "Short a, with no r after it",
+      "words": ["cat", "ham", "flag", "chat", "stamp"],
+      "prompt": "No r here, so the a says its everyday sound. Read one of these, then read car again."
+    }
+  ]
+}
