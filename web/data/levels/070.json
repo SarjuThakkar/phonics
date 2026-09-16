@@ -1,0 +1,168 @@
+{
+  "level": 70,
+  "title": "I, want",
+  "kidTitle": "The word for you",
+  "parentNote": "Two words we just learn today, and the first is the biggest one in the course so far. Every story up to now has been about somebody else — Pete, Meg, Mark — because there was no way to spell the word a child most wants to say. I is one letter, it says its own name, it is always a capital, and no rule anywhere explains any of that, so it is simply remembered. want is here for a different reason: the w shoves the a sideways into an o, so a child sounding it out gets something that rhymes with ant. Don't let them battle it — say \"the w is pushing that a about\" and move on. The payoff is large and immediate. From today your child can read sentences about themselves — I want a big cake, I can see a bird — and that is what reading was for all along.",
+  "newGraphemes": [],
+  "newSightWords": ["I", "want"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "I",
+      "sentence": "I can see a big dog, and I want it.",
+      "prompt": "Do not sound this one out. One letter, standing on its own, and it says its own name: I."
+    },
+    {
+      "type": "readWord",
+      "word": "I",
+      "prompt": "The shortest word there is. It always gets a capital, even in the middle of a sentence. Say it: I."
+    },
+    {
+      "type": "sightWord",
+      "word": "want",
+      "sentence": "I want a red cake for supper.",
+      "prompt": "This one we just know too. The w bends the a, so do not sound it out: want."
+    },
+    {
+      "type": "readWord",
+      "word": "want",
+      "prompt": "No sounding out. Look at it and say it: want."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i_e",
+      "choices": ["i_e", "i", "ir"],
+      "prompt": "The word I says the same sound as this one, but with no e and nothing else at all."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i",
+      "choices": ["i", "e", "u"],
+      "prompt": "And this is what an i usually says when it is stuck in the middle of a word. The word I refuses to do it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "a",
+      "choices": ["a", "ar", "a_e"],
+      "prompt": "Three jobs an a can do. In want it does none of them, and that is why we just learn it."
+    },
+    {
+      "type": "blend",
+      "word": "sport",
+      "parts": ["sp", "or", "t"],
+      "picture": "⚽",
+      "prompt": "No new sound today, so these are all words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "trade",
+      "parts": ["tr", "a", "de"]
+    },
+    {
+      "type": "blend",
+      "word": "drove",
+      "parts": ["dr", "o", "ve"]
+    },
+    {
+      "type": "blend",
+      "word": "hamster",
+      "parts": ["h", "a", "m", "st", "er"],
+      "picture": "🐹"
+    },
+    {
+      "type": "blend",
+      "word": "printer",
+      "parts": ["p", "r", "i", "n", "t", "er"],
+      "picture": "🖨",
+      "prompt": "The longest one. Six sounds, and the bossy r is right at the end."
+    },
+    {
+      "type": "readWord",
+      "word": "sunset",
+      "picture": "🌇"
+    },
+    {
+      "type": "readWord",
+      "word": "shelter"
+    },
+    {
+      "type": "readWord",
+      "word": "cupcake",
+      "picture": "🧁"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "want",
+      "choices": ["want", "went", "wind"],
+      "prompt": "All three start with w. Listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "drove",
+      "choices": ["drove", "drive", "drum"],
+      "prompt": "Two of these have a quiet e on the end. The vowel tells you which."
+    },
+    {
+      "type": "sentence",
+      "text": "I want a big red cake for supper!"
+    },
+    {
+      "type": "sentence",
+      "text": "I can see three ducks on the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "They want the cart, but I want the bike."
+    },
+    {
+      "type": "sentence",
+      "text": "I did hunt for the lost card, and then I did spot it under the bed."
+    },
+    {
+      "type": "story",
+      "title": "The dog I want",
+      "prompt": "This story is the first one you get to tell about yourself. Read it one line at a time.",
+      "lines": [
+        "I want a dog. I want a big dog with soft fur.",
+        "But Mum did tell Dad that a dog is hard.",
+        "I did ask and ask. Mum did just grin.",
+        "Then, in March, Dad came home with a crate.",
+        "The crate did shift, and then the crate did purr.",
+        "In the crate is a cat!",
+        "I did not want a cat. I want a dog.",
+        "The cat did jump up and did curl up on the bed.",
+        "The cat is soft, and it did purr and purr.",
+        "I still want a dog. But I want this cat, and I want it a lot!"
+      ],
+      "questions": [
+        {
+          "prompt": "I want a big dog with ...",
+          "choices": ["soft fur", "a red hat", "green legs"],
+          "answer": "soft fur"
+        },
+        {
+          "prompt": "In the crate is ...",
+          "choices": ["a cat", "a dog", "a bird"],
+          "answer": "a cat"
+        },
+        {
+          "prompt": "At the end I still want a dog, but I want the cat ...",
+          "choices": ["a lot", "not a bit", "in the shed"],
+          "answer": "a lot"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "From the last two days",
+      "words": ["carve", "globe", "spade", "hornet", "birch"],
+      "prompt": "Quiet e and bossy r, back again. Look at the end of each word before you say it."
+    },
+    {
+      "type": "review",
+      "label": "Two-letter teams from the stage before",
+      "words": ["fish", "much", "thick", "sock", "bang"],
+      "prompt": "Older friends. Two letters, one sound, no e and no r."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "level": 71,
+  "title": "to, do",
+  "kidTitle": "Two little words",
+  "parentNote": "Two more words we learn whole today, and they are a pair: to and do rhyme with each other, and the o in both of them says oo. That is a job the o does in barely a dozen words in English and this course never teaches it as a rule, so these two are simply remembered. The slip to expect is a careful child reading them as toe and doe, which is exactly what everything they have learned so far predicts — don't correct the thinking, just say \"these two say oo\" and carry on. They are worth a whole day because of the grammar they open up. to lets your child finally write where somebody is going and why they are doing a thing — ran to the barn, want to help — and do turns a sentence into a question: Do they want a cake? Until today there was no way to ask one.",
+  "newGraphemes": [],
+  "newSightWords": ["to", "do"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "to",
+      "sentence": "I did run to the shed to get a spade.",
+      "prompt": "Do not sound this one out. The o says oo: to."
+    },
+    {
+      "type": "readWord",
+      "word": "to",
+      "prompt": "No sounding out. Look at it and say it: to."
+    },
+    {
+      "type": "sightWord",
+      "word": "do",
+      "sentence": "Do they want to see the hamster?",
+      "prompt": "The same trick with a d on the front. Not doe — do."
+    },
+    {
+      "type": "readWord",
+      "word": "do",
+      "prompt": "Look at it and say it: do. Then say to. They rhyme."
+    },
+    {
+      "type": "soundMatch",
+      "target": "o",
+      "choices": ["o", "o_e", "or"],
+      "prompt": "Three jobs an o can do. In to and do it does none of them, which is why we just learn them."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u_e",
+      "choices": ["u_e", "u", "ur"],
+      "prompt": "This is the sound to and do actually say — the oo in flute and tune. They just spell it with an o."
+    },
+    {
+      "type": "blend",
+      "word": "skirt",
+      "parts": ["sk", "ir", "t"],
+      "picture": "👗",
+      "prompt": "No new sound today, so these are all words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "flute",
+      "parts": ["fl", "u", "te"],
+      "picture": "🎶"
+    },
+    {
+      "type": "blend",
+      "word": "hunter",
+      "parts": ["h", "u", "n", "t", "er"]
+    },
+    {
+      "type": "blend",
+      "word": "garden",
+      "parts": ["g", "ar", "d", "e", "n"],
+      "picture": "🌷"
+    },
+    {
+      "type": "blend",
+      "word": "pancake",
+      "parts": ["p", "a", "n", "c", "a", "ke"],
+      "picture": "🥞",
+      "prompt": "The longest one. Two a words stuck together, and only the second one has a quiet e after it."
+    },
+    {
+      "type": "readWord",
+      "word": "monster",
+      "picture": "👹"
+    },
+    {
+      "type": "readWord",
+      "word": "helmet",
+      "picture": "⛑"
+    },
+    {
+      "type": "readWord",
+      "word": "mustard"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "to",
+      "choices": ["to", "do"],
+      "prompt": "Both say oo. Only the first letter tells them apart, so listen hard at the front."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "skirt",
+      "choices": ["skirt", "shirt", "short"],
+      "prompt": "These three get muddled up a lot. Listen to the front, then the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "I want to run up the path to the barn."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to see the hamster in the shed?"
+    },
+    {
+      "type": "sentence",
+      "text": "Fern did run to the garden to get a spade and a fork."
+    },
+    {
+      "type": "sentence",
+      "text": "I do not want to stop, and I do not want to rest!"
+    },
+    {
+      "type": "story",
+      "title": "The cake I want to make",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "I want to make a cake for Mum.",
+        "Dad did help. I did crack three eggs in a red pot.",
+        "Then I did stir it, and stir it, and stir it.",
+        "Dad did set the pot in the stove.",
+        "I want to see it. I do not want to sit still.",
+        "I did peek in the stove, and then I did peek in it a lot.",
+        "The cake did not lift up. The cake is flat.",
+        "Dad did grin. A flat cake is still a cake.",
+        "I did add red jam on the top, and then Mum came in.",
+        "Mum did munch it up. Do I want to make a cake for Dad? I do!"
+      ],
+      "questions": [
+        {
+          "prompt": "I want to make a cake for ...",
+          "choices": ["Mum", "Dad", "Fern"],
+          "answer": "Mum"
+        },
+        {
+          "prompt": "I did not want to sit still, and I did peek in ...",
+          "choices": ["the stove", "the shed", "the garden"],
+          "answer": "the stove"
+        },
+        {
+          "prompt": "At the end I want to make a cake for ...",
+          "choices": ["Dad", "Mum", "the dog"],
+          "answer": "Dad"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from this week",
+      "words": ["hornet", "carve", "printer", "cupcake", "spade"],
+      "prompt": "Quiet e and bossy r together. Look at the end of each word before you say it."
+    },
+    {
+      "type": "review",
+      "label": "One of each bossy r",
+      "words": ["star", "fork", "her", "bird", "turn"],
+      "prompt": "Five words, five spellings, and the last three all say the same sound."
+    }
+  ]
+}

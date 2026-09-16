@@ -1,0 +1,191 @@
+{
+  "level": 69,
+  "title": "Review: silent e + bossy r",
+  "kidTitle": "Quiet e meets bossy r",
+  "parentNote": "Nothing new today, but this is the hardest review so far, because two patterns that both live on a vowel finally turn up in the same lesson. A quiet e on the end makes the vowel say its name — cap becomes cape. An r after the vowel takes the sound over instead — cap becomes car. Today your child has to look at the whole word before deciding, which is the real skill and the reason for all the cap / cape / car sets below. If they guess wrong, don't say no; say \"look at the end of the word\" and let them try again. There are two stories, so stop after the first if the going is slow — finishing while it is still going well beats getting to the bottom of the list.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "a_e",
+      "choices": ["a_e", "ar", "a"],
+      "prompt": "Three ways to use an a. One has a quiet e waiting, one has an r taking over, and one is on its own."
+    },
+    {
+      "type": "soundMatch",
+      "target": "or",
+      "choices": ["or", "o_e", "o"],
+      "prompt": "Now the same three with an o. Listen for the r."
+    },
+    {
+      "type": "soundMatch",
+      "target": "u_e",
+      "choices": ["u_e", "ur", "u"],
+      "prompt": "And with a u. The quiet e one is the only one where the u says its own name."
+    },
+    {
+      "type": "blend",
+      "word": "crane",
+      "parts": ["cr", "a", "ne"],
+      "picture": "🏗",
+      "prompt": "Nothing new today. This one has the quiet e, so the n and the e go together."
+    },
+    {
+      "type": "blend",
+      "word": "birch",
+      "parts": ["b", "ir", "ch"],
+      "picture": "🌳"
+    },
+    {
+      "type": "blend",
+      "word": "globe",
+      "parts": ["g", "l", "o", "be"],
+      "picture": "🌍"
+    },
+    {
+      "type": "blend",
+      "word": "hornet",
+      "parts": ["h", "or", "n", "e", "t"],
+      "picture": "🐝"
+    },
+    {
+      "type": "blend",
+      "word": "carve",
+      "parts": ["c", "ar", "ve"],
+      "prompt": "The tricky one. A bossy r AND a quiet e in the same short word, and they both do their job."
+    },
+    {
+      "type": "readWord",
+      "word": "spade"
+    },
+    {
+      "type": "readWord",
+      "word": "mirror",
+      "picture": "🪞"
+    },
+    {
+      "type": "readWord",
+      "word": "stove"
+    },
+    {
+      "type": "readWord",
+      "word": "harvest"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cape",
+      "choices": ["cap", "cape", "car"],
+      "prompt": "Same three letters at the front. The end of the word decides all of it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cord",
+      "choices": ["cod", "code", "cord"],
+      "prompt": "Quiet e, bossy r, or nothing at all? Listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "curb",
+      "choices": ["cub", "cube", "curb"],
+      "prompt": "One more set. Say all three out loud first, then listen."
+    },
+    {
+      "type": "sentence",
+      "text": "Bart did carve a grin on a turnip and did set it in the dark barn."
+    },
+    {
+      "type": "sentence",
+      "text": "Are the spade and the fork in the shed or under the stone?"
+    },
+    {
+      "type": "sentence",
+      "text": "Fern did hide the cake under a birch, and her big dog did spot it."
+    },
+    {
+      "type": "story",
+      "title": "The hornet in the shed",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Bart went in the shed for a spade.",
+        "Up in the corner is a nest, and in the nest is a hornet.",
+        "The hornet is cross, and it came at Bart fast.",
+        "Bart ran and did shut the shed up.",
+        "Then Fern came with a big glass jar and a card.",
+        "Fern did creep in and did pop the jar on the hornet.",
+        "Then Fern did slide the card under the jar.",
+        "Fern went up the path and did set the hornet free in the ferns.",
+        "The hornet did not sting her. It just went home.",
+        "Bart did grin at Fern. Fern is brave, and Bart is still hid in the barn!"
+      ],
+      "questions": [
+        {
+          "prompt": "Bart went in the shed for ...",
+          "choices": ["a spade", "a fork", "a card"],
+          "answer": "a spade"
+        },
+        {
+          "prompt": "Fern came with a big glass jar and ...",
+          "choices": ["a card", "a spade", "a hat"],
+          "answer": "a card"
+        },
+        {
+          "prompt": "Fern did set the hornet free in ...",
+          "choices": ["the ferns", "the barn", "the corn"],
+          "answer": "the ferns"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The note in the birch",
+      "prompt": "One more. This one ends with a joke.",
+      "lines": [
+        "Meg made a den under a big birch.",
+        "Meg did hide a note in a hole in the birch.",
+        "The note is for her sister Fern.",
+        "But a bird did spot the note, and the bird did take it.",
+        "Fern did hunt under the birch and did not spot a note.",
+        "Then Fern did spot a nest up in the birch.",
+        "In the nest is a bird, three eggs and the note, in bits.",
+        "Fern did grin. The note is a nest, and the eggs are snug.",
+        "Meg did make a note. The bird did make a bed!"
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did hide a note in ...",
+          "choices": ["a hole in the birch", "the shed", "a red jar"],
+          "answer": "a hole in the birch"
+        },
+        {
+          "prompt": "Fern did spot a nest up in ...",
+          "choices": ["the birch", "the barn", "the shed"],
+          "answer": "the birch"
+        },
+        {
+          "prompt": "In the nest is a bird, three eggs and ...",
+          "choices": ["the note in bits", "a big spade", "a red card"],
+          "answer": "the note in bits"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Long vowels with no quiet e at all",
+      "words": ["tie", "toe", "blue", "tree", "free"],
+      "prompt": "The vowel still says its name, but a team does the job and there is no e on the end."
+    },
+    {
+      "type": "review",
+      "label": "Two-letter teams from stage two",
+      "words": ["ship", "chop", "that", "king", "sink"],
+      "prompt": "Older friends. No vowel says its name anywhere in these."
+    },
+    {
+      "type": "review",
+      "label": "Plain short vowels",
+      "words": ["fan", "hen", "pig", "top", "bug"],
+      "prompt": "Nothing on the end and no r. Try adding an e to each one and hear what happens."
+    }
+  ]
+}

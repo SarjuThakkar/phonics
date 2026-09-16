@@ -66,7 +66,12 @@
     64,
     65,
     66,
-    67
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
   ],
   "levels": [
     {
@@ -469,6 +474,36 @@
       "level": 67,
       "title": "ur says /er/",
       "kidTitle": "Meet ur",
+      "activities": 21
+    },
+    {
+      "level": 68,
+      "title": "Review: bossy r",
+      "kidTitle": "All five bossy r words",
+      "activities": 25
+    },
+    {
+      "level": 69,
+      "title": "Review: silent e + bossy r",
+      "kidTitle": "Quiet e meets bossy r",
+      "activities": 23
+    },
+    {
+      "level": 70,
+      "title": "I, want",
+      "kidTitle": "The word for you",
+      "activities": 24
+    },
+    {
+      "level": 71,
+      "title": "to, do",
+      "kidTitle": "Two little words",
+      "activities": 23
+    },
+    {
+      "level": 72,
+      "title": "ay says /ay/",
+      "kidTitle": "Meet ay",
       "activities": 21
     }
   ]

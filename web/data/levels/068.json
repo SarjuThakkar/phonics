@@ -1,0 +1,203 @@
+{
+  "level": 68,
+  "title": "Review: bossy r",
+  "kidTitle": "All five bossy r words",
+  "parentNote": "Nothing new today. Over the last week the r has taken charge of all five vowels — ar, or, er, ir, ur — and today they come back mixed together, which is a great deal harder than meeting one a day. The thing to say out loud, because it saves a lot of hunting: er, ir and ur all say the same sound, so there are only three sounds here, not five. The slip to watch for is the vowel trying to speak anyway — barn coming out as ba-arn, or fur as fuh-er. Cover everything but the two letters, say the team, then rebuild the word. There are two stories today, so if your child is flagging, read the first and leave the second for tomorrow.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "ar",
+      "choices": ["ar", "or", "a"],
+      "prompt": "Two of these have an r bossing the vowel. Listen for the arr."
+    },
+    {
+      "type": "soundMatch",
+      "target": "or",
+      "choices": ["or", "ar", "o"],
+      "prompt": "Now the or one. The r is still in charge, but the sound is different."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ir",
+      "choices": ["ir", "i", "i_e"],
+      "prompt": "Three ways to use an i. Only one of them has the r taking over."
+    },
+    {
+      "type": "soundMatch",
+      "target": "er",
+      "choices": ["er", "e", "e_e"],
+      "prompt": "Same again with an e. Remember that ir and ur say this one too."
+    },
+    {
+      "type": "blend",
+      "word": "fern",
+      "parts": ["f", "er", "n"],
+      "picture": "🌿",
+      "prompt": "No new sound today, so every one of these is a word you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "storm",
+      "parts": ["st", "or", "m"],
+      "picture": "⛈"
+    },
+    {
+      "type": "blend",
+      "word": "swirl",
+      "parts": ["sw", "ir", "l"]
+    },
+    {
+      "type": "blend",
+      "word": "perch",
+      "parts": ["p", "er", "ch"],
+      "picture": "🐦"
+    },
+    {
+      "type": "blend",
+      "word": "farmer",
+      "parts": ["f", "ar", "m", "er"],
+      "picture": "🧑‍🌾",
+      "prompt": "The longest one, and it has two bossy r teams in it. Find them both."
+    },
+    {
+      "type": "readWord",
+      "word": "smart"
+    },
+    {
+      "type": "readWord",
+      "word": "north"
+    },
+    {
+      "type": "readWord",
+      "word": "supper",
+      "picture": "🍲"
+    },
+    {
+      "type": "readWord",
+      "word": "twirl"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "barn",
+      "choices": ["barn", "born", "burn"],
+      "prompt": "Three words, and only the bossy r team is different. Listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fur",
+      "choices": ["fur", "far", "for"],
+      "prompt": "Same f, same r. The vowel hiding in the team decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shirt",
+      "choices": ["shirt", "short", "shark"],
+      "prompt": "All three start with sh. Listen past it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stir",
+      "choices": ["stir", "star"],
+      "prompt": "Just two this time, and one sound apart."
+    },
+    {
+      "type": "sentence",
+      "text": "The farmer did park the cart under a big fir."
+    },
+    {
+      "type": "sentence",
+      "text": "Are the forks and the cards in the cart or in the shed?"
+    },
+    {
+      "type": "sentence",
+      "text": "Fern got up first, and then her sister did burn the supper."
+    },
+    {
+      "type": "story",
+      "title": "The stork and the corn",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Bart is a farmer, and in March Bart did plant corn.",
+        "In summer the corn is big and green.",
+        "Then a stork came, and the stork did dig up the corn.",
+        "Bart ran at it, but the stork just did turn and chirp.",
+        "Bart got sticks, a red shirt and a hat.",
+        "Bart did stick the arms up and did hang a scarf on them.",
+        "It is a stick man, and it can not run or shift.",
+        "In the morning the stork is back, and it is not in the corn.",
+        "The stork is sat on the hat!",
+        "Bart did grin. The corn is safe, and the stork got a perch."
+      ],
+      "questions": [
+        {
+          "prompt": "In March Bart did plant ...",
+          "choices": ["corn", "turnips", "ferns"],
+          "answer": "corn"
+        },
+        {
+          "prompt": "Bart did hang a scarf on ...",
+          "choices": ["the stick man", "the barn", "the cart"],
+          "answer": "the stick man"
+        },
+        {
+          "prompt": "In the morning the stork is sat on ...",
+          "choices": ["the hat", "the corn", "the shed"],
+          "answer": "the hat"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The card under the dog",
+      "prompt": "One more, and this one has a joke at the end.",
+      "lines": [
+        "Meg did send her sister Fern a card.",
+        "The card is red, and a big star is on it.",
+        "Fern did set the card under her bed.",
+        "In the morning the card is not under the bed.",
+        "Fern did hunt in the shed. Fern did hunt in the cart.",
+        "Then Fern did spot Kirk, her big dog.",
+        "Kirk is in the dog bed, and the card is under him.",
+        "The card is torn in bits and it is wet.",
+        "Fern did not get cross. Kirk is a dog, and a dog thinks a card is just a bed."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did send her sister Fern ...",
+          "choices": ["a card", "a scarf", "a fork"],
+          "answer": "a card"
+        },
+        {
+          "prompt": "Fern did set the card ...",
+          "choices": ["under her bed", "in the shed", "in the cart"],
+          "answer": "under her bed"
+        },
+        {
+          "prompt": "Fern did spot the card under ...",
+          "choices": ["Kirk", "Meg", "the cart"],
+          "answer": "Kirk"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The quiet e, from the stage before",
+      "words": ["grape", "slope", "five", "tube", "theme"],
+      "prompt": "No r in charge here. The e on the end is quiet and the vowel says its name."
+    },
+    {
+      "type": "review",
+      "label": "Two-letter teams from stage two",
+      "words": ["shop", "chick", "bang", "think", "much"],
+      "prompt": "Older friends. Two letters, one sound, and not an r in sight."
+    },
+    {
+      "type": "review",
+      "label": "Short vowels with nothing after them",
+      "words": ["cat", "pet", "tin", "pot", "cup"],
+      "prompt": "Read one of these, then put an r after the vowel and hear what the r does to it."
+    }
+  ]
+}

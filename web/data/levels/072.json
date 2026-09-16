@@ -1,0 +1,155 @@
+{
+  "level": 72,
+  "title": "ay says /ay/",
+  "kidTitle": "Meet ay",
+  "parentNote": "A new stage starts today. Until now a vowel said its own name because of a quiet e sitting at the end of the word — cake, bike, home. From today it can say its name because two letters team up and do the job together, and ay is the first of those teams: day, hay, play. The one thing worth telling your child, because it saves a great deal of guessing later on, is that ay lives at the end of a word or the end of a chunk. There is no ay in the middle of anything. The slip to expect is sounding the two letters apart, so day comes out da-yuh. Cover the y, say the a on its own, then uncover it and say the whole word once, as one piece. Say it, don't explain it — the ear gets this one long before the head does.",
+  "newGraphemes": ["ay"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ay",
+      "keyword": "day",
+      "picture": "☀️",
+      "mouthCue": "Your mouth opens wide and then slides shut, and out comes the name of the letter a.",
+      "prompt": "A new sort of team. These two letters do not say a and y. Together they say the name of the letter a: ay."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ay",
+      "choices": ["ay", "a", "ar"],
+      "prompt": "Three things an a can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ay",
+      "choices": ["ay", "ee", "oe"],
+      "prompt": "Three vowel teams, three different names. Which one is today's?"
+    },
+    {
+      "type": "blend",
+      "word": "day",
+      "parts": ["d", "ay"],
+      "picture": "☀️",
+      "prompt": "Two sounds. Say the d, then the team, and do not let the y speak on its own."
+    },
+    {
+      "type": "blend",
+      "word": "hay",
+      "parts": ["h", "ay"],
+      "picture": "🌾"
+    },
+    {
+      "type": "blend",
+      "word": "stay",
+      "parts": ["st", "ay"]
+    },
+    {
+      "type": "blend",
+      "word": "play",
+      "parts": ["pl", "ay"],
+      "picture": "🧸"
+    },
+    {
+      "type": "blend",
+      "word": "spray",
+      "parts": ["sp", "r", "ay"],
+      "picture": "💦",
+      "prompt": "The longest one. Three sounds crowd in at the front and the team is still on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "say"
+    },
+    {
+      "type": "readWord",
+      "word": "tray",
+      "picture": "🍽"
+    },
+    {
+      "type": "readWord",
+      "word": "clay"
+    },
+    {
+      "type": "readWord",
+      "word": "birthday",
+      "picture": "🎂"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hay",
+      "choices": ["hay", "hat", "ham"],
+      "prompt": "One of these ends with the team and nothing after it. Listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "play",
+      "choices": ["play", "pay", "plan"],
+      "prompt": "All three start with a p. The next sound, and then the last one, decide it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "stay",
+      "choices": ["stay", "stray", "star"],
+      "prompt": "Two of these are one sound apart. Listen for an r hiding in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "I want to play in the hay with Fern."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to stay for the day?"
+    },
+    {
+      "type": "sentence",
+      "text": "Ray did spray the clay off the tray."
+    },
+    {
+      "type": "story",
+      "title": "The den in the hay",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "I want to make a den in the hay.",
+        "Bart did say that Fern and I can play in the barn for the day.",
+        "Fern and I did stack the hay up and up.",
+        "It is a big den, with a hay bed and a hay step.",
+        "Then a gray cat came in and did stay.",
+        "The cat did not want to play. The cat did nap on the hay bed.",
+        "Then the cat did jump up fast. In the hay is a rat!",
+        "The rat ran, and the cat ran after it, and the den fell in.",
+        "Fern did grin, and I did grin. The cat did not.",
+        "It is a big mess, but it is the best day."
+      ],
+      "questions": [
+        {
+          "prompt": "I want to make a den in ...",
+          "choices": ["the hay", "the shed", "the garden"],
+          "answer": "the hay"
+        },
+        {
+          "prompt": "Then a gray cat came in and did ...",
+          "choices": ["stay", "play", "run"],
+          "answer": "stay"
+        },
+        {
+          "prompt": "The cat did jump up fast, and in the hay is ...",
+          "choices": ["a rat", "a bird", "a hornet"],
+          "answer": "a rat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Bossy r and the quiet e, from last week",
+      "words": ["church", "globe", "corner", "stove", "shirt"],
+      "prompt": "The stage we just finished. Look at the end of each word before you say it."
+    },
+    {
+      "type": "review",
+      "label": "Every word we just know by sight",
+      "words": ["the", "is", "they", "are", "I", "want", "to", "do"],
+      "prompt": "Eight words we never sound out. Say each one whole, and do not let them trick you into sounding out."
+    }
+  ]
+}
