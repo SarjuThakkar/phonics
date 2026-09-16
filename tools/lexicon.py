@@ -103,6 +103,13 @@ IRREGULAR: dict[str, int | None] = {
     "find": None, "blind": None, "child": None, "wild": None, "mild": None,
     "old": None, "cold": None, "gold": None, "told": None, "hold": None,
     "sold": None, "fold": None, "bold": None, "roll": None, "toll": None,
+    # -tch: the scope and sequence never teaches it, so a child meets these as
+    # t + ch and learns a spelling pattern that does not exist. Found by the
+    # day 23-27 author, who avoided them by ear.
+    "catch": None, "match": None, "patch": None, "batch": None, "hatch": None,
+    "latch": None, "watch": None, "itch": None, "ditch": None, "pitch": None,
+    "witch": None, "switch": None, "stitch": None, "fetch": None, "stretch": None,
+    "hutch": None, "crutch": None, "notch": None, "scratch": None, "kitchen": None,
     # silent letters this course never teaches at all
     "sign": None, "gnat": None, "gnaw": None, "gnome": None, "half": None,
     # -all: the a is not short here, so these read wrong until -all is taught.

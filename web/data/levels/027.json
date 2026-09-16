@@ -1,0 +1,138 @@
+{
+  "level": 27,
+  "title": "nd blend",
+  "kidTitle": "Two sounds in a hurry",
+  "parentNote": "For the last week two letters have meant one sound — sh, ch, th. Today two letters mean two sounds, said so close together they feel like one: nd, as in sand. That is what a blend is, and it is worth saying out loud to your child, because the difference is the whole lesson. What usually goes wrong is the d falling off the end, so \"sand\" comes out \"san\" and \"hand\" comes out \"han\"; children hear the word fine, they just stop early. Stretch the n out yourself — sannnn-d — and land hard on the d, then say it at normal speed. Ask them to feel their tongue flick down off the roof of the mouth for that last little tap.",
+  "newGraphemes": ["nd"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "nd",
+      "keyword": "sand",
+      "picture": "🏖️",
+      "mouthCue": "Tongue up behind your teeth and hum for n, then flick it down for d. Two taps in the same spot.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "nd",
+      "choices": ["nd", "n"],
+      "prompt": "One of these stops with a little tap on the end. Find the one with the tap."
+    },
+    {
+      "type": "soundMatch",
+      "target": "nd",
+      "choices": ["nd", "n", "d"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "and",
+      "parts": ["a", "n", "d"],
+      "prompt": "Three sounds in a very small word. Say the last two close together."
+    },
+    {
+      "type": "blend",
+      "word": "hand",
+      "parts": ["h", "a", "n", "d"],
+      "picture": "✋",
+      "prompt": "Four sounds now. Do not let the d slip off the end."
+    },
+    {
+      "type": "blend",
+      "word": "sand",
+      "parts": ["s", "a", "n", "d"],
+      "picture": "🏖️",
+      "prompt": "Hold the n for a long time, then tap the d: sannnn-d."
+    },
+    {
+      "type": "blend",
+      "word": "land",
+      "parts": ["l", "a", "n", "d"],
+      "prompt": "Same ending again. Once you can hear it in one word you can hear it in all of them."
+    },
+    {
+      "type": "blend",
+      "word": "pond",
+      "parts": ["p", "o", "n", "d"],
+      "picture": "🦆",
+      "prompt": "A new vowel in the middle and the new blend at the end."
+    },
+    {
+      "type": "readWord",
+      "word": "band",
+      "picture": "🥁"
+    },
+    {
+      "type": "readWord",
+      "word": "stand",
+      "prompt": "A blend at each end of this one. Sound it out slowly first."
+    },
+    {
+      "type": "readWord",
+      "word": "wind",
+      "picture": "🌬️",
+      "prompt": "The wind that blows your hat off."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hand",
+      "choices": ["hand", "had"],
+      "prompt": "Listen right to the very end. Is there an n in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sand",
+      "choices": ["sand", "sad"],
+      "prompt": "Same again. The word is longer than it sounds."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "land",
+      "choices": ["land", "hand", "sand"],
+      "prompt": "All three end the same way. This time the clue is at the front."
+    },
+    {
+      "type": "sentence",
+      "text": "The dog ran and ran on the sand."
+    },
+    {
+      "type": "sentence",
+      "text": "A fat fish did land in the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the band stand on the sand?"
+    },
+    {
+      "type": "story",
+      "title": "The tin in the sand",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Tom and Pam did dig in the sand.",
+        "Pam got a big tin with a lid on top.",
+        "The tin had sand in it!",
+        "Tom did grin and hid the tin in the sand."
+      ],
+      "questions": [
+        {
+          "prompt": "Tom and Pam did dig in it.",
+          "choices": ["the sand", "the pond"],
+          "answer": "the sand"
+        },
+        {
+          "prompt": "It did dig and got the big tin.",
+          "choices": ["Pam", "Tom"],
+          "answer": "Pam"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["rock", "chop", "with", "shack", "jam"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

@@ -323,6 +323,12 @@ a child is behind.
   One emoji, never a sequence.
 - **Check every word you write with `tools/lexicon.py` before building on it.**
   It takes two seconds and saves rewriting a story.
+- **Two patterns the course never teaches, so never use them:** `-tch`
+  (catch, watch, itch — a child meets it as t + ch and learns a spelling that
+  does not exist) and a plural `-s` that says /z/ on a word whose /s/ spelling
+  the child would then doubt. The first is now on the blocklist; the second
+  cannot be, because English does it constantly and the sequence itself uses
+  "dogs" — just don't build a lesson ABOUT the /s/ sound out of them.
 - **`lexicon.py` is a guardrail, not an oracle.** It knows which letters have
   been taught; it does not know how English actually sounds. It will pass a
   word whose letters are all taught but whose sound is not — "as" and "is" end

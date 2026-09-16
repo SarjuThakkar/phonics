@@ -1,0 +1,120 @@
+{
+  "level": 25,
+  "title": "the",
+  "kidTitle": "A word we just know",
+  "parentNote": "Today is different from every day so far: \"the\" is not sounded out, it is remembered. English kept a handful of its oldest and commonest words spelled the way people wrote them hundreds of years ago, and \"the\" is the commonest of the lot — sounding it out honestly would give you \"tuh-huh-eh\", which is nobody's word. So we teach it whole, the way you learn a face. There are only about forty words like this in the whole language and they come in slowly, one day at a time; everything else your child will ever read really can be sounded out. If they start to sound it out, stop them gently and just say it: this is the one place where guessing from memory is the right answer.",
+  "newGraphemes": [],
+  "newSightWords": ["the"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "the",
+      "sentence": "The cat sat in the van.",
+      "prompt": "Do not sound this one out. It is a word we just know by sight: the."
+    },
+    {
+      "type": "readWord",
+      "word": "the",
+      "prompt": "No sounding out. Look at it and say it: the."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "sh", "ch"],
+      "prompt": "The word the starts with these two letters, but it does not obey them. Find the buzzy pair anyway."
+    },
+    {
+      "type": "blend",
+      "word": "chick",
+      "parts": ["ch", "i", "ck"],
+      "picture": "🐣",
+      "prompt": "Back to words we can sound out. Two teams, three sounds."
+    },
+    {
+      "type": "blend",
+      "word": "that",
+      "parts": ["th", "a", "t"],
+      "picture": "👉",
+      "prompt": "Tongue out and buzzing at the front."
+    },
+    {
+      "type": "blend",
+      "word": "shack",
+      "parts": ["sh", "a", "ck"],
+      "picture": "🏚️"
+    },
+    {
+      "type": "blend",
+      "word": "pick",
+      "parts": ["p", "i", "ck"]
+    },
+    {
+      "type": "readWord",
+      "word": "with"
+    },
+    {
+      "type": "readWord",
+      "word": "rich",
+      "picture": "💰"
+    },
+    {
+      "type": "readWord",
+      "word": "dish",
+      "picture": "🍽️"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "that",
+      "choices": ["that", "chat"],
+      "prompt": "Two letter teams that look alike. One buzzes, one puffs."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chip",
+      "choices": ["chip", "ship"],
+      "prompt": "Does the start stop quickly, or go on and on?"
+    },
+    {
+      "type": "sentence",
+      "text": "The chick sat with the fat cat."
+    },
+    {
+      "type": "sentence",
+      "text": "Pam hid the cash in the sack.",
+      "prompt": "The word the turns up twice in this line. You will see it in nearly every line from now on."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the cat lick the dish?"
+    },
+    {
+      "type": "story",
+      "title": "The jam in the shack",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Jim hid the jam in the shack.",
+        "A chick did dash in and dip in the jam.",
+        "Jim ran in and the chick ran back.",
+        "Jim did wish that chick had a dish!"
+      ],
+      "questions": [
+        {
+          "prompt": "Jim hid the jam in it.",
+          "choices": ["the shack", "the van"],
+          "answer": "the shack"
+        },
+        {
+          "prompt": "It did dip in the jam.",
+          "choices": ["the chick", "the cat"],
+          "answer": "the chick"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["this", "dash", "kick", "wig", "cab"],
+      "prompt": "All of these you can still sound out. Only the is different."
+    }
+  ]
+}

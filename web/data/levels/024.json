@@ -1,0 +1,128 @@
+{
+  "level": 24,
+  "title": "th says /th/ (voiced)",
+  "kidTitle": "Meet th",
+  "parentNote": "Today's sound is the buzzy th at the start of \"this\" and \"that\" — the one where the tongue actually comes out between the teeth and hums. Nearly every child hides the tongue and swaps in a /d/, so \"this\" becomes \"dis\" and \"that\" becomes \"dat\"; it is the single most predictable error in the whole of English phonics and it is nothing to worry about. The fix is to make it visible and feelable: put your tongue out where they can see it, then have them press a finger on their throat and feel the buzz that /d/ does not have. There is a quieter th as well, the one in \"thin\", and that gets a day of its own much later — today is only the buzzy one.",
+  "newGraphemes": ["th"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "th",
+      "keyword": "this",
+      "picture": "👇",
+      "mouthCue": "Tongue tip pokes out between your teeth and hums. You should be able to see it and feel it buzz.",
+      "prompt": "This one you can hold on for as long as you have breath. Watch my tongue come out."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "d"],
+      "prompt": "These two get muddled all the time. One keeps the tongue hidden. Find the one where it pokes out."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "sh", "ch"],
+      "prompt": "Three pairs of letters, three different sounds. Only one of them buzzes."
+    },
+    {
+      "type": "blend",
+      "word": "this",
+      "parts": ["th", "i", "s"],
+      "picture": "👇",
+      "prompt": "Three sounds. Start with the tongue out and buzzing, and finish with a quiet hiss."
+    },
+    {
+      "type": "blend",
+      "word": "that",
+      "parts": ["th", "a", "t"],
+      "picture": "👉",
+      "prompt": "This means the one over there. Same buzzy start, different middle."
+    },
+    {
+      "type": "blend",
+      "word": "with",
+      "parts": ["w", "i", "th"],
+      "prompt": "Now th is at the end instead. Round your lips first, then out comes the tongue."
+    },
+    {
+      "type": "blend",
+      "word": "than",
+      "parts": ["th", "a", "n"],
+      "prompt": "This is a comparing word — bigger than, faster than. It turns up a lot once we can write those."
+    },
+    {
+      "type": "readWord",
+      "word": "this"
+    },
+    {
+      "type": "readWord",
+      "word": "that"
+    },
+    {
+      "type": "readWord",
+      "word": "with"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "that",
+      "choices": ["that", "hat"],
+      "prompt": "Both end the same way. Is there a buzz at the front or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "with",
+      "choices": ["with", "wish"],
+      "prompt": "Same start, same middle. Does the end buzz or does it hiss?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "than",
+      "choices": ["than", "tan"],
+      "prompt": "One of these keeps the tongue behind the teeth. Listen to the first sound only."
+    },
+    {
+      "type": "sentence",
+      "text": "This chick can chat with that cat."
+    },
+    {
+      "type": "sentence",
+      "text": "That chick will nip at this chip."
+    },
+    {
+      "type": "sentence",
+      "text": "Did Pam sit with that big cat?",
+      "prompt": "A question again. Let your voice lift at the end."
+    },
+    {
+      "type": "story",
+      "title": "That fat cat",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pam had a fish in this dish.",
+        "That fat cat did sit and wish.",
+        "Pam did chat with that cat.",
+        "That cat can lick this dish!"
+      ],
+      "questions": [
+        {
+          "prompt": "Pam had it in this dish.",
+          "choices": ["a fish", "a chip"],
+          "answer": "a fish"
+        },
+        {
+          "prompt": "It did sit and wish.",
+          "choices": ["that fat cat", "a chick"],
+          "answer": "that fat cat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["chick", "cash", "back", "wag", "kid"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

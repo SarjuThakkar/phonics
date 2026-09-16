@@ -21,7 +21,12 @@
     19,
     20,
     21,
-    22
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
   ],
   "levels": [
     {
@@ -154,6 +159,36 @@
       "level": 22,
       "title": "sh says /sh/",
       "kidTitle": "Meet sh",
+      "activities": 19
+    },
+    {
+      "level": 23,
+      "title": "ch says /ch/",
+      "kidTitle": "Meet ch",
+      "activities": 20
+    },
+    {
+      "level": 24,
+      "title": "th says /th/ (voiced)",
+      "kidTitle": "Meet th",
+      "activities": 18
+    },
+    {
+      "level": 25,
+      "title": "the",
+      "kidTitle": "A word we just know",
+      "activities": 17
+    },
+    {
+      "level": 26,
+      "title": "o says /o/",
+      "kidTitle": "Meet o",
+      "activities": 19
+    },
+    {
+      "level": 27,
+      "title": "nd blend",
+      "kidTitle": "Two sounds in a hurry",
       "activities": 19
     }
   ]

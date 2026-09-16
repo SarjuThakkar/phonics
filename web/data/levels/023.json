@@ -1,0 +1,191 @@
+{
+  "level": 23,
+  "title": "ch says /ch/",
+  "kidTitle": "Meet ch",
+  "parentNote": "Two things start today. The sound is ch — a short sneeze of a sound, the noise a train makes, and like sh it belongs to both letters together rather than to either one. The error to listen for is a stretched-out /sh/ where the /ch/ should be, so \"chip\" comes out \"ship\"; say the two back to back and let them watch you — /sh/ pours out long and smooth, /ch/ stops dead the moment it starts. The second new thing is capital letters: from today every sentence begins with a big letter and names like Sam and Jack keep one. Big S and small s are the same letter wearing a different coat and they say exactly the same sound, so if your child stalls on a capital, write the small one beside it and they will almost always get it themselves.",
+  "newGraphemes": [
+    "ch"
+  ],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ch",
+      "keyword": "chip",
+      "picture": "🍟",
+      "mouthCue": "Tongue up behind your top teeth, then let it go in one quick puff — ch! It stops as soon as it starts.",
+      "prompt": "Another pair of letters sharing one sound. This one is short and sharp, like a little train."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ch",
+      "choices": [
+        "ch",
+        "sh"
+      ],
+      "prompt": "One of these you can hold on forever. The other stops straight away. Find the one that stops."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ch",
+      "choices": [
+        "ch",
+        "sh",
+        "ck"
+      ],
+      "prompt": "All three are two letters with one sound. Listen for the little puff."
+    },
+    {
+      "type": "blend",
+      "word": "chip",
+      "parts": [
+        "ch",
+        "i",
+        "p"
+      ],
+      "picture": "🍟",
+      "prompt": "Three sounds. The c and the h hold hands, just like s and h did."
+    },
+    {
+      "type": "blend",
+      "word": "chat",
+      "parts": [
+        "ch",
+        "a",
+        "t"
+      ],
+      "picture": "💬",
+      "prompt": "To chat is to talk to somebody. Keep the start quick."
+    },
+    {
+      "type": "blend",
+      "word": "chin",
+      "parts": [
+        "ch",
+        "i",
+        "n"
+      ],
+      "prompt": "Point at your chin while you say it."
+    },
+    {
+      "type": "blend",
+      "word": "chick",
+      "parts": [
+        "ch",
+        "i",
+        "ck"
+      ],
+      "picture": "🐣",
+      "prompt": "Two letter teams and still only three sounds — ch at the front, ck at the back."
+    },
+    {
+      "type": "blend",
+      "word": "rich",
+      "parts": [
+        "r",
+        "i",
+        "ch"
+      ],
+      "picture": "💰",
+      "prompt": "This time ch is at the end. It still stops the word dead."
+    },
+    {
+      "type": "readWord",
+      "word": "chill",
+      "picture": "🥶"
+    },
+    {
+      "type": "readWord",
+      "word": "Sam",
+      "prompt": "A big S at the front. Big S and small s say the same sound — names get the big one."
+    },
+    {
+      "type": "readWord",
+      "word": "Jack",
+      "prompt": "Big J, small a, small ck. Only the first letter is wearing its big coat."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chip",
+      "choices": [
+        "chip",
+        "ship"
+      ],
+      "prompt": "This is the one to get right. Does the start stop quickly, or go on and on?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chat",
+      "choices": [
+        "chat",
+        "cat"
+      ],
+      "prompt": "One of these has the h doing its job. Listen to the very first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chick",
+      "choices": [
+        "chick",
+        "chin",
+        "chip"
+      ],
+      "prompt": "Same start, same middle. The ending is the only clue."
+    },
+    {
+      "type": "sentence",
+      "text": "A chick can pick at a chip.",
+      "prompt": "The first letter is big now. That is how you know a sentence is starting."
+    },
+    {
+      "type": "sentence",
+      "text": "Jim will chat and Pam will chat back."
+    },
+    {
+      "type": "sentence",
+      "text": "Did a chick nip at Kim?",
+      "prompt": "That hook at the end is a question mark. Let your voice go up."
+    },
+    {
+      "type": "story",
+      "title": "Sam and a chick",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sam had a big chip in a sack.",
+        "A chick did dash in and pick at it.",
+        "Sam did grin at a chick.",
+        "A chick had a bit and Sam had a bit."
+      ],
+      "questions": [
+        {
+          "prompt": "Sam had a big chip in it.",
+          "choices": [
+            "a sack",
+            "a pan"
+          ],
+          "answer": "a sack"
+        },
+        {
+          "prompt": "It did dash in and pick at a chip.",
+          "choices": [
+            "a chick",
+            "a big cat"
+          ],
+          "answer": "a chick"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": [
+        "wish",
+        "tack",
+        "kit",
+        "rib",
+        "van"
+      ],
+      "prompt": "One from each of the last few days. Small letters, all of them."
+    }
+  ]
+}

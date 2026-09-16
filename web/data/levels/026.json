@@ -1,0 +1,136 @@
+{
+  "level": 26,
+  "title": "o says /o/",
+  "kidTitle": "Meet o",
+  "parentNote": "Today is the third vowel, and vowels are the hinge every word turns on — with o added, hundreds of new words open up at once: not, hot, rock, chop, dog. The mistake is almost always the letter's name: children who have learnt that this letter is called \"oh\" will read \"not\" as \"note\" and \"hop\" as \"hope\". Names are for later; today it only ever says /o/, the sound at the start of otter, with the mouth open and round like a little cave. The other thing to listen for is o and a getting swapped, so \"hot\" comes out \"hat\" — say the pair back to back a few times and let them watch your jaw drop on the o.",
+  "newGraphemes": ["o"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "o",
+      "keyword": "otter",
+      "picture": "🦦",
+      "mouthCue": "Open your mouth round and wide and let your jaw drop. Your tongue stays right down at the bottom.",
+      "prompt": "A brand new vowel. Its name is oh, but the sound it makes is o."
+    },
+    {
+      "type": "soundMatch",
+      "target": "o",
+      "choices": ["o", "a"],
+      "prompt": "Two vowels, both with the mouth open. One is round, one is wide and flat. Find the round one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "o",
+      "choices": ["o", "a", "i"],
+      "prompt": "All three vowels you know. Listen for the one with the jaw right down."
+    },
+    {
+      "type": "blend",
+      "word": "not",
+      "parts": ["n", "o", "t"],
+      "prompt": "Three sounds, and the new one is in the middle. Keep it short — not note."
+    },
+    {
+      "type": "blend",
+      "word": "got",
+      "parts": ["g", "o", "t"],
+      "prompt": "Only the first sound has changed. Keep the middle exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "hop",
+      "parts": ["h", "o", "p"],
+      "picture": "🐸"
+    },
+    {
+      "type": "blend",
+      "word": "rock",
+      "parts": ["r", "o", "ck"],
+      "picture": "🪨",
+      "prompt": "The new vowel with an old team at the end. Still three sounds."
+    },
+    {
+      "type": "blend",
+      "word": "chop",
+      "parts": ["ch", "o", "p"],
+      "picture": "🪓",
+      "prompt": "A team at the front and the new vowel behind it."
+    },
+    {
+      "type": "readWord",
+      "word": "top",
+      "picture": "🔝"
+    },
+    {
+      "type": "readWord",
+      "word": "sock",
+      "picture": "🧦"
+    },
+    {
+      "type": "readWord",
+      "word": "dog",
+      "picture": "🐶"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hot",
+      "choices": ["hot", "hat"],
+      "prompt": "This is the big one today. Same start, same ending — the middle is the whole word."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "chop",
+      "choices": ["chop", "chip"],
+      "prompt": "Round mouth or smiling mouth? Listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lock",
+      "choices": ["lock", "lick"],
+      "prompt": "Two vowels that look nothing alike but sit in the same spot. Which one is this?"
+    },
+    {
+      "type": "sentence",
+      "text": "The cat sat on the hot rock."
+    },
+    {
+      "type": "sentence",
+      "text": "Pam got a mop and did the job."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the chick hop in the pot?"
+    },
+    {
+      "type": "story",
+      "title": "The dog on the log",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Tom did chop at the big log.",
+        "The dog sat on top.",
+        "Tom can not chop with the dog on it!",
+        "The dog got off and Tom did chop the log."
+      ],
+      "questions": [
+        {
+          "prompt": "Tom did chop at it.",
+          "choices": ["the big log", "the rock"],
+          "answer": "the big log"
+        },
+        {
+          "prompt": "It sat on the log.",
+          "choices": ["the dog", "a chick"],
+          "answer": "the dog"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["with", "chin", "fish", "jack", "rag"],
+      "prompt": "One from each of the last few days. Watch the middle of each one."
+    }
+  ]
+}
