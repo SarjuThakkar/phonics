@@ -1,0 +1,150 @@
+{
+  "level": 51,
+  "title": "ie says /ie/",
+  "kidTitle": "Meet ie",
+  "parentNote": "Today two letters team up to say one sound, and the sound is a letter's name: ie says \"eye\", as in pie. That is the hard part. Your child has spent fifty days reading i as the short sound in pin, so pie usually comes out as three separate sounds — \"p-i-uh\" — or the i gets said short and the e gets said too. Cover the e with your finger, say the i short the old way, then slide your finger off and say the whole word: two letters, one sound, and it is over as soon as they see the pair as a pair. Point at ie as one chunk every time. This is also the door into tomorrow, when a silent e on the end does the same job to a vowel further back in the word.",
+  "newGraphemes": ["ie"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ie",
+      "keyword": "pie",
+      "picture": "🥧",
+      "mouthCue": "Your mouth drops open wide, then slides shut into a smile. Two mouth shapes, one sound.",
+      "prompt": "Two letters standing together. They do not say i and then e. Together they say eye."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ie",
+      "choices": ["ie", "i", "e"],
+      "prompt": "One of these is a team of two. The other two work on their own."
+    },
+    {
+      "type": "blend",
+      "word": "pie",
+      "parts": ["p", "ie"],
+      "picture": "🥧",
+      "prompt": "Only two sounds in this word. The ie is one of them."
+    },
+    {
+      "type": "blend",
+      "word": "tie",
+      "parts": ["t", "ie"],
+      "picture": "👔"
+    },
+    {
+      "type": "blend",
+      "word": "lie",
+      "parts": ["l", "ie"],
+      "prompt": "Same ending again. A dog can lie on a mat."
+    },
+    {
+      "type": "blend",
+      "word": "flies",
+      "parts": ["fl", "ie", "s"],
+      "picture": "🪰",
+      "prompt": "Three sounds now. Keep the ie in one piece in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "cries",
+      "parts": ["cr", "ie", "s"],
+      "prompt": "A blend on the front and a team in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "tries",
+      "parts": ["tr", "ie", "s"]
+    },
+    {
+      "type": "readWord",
+      "word": "ties"
+    },
+    {
+      "type": "readWord",
+      "word": "fries",
+      "picture": "🍟"
+    },
+    {
+      "type": "readWord",
+      "word": "dried"
+    },
+    {
+      "type": "readWord",
+      "word": "untie"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "flies",
+      "choices": ["flies", "fries"],
+      "prompt": "Both start with an f. Listen hard to the sound just after it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pie",
+      "choices": ["pie", "tie"],
+      "prompt": "Same ending. Only the first sound is different."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "dries",
+      "choices": ["dries", "cries", "tries"],
+      "prompt": "All three end the same way. The blend at the front decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "Ten flies sat on the pie and Meg cries!"
+    },
+    {
+      "type": "sentence",
+      "text": "Ted tries and tries but the tie is stuck in the trunk."
+    },
+    {
+      "type": "sentence",
+      "text": "The dog did lie on the mat and the sun dries the grass."
+    },
+    {
+      "type": "story",
+      "title": "The pie and the flies",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg did set a big pie up on the step.",
+        "Ten flies did land on it and did not get off.",
+        "Meg cries and cries but the flies did not shift.",
+        "Ted got a red tie and did flap it at the flies.",
+        "The flies went up in the skies and Ted did grin.",
+        "Meg and Ted sat on the step and did munch the pie with fries."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did set the big pie up on ...",
+          "choices": ["the step", "the bed"],
+          "answer": "the step"
+        },
+        {
+          "prompt": "Ted did flap a red ... at the flies.",
+          "choices": ["tie", "pie"],
+          "answer": "tie"
+        },
+        {
+          "prompt": "In the end they did munch the pie with ...",
+          "choices": ["fries", "chips"],
+          "answer": "fries"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "cr and dr from yesterday",
+      "words": ["crab", "drum", "crash", "drink", "crust"],
+      "prompt": "Blends at the front. Today's new bit was in the middle."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["brick", "truck", "plum", "clock", "frost"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

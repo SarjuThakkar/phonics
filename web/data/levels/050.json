@@ -1,0 +1,160 @@
+{
+  "level": 50,
+  "title": "cr and dr blends",
+  "kidTitle": "Meet cr and dr",
+  "parentNote": "cr and dr finish the r blends: the tongue pulls back and touches nothing, exactly as it did for br and tr yesterday, but the word now opens at the back of the mouth for cr and behind the teeth for dr. The slip to expect is the same little vowel sneaking in, so crab comes out \"cuh-rab\" — say the c and the r on their own, slowly, then run them together with nothing at all between. The one to listen for is cr against cl, because crash and clash are almost the same word to a child who is guessing, and there is an activity today that asks for exactly that pair. And as with tr yesterday: dr honestly sounds like \"jr\" when you say drum at normal speed, so do not drill a stiff d-then-r into them. Say it your usual way.",
+  "newGraphemes": ["cr", "dr"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "cr",
+      "keyword": "crab",
+      "picture": "🦀",
+      "mouthCue": "Hump the back of your tongue up and pop it for the c, then pull the tongue back for the r.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "dr",
+      "keyword": "drum",
+      "picture": "🥁",
+      "mouthCue": "Tap your tongue behind your teeth for the d, then pull it straight back for the r.",
+      "prompt": "Say it fast, the way you say it in drum. It comes out a bit like jr, and that is right."
+    },
+    {
+      "type": "soundMatch",
+      "target": "cr",
+      "choices": ["cr", "cl", "c"],
+      "prompt": "All three start at the back of your mouth. Find the one where your tongue pulls back."
+    },
+    {
+      "type": "soundMatch",
+      "target": "dr",
+      "choices": ["dr", "tr", "br"],
+      "prompt": "These all end with an r. Listen to the very first sound."
+    },
+    {
+      "type": "blend",
+      "word": "crab",
+      "parts": ["c", "r", "a", "b"],
+      "picture": "🦀",
+      "prompt": "Say the c and the r on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "drum",
+      "parts": ["d", "r", "u", "m"],
+      "picture": "🥁",
+      "prompt": "Same again with the other one. Say the d and the r, then run them into each other."
+    },
+    {
+      "type": "blend",
+      "word": "crib",
+      "parts": ["cr", "i", "b"],
+      "prompt": "Now keep cr in one piece. Three sounds: cr, i, b."
+    },
+    {
+      "type": "blend",
+      "word": "drip",
+      "parts": ["dr", "i", "p"],
+      "prompt": "And dr in one piece. Three sounds: dr, i, p."
+    },
+    {
+      "type": "blend",
+      "word": "crash",
+      "parts": ["cr", "a", "sh"]
+    },
+    {
+      "type": "blend",
+      "word": "drink",
+      "parts": ["dr", "i", "nk"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "craft"
+    },
+    {
+      "type": "readWord",
+      "word": "crush"
+    },
+    {
+      "type": "readWord",
+      "word": "dress",
+      "picture": "👗"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "crop",
+      "choices": ["crop", "drop"],
+      "prompt": "Today's two blends, side by side. Listen to the very first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "crash",
+      "choices": ["crash", "clash"],
+      "prompt": "Both start with a c. Does the tongue pull back, or flick up to the teeth?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "drip",
+      "choices": ["drip", "drop", "drum"],
+      "prompt": "All three start with dr. The middle sound decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "A red crab did drag a crust up the sand."
+    },
+    {
+      "type": "sentence",
+      "text": "Ted did drum on the pot and Jen did drop the drink!"
+    },
+    {
+      "type": "sentence",
+      "text": "Is the big crab up in the crib with the drum?"
+    },
+    {
+      "type": "story",
+      "title": "The crab in the drum",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted got a red drum and did drum on it up on the sand.",
+        "A crab did run up fast and did drop in the drum with a crash!",
+        "Ted did hit the drum and it went crunch, not bang.",
+        "Jen did tip the drum up and the crab fell in the sand.",
+        "The crab did not run off. It sat and did tap on the drum!",
+        "Ted did grin. They got a crab in the band."
+      ],
+      "questions": [
+        {
+          "prompt": "Ted did drum on the red drum up on ...",
+          "choices": ["the sand", "the grass"],
+          "answer": "the sand"
+        },
+        {
+          "prompt": "The crab did run up fast and did drop in ...",
+          "choices": ["the drum", "the crib"],
+          "answer": "the drum"
+        },
+        {
+          "prompt": "At the end the crab did ...",
+          "choices": ["tap on the drum", "run off fast"],
+          "answer": "tap on the drum"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "br and tr from yesterday",
+      "words": ["brick", "brush", "truck", "trip", "trunk"],
+      "prompt": "The same r on the end. Just a different sound in front of it."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["plank", "cliff", "blimp", "skunk", "chest"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "level": 52,
+  "title": "i_e (silent e)",
+  "kidTitle": "The silent e",
+  "parentNote": "This is the biggest new idea so far: a letter that changes another letter's sound without making one of its own. The e on the end of kite says nothing at all — but it reaches back over the t and tells the i to say its own name, which is why kit and kite are the same letters plus one and two completely different words. Two things usually go wrong. The first is sounding out all four letters, so kite comes out \"k-i-t-uh\"; keep the e out of the sounding-out entirely by pointing at the k, then the i, then the t and e together as one lump. The second is that the rule feels arbitrary until they see it work, so write kit and then add an e and read both aloud, and do the same with pin and pine, and hid and hide. Three or four pairs teach it better than any amount of explaining.",
+  "newGraphemes": ["i_e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "i_e",
+      "keyword": "kite",
+      "picture": "🪁",
+      "mouthCue": "The same mouth as yesterday: wide open, then sliding shut into a smile.",
+      "prompt": "The e on the end says nothing. It reaches back over the t and tells the i to say its own name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i_e",
+      "choices": ["i_e", "i", "ie"],
+      "prompt": "Three ways of writing an i. Which one has a silent e waiting at the end?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "i_e",
+      "choices": ["i_e", "i", "e"],
+      "prompt": "Find the one with a gap in the middle. A letter goes in that gap."
+    },
+    {
+      "type": "blend",
+      "word": "time",
+      "parts": ["t", "i", "me"],
+      "picture": "⏰",
+      "prompt": "Three sounds, not four. The m and the e go together and the e stays quiet."
+    },
+    {
+      "type": "blend",
+      "word": "kite",
+      "parts": ["k", "i", "te"],
+      "picture": "🪁",
+      "prompt": "Same again: k, then i saying its name, then te. Do not let the e make a sound."
+    },
+    {
+      "type": "blend",
+      "word": "ride",
+      "parts": ["r", "i", "de"]
+    },
+    {
+      "type": "blend",
+      "word": "hike",
+      "parts": ["h", "i", "ke"],
+      "picture": "🥾"
+    },
+    {
+      "type": "blend",
+      "word": "slide",
+      "parts": ["s", "l", "i", "de"],
+      "picture": "🛝",
+      "prompt": "Two sounds at the front this time, and the quiet e still at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "bike",
+      "picture": "🚲"
+    },
+    {
+      "type": "readWord",
+      "word": "five",
+      "picture": "🖐"
+    },
+    {
+      "type": "readWord",
+      "word": "nine"
+    },
+    {
+      "type": "readWord",
+      "word": "smile",
+      "picture": "🙂"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "kite",
+      "choices": ["kit", "kite"],
+      "prompt": "Same three letters at the front. One of them has the silent e on the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "hid",
+      "choices": ["hid", "hide"],
+      "prompt": "Listen to the middle sound. Short i, or the i saying its name?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pine",
+      "choices": ["pine", "pin", "pie"],
+      "prompt": "One is short. One is a team of two letters. One has the silent e on the end."
+    },
+    {
+      "type": "sentence",
+      "text": "A kit is not a kite and a pin is not a pine."
+    },
+    {
+      "type": "sentence",
+      "text": "Tim did ride the red bike and Meg did hike up the hill."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg did slide in the mud and did not smile!"
+    },
+    {
+      "type": "story",
+      "title": "The kite in the pine",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Tim got a red kite and did ride up the hill on a bike.",
+        "The wind did tug it up and up, and Tim did smile.",
+        "Then the kite got stuck in a big pine and did not slide off.",
+        "Ted did fling a stick up at it and then the stick got stuck!",
+        "At last the wind did shift and the kite did slide off the pine.",
+        "It fell on Ted. The stick is still up in the pine."
+      ],
+      "questions": [
+        {
+          "prompt": "Tim did ride up the hill on ...",
+          "choices": ["a bike", "a trike"],
+          "answer": "a bike"
+        },
+        {
+          "prompt": "The kite got stuck in ...",
+          "choices": ["a big pine", "a big shed"],
+          "answer": "a big pine"
+        },
+        {
+          "prompt": "At the end the stick is still ...",
+          "choices": ["up in the pine", "in the bin"],
+          "answer": "up in the pine"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Short i, with no e on the end",
+      "words": ["pin", "kit", "hid", "slid", "win"],
+      "prompt": "No silent e here, so the i stays short. Read them the old way."
+    },
+    {
+      "type": "review",
+      "label": "ie from yesterday",
+      "words": ["pie", "ties", "flies", "tries", "untie"],
+      "prompt": "The same sound as today, spelled the other way."
+    }
+  ]
+}

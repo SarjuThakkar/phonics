@@ -46,7 +46,12 @@
     44,
     45,
     46,
-    47
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
   ],
   "levels": [
     {
@@ -329,6 +334,36 @@
       "level": 47,
       "title": "cl blend",
       "kidTitle": "Meet cl",
+      "activities": 21
+    },
+    {
+      "level": 48,
+      "title": "pl blend",
+      "kidTitle": "Meet pl",
+      "activities": 21
+    },
+    {
+      "level": 49,
+      "title": "br and tr blends",
+      "kidTitle": "Meet br and tr",
+      "activities": 22
+    },
+    {
+      "level": 50,
+      "title": "cr and dr blends",
+      "kidTitle": "Meet cr and dr",
+      "activities": 22
+    },
+    {
+      "level": 51,
+      "title": "ie says /ie/",
+      "kidTitle": "Meet ie",
+      "activities": 21
+    },
+    {
+      "level": 52,
+      "title": "i_e (silent e)",
+      "kidTitle": "The silent e",
       "activities": 21
     }
   ]

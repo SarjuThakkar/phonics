@@ -1,0 +1,159 @@
+{
+  "level": 49,
+  "title": "br and tr blends",
+  "kidTitle": "Meet br and tr",
+  "parentNote": "Two new blends today, and they are a pair: br and tr. Your child has met fr already, so the r on the end is familiar — the difference is what the tongue does. For l blends the tongue tip flicks up and touches behind the teeth; for r blends it pulls back and touches nothing at all, so brush and blush are the pair to keep side by side. The usual slip is a little vowel creeping in, so brick comes out \"buh-rick\" — say the b and the r on their own, slowly, then run them together with nothing between. One thing not to correct: tr really does sound like \"chr\" in ordinary speech, so a child who says \"chruck\" for truck has heard it right. Say it your normal way and let them copy that, not a stiff t-then-r.",
+  "newGraphemes": ["br", "tr"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "br",
+      "keyword": "brick",
+      "picture": "🧱",
+      "mouthCue": "Pop your lips shut for the b, then pull your tongue back for the r so it touches nothing.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "tr",
+      "keyword": "truck",
+      "picture": "🚚",
+      "mouthCue": "Tap your tongue behind your teeth for the t, then pull it straight back for the r.",
+      "prompt": "Say it fast, the way you say it in truck. It comes out a bit like chr, and that is right."
+    },
+    {
+      "type": "soundMatch",
+      "target": "br",
+      "choices": ["br", "bl", "b"],
+      "prompt": "All three start with your lips. Find the one where your tongue pulls back."
+    },
+    {
+      "type": "soundMatch",
+      "target": "tr",
+      "choices": ["tr", "br", "fr"],
+      "prompt": "These all end with an r. Listen to the very first sound."
+    },
+    {
+      "type": "blend",
+      "word": "brag",
+      "parts": ["b", "r", "a", "g"],
+      "prompt": "Say the b and the r on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "trip",
+      "parts": ["t", "r", "i", "p"],
+      "prompt": "Same again with the other one. Say the t and the r, then run them into each other."
+    },
+    {
+      "type": "blend",
+      "word": "brick",
+      "parts": ["br", "i", "ck"],
+      "picture": "🧱",
+      "prompt": "Now keep br in one piece. Three sounds: br, i, ck."
+    },
+    {
+      "type": "blend",
+      "word": "truck",
+      "parts": ["tr", "u", "ck"],
+      "picture": "🚚"
+    },
+    {
+      "type": "blend",
+      "word": "brush",
+      "parts": ["br", "u", "sh"],
+      "picture": "🪥"
+    },
+    {
+      "type": "blend",
+      "word": "trunk",
+      "parts": ["tr", "u", "nk"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "trot",
+      "picture": "🐴"
+    },
+    {
+      "type": "readWord",
+      "word": "track"
+    },
+    {
+      "type": "readWord",
+      "word": "trod"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "brick",
+      "choices": ["brick", "trick"],
+      "prompt": "Same ending. One starts at your lips and one starts behind your teeth."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "brush",
+      "choices": ["brush", "blush"],
+      "prompt": "Both start with a b. Does the tongue flick up to the teeth, or pull back?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "trip",
+      "choices": ["trip", "trap", "trot"],
+      "prompt": "All three start with tr. The middle sound decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "A big truck did tip and a brick fell on the track."
+    },
+    {
+      "type": "sentence",
+      "text": "Ted trod on a brick and did a big hop!"
+    },
+    {
+      "type": "sentence",
+      "text": "Is the red brush up on the shelf with the bricks?"
+    },
+    {
+      "type": "story",
+      "title": "The brick truck",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted got a red truck and Jen got ten red bricks.",
+        "They did stack the bricks up on the back and set off.",
+        "Jen did tug the truck up the hill and it did tip on a rock!",
+        "The bricks fell off and did land in the mud with a thud.",
+        "Ted did brush the mud off and did grin. It is a mud truck!"
+      ],
+      "questions": [
+        {
+          "prompt": "Ted got a red truck and Jen got ...",
+          "choices": ["ten red bricks", "ten red socks"],
+          "answer": "ten red bricks"
+        },
+        {
+          "prompt": "The truck did tip on ...",
+          "choices": ["a rock", "a brick"],
+          "answer": "a rock"
+        },
+        {
+          "prompt": "At the end Ted did brush off ...",
+          "choices": ["the mud", "the bricks"],
+          "answer": "the mud"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The l blends, for the tongue to tell apart",
+      "words": ["blimp", "clamp", "plank", "flash"],
+      "prompt": "In all of these the tongue flicks up. In today's words it pulls back."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["frost", "chick", "stomp", "swim", "shelf"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

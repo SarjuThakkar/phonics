@@ -1,0 +1,144 @@
+{
+  "level": 48,
+  "title": "pl blend",
+  "kidTitle": "Meet pl",
+  "parentNote": "pl finishes the set of l blends: bl, cl and now pl. The slip to listen for is a little vowel sneaking into the middle, so plum comes out \"puh-lum\" — say the p and the l on their own, slowly, then run them together with nothing between them at all. The other wobble is plan and pan, which sound nearly the same to a child who is guessing from the first letter, and there is a listening activity today that asks for exactly that pair. Four days of new beginnings in a row is a lot; if they are flagging, do the story and leave the review until tomorrow.",
+  "newGraphemes": ["pl"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "pl",
+      "keyword": "plum",
+      "picture": "🍑",
+      "mouthCue": "Pop your lips shut for the p, then flick your tongue up behind your teeth for the l.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundMatch",
+      "target": "pl",
+      "choices": ["pl", "bl", "cl"],
+      "prompt": "All three end with an l. Which one starts with a pop at your lips?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "pl",
+      "choices": ["pl", "p", "l"],
+      "prompt": "Two of these are one sound on its own. Find the pair."
+    },
+    {
+      "type": "blend",
+      "word": "plan",
+      "parts": ["p", "l", "a", "n"],
+      "prompt": "The new blend goes first. Slide the two sounds together before you say the rest."
+    },
+    {
+      "type": "blend",
+      "word": "plot",
+      "parts": ["pl", "o", "t"],
+      "prompt": "Now keep pl in one piece. Three sounds: pl, o, t."
+    },
+    {
+      "type": "blend",
+      "word": "plum",
+      "parts": ["pl", "u", "m"],
+      "picture": "🍑"
+    },
+    {
+      "type": "blend",
+      "word": "plant",
+      "parts": ["pl", "a", "n", "t"],
+      "picture": "🌱",
+      "prompt": "Four sounds. Do not let the t slip off the end."
+    },
+    {
+      "type": "blend",
+      "word": "plump",
+      "parts": ["pl", "u", "mp"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "plug",
+      "picture": "🔌"
+    },
+    {
+      "type": "readWord",
+      "word": "plus"
+    },
+    {
+      "type": "readWord",
+      "word": "plop"
+    },
+    {
+      "type": "readWord",
+      "word": "plank"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "plan",
+      "choices": ["plan", "pan"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "plot",
+      "choices": ["plot", "plop", "plod"],
+      "prompt": "All three start the same. The last sound decides it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "plump",
+      "choices": ["plum", "plump"],
+      "prompt": "Same again. The word is longer than it sounds."
+    },
+    {
+      "type": "sentence",
+      "text": "The plum fell off and did plop in the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "Dan dug a plot and did plant a plum pit in it."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg did plug in the lamp and the shed lit up."
+    },
+    {
+      "type": "story",
+      "title": "The plum plan",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg and Dan had a plan. They did plant a plum pit in a plot.",
+        "A plump duck did plod up the hill and sat on the plot!",
+        "Meg did clap and clap and the plump duck did plod off.",
+        "Dan set a plank up on the plot and the duck did not get back in.",
+        "In the end a plum plant did pop up. The plan did not flop!"
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and Dan did plant ...",
+          "choices": ["a plum pit", "a plank"],
+          "answer": "a plum pit"
+        },
+        {
+          "prompt": "The plump duck did plod up and sat on ...",
+          "choices": ["the plot", "the plank"],
+          "answer": "the plot"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The other l blends you know",
+      "words": ["flag", "blob", "clap", "blush", "cluck"],
+      "prompt": "The same l on the end. Just a different sound in front of it."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["chest", "went", "skunk", "stomp", "egg"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}
