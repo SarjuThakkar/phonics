@@ -1,0 +1,134 @@
+{
+  "level": 33,
+  "title": "sw blend",
+  "kidTitle": "Meet sw",
+  "parentNote": "Today is sw at the front of a word — swim, swam, swish. Like the blends of the last few days you really do hear both letters, but this pair is easy to lose: the w is only a quick round of the lips, so it drops out and \"swim\" comes back as \"sim\". Say the two sounds slowly yourself — ssss-w — and let your child watch your lips push forward on the w before the word gets going. The other wobble is a vowel sneaking into the middle, \"suh-wim\"; if you hear that, shorten the hiss and speed the two up until they touch.",
+  "newGraphemes": ["sw"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sw",
+      "keyword": "swim",
+      "picture": "🏊",
+      "mouthCue": "Hiss the s with your teeth almost shut, then push your lips into a tight round for the w.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sw",
+      "choices": ["sw", "s"]
+    },
+    {
+      "type": "soundMatch",
+      "target": "sw",
+      "choices": ["sw", "s", "w"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "swim",
+      "parts": ["s", "w", "i", "m"],
+      "picture": "🏊",
+      "prompt": "The new blend goes first. Slide the two sounds together before you say the rest."
+    },
+    {
+      "type": "blend",
+      "word": "swam",
+      "parts": ["s", "w", "a", "m"],
+      "prompt": "Only the middle has changed. Keep the front exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "swig",
+      "parts": ["s", "w", "i", "g"],
+      "prompt": "A swig is one big gulp of a drink."
+    },
+    {
+      "type": "blend",
+      "word": "swish",
+      "parts": ["s", "w", "i", "sh"],
+      "picture": "🌊",
+      "prompt": "The new blend at the front and a team at the back."
+    },
+    {
+      "type": "blend",
+      "word": "swift",
+      "parts": ["s", "w", "i", "ft"],
+      "prompt": "The longest one. Keep the ft from last week in one piece."
+    },
+    {
+      "type": "readWord",
+      "word": "swam"
+    },
+    {
+      "type": "readWord",
+      "word": "swish",
+      "picture": "🌊"
+    },
+    {
+      "type": "readWord",
+      "word": "swims",
+      "picture": "🏊"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "swim",
+      "choices": ["swim", "swam"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "swig",
+      "choices": ["swig", "swim"]
+    },
+    {
+      "type": "chooseWord",
+      "answer": "swish",
+      "choices": ["swish", "wish"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the swift fish swim past Sam?"
+    },
+    {
+      "type": "sentence",
+      "text": "The cat will not swim in the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "The big ship did swish and tip in the wind."
+    },
+    {
+      "type": "story",
+      "title": "The hot pig",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "The pig got hot in the sand.",
+        "The pig did hop in the pond and swam a bit.",
+        "A swift fish did swish past and the pig got a shock.",
+        "The pig ran off fast and sat on a damp rock.",
+        "The fish had the pond and the pig had the rock!"
+      ],
+      "questions": [
+        {
+          "prompt": "The pig got hot in it.",
+          "choices": ["the sand", "the shop"],
+          "answer": "the sand"
+        },
+        {
+          "prompt": "It did swish past the pig.",
+          "choices": ["a fish", "a cat"],
+          "answer": "a fish"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["snap", "lost", "raft", "chimp", "dish"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

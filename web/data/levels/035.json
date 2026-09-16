@@ -1,0 +1,130 @@
+{
+  "level": 35,
+  "title": "is",
+  "kidTitle": "One more we just know",
+  "parentNote": "\"is\" is only the second word in this whole course that we learn by sight instead of sounding out, and it earns the day twice over. First the spelling: sounded out honestly it would be \"iss\", but the s at the end buzzes — /iz/ — and English never bothers to spell that, so we just learn the word whole. Second, and this is the bigger one: until today every sentence in the course had to run on did, can, will or had, which is why the last few weeks lean so hard on \"did\". With \"is\" your child can finally read the plainest sentence in English — the cat is fat, the dog is in the pond — and from here on those turn up everywhere. If they stop and try to sound it out, just say it for them; there are only about forty words like this, and for these ones remembering is the right answer.",
+  "newGraphemes": [],
+  "newSightWords": ["is"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "is",
+      "sentence": "The cat is fat.",
+      "prompt": "Do not sound this one out. It is a word we just know by sight: is."
+    },
+    {
+      "type": "readWord",
+      "word": "is",
+      "prompt": "No sounding out. Look at it and say it: is."
+    },
+    {
+      "type": "soundMatch",
+      "target": "i",
+      "choices": ["i", "a", "o"],
+      "prompt": "The i in the word is does say its own sound. Only the s cheats. Find the i."
+    },
+    {
+      "type": "blend",
+      "word": "swim",
+      "parts": ["sw", "i", "m"],
+      "picture": "🏊",
+      "prompt": "No new sound today, so these are blends you have already met. Say the two letters at the front as one quick slide."
+    },
+    {
+      "type": "blend",
+      "word": "flag",
+      "parts": ["fl", "a", "g"],
+      "picture": "🚩"
+    },
+    {
+      "type": "blend",
+      "word": "snap",
+      "parts": ["sn", "a", "p"]
+    },
+    {
+      "type": "blend",
+      "word": "champ",
+      "parts": ["ch", "a", "mp"],
+      "prompt": "A team at the front and a blend at the back."
+    },
+    {
+      "type": "blend",
+      "word": "lost",
+      "parts": ["l", "o", "st"],
+      "prompt": "This blend sits on the end. Keep the s and the t in one piece."
+    },
+    {
+      "type": "readWord",
+      "word": "flock",
+      "picture": "🐑"
+    },
+    {
+      "type": "readWord",
+      "word": "swift"
+    },
+    {
+      "type": "readWord",
+      "word": "damp"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "is",
+      "choices": ["is", "it"],
+      "prompt": "Two tiny words. Only the last sound is different."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snap",
+      "choices": ["snap", "sap"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "flop",
+      "choices": ["flop", "flap"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "Is the dog in the pond?"
+    },
+    {
+      "type": "sentence",
+      "text": "This is a flat rock and it is damp."
+    },
+    {
+      "type": "sentence",
+      "text": "Jim is at the shop with a big list."
+    },
+    {
+      "type": "story",
+      "title": "The rock in the pit",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Sam is on the sand and did dig a big pit.",
+        "A tan rock is in the pit and it will not shift.",
+        "Sam did tap it and the rock did flip.",
+        "The rock is a crab!",
+        "Sam ran off fast and the crab got the pit."
+      ],
+      "questions": [
+        {
+          "prompt": "Sam did dig it in the sand.",
+          "choices": ["a big pit", "a big pond"],
+          "answer": "a big pit"
+        },
+        {
+          "prompt": "The rock is not a rock. It is a ...",
+          "choices": ["crab", "fish"],
+          "answer": "crab"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["swish", "flip", "sniff", "gift", "cash"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

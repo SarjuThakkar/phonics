@@ -31,7 +31,12 @@
     29,
     30,
     31,
-    32
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
   ],
   "levels": [
     {
@@ -224,6 +229,36 @@
       "level": 32,
       "title": "sn blend",
       "kidTitle": "Meet sn",
+      "activities": 19
+    },
+    {
+      "level": 33,
+      "title": "sw blend",
+      "kidTitle": "Meet sw",
+      "activities": 19
+    },
+    {
+      "level": 34,
+      "title": "fl blend",
+      "kidTitle": "Meet fl",
+      "activities": 19
+    },
+    {
+      "level": 35,
+      "title": "is",
+      "kidTitle": "One more we just know",
+      "activities": 19
+    },
+    {
+      "level": 36,
+      "title": "fr blend",
+      "kidTitle": "Meet fr",
+      "activities": 19
+    },
+    {
+      "level": 37,
+      "title": "ng says /ng/",
+      "kidTitle": "Meet ng",
       "activities": 19
     }
   ]

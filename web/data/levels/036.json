@@ -1,0 +1,138 @@
+{
+  "level": 36,
+  "title": "fr blend",
+  "kidTitle": "Meet fr",
+  "parentNote": "Today is fr at the front of a word — frog, frost, frill. It is the near twin of yesterday's fl, and that is on purpose: same f, different second sound, so \"flag\" and \"frog\" start almost alike and a child has to listen past the first letter. The r is where it goes wrong, because r needs the lips to round and the tongue to pull back, and it is easy to skip — \"frog\" comes out \"fog\", \"frill\" comes out \"fill\". Say the pair on its own a few times, ffff-r, and watch that their lips move. If they read \"fuh-rog\", the f is too long; clip it and let the two sounds touch.",
+  "newGraphemes": ["fr"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "fr",
+      "keyword": "frog",
+      "picture": "🐸",
+      "mouthCue": "Top teeth on your bottom lip for the f, then round your lips and pull your tongue back for the r.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "fr",
+      "choices": ["fr", "fl"],
+      "prompt": "These two both start with f. Find the one that ends with a growl, not a hum."
+    },
+    {
+      "type": "soundMatch",
+      "target": "fr",
+      "choices": ["fr", "f", "r"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "frog",
+      "parts": ["f", "r", "o", "g"],
+      "picture": "🐸",
+      "prompt": "The new blend goes first. Slide the two sounds together before you say the rest."
+    },
+    {
+      "type": "blend",
+      "word": "frill",
+      "parts": ["f", "r", "i", "ll"],
+      "prompt": "Only the middle has changed. Keep the front exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "frock",
+      "parts": ["f", "r", "o", "ck"],
+      "prompt": "A frock is a dress. The ck at the back is one quick pop."
+    },
+    {
+      "type": "blend",
+      "word": "frogs",
+      "parts": ["f", "r", "o", "g", "s"],
+      "picture": "🐸",
+      "prompt": "Sound out frog, then add the ending on: frog — s."
+    },
+    {
+      "type": "blend",
+      "word": "frost",
+      "parts": ["f", "r", "o", "st"],
+      "picture": "❄️",
+      "prompt": "The longest one. A blend at the front and a blend at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "frock",
+      "picture": "👗"
+    },
+    {
+      "type": "readWord",
+      "word": "frost",
+      "picture": "❄️"
+    },
+    {
+      "type": "readWord",
+      "word": "frogs",
+      "picture": "🐸"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "frog",
+      "choices": ["frog", "fog"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "frill",
+      "choices": ["frill", "fill"],
+      "prompt": "Same again. Is the growl in there or not?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "frost",
+      "choices": ["frost", "frock", "frog"],
+      "prompt": "All three start the same way. This time the clue is at the end."
+    },
+    {
+      "type": "sentence",
+      "text": "Is the frog on a flat rock?"
+    },
+    {
+      "type": "sentence",
+      "text": "The frost is on the grass and it is thick."
+    },
+    {
+      "type": "sentence",
+      "text": "That frog is fat and it can swim fast."
+    },
+    {
+      "type": "story",
+      "title": "The frog and the frost",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "The frost is thick and the pond is stiff.",
+        "A fat frog did hop on and did land flat.",
+        "The frog did kick and did slip and did not swim.",
+        "Pam did lift it off and sat it on a soft rag.",
+        "The frog did hop back on and did slip off in a flash!"
+      ],
+      "questions": [
+        {
+          "prompt": "The frog did land flat on it.",
+          "choices": ["the frost", "the sand"],
+          "answer": "the frost"
+        },
+        {
+          "prompt": "Pam sat the frog on it.",
+          "choices": ["a soft rag", "a big rock"],
+          "answer": "a soft rag"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["is", "flap", "swish", "snack", "mist"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

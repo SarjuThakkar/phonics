@@ -208,12 +208,12 @@ tricky words come back at the end of the lesson automatically.
 
 ### `chooseWord` — hear it, pick the spelling
 ```json
-{ "type": "chooseWord", "answer": "wink", "choices": ["wink", "wing", "win"] }
+{ "type": "chooseWord", "answer": "sang", "choices": ["sang", "sand", "sad"] }
 ```
 The site says the word; the child picks it from 2–4 choices. **Distractors must
 be minimal pairs** — differ from the answer by one sound, ideally the sound the
-day is teaching. `["wink","wing","win"]` forces the child to actually hear the
-ending. `["wink","cat","sun"]` is a free point and a wasted activity.
+day is teaching. `["sang","sand","sad"]` forces the child to actually hear the
+ending. `["sang","cat","mop"]` is a free point and a wasted activity.
 
 ### `sentence` — connected text
 ```json
@@ -323,6 +323,10 @@ a child is behind.
   One emoji, never a sequence.
 - **Check every word you write with `tools/lexicon.py` before building on it.**
   It takes two seconds and saves rewriting a story.
+- **Watch for a `w` in front of an `a`**: it bends the vowel into an /o/, so
+  "swap" and "wand" are not readable however taught their letters look. Same
+  for an unstressed first syllable — the `a` in "along" is a schwa, not /a/.
+  Both are on the blocklist, but the family is bigger than the list.
 - **Two patterns the course never teaches, so never use them:** `-tch`
   (catch, watch, itch — a child meets it as t + ch and learns a spelling that
   does not exist) and a plural `-s` that says /z/ on a word whose /s/ spelling

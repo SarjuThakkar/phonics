@@ -1,0 +1,136 @@
+{
+  "level": 34,
+  "title": "fl blend",
+  "kidTitle": "Meet fl",
+  "parentNote": "Today is fl at the front of a word — flag, flip, flop. Both letters are heard, but they are made in completely different places: f is teeth on lip, l is the tongue right up behind the top teeth, so the mouth has a long way to travel in very little time. What usually happens is the l gets left behind and \"flat\" comes out \"fat\", or \"flag\" comes out \"fag\". Hold the f a moment — ffff — and then let the tongue jump up, and say the two together a few times before you put a word on the end. If you hear \"fuh-lag\", the vowel has crept in; make the f shorter, not louder.",
+  "newGraphemes": ["fl"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "fl",
+      "keyword": "flag",
+      "picture": "🚩",
+      "mouthCue": "Top teeth on your bottom lip for the f, then the tongue jumps straight up behind your teeth for the l.",
+      "prompt": "This pair is not like sh or ch. Here you really do hear both letters — they are just in a hurry."
+    },
+    {
+      "type": "soundMatch",
+      "target": "fl",
+      "choices": ["fl", "f"]
+    },
+    {
+      "type": "soundMatch",
+      "target": "fl",
+      "choices": ["fl", "f", "l"],
+      "prompt": "Two of these are half of the third. Find the one that is both."
+    },
+    {
+      "type": "blend",
+      "word": "flag",
+      "parts": ["f", "l", "a", "g"],
+      "picture": "🚩",
+      "prompt": "The new blend goes first. Slide the two sounds together before you say the rest."
+    },
+    {
+      "type": "blend",
+      "word": "flap",
+      "parts": ["f", "l", "a", "p"],
+      "prompt": "Only the last sound has changed. Keep the front exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "flip",
+      "parts": ["f", "l", "i", "p"],
+      "prompt": "Only the middle has changed. Keep the front exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "flop",
+      "parts": ["f", "l", "o", "p"],
+      "prompt": "Same again, with a round mouth in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "flash",
+      "parts": ["f", "l", "a", "sh"],
+      "picture": "⚡",
+      "prompt": "The new blend at the front and a team at the back."
+    },
+    {
+      "type": "readWord",
+      "word": "flat"
+    },
+    {
+      "type": "readWord",
+      "word": "flock",
+      "picture": "🐑",
+      "prompt": "A flock is a big bunch of sheep or birds."
+    },
+    {
+      "type": "readWord",
+      "word": "flips",
+      "picture": "🥞"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "flop",
+      "choices": ["flop", "flap"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "flat",
+      "choices": ["flat", "fat"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "flag",
+      "choices": ["flag", "flat", "flap"],
+      "prompt": "All three start the same way. This time the clue is at the end."
+    },
+    {
+      "type": "sentence",
+      "text": "Did the big flag flap in the wind?"
+    },
+    {
+      "type": "sentence",
+      "text": "The chicks did flap and flit past the shop."
+    },
+    {
+      "type": "sentence",
+      "text": "Tim will flip the flat fish in the pan."
+    },
+    {
+      "type": "story",
+      "title": "The flag on the hill",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Pam ran on the hill with a big flag on a stick.",
+        "The wind did swish and the flag did flip off.",
+        "The flag did flop flat in the damp sand.",
+        "Pam did dash and got it back on the stick.",
+        "Pam ran on and the flag did flap fast!"
+      ],
+      "questions": [
+        {
+          "prompt": "The flag did flop flat in it.",
+          "choices": ["the sand", "the pond"],
+          "answer": "the sand"
+        },
+        {
+          "prompt": "Pam got the flag back on it.",
+          "choices": ["the stick", "the rock"],
+          "answer": "the stick"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["swim", "snack", "fist", "lamp", "shop"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

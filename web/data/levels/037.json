@@ -1,0 +1,137 @@
+{
+  "level": 37,
+  "title": "ng says /ng/",
+  "kidTitle": "Meet ng",
+  "parentNote": "The last few days were blends — two letters, two sounds, said in a hurry: sw, fl, fr. Today is the other kind of pair. In king, sing and long the n and the g do not take turns; together they make one single new sound, made right at the back of the mouth, the hum you end a yawn with. The mistake is almost always saying the letters separately, so \"sing\" comes out \"sinn-guh\" and \"long\" gets a hard g on the end. Say the whole word yourself first and let them hear that it stops with a hum, not a pop. Today also brings the first two-syllable words in a while — digging, standing — so cover the second half with a finger, read the first half, then slide your finger away.",
+  "newGraphemes": ["ng"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ng",
+      "keyword": "king",
+      "picture": "👑",
+      "mouthCue": "The back of your tongue lifts up and blocks your mouth, so the hum goes out of your nose instead.",
+      "prompt": "The last few days were two letters in a hurry. These two are not in a hurry — together they make one brand new sound."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ng",
+      "choices": ["ng", "n", "m"],
+      "prompt": "Three hums. This one is made right at the back of your mouth."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ng",
+      "choices": ["ng", "nd"],
+      "prompt": "One of these is two sounds in a hurry. The other is one sound on its own. Find the one sound."
+    },
+    {
+      "type": "blend",
+      "word": "king",
+      "parts": ["k", "i", "ng"],
+      "picture": "👑",
+      "prompt": "Three sounds, not four. Keep ng together — it is one sound."
+    },
+    {
+      "type": "blend",
+      "word": "sing",
+      "parts": ["s", "i", "ng"],
+      "prompt": "Only the first sound has changed. Keep the ending exactly the same."
+    },
+    {
+      "type": "blend",
+      "word": "long",
+      "parts": ["l", "o", "ng"],
+      "prompt": "Same ending, with a round mouth in the middle."
+    },
+    {
+      "type": "blend",
+      "word": "digging",
+      "parts": ["d", "i", "gg", "i", "ng"],
+      "picture": "⛏️",
+      "prompt": "A long one. Read dig, then add ing on the back: dig — ing."
+    },
+    {
+      "type": "blend",
+      "word": "standing",
+      "parts": ["st", "a", "nd", "i", "ng"],
+      "prompt": "The longest one. Read stand, then add ing on the back: stand — ing."
+    },
+    {
+      "type": "readWord",
+      "word": "song",
+      "picture": "🎵"
+    },
+    {
+      "type": "readWord",
+      "word": "ring",
+      "picture": "💍"
+    },
+    {
+      "type": "readWord",
+      "word": "wing",
+      "picture": "🪶"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "long",
+      "choices": ["long", "log"],
+      "prompt": "One of these stops with a hum and one stops with a pop."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sang",
+      "choices": ["sang", "sand"],
+      "prompt": "Same again. Is the ending one sound or two?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ring",
+      "choices": ["ring", "rang"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "The king sang a long song."
+    },
+    {
+      "type": "sentence",
+      "text": "Is that a ring in the damp sand?"
+    },
+    {
+      "type": "sentence",
+      "text": "Sam is digging and Pam is standing on the hill."
+    },
+    {
+      "type": "story",
+      "title": "The long song",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "The king sang a long song in the shop.",
+        "The song did not stop and the cat ran off.",
+        "The dog sat and did sing back at the king.",
+        "The king did stop and did grin at the dog.",
+        "The cat ran back in and sat on the king!"
+      ],
+      "questions": [
+        {
+          "prompt": "The king sang it in the shop.",
+          "choices": ["a long song", "a big list"],
+          "answer": "a long song"
+        },
+        {
+          "prompt": "It did sing back at the king.",
+          "choices": ["the dog", "the cat"],
+          "answer": "the dog"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["frost", "flip", "swam", "snip", "damp"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}
