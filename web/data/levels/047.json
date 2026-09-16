@@ -1,0 +1,143 @@
+{
+  "level": 47,
+  "title": "cl blend",
+  "kidTitle": "Meet cl",
+  "parentNote": "cl is the other half of yesterday's pair: the same l on the end, but the word now opens at the back of the mouth with a c instead of at the lips with a b. That makes clock and block the two words to keep side by side, because a child who is guessing will swap them, and there is a listening activity today that asks for exactly that. The other slip is the same one as yesterday — a little vowel creeping in, so club comes out \"cuh-lub\". Get the c and the l on their own, slowly, then run them together with nothing between. Four new blends in one week is a lot of new beginnings; if they are flagging, do the story and leave the review.",
+  "newGraphemes": ["cl"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "cl",
+      "keyword": "clock",
+      "picture": "🕐",
+      "mouthCue": "Hump the back of your tongue up and pop it for the c, then flick the tip up behind your teeth for the l.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundMatch",
+      "target": "cl",
+      "choices": ["cl", "bl", "fl"],
+      "prompt": "You know all three of these now. They all end with an l. Which one starts at the back of your mouth?"
+    },
+    {
+      "type": "soundMatch",
+      "target": "cl",
+      "choices": ["cl", "c", "l"],
+      "prompt": "Two of these are one sound on its own. Find the pair."
+    },
+    {
+      "type": "blend",
+      "word": "clap",
+      "parts": ["c", "l", "a", "p"],
+      "prompt": "Say the c and the l on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "clip",
+      "parts": ["cl", "i", "p"],
+      "prompt": "Now keep cl in one piece. Three sounds: cl, i, p."
+    },
+    {
+      "type": "blend",
+      "word": "clock",
+      "parts": ["cl", "o", "ck"],
+      "picture": "🕐"
+    },
+    {
+      "type": "blend",
+      "word": "cluck",
+      "parts": ["cl", "u", "ck"],
+      "picture": "🐔"
+    },
+    {
+      "type": "blend",
+      "word": "clump",
+      "parts": ["cl", "u", "mp"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "club"
+    },
+    {
+      "type": "readWord",
+      "word": "clams",
+      "picture": "🐚"
+    },
+    {
+      "type": "readWord",
+      "word": "cliff"
+    },
+    {
+      "type": "readWord",
+      "word": "class"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "clap",
+      "choices": ["clap", "lap"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "clip",
+      "choices": ["clip", "clop"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "clock",
+      "choices": ["clock", "block"],
+      "prompt": "One starts at the back of your mouth and one starts at your lips. Listen to the very first sound."
+    },
+    {
+      "type": "sentence",
+      "text": "A red clock is up on the shed."
+    },
+    {
+      "type": "sentence",
+      "text": "They did clap and then the hen did cluck."
+    },
+    {
+      "type": "sentence",
+      "text": "Jen and Ted sat on the cliff and did munch clams."
+    },
+    {
+      "type": "story",
+      "title": "The clock in the club",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted and Jen got a club in the shed up on the hill.",
+        "They did set a big red clock up on a shelf.",
+        "At ten the clock did clang and did not stop.",
+        "Jen did clap and Ted did clamp a sock on it!",
+        "The clock did stop at last and they got a nap in the club."
+      ],
+      "questions": [
+        {
+          "prompt": "Ted and Jen did set the big red clock up on ...",
+          "choices": ["a shelf", "a mat"],
+          "answer": "a shelf"
+        },
+        {
+          "prompt": "The clock did clang and did not stop. Ted did clamp it on.",
+          "choices": ["a sock", "a clam"],
+          "answer": "a sock"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "bl from yesterday",
+      "words": ["black", "block", "blink", "blob", "blend"],
+      "prompt": "The twin of today. Same l, other sound at the front."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["skunk", "hen", "went", "spin", "chest"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

@@ -76,6 +76,11 @@ def _text_of(activity: dict) -> list[str]:
     if t == "sentence":
         out += words_in(activity.get("text", ""))
     if t == "story":
+        # The title sits above the lines in the same block, so the child reads
+        # it too. The review `label`, by contrast, is spoken instruction for
+        # the grown-up's benefit and is deliberately not checked -- same as
+        # every `prompt`.
+        out += words_in(activity.get("title", ""))
         for line in activity.get("lines", []):
             out += words_in(line)
         for q in activity.get("questions", []) or []:

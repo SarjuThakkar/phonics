@@ -1,0 +1,142 @@
+{
+  "level": 46,
+  "title": "bl blend",
+  "kidTitle": "Meet bl",
+  "parentNote": "bl is two sounds in a hurry — the b popped off the lips and the l flicked behind the teeth — and today is the first of a pair, with cl tomorrow. Your child already reads fl and fr, so the shape is familiar; what is new is starting the word with a b. The slip to expect is a little vowel sneaking in, so block comes out \"buh-lock\". Say the b and the l on their own, slowly, then run them together with nothing at all in between and let them hear the difference. The other slip is dropping the l, which turns black into back — the middle of today's lesson puts those two side by side on purpose.",
+  "newGraphemes": ["bl"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "bl",
+      "keyword": "block",
+      "picture": "🧱",
+      "mouthCue": "Shut your lips and pop them for the b, then flick your tongue up behind your teeth for the l.",
+      "prompt": "Two letters, two sounds, said in a hurry. No little vowel in the middle."
+    },
+    {
+      "type": "soundMatch",
+      "target": "bl",
+      "choices": ["bl", "b", "l"],
+      "prompt": "Two of these are one sound on its own. Find the pair."
+    },
+    {
+      "type": "soundMatch",
+      "target": "bl",
+      "choices": ["bl", "fl", "b"],
+      "prompt": "Two of these end with an l. Find the one that starts with your lips."
+    },
+    {
+      "type": "blend",
+      "word": "blob",
+      "parts": ["b", "l", "o", "b"],
+      "prompt": "Say the b and the l on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "black",
+      "parts": ["bl", "a", "ck"],
+      "prompt": "Now keep bl in one piece. Three sounds: bl, a, ck."
+    },
+    {
+      "type": "blend",
+      "word": "block",
+      "parts": ["bl", "o", "ck"],
+      "picture": "🧱"
+    },
+    {
+      "type": "blend",
+      "word": "blink",
+      "parts": ["bl", "i", "nk"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "blend",
+      "word": "blend",
+      "parts": ["bl", "e", "nd"],
+      "prompt": "This is the word for what you are doing. It starts with one."
+    },
+    {
+      "type": "readWord",
+      "word": "blimp"
+    },
+    {
+      "type": "readWord",
+      "word": "blast"
+    },
+    {
+      "type": "readWord",
+      "word": "blush"
+    },
+    {
+      "type": "readWord",
+      "word": "blond"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "black",
+      "choices": ["black", "back"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "block",
+      "choices": ["block", "black"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "blob",
+      "choices": ["blob", "blot"],
+      "prompt": "Both start with bl. Listen right to the end: a pop from your lips or a tap from your tongue?"
+    },
+    {
+      "type": "sentence",
+      "text": "A black bug did land on the red block."
+    },
+    {
+      "type": "sentence",
+      "text": "They did blink and the blimp went up in the sun."
+    },
+    {
+      "type": "sentence",
+      "text": "Jen did spill the jam and got a red blob on the bed!"
+    },
+    {
+      "type": "story",
+      "title": "The stack that fell",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted and Jen did stack ten blocks up on the bed.",
+        "The block at the top is black and it did not sit flat.",
+        "Jen did blink and then the stack did tip and fell!",
+        "The blocks fell on the cat and it did run off fast.",
+        "Ted did grin. They can stack them up on the flat mat."
+      ],
+      "questions": [
+        {
+          "prompt": "Ted and Jen did stack ten blocks up on ...",
+          "choices": ["the bed", "the mat"],
+          "answer": "the bed"
+        },
+        {
+          "prompt": "The stack did tip and the blocks fell on ...",
+          "choices": ["the cat", "the dog"],
+          "answer": "the cat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Blends at the front, from earlier days",
+      "words": ["flag", "frost", "snap", "swim", "stop"],
+      "prompt": "bl joins a family you already know."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["skip", "help", "spend", "stomp", "flash"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

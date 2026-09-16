@@ -1,0 +1,143 @@
+{
+  "level": 43,
+  "title": "sk blend (starting)",
+  "kidTitle": "sk at the front",
+  "parentNote": "There is no new sound today. On day 40 your child learnt sk on the END of a word — mask, dusk, tusk — and today the same two letters move to the FRONT: skip, skin, skid, skunk. Say that out loud to them, because it is the whole lesson: same letters, same two sounds, other end of the word. The front is genuinely harder, because the child has to hold the hiss and the k in mind while the rest of the word is still arriving, and the usual slip is losing the s so skip comes out sip. If that happens, cover the k and everything after it, get the hiss on its own, then uncover the rest.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "sk",
+      "keyword": "skunk",
+      "picture": "🦨",
+      "mouthCue": "Hiss the s with your teeth almost shut, then hump the back of your tongue up and pop it.",
+      "prompt": "You already know this pair from the end of mask and dusk. Today it moves to the front."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sk",
+      "choices": ["sk", "sp", "st"],
+      "prompt": "Three hisses. This one ends with a pop at the back of your mouth."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sk",
+      "choices": ["sk", "ck", "nk"],
+      "prompt": "All three have a k in them. Find the one that starts with a hiss."
+    },
+    {
+      "type": "blend",
+      "word": "skip",
+      "parts": ["s", "k", "i", "p"],
+      "prompt": "Say the hiss and the pop on their own first, then push them together."
+    },
+    {
+      "type": "blend",
+      "word": "skin",
+      "parts": ["sk", "i", "n"],
+      "prompt": "Now keep sk in one piece. Three sounds: sk, i, n."
+    },
+    {
+      "type": "blend",
+      "word": "skid",
+      "parts": ["sk", "i", "d"]
+    },
+    {
+      "type": "blend",
+      "word": "skull",
+      "parts": ["sk", "u", "ll"],
+      "picture": "💀",
+      "prompt": "Two l letters on the end, but only one sound."
+    },
+    {
+      "type": "blend",
+      "word": "skunk",
+      "parts": ["sk", "u", "nk"],
+      "picture": "🦨",
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "skim"
+    },
+    {
+      "type": "readWord",
+      "word": "skips"
+    },
+    {
+      "type": "readWord",
+      "word": "skid"
+    },
+    {
+      "type": "readWord",
+      "word": "skunks"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "skip",
+      "choices": ["skip", "sip"],
+      "prompt": "One of these has an extra sound at the front. Listen before the vowel."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "skunk",
+      "choices": ["skunk", "sunk"],
+      "prompt": "Same again. Is there a pop after the hiss?"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "skin",
+      "choices": ["skin", "skim"],
+      "prompt": "Both start with sk. Listen right to the end: an n or an m?"
+    },
+    {
+      "type": "sentence",
+      "text": "The skunk did skip up the hill."
+    },
+    {
+      "type": "sentence",
+      "text": "Pam did skid on a rock and did land on a bug!"
+    },
+    {
+      "type": "sentence",
+      "text": "Can Jim skim a flat rock on the pond?"
+    },
+    {
+      "type": "story",
+      "title": "The skunk in the shop",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A skunk did skip in the shop at dusk.",
+        "Sam and Pam did jump up and did run off fast!",
+        "But the skunk just sat and did sniff at a bun.",
+        "Sam did pop the bun in a sack and did pass it back.",
+        "The skunk got the bun and did skip off. It did not stink!"
+      ],
+      "questions": [
+        {
+          "prompt": "At dusk the skunk did skip in ...",
+          "choices": ["the shop", "the bank"],
+          "answer": "the shop"
+        },
+        {
+          "prompt": "Sam and Pam did run off fast, but the skunk just did ...",
+          "choices": ["sniff at a bun", "skid on a rock"],
+          "answer": "sniff at a bun"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "sk on the END, from day 40",
+      "words": ["mask", "dusk", "task", "tusk", "risk"],
+      "prompt": "The same two letters, back where you met them."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["spin", "stump", "munch", "honk", "flash"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

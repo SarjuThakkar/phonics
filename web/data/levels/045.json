@@ -1,0 +1,134 @@
+{
+  "level": 45,
+  "title": "they",
+  "kidTitle": "One more we just know",
+  "parentNote": "\"they\" is the third word in this course we learn whole instead of sounding out. The th at the front is honest — your child has known it for weeks — but the ey on the end says /ay/, and nothing so far explains that, so the word is simply remembered. It is worth the day because of what it does: until now every story has had one character doing one thing, because there was no way to write down two. With \"they\" Ted and Jen can carry the egg together. If your child stops and tries to sound it out, just say it for them and move on — for this handful of words, remembering is the right answer.",
+  "newGraphemes": [],
+  "newSightWords": ["they"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "they",
+      "sentence": "They ran up the hill.",
+      "prompt": "Do not sound this one out. It is a word we just know by sight: they."
+    },
+    {
+      "type": "readWord",
+      "word": "they",
+      "prompt": "No sounding out. Look at it and say it: they."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "sh", "ch"],
+      "prompt": "The th at the front of they does say its own sound. Only the end cheats. Find the th."
+    },
+    {
+      "type": "blend",
+      "word": "tell",
+      "parts": ["t", "e", "ll"],
+      "prompt": "No new sound today, so these are all words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "nest",
+      "parts": ["n", "e", "st"]
+    },
+    {
+      "type": "blend",
+      "word": "skid",
+      "parts": ["sk", "i", "d"]
+    },
+    {
+      "type": "blend",
+      "word": "help",
+      "parts": ["h", "e", "l", "p"],
+      "prompt": "Four sounds and no letter teams. Take them one at a time."
+    },
+    {
+      "type": "blend",
+      "word": "spend",
+      "parts": ["sp", "e", "nd"],
+      "prompt": "A blend on the front and a blend on the back."
+    },
+    {
+      "type": "readWord",
+      "word": "melt"
+    },
+    {
+      "type": "readWord",
+      "word": "shed",
+      "picture": "🏚️"
+    },
+    {
+      "type": "readWord",
+      "word": "chest"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "they",
+      "choices": ["they", "the"],
+      "prompt": "Two words we just know. One of them is longer at the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "well",
+      "choices": ["well", "will"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "men",
+      "choices": ["men", "man"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "sentence",
+      "text": "Ted and Jen ran up the hill and then they fell."
+    },
+    {
+      "type": "sentence",
+      "text": "They did help the red hen get up on the nest."
+    },
+    {
+      "type": "sentence",
+      "text": "They went in the shop and got ten buns."
+    },
+    {
+      "type": "story",
+      "title": "The egg on the bed",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted and Jen went up the hill and got a big egg.",
+        "They did lug it back and set it on the bed.",
+        "Then the egg did rock and did tip off the bed!",
+        "A wet duck got up and did honk at Ted and Jen.",
+        "They did not get an egg. They got a pet duck!"
+      ],
+      "questions": [
+        {
+          "prompt": "They did lug the egg back and set it on ...",
+          "choices": ["the bed", "the nest"],
+          "answer": "the bed"
+        },
+        {
+          "prompt": "The egg did tip off the bed and then they got ...",
+          "choices": ["a wet duck", "a red hen"],
+          "answer": "a wet duck"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "e words from yesterday",
+      "words": ["get", "let", "then", "red", "bed"],
+      "prompt": "The vowel you met yesterday. It is the last one."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["skunk", "went", "spin", "stomp", "mask"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

@@ -41,7 +41,12 @@
     39,
     40,
     41,
-    42
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
   ],
   "levels": [
     {
@@ -295,6 +300,36 @@
       "title": "sp blend",
       "kidTitle": "Meet sp",
       "activities": 20
+    },
+    {
+      "level": 43,
+      "title": "sk blend (starting)",
+      "kidTitle": "sk at the front",
+      "activities": 21
+    },
+    {
+      "level": 44,
+      "title": "e says /e/",
+      "kidTitle": "Meet e",
+      "activities": 23
+    },
+    {
+      "level": 45,
+      "title": "they",
+      "kidTitle": "One more we just know",
+      "activities": 20
+    },
+    {
+      "level": 46,
+      "title": "bl blend",
+      "kidTitle": "Meet bl",
+      "activities": 21
+    },
+    {
+      "level": 47,
+      "title": "cl blend",
+      "kidTitle": "Meet cl",
+      "activities": 21
     }
   ]
 }

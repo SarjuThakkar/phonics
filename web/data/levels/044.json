@@ -1,0 +1,156 @@
+{
+  "level": 44,
+  "title": "e says /e/",
+  "kidTitle": "Meet e",
+  "parentNote": "Today is the fifth vowel, and that means it is the last one — after e your child has met a, e, i, o and u, the whole set, and can sound out most short words they meet on a page. It also hands them the little joining words that forty days of stories have had to do without: then, went, get, let. The wobble to expect is that e sits right between a and i in the mouth, so bed comes out bad and pet comes out pit. Say the two words back to back yourself — bed, bad — and let them hear that only the middle moved; the pairs in the middle of today's lesson are there for exactly that. If they are tired, stop after the story. Today is a big one.",
+  "newGraphemes": ["e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "e",
+      "keyword": "egg",
+      "picture": "🥚",
+      "mouthCue": "Your mouth opens a little and your tongue sits flat, halfway between a and i.",
+      "prompt": "This is the fifth vowel, and the last one. After today you know all five."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e",
+      "choices": ["e", "a", "i"],
+      "prompt": "Three vowels, and this one sits right in the middle of the other two."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e",
+      "choices": ["e", "i", "u"],
+      "prompt": "Same again. Listen for the sound at the start of egg."
+    },
+    {
+      "type": "blend",
+      "word": "get",
+      "parts": ["g", "e", "t"],
+      "prompt": "Only the middle sound is new. The rest you have known for weeks."
+    },
+    {
+      "type": "blend",
+      "word": "bed",
+      "parts": ["b", "e", "d"],
+      "picture": "🛏️"
+    },
+    {
+      "type": "blend",
+      "word": "hen",
+      "parts": ["h", "e", "n"],
+      "picture": "🐔"
+    },
+    {
+      "type": "blend",
+      "word": "then",
+      "parts": ["th", "e", "n"],
+      "prompt": "Two letters at the front saying one sound. This is the word that lets a story go on."
+    },
+    {
+      "type": "blend",
+      "word": "went",
+      "parts": ["w", "e", "n", "t"],
+      "prompt": "The longest one. Four sounds, and no letter teams to help you."
+    },
+    {
+      "type": "readWord",
+      "word": "red",
+      "picture": "🍎"
+    },
+    {
+      "type": "readWord",
+      "word": "pet",
+      "picture": "🐶"
+    },
+    {
+      "type": "readWord",
+      "word": "left"
+    },
+    {
+      "type": "readWord",
+      "word": "best"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bed",
+      "choices": ["bed", "bad"],
+      "prompt": "Same start, same ending. Listen hard to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pet",
+      "choices": ["pet", "pit"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "net",
+      "choices": ["net", "not"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "net",
+      "choices": ["net", "nut"],
+      "prompt": "Same again. Only the vowel moved."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "ten",
+      "choices": ["ten", "tin", "tan"],
+      "prompt": "Three this time, and all five vowels are yours now. Only the middle moves."
+    },
+    {
+      "type": "sentence",
+      "text": "The red hen sat on a nest in the shed."
+    },
+    {
+      "type": "sentence",
+      "text": "Ted did get up and then let the dog in."
+    },
+    {
+      "type": "sentence",
+      "text": "Jen fell in the mud and Ted did help."
+    },
+    {
+      "type": "story",
+      "title": "The hen in the bed",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Ted got a pet hen and the hen is red.",
+        "At dusk the hen went in the shed and sat on the bed.",
+        "Ted did beg and beg but the hen did not get up.",
+        "Then the hen did get up and left an egg on the bed!",
+        "Ted got the egg and did grin. The hen can rest in the bed."
+      ],
+      "questions": [
+        {
+          "prompt": "The hen went in the shed and sat on ...",
+          "choices": ["the bed", "the nest"],
+          "answer": "the bed"
+        },
+        {
+          "prompt": "The hen got up and left it on the bed.",
+          "choices": ["an egg", "a bun"],
+          "answer": "an egg"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "One for each vowel you knew before today",
+      "words": ["cat", "dig", "hop", "bus"],
+      "prompt": "Four vowels you have had for weeks. The fifth one is new."
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["skip", "skunk", "spot", "stand", "mask"],
+      "prompt": "One from each of the last few days."
+    }
+  ]
+}

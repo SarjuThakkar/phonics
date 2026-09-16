@@ -21,8 +21,9 @@ The parent is the second audience, and they get exactly one paragraph from you:
 `parentNote`. Assume they have never taught reading and are slightly worried
 they will do it wrong.
 
-A lesson is **15–30 minutes**. That is 14–20 activities. Less is better than
-padding; a bored child is a child who doesn't come back tomorrow.
+A lesson is **15–30 minutes**. Following the arc in §4 lands at about **20
+activities**, and 16–22 is the working range. Less is better than padding; a
+bored child is a child who doesn't come back tomorrow.
 
 ---
 
@@ -146,7 +147,7 @@ Variations by kind of day (`tools/inventory.py` tells you which you have):
   "parentNote": "…",                    // see §7
   "newGraphemes": ["ng"],               // EXACTLY what inventory.py says. Validator checks this.
   "newSightWords": [],
-  "activities": [ … ]                   // 12-30; aim for 14-20
+  "activities": [ … ]                   // 12-30; the arc in §4 lands at ~20
 }
 ```
 
@@ -243,6 +244,11 @@ needs the story to answer. One idea per
 line. **The question must need the story to answer** — a question answerable
 from the picture on the box, or from general knowledge, teaches guessing.
 Questions and choices obey the decodability rule too: the child reads them.
+
+**The title is read by the child too** — it sits directly above the lines — so
+it obeys the decodability rule and the validator checks it. The `review`
+activity's `label` does not: like every `prompt`, it is spoken instruction, not
+something the child decodes.
 
 Give the story a shape: something wants something, something goes wrong, it
 resolves. Even in five words. Animals doing slightly silly things work at every
