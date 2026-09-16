@@ -71,7 +71,12 @@
     69,
     70,
     71,
-    72
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
   ],
   "levels": [
     {
@@ -504,6 +509,36 @@
       "level": 72,
       "title": "ay says /ay/",
       "kidTitle": "Meet ay",
+      "activities": 21
+    },
+    {
+      "level": 73,
+      "title": "ai says /ay/",
+      "kidTitle": "Meet ai",
+      "activities": 21
+    },
+    {
+      "level": 74,
+      "title": "Review: ay and ai",
+      "kidTitle": "Two ways to say it",
+      "activities": 22
+    },
+    {
+      "level": 75,
+      "title": "ea says /ee/",
+      "kidTitle": "Meet ea",
+      "activities": 21
+    },
+    {
+      "level": 76,
+      "title": "oa says /oh/",
+      "kidTitle": "Meet oa",
+      "activities": 21
+    },
+    {
+      "level": 77,
+      "title": "ow says /oh/",
+      "kidTitle": "Meet ow",
       "activities": 21
     }
   ]

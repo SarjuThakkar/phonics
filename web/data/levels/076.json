@@ -1,0 +1,155 @@
+{
+  "level": 76,
+  "title": "oa says /oh/",
+  "kidTitle": "Meet oa",
+  "parentNote": "oa says /oh/ — boat, soap, toad, toast. This is the third way your child has met that one sound: first the quiet e in home and stove, then oe in toe, and now oa. Three spellings, one sound, and that is genuinely how English works rather than something anyone has got wrong. The useful thing to know is where this one turns up: oa likes the middle of a word, so boat and coat and road, while oe prefers the end, so toe and doe. The slip to expect is the o and the a being sounded apart, giving o-at for oat. Cover the a, say the o, then uncover and say the whole word once as one piece. Two teams in two days is a lot, so if today feels heavy, do the blends and the story and leave the rest.",
+  "newGraphemes": ["oa"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "oa",
+      "keyword": "boat",
+      "picture": "🛶",
+      "mouthCue": "Your lips push forward into a round o, then close a little on the end, like saying oh.",
+      "prompt": "Two letters, one sound. They do not say o and a. Together they say the name of the letter o: oa."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oa",
+      "choices": ["oa", "o", "or"],
+      "prompt": "Three things an o can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oa",
+      "choices": ["oa", "ea", "ai"],
+      "prompt": "Three vowel teams, three different letter names. Which one is today's?"
+    },
+    {
+      "type": "blend",
+      "word": "boat",
+      "parts": ["b", "oa", "t"],
+      "picture": "🛶",
+      "prompt": "Three sounds, and the team sits in the middle with a sound on each side."
+    },
+    {
+      "type": "blend",
+      "word": "soap",
+      "parts": ["s", "oa", "p"],
+      "picture": "🧼"
+    },
+    {
+      "type": "blend",
+      "word": "toad",
+      "parts": ["t", "oa", "d"],
+      "picture": "🐸"
+    },
+    {
+      "type": "blend",
+      "word": "float",
+      "parts": ["fl", "oa", "t"]
+    },
+    {
+      "type": "blend",
+      "word": "toast",
+      "parts": ["t", "oa", "st"],
+      "picture": "🍞",
+      "prompt": "The longest one. The team is in the middle, and two sounds crowd on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "coat",
+      "picture": "🧥"
+    },
+    {
+      "type": "readWord",
+      "word": "road"
+    },
+    {
+      "type": "readWord",
+      "word": "oak",
+      "picture": "🌳"
+    },
+    {
+      "type": "readWord",
+      "word": "croak"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "boat",
+      "choices": ["boat", "bat", "goat"],
+      "prompt": "One of these has no team in it at all. Of the other two, the first sound decides."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "soap",
+      "choices": ["soap", "soak", "sock"],
+      "prompt": "All three start with an s. Listen to the middle, and then to the very end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "float",
+      "choices": ["float", "flat", "fleet"],
+      "prompt": "This one is hard. Three teams, or no team at all. The middle of the word is the only clue."
+    },
+    {
+      "type": "sentence",
+      "text": "I want to float a red boat in the stream."
+    },
+    {
+      "type": "sentence",
+      "text": "The toad did hop on the road and then did croak at us."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want toast, or do they want a dish with oats in it?"
+    },
+    {
+      "type": "story",
+      "title": "The goat and the coat",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Rain fell on the road, and the mud is deep.",
+        "I did get a big red coat and did run to the barn.",
+        "In the barn is a goat. It did stand up and did sniff at the coat.",
+        "Then the goat did grab the coat in its teeth and did munch it.",
+        "I did grab the coat back. The goat did not drop it.",
+        "Tug. Tug. The coat did rip, and I sat back in the mud.",
+        "The goat did munch a red bit, and then it did stop.",
+        "A coat is not a meal. The goat did moan and did stamp its feet.",
+        "Mum did mend the rip. The coat is fine, but it is not neat.",
+        "Then Mum did fill a dish with oats, and this time the goat did eat the lot."
+      ],
+      "questions": [
+        {
+          "prompt": "In the barn is ...",
+          "choices": ["a goat", "a toad", "a boat"],
+          "answer": "a goat"
+        },
+        {
+          "prompt": "The goat did grab the coat, and then the coat did ...",
+          "choices": ["rip", "float", "get clean"],
+          "answer": "rip"
+        },
+        {
+          "prompt": "The goat did stamp and moan. A coat is not ...",
+          "choices": ["a meal", "red", "big"],
+          "answer": "a meal"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The other ways to spell this sound",
+      "words": ["toe", "home", "stove", "globe", "bone"],
+      "prompt": "Same sound as today. A quiet e on the end, or the team oe, and now oa as well. Three spellings, one sound."
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's team",
+      "words": ["sea", "treat", "clean", "beach", "dream"],
+      "prompt": "ea, from yesterday. Stretch the team out and do not let the e and the a speak apart."
+    }
+  ]
+}

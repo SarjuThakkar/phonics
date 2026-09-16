@@ -134,6 +134,22 @@ IRREGULAR: dict[str, int | None] = {
     "knife": 114, "knight": 114, "write": 114, "wrong": 114, "wrap": 114,
     "wrist": 114, "walk": 107, "talk": 107, "chalk": 107, "night": 107,
     "light": 107, "right": 107, "high": 107,
+    # ea says /e/ or /ay/ here instead of the taught /ee/ -- never explained,
+    # this course has no lesson for either alternate reading. Found by the
+    # day 73-77 author, who avoided them by ear.
+    "bread": None, "head": None, "dead": None,
+    "great": None, "break": None, "steak": None,
+    # ea followed by r is the untaught "ear" team (dear, hear), not ea+r read
+    # separately -- same family as the ar/or/er/ir/ur trap but for a vowel
+    # team instead of a single vowel.
+    "dear": None, "near": None, "hear": None, "year": None, "fear": None,
+    "clear": None, "beard": None,
+    # two syllables, or an untaught -le ending
+    "real": None, "eagle": None, "eager": None, "ocean": None,
+    # oa + r is the untaught "oar"/"oor" team, not oa read on its own
+    "board": None, "broad": None, "roar": None, "soar": None,
+    # a short a in an unstressed syllable, not the ar taught on day 62
+    "arrow": None, "carrot": None, "sparrow": None,
 }
 
 

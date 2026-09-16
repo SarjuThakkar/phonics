@@ -1,0 +1,183 @@
+{
+  "level": 74,
+  "title": "Review: ay and ai",
+  "kidTitle": "Two ways to say it",
+  "parentNote": "No new sound today — just the two spellings from the last two days, side by side. ay and ai say exactly the same thing, so your child cannot hear which one a word needs, and that is the point of today: the choice is made by where the sound sits in the word. ai goes in the middle, with a sound after it (rain, tail, paint). ay goes on the end, with nothing after it (day, play, tray). Say the rule once, then let the words do the teaching — pay and paint, say and sail, tray and trail are all in here as pairs on purpose. The slip to expect is your child reading the word right but then being sure the spelling is wrong, because they can hear no difference. Tell them they are right that it sounds the same; English keeps two spellings and we learn where each one lives. If they only take one thing from today, it is that a word almost never ends in ai.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "ay",
+      "choices": ["ay", "a", "ar"],
+      "prompt": "Three things an a can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ai",
+      "choices": ["ai", "ee", "oe"],
+      "prompt": "Three vowel teams, three different letter names. Find the one that says a."
+    },
+    {
+      "type": "blend",
+      "word": "pay",
+      "parts": ["p", "ay"],
+      "prompt": "Two sounds, and the word stops there. That is why it is ay on the end."
+    },
+    {
+      "type": "blend",
+      "word": "paint",
+      "parts": ["p", "ai", "n", "t"],
+      "picture": "🎨",
+      "prompt": "The same start, but sounds keep coming after the team. In the middle it is ai."
+    },
+    {
+      "type": "blend",
+      "word": "say",
+      "parts": ["s", "ay"]
+    },
+    {
+      "type": "blend",
+      "word": "sail",
+      "parts": ["s", "ai", "l"],
+      "picture": "⛵",
+      "prompt": "Another pair. One sound on the end changes which team is in the word."
+    },
+    {
+      "type": "blend",
+      "word": "railway",
+      "parts": ["r", "ai", "l", "w", "ay"],
+      "picture": "🚂",
+      "prompt": "The long one, and it has both teams in it. ai in the middle, ay on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "stay"
+    },
+    {
+      "type": "readWord",
+      "word": "stain"
+    },
+    {
+      "type": "readWord",
+      "word": "jay",
+      "picture": "🐦"
+    },
+    {
+      "type": "readWord",
+      "word": "chain",
+      "picture": "⛓"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sail",
+      "choices": ["sail", "say", "sat"],
+      "prompt": "Listen for a sound on the end. If there is one, the team in the middle is ai."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tray",
+      "choices": ["tray", "trail", "train"],
+      "prompt": "All three start the same. Only one of them stops after the team."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pay",
+      "choices": ["pay", "paint", "pain"],
+      "prompt": "Three words that start with a p. Listen right to the end of each one."
+    },
+    {
+      "type": "sentence",
+      "text": "I did wait for the rain to stop, and then I did play in the grass."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to stay for the day, or do they want to sail?"
+    },
+    {
+      "type": "sentence",
+      "text": "The gray jay did land on the rail and did grab a nail."
+    },
+    {
+      "type": "sentence",
+      "text": "Bart did paint the gate, and then the rain fell on it."
+    },
+    {
+      "type": "story",
+      "title": "The jay on the rail",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A gray jay did land on the rail.",
+        "It did spot a bent nail, and it did grab it.",
+        "Then it did spot a chain, and it did grab that.",
+        "A nail and a chain do not fit in a jay bill.",
+        "The jay did flap up, and the chain fell on a tin tub.",
+        "Bang! The jay did jump, and it did drop the nail.",
+        "It sat on the rail with not a thing in its bill, and it did wail.",
+        "Then Meg did set the nail back on the rail and did stand well back.",
+        "This time the jay did wait. It did take just the nail, and it did not drop it."
+      ],
+      "questions": [
+        {
+          "prompt": "The jay did grab a bent nail and then a ...",
+          "choices": ["chain", "tin tub", "rail"],
+          "answer": "chain"
+        },
+        {
+          "prompt": "The jay did drop the lot, and then it did ...",
+          "choices": ["wail", "nap", "dig"],
+          "answer": "wail"
+        },
+        {
+          "prompt": "The jay got the nail in the end, and this time it did ...",
+          "choices": ["wait", "grab", "flap"],
+          "answer": "wait"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The cat and the tray",
+      "prompt": "A second story, and the cat in it is not sorry at all.",
+      "lines": [
+        "Jim did set the buns on a tray, did lay the tray on the mat, and did sit to wait for Dad.",
+        "The cat did stay in the sun. Its tail did swish and swish.",
+        "Swish! The tail did hit the tray.",
+        "The buns did jump off and did land in the grass.",
+        "Jim did dash and did pick up the lot.",
+        "Then the cat did jump up and did sit on the tray.",
+        "Dad came in, and Jim did tell him.",
+        "Dad did grin and did say that the cat can stay, but the tray is not a cat bed."
+      ],
+      "questions": [
+        {
+          "prompt": "Jim did set the buns on a tray and did lay it on ...",
+          "choices": ["the mat", "the bed", "the rail"],
+          "answer": "the mat"
+        },
+        {
+          "prompt": "The buns fell off the tray, and it is the cat tail that ...",
+          "choices": ["did hit the tray", "did sit on them", "did sit in the sun"],
+          "answer": "did hit the tray"
+        },
+        {
+          "prompt": "Dad did say that the tray is not ...",
+          "choices": ["a cat bed", "on the mat", "in the grass"],
+          "answer": "a cat bed"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "ay words from the day we met it",
+      "words": ["birthday", "clay", "hay", "spray", "gray"],
+      "prompt": "Every one of these stops at the team. That is how you know it is ay."
+    },
+    {
+      "type": "review",
+      "label": "The stage before this one",
+      "words": ["church", "globe", "corner", "thick", "flute"],
+      "prompt": "Older friends. Bossy r and the quiet e, back for a visit."
+    }
+  ]
+}

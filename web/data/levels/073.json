@@ -1,0 +1,156 @@
+{
+  "level": 73,
+  "title": "ai says /ay/",
+  "kidTitle": "Meet ai",
+  "parentNote": "Today is the same sound as yesterday, spelled a different way. ay and ai both say the name of the letter a, and English simply keeps two spellings for it — rain and day, tail and play. That is not a muddle to fix; it is the first time your child meets the fact that one sound can have more than one spelling, and the rest of this stage is built on it. There is a rule, and it is worth saying out loud: ai goes in the middle of a word, ay goes on the end. So rain, not rayn; day, not dai. The slip to expect is the a and the i being sounded apart, so rain comes out ra-in, in two pieces. Cover the i, say the a alone, then uncover and say the whole word once, as one sound. Reading it is today's job — spelling it correctly will take months, and that is normal.",
+  "newGraphemes": ["ai"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ai",
+      "keyword": "rain",
+      "picture": "🌧",
+      "mouthCue": "Exactly the same mouth as yesterday: open wide, then slide shut.",
+      "prompt": "Listen hard. This team says the same thing as yesterday's team, ay. Two letters, one sound, the name of the letter a: ai."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ai",
+      "choices": ["ai", "a", "ar"],
+      "prompt": "Three things an a can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ai",
+      "choices": ["ai", "ee", "ie"],
+      "prompt": "Three vowel teams, three different letter names. Which one is today's?"
+    },
+    {
+      "type": "blend",
+      "word": "rain",
+      "parts": ["r", "ai", "n"],
+      "picture": "🌧",
+      "prompt": "Three sounds. The team sits in the middle, with a sound on each side of it."
+    },
+    {
+      "type": "blend",
+      "word": "tail",
+      "parts": ["t", "ai", "l"],
+      "picture": "🐈"
+    },
+    {
+      "type": "blend",
+      "word": "wait",
+      "parts": ["w", "ai", "t"]
+    },
+    {
+      "type": "blend",
+      "word": "train",
+      "parts": ["tr", "ai", "n"],
+      "picture": "🚂"
+    },
+    {
+      "type": "blend",
+      "word": "paint",
+      "parts": ["p", "ai", "n", "t"],
+      "picture": "🎨",
+      "prompt": "The longest one. Four sounds, and two of them crowd together on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "sail",
+      "picture": "⛵"
+    },
+    {
+      "type": "readWord",
+      "word": "nail"
+    },
+    {
+      "type": "readWord",
+      "word": "chain",
+      "picture": "⛓"
+    },
+    {
+      "type": "readWord",
+      "word": "brain",
+      "picture": "🧠"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "rain",
+      "choices": ["rain", "ran", "rail"],
+      "prompt": "All three start with an r. One has the team in it, and it is not the shortest."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "paint",
+      "choices": ["paint", "pant", "paid"],
+      "prompt": "Two of these have the team. Listen right to the end to pick between them."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snail",
+      "choices": ["snail", "sail", "nail"],
+      "prompt": "Three words that end the same. This time the front is what decides it."
+    },
+    {
+      "type": "sentence",
+      "text": "The rain did not stop, and I did wait in the shed."
+    },
+    {
+      "type": "sentence",
+      "text": "Bart did paint the train red and the track gray."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to play in the rain with us?"
+    },
+    {
+      "type": "story",
+      "title": "Rain on the paint",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "I did want to paint a train, and Fern did get the red tin.",
+        "Fern and I sat in the garden with a big sheet.",
+        "I did paint the train and its long black track.",
+        "Then the rain came.",
+        "Big drips fell on the sheet, and the red paint ran.",
+        "I did wail. The train is a mess!",
+        "But Fern did grin, and did dip her brush in the wet red trail.",
+        "Drip, drip, drip. Fern and the rain did paint the sheet red.",
+        "It is not a train. It is a big red storm.",
+        "Fern did stick it up in the barn. It is the best thing I did paint."
+      ],
+      "questions": [
+        {
+          "prompt": "Fern and I sat in the garden with ...",
+          "choices": ["a big sheet", "a red cart", "a snail"],
+          "answer": "a big sheet"
+        },
+        {
+          "prompt": "The rain fell on the sheet, and the red paint ...",
+          "choices": ["ran", "did stop", "went in the tin"],
+          "answer": "ran"
+        },
+        {
+          "prompt": "At the end, Fern did stick it up ...",
+          "choices": ["in the barn", "in the bin", "on the train"],
+          "answer": "in the barn"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's team, ay",
+      "words": ["day", "play", "stay", "tray", "spray"],
+      "prompt": "The same sound as today, spelled the other way. Every one of these has it on the end."
+    },
+    {
+      "type": "review",
+      "label": "Bossy r and the quiet e, from last week",
+      "words": ["shirt", "crate", "thick", "burn", "flute"],
+      "prompt": "Older friends. Look at the end of each word before you say it."
+    }
+  ]
+}

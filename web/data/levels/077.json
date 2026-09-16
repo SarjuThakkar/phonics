@@ -1,0 +1,156 @@
+{
+  "level": 77,
+  "title": "ow says /oh/",
+  "kidTitle": "Meet ow",
+  "parentNote": "ow says /oh/ — snow, row, blow, grow. It is the same sound as yesterday's oa, and the two of them split the job between them in a way that is worth pointing out: oa sits in the middle of a word, ow sits on the end. boat and road, but snow and blow. That covers nearly everything your child will meet for a long while. The slip to expect is the w, which is not really doing a w job here at all — it is part of the team, so blow is not bl-oh-wuh. Cover the w, say the o, then uncover it and say the whole word once. One warning for later: ow is a letter pair that will turn up much further on saying something completely different. It does not today, and every word in this lesson is the /oh/ kind, so if your child reads one of them the other way, just say the word yourself and move on.",
+  "newGraphemes": ["ow"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ow",
+      "keyword": "snow",
+      "picture": "❄️",
+      "mouthCue": "The same round mouth as yesterday: lips forward into an o, then closing a little, like saying oh.",
+      "prompt": "Two letters, one sound, and it is the sound we did yesterday. The w is part of the team and does not speak on its own: ow."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ow",
+      "choices": ["ow", "o", "or"],
+      "prompt": "Three things an o can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ow",
+      "choices": ["ow", "ea", "ai"],
+      "prompt": "Three vowel teams, three different letter names. Which one is today's?"
+    },
+    {
+      "type": "blend",
+      "word": "row",
+      "parts": ["r", "ow"],
+      "picture": "🛶",
+      "prompt": "Two sounds. Say the r, then the team, and do not let the w speak on its own."
+    },
+    {
+      "type": "blend",
+      "word": "show",
+      "parts": ["sh", "ow"]
+    },
+    {
+      "type": "blend",
+      "word": "snow",
+      "parts": ["sn", "ow"],
+      "picture": "❄️"
+    },
+    {
+      "type": "blend",
+      "word": "own",
+      "parts": ["ow", "n"],
+      "prompt": "Here the team comes first, and there is still a sound after it. That happens, but not often."
+    },
+    {
+      "type": "blend",
+      "word": "rainbow",
+      "parts": ["r", "ai", "n", "b", "ow"],
+      "picture": "🌈",
+      "prompt": "The long one, and it has two teams in it. ai in the middle, ow on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "blow"
+    },
+    {
+      "type": "readWord",
+      "word": "grow",
+      "picture": "🌱"
+    },
+    {
+      "type": "readWord",
+      "word": "crow",
+      "picture": "🐦"
+    },
+    {
+      "type": "readWord",
+      "word": "window",
+      "picture": "🪟"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "snow",
+      "choices": ["snow", "show", "slow"],
+      "prompt": "All three end with the team. The two sounds at the front are the whole difference."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "own",
+      "choices": ["own", "on", "oat"],
+      "prompt": "One of these has no team in it. Listen for a long sound at the front, and then to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "grow",
+      "choices": ["grow", "crow", "glow"],
+      "prompt": "This one is hard. Three words, all with the team, and only the first sounds to tell them apart."
+    },
+    {
+      "type": "sentence",
+      "text": "I want to sit at the window and see the snow."
+    },
+    {
+      "type": "sentence",
+      "text": "The wind did blow, and the snow did drift on the road."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they own the big red boat, or do they just row it?"
+    },
+    {
+      "type": "story",
+      "title": "The crow and the snowman",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Snow fell in the dark, and in the sun it did glow.",
+        "Meg and I did run to the grass and did make a snowman.",
+        "It did grow and grow. It is big, and it is fat.",
+        "I did set a red hat on top and did stick an oak arm in it.",
+        "Then a crow did land on the hat and did croak at us.",
+        "Flap, flap. It did grab the red hat and did flap off to the oak.",
+        "Meg did wail. The snowman did not own a hat.",
+        "But the sun did glow hot, and the snow did drip and drip.",
+        "The snowman did get low, and then it did melt in a wet heap.",
+        "The crow did throw the hat back on the grass. It did want a snowman, not just a hat."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and I did run to the grass and did make ...",
+          "choices": ["a snowman", "a boat", "a den"],
+          "answer": "a snowman"
+        },
+        {
+          "prompt": "The crow did grab the red hat and did flap off to ...",
+          "choices": ["the oak", "the road", "the barn"],
+          "answer": "the oak"
+        },
+        {
+          "prompt": "The sun did glow hot, and then the snowman did ...",
+          "choices": ["melt", "grow", "stand up"],
+          "answer": "melt"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Every way we spell this sound",
+      "words": ["toe", "home", "stove", "boat", "toast"],
+      "prompt": "A quiet e, the team oe, the team oa, and today ow. Four spellings, and every one of them says oh."
+    },
+    {
+      "type": "review",
+      "label": "The teams from this week",
+      "words": ["rain", "tray", "sea", "clean", "trail"],
+      "prompt": "ai, ay and ea, back again. Look at where the team sits before you say the word."
+    }
+  ]
+}

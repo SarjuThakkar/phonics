@@ -1,0 +1,156 @@
+{
+  "level": 75,
+  "title": "ea says /ee/",
+  "kidTitle": "Meet ea",
+  "parentNote": "ea says /ee/ — sea, eat, dream, clean. Your child already knows one spelling for that sound, ee, from a few weeks back, and this is the second one. Unlike ay and ai, there is no tidy rule for which to use: sea and see sound identical and there is nothing in the word to tell you. That sounds unfair and it is, but it only matters for spelling. For reading, both spellings say the same thing, and today is about reading. The slip to expect is sounding the e and the a apart, so eat comes out ee-at, in two pieces. Say the word yourself first, whole, and let them match it. If your child asks which spelling a word uses, the honest answer is the one that helps most: we learn those one word at a time, and everybody does.",
+  "newGraphemes": ["ea"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ea",
+      "keyword": "sea",
+      "picture": "🌊",
+      "mouthCue": "Your lips stretch wide, almost a grin, and the sound goes on as long as you like.",
+      "prompt": "Two letters, one sound. They do not say e and a. Together they say the name of the letter e: ea."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ea",
+      "choices": ["ea", "e", "er"],
+      "prompt": "Three things an e can be part of. Find the team that says the letter name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ea",
+      "choices": ["ea", "ai", "oe"],
+      "prompt": "Three vowel teams, three different letter names. Which one is today's?"
+    },
+    {
+      "type": "blend",
+      "word": "sea",
+      "parts": ["s", "ea"],
+      "picture": "🌊",
+      "prompt": "Two sounds. Say the s, then stretch the team out long."
+    },
+    {
+      "type": "blend",
+      "word": "eat",
+      "parts": ["ea", "t"],
+      "prompt": "This time the team is first. It still says one sound, not two."
+    },
+    {
+      "type": "blend",
+      "word": "seat",
+      "parts": ["s", "ea", "t"],
+      "picture": "💺"
+    },
+    {
+      "type": "blend",
+      "word": "clean",
+      "parts": ["cl", "ea", "n"]
+    },
+    {
+      "type": "blend",
+      "word": "dream",
+      "parts": ["dr", "ea", "m"],
+      "picture": "💤",
+      "prompt": "The longest one. Two sounds at the front, then the team, then one more."
+    },
+    {
+      "type": "readWord",
+      "word": "treat",
+      "picture": "🍬"
+    },
+    {
+      "type": "readWord",
+      "word": "beach",
+      "picture": "🏖"
+    },
+    {
+      "type": "readWord",
+      "word": "leaf",
+      "picture": "🍃"
+    },
+    {
+      "type": "readWord",
+      "word": "stream"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "seat",
+      "choices": ["seat", "set", "sea"],
+      "prompt": "Two of these have the team in them. The end of the word picks between them."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "beach",
+      "choices": ["beach", "bean", "beak"],
+      "prompt": "All three start the same and all three have the team. Listen to the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cream",
+      "choices": ["cream", "clean", "dream"],
+      "prompt": "This one is hard. Three words with the team in the middle, and the front of each one is almost the same."
+    },
+    {
+      "type": "sentence",
+      "text": "I can read this, and I did not need help."
+    },
+    {
+      "type": "sentence",
+      "text": "The seal did leap in the sea and then did nap in the sun."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want a treat, or do they want a big meal?"
+    },
+    {
+      "type": "story",
+      "title": "The seal and the treat",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg and I did sit on the sand and eat a treat.",
+        "The sea is flat, and the sun is hot.",
+        "Then a seal did pop up in the sea, and it did bark at us.",
+        "Meg did drop her treat on the sand. The seal did see it.",
+        "It did flap and leap up the beach, fast, and it did grab the treat.",
+        "Meg did wail. That is her treat!",
+        "The seal did eat it up. Then it sat in the sun and did not shift.",
+        "I did hand Meg the last treat, and this time Meg did not drop it.",
+        "The seal did stay with us for the day, but it did not get that treat.",
+        "Meg did grin. It is not a bad day at the beach."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg and I did eat a treat on ...",
+          "choices": ["the sand", "a train", "the grass"],
+          "answer": "the sand"
+        },
+        {
+          "prompt": "The seal did leap up the beach and did grab ...",
+          "choices": ["the treat", "a fish", "the bag"],
+          "answer": "the treat"
+        },
+        {
+          "prompt": "The seal did stay with us, but this time it did not get ...",
+          "choices": ["the last treat", "in the sea", "a nap"],
+          "answer": "the last treat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The other way to spell this sound, from a few weeks back",
+      "words": ["sheep", "feed", "week", "street", "green"],
+      "prompt": "Same sound as today, spelled ee. Two spellings, one sound, and both of them say the name of the letter e."
+    },
+    {
+      "type": "review",
+      "label": "The teams from the last three days",
+      "words": ["rain", "play", "trail", "spray", "paint"],
+      "prompt": "ai in the middle, ay on the end. Check where the team sits before you say the word."
+    }
+  ]
+}
