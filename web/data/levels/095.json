@@ -1,0 +1,160 @@
+{
+  "level": 95,
+  "title": "y at the end says /ie/",
+  "kidTitle": "y says eye",
+  "parentNote": "A y on the end of a short word says eye: my, by, fly, try, sky. This is the same letter your child met on day eighty-seven saying yuh at the front of yak and yes, so today it does a second job, and where it sits in the word is what tells you which job. Front of the word, it is yuh. On its own at the end, it is eye. Two things to expect. The first is yuh creeping back in, so my comes out as muh-yuh — the fix is to cover the y, say the first sound, then say the whole word yourself. The second is the sound-it-out button, which still says yuh for a lone y; say the word over it and carry on. And today hands over one small word that matters more than it looks: my. Your child has been able to read I since day seventy and me since day eighty-four, but never a way to say something belongs to them. From today my dog, my den and my turn are all readable, and they are worth saying out loud with a bit of ceremony.",
+  "newGraphemes": ["-y"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-y",
+      "keyword": "fly",
+      "picture": "🪰",
+      "mouthCue": "Your mouth drops open and then slides shut again, all in one slide: eye.",
+      "prompt": "You know this letter. At the front of a word it says yuh. On its own at the end of a short word it says eye."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-y",
+      "choices": ["-y", "ay", "-e"],
+      "prompt": "Three endings. One says ay like in day and one says ee like in me. Find the one that says eye."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-y",
+      "choices": ["-y", "ie", "i_e"],
+      "prompt": "This one is hard on purpose. All three of these say eye, so your ears can not pick for you. Today's one is a single letter and it sits on the end. Find it."
+    },
+    {
+      "type": "blend",
+      "word": "my",
+      "parts": ["m", "y"],
+      "prompt": "Two sounds. Careful: the sound button still says yuh for a lone y. Today it says eye. Mmm, eye, my."
+    },
+    {
+      "type": "blend",
+      "word": "by",
+      "parts": ["b", "y"]
+    },
+    {
+      "type": "blend",
+      "word": "fly",
+      "parts": ["fl", "y"],
+      "picture": "🪰"
+    },
+    {
+      "type": "blend",
+      "word": "sky",
+      "parts": ["sk", "y"],
+      "picture": "🌤"
+    },
+    {
+      "type": "blend",
+      "word": "butterfly",
+      "parts": ["b", "u", "tt", "er", "fl", "y"],
+      "picture": "🦋",
+      "prompt": "The long one, and the y is still right at the end. Sound out butter, then sound out fly, then push them together."
+    },
+    {
+      "type": "readWord",
+      "word": "try"
+    },
+    {
+      "type": "readWord",
+      "word": "cry",
+      "picture": "😢"
+    },
+    {
+      "type": "readWord",
+      "word": "dry",
+      "picture": "🏜"
+    },
+    {
+      "type": "readWord",
+      "word": "shy"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "my",
+      "choices": ["my", "me", "may"],
+      "prompt": "Three tiny words that all start with an m. Listen right to the end of each one."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "fly",
+      "choices": ["fly", "fry", "flee"],
+      "prompt": "All three start with an f. Listen to the sound after it, and then to the sound after that."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "sky",
+      "choices": ["sky", "sty", "spy"],
+      "prompt": "This one is hard. All three start with an s and end with eye. Everything you need is the sound in between."
+    },
+    {
+      "type": "sentence",
+      "text": "My dog did get up on my bed, and he did not want to go back down."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"Do you want to try?\" and she did hand me my red kite."
+    },
+    {
+      "type": "sentence",
+      "text": "I did try to fly the kite, but the sky is still and it did not go up."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do not cry,\" said Mum, and she did dry my hat off next to the stove."
+    },
+    {
+      "type": "story",
+      "title": "My den",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Next to the tall wall in the back yard, I did make my den.",
+        "It is a big box, a rug and six sticks, and it is my den.",
+        "Meg said, \"Can I go in?\" and I said no, it is my den.",
+        "So Meg did sit down on the step and she did not say a thing.",
+        "Then the sky did go black, and the rain did drop down on my den.",
+        "The rug did get wet. The box did get wet. I did get wet.",
+        "My den did fall down on my back, and I did yell and yell.",
+        "Meg did run out and did tug the box off me. \"Do you want to dry off?\" she said.",
+        "We did run in, and Mum did dry us next to the stove.",
+        "Meg said, \"Do you want to try my den? It is in the hall and it can not get wet.\"",
+        "Her den is a big box with a rug on top and a lamp in it, and we did sit in it all day.",
+        "\"It is my den,\" said Meg, \"but you can go in it.\" So I did."
+      ],
+      "questions": [
+        {
+          "prompt": "I did make my den next to the tall wall. It is six sticks, a rug and ...",
+          "choices": ["a big box", "a red kite", "the rain"],
+          "answer": "a big box"
+        },
+        {
+          "prompt": "The rain did drop down and my den did fall on me. Then Meg did ...",
+          "choices": ["run out and tug the box off me", "sit on the step and grin", "go up to bed"],
+          "answer": "run out and tug the box off me"
+        },
+        {
+          "prompt": "At the end we did sit in the den that is in ...",
+          "choices": ["the hall", "the back yard", "the shed"],
+          "answer": "the hall"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The two teams from this week",
+      "words": ["saw", "draw", "ball", "small", "tall"],
+      "prompt": "aw says aw and all says all. Two days, two chunks that both drop your jaw."
+    },
+    {
+      "type": "review",
+      "label": "The other ways we spell eye",
+      "words": ["pie", "tie", "time", "bike", "kite"],
+      "prompt": "ie at the end, and a quiet e on the end that reaches back to the i. With today's y that makes three."
+    }
+  ]
+}

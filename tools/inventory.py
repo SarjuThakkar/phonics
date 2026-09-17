@@ -75,7 +75,12 @@ def main() -> int:
     print("NEW THIS LEVEL (must appear; nothing else new may)")
     for g in spec["graphemes"]:
         e = table[g]
-        print(f"    {e['display']:<5} says /{e['say']}/  as in {e['keyword']}"
+        # Show the id, not the display, where they differ: split digraphs
+        # display as "i-e" but are keyed "i_e", and an author copying the
+        # pretty form straight into a soundMatch writes an id that doesn't
+        # exist. The id is what goes in the JSON, so the id is what we print.
+        name = g if g == e["display"] else f"{g}  (written {e['display']})"
+        print(f"    {name:<5} says /{e['say']}/  as in {e['keyword']}"
               f"   [{e['kind']}, {'stretchy' if e['stretchy'] else 'quick — clip it short'}]")
     for w in spec["sightWords"]:
         print(f"    sight word: {w}")

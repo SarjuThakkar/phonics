@@ -91,7 +91,12 @@
     89,
     90,
     91,
-    92
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
   ],
   "levels": [
     {
@@ -645,6 +650,36 @@
       "title": "z says /z/, zz says /z/",
       "kidTitle": "Meet z and zz",
       "activities": 24
+    },
+    {
+      "level": 93,
+      "title": "aw says /aw/",
+      "kidTitle": "Meet aw",
+      "activities": 22
+    },
+    {
+      "level": 94,
+      "title": "-all says /all/",
+      "kidTitle": "Meet all",
+      "activities": 22
+    },
+    {
+      "level": 95,
+      "title": "y at the end says /ie/",
+      "kidTitle": "y says eye",
+      "activities": 22
+    },
+    {
+      "level": 96,
+      "title": "wh says /w/",
+      "kidTitle": "Meet wh",
+      "activities": 22
+    },
+    {
+      "level": 97,
+      "title": "what",
+      "kidTitle": "The word what",
+      "activities": 23
     }
   ]
 }

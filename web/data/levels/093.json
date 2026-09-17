@@ -1,0 +1,161 @@
+{
+  "level": 93,
+  "title": "aw says /aw/",
+  "kidTitle": "Meet aw",
+  "parentNote": "Today is aw, the wide-open sound in saw and claw. The two letters make one sound and the w does not speak on its own, which is the same deal your child already struck with ay in day and ow in snow — say that out loud, because noticing the pattern is worth more than learning this one team. The slip to expect is the a going back to its old job, so claw comes out as clah-w or even cla. If that happens, cover the w with your finger, let them say the a, then uncover it and say the whole thing yourself: aw. One more thing worth knowing is where this team lives. aw sits at the end of a word (saw, jaw, draw) or just before one last sound (hawk, lawn, crawl), and almost never at the front, so it is a team to hunt for in the back half of the word.",
+  "newGraphemes": ["aw"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "aw",
+      "keyword": "saw",
+      "picture": "🪚",
+      "mouthCue": "Drop your jaw and let your lips go round, and hold it: aaaw. It is the shape your mouth makes at the doctor.",
+      "prompt": "A new team. Two letters, one sound, and the w does not get a turn of its own."
+    },
+    {
+      "type": "soundMatch",
+      "target": "aw",
+      "choices": ["aw", "ay", "ar"],
+      "prompt": "All three start with an a, and in none of them does the a say aah. Find the new one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "aw",
+      "choices": ["aw", "or", "ow"],
+      "prompt": "This one is hard. or is the sound in fork and ow is the sound in snow. Find the one that says aw."
+    },
+    {
+      "type": "blend",
+      "word": "saw",
+      "parts": ["s", "aw"],
+      "picture": "🪚",
+      "prompt": "Two sounds in the whole word. Hold the new one at the end."
+    },
+    {
+      "type": "blend",
+      "word": "jaw",
+      "parts": ["j", "aw"]
+    },
+    {
+      "type": "blend",
+      "word": "hawk",
+      "parts": ["h", "aw", "k"],
+      "picture": "🦅",
+      "prompt": "Now the team is in the middle, with one sound after it."
+    },
+    {
+      "type": "blend",
+      "word": "yawn",
+      "parts": ["y", "aw", "n"],
+      "picture": "🥱"
+    },
+    {
+      "type": "blend",
+      "word": "seesaw",
+      "parts": ["s", "ee", "s", "aw"],
+      "prompt": "The long one. Two teams in it. Sound out see, then sound out saw, then push them together."
+    },
+    {
+      "type": "readWord",
+      "word": "draw",
+      "picture": "✏️"
+    },
+    {
+      "type": "readWord",
+      "word": "claw",
+      "picture": "🐾"
+    },
+    {
+      "type": "readWord",
+      "word": "lawn",
+      "picture": "🌱"
+    },
+    {
+      "type": "readWord",
+      "word": "crawl"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "saw",
+      "choices": ["saw", "say", "sad"],
+      "prompt": "All three start with an s. The end of the word is where the work is."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lawn",
+      "choices": ["lawn", "law", "long"],
+      "prompt": "Listen right to the last sound, and then to the one in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "draw",
+      "choices": ["draw", "drawn", "drain"],
+      "prompt": "This one is hard. All three start with dr. Two of them have a team that says aw and one does not."
+    },
+    {
+      "type": "sentence",
+      "text": "A big hawk did sit up in the oak, and I saw it drop down fast."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"Do you want to draw a fox?\" and she did hand me a pen."
+    },
+    {
+      "type": "sentence",
+      "text": "The cat did yawn and then did stick out its claws."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do not sit on the wet straw!\" said Dad, and we did jump up off it."
+    },
+    {
+      "type": "story",
+      "title": "The hawk on the lawn",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "At sun up I did peep out, and I saw a big bird sat down on the lawn.",
+        "It did not hop and it did not peck. It did not want to go.",
+        "Dad said, \"That is a hawk. Do not run at it,\" and we did stand still.",
+        "The hawk did lift up a claw, and it did not set it back down.",
+        "Meg said, \"It is stuck!\" and she did point at the grass.",
+        "A long straw did get stuck on that claw, and the hawk did tug and tug.",
+        "\"Get me the ham,\" said Dad, and I did run in and get it.",
+        "He did set the ham down on the lawn and did creep up next to the hawk.",
+        "The hawk did peck at the ham, and Dad did slip the straw off its claw.",
+        "Up it did go, off the lawn and up past the big oak.",
+        "Meg said, \"Do you want to draw it?\" and so we did sit on the step and draw a hawk."
+      ],
+      "questions": [
+        {
+          "prompt": "The big bird sat down on the lawn is ...",
+          "choices": ["a hawk", "a crow", "an owl"],
+          "answer": "a hawk"
+        },
+        {
+          "prompt": "The hawk did tug and tug at a long straw stuck on ...",
+          "choices": ["its claw", "its beak", "its back"],
+          "answer": "its claw"
+        },
+        {
+          "prompt": "Dad did slip the straw off, and then the hawk did ...",
+          "choices": ["go up past the oak", "sit on the step", "peck at Meg"],
+          "answer": "go up past the oak"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The sounds from the last two days",
+      "words": ["wax", "text", "zip", "jazz", "prize"],
+      "prompt": "x says ks and z says zzz. One letter for two sounds, then one letter that hums."
+    },
+    {
+      "type": "review",
+      "label": "Teams from further back",
+      "words": ["snail", "coach", "snow", "churn", "sweet"],
+      "prompt": "ai, oa, ow, a bossy r and a long ee. Find the team first, then say the word."
+    }
+  ]
+}

@@ -205,6 +205,23 @@ IRREGULAR: dict[str, int | None] = {
     "boxes": None, "foxes": None, "quizzes": None,
     # miscellaneous false passes: a long first syllable, or s saying /z/
     "paper": None, "leave": None, "times": None, "seaside": None,
+    # a before l is the /aw/ of -all, so these read wrong -- and "shall" is
+    # the dangerous one, because it sits inside the very family day 94
+    # teaches and is the obvious distractor to reach for. It is /shal/, not
+    # /shawl/.
+    "shall": None, "salt": None, "bald": None, "false": None,
+    # o before ll goes long, same shape as the already-blocked "roll"
+    "toll": None, "poll": None, "troll": None, "stroll": None,
+    # -y at the end says /eye/ from day 95, but these don't: a schwa first
+    # syllable, a silent u, or (myself) the CONSONANT y mid-word
+    "myself": None, "apply": None, "reply": None, "deny": None,
+    "defy": None, "july": None, "guy": None,
+    # -y here says /ee/, which is a different grapheme taught on day 116
+    "tally": None, "rally": None, "valley": None,
+    # silent b
+    "thumb": None, "lamb": None, "climb": None, "comb": None,
+    # the -ves plural slips past the -es check
+    "leaves": None, "wolves": None, "knives": None,
 }
 
 

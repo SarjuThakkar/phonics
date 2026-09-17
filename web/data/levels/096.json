@@ -1,0 +1,161 @@
+{
+  "level": 96,
+  "title": "wh says /w/",
+  "kidTitle": "Meet wh",
+  "parentNote": "wh says wuh — the same sound as a plain w. There is nothing to hear here and it is worth telling your child that straight out, because they will try to hear a difference and be puzzled when there is not one. wh is a spelling, not a sound: you learn which words take it the way you learn a face. The good news is that it is a small, tidy list and almost all of it is question words and everyday things, so when, why, which, white, whale and wheel will cover nearly everything they meet this year. The one to be ready for is the h getting sounded, so when comes out as wuh-huh-en. Tell them the h is asleep. And with y from yesterday, why arrives today, which means for the first time your child can read a question that asks for a reason — there is one in the story.",
+  "newGraphemes": ["wh"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "wh",
+      "keyword": "whale",
+      "picture": "🐳",
+      "mouthCue": "Round your lips into a small o and let a puff out: wuh. The h just sits there and says nothing.",
+      "prompt": "Two letters, one sound, and you already know the sound. This is a new way to spell wuh."
+    },
+    {
+      "type": "soundMatch",
+      "target": "wh",
+      "choices": ["wh", "ch", "sh"],
+      "prompt": "Three pairs that all end with an h. Find the one that says wuh."
+    },
+    {
+      "type": "soundMatch",
+      "target": "wh",
+      "choices": ["wh", "w", "qu"],
+      "prompt": "This one is a trick, so here is the trick. Two of these say wuh and there is no way at all to hear which is which. So do not listen. Find the one that is a w with an h stuck on it."
+    },
+    {
+      "type": "blend",
+      "word": "when",
+      "parts": ["wh", "e", "n"],
+      "prompt": "Three sounds. The h in the middle of the first pair is asleep, so do not say it."
+    },
+    {
+      "type": "blend",
+      "word": "whip",
+      "parts": ["wh", "i", "p"]
+    },
+    {
+      "type": "blend",
+      "word": "whale",
+      "parts": ["wh", "a", "le"],
+      "picture": "🐳",
+      "prompt": "A quiet e on the end, so it stays stuck to the l and the a says its name."
+    },
+    {
+      "type": "blend",
+      "word": "wheel",
+      "parts": ["wh", "ee", "l"],
+      "picture": "🎡"
+    },
+    {
+      "type": "blend",
+      "word": "whisker",
+      "parts": ["wh", "i", "sk", "er"],
+      "picture": "🐱",
+      "prompt": "The long one. Two beats. Sound out whisk, then add the er on the end."
+    },
+    {
+      "type": "readWord",
+      "word": "why"
+    },
+    {
+      "type": "readWord",
+      "word": "white",
+      "picture": "🤍"
+    },
+    {
+      "type": "readWord",
+      "word": "which"
+    },
+    {
+      "type": "readWord",
+      "word": "whisk",
+      "picture": "🥄"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "when",
+      "choices": ["when", "then", "hen"],
+      "prompt": "All three end the same. The very first sound is all you get."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "white",
+      "choices": ["white", "wipe", "wide"],
+      "prompt": "All three start with a wuh and all three end with a quiet e. Listen for the sound in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "whisk",
+      "choices": ["whisk", "wish", "whip"],
+      "prompt": "This one is hard. All three start the same. Listen right to the end of the word."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Why did you go in the shed?\" said Dad, and I did not want to tell him."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"When can we go?\" and Mum said we can go at six."
+    },
+    {
+      "type": "sentence",
+      "text": "My bike did get a bent wheel, and Dad said he can fix it for me."
+    },
+    {
+      "type": "sentence",
+      "text": "Mum did whisk six eggs up in a cup and then did tip them in the pan."
+    },
+    {
+      "type": "story",
+      "title": "When the whale did jump",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Dad did drive us down to the sea, and we did sit up on the rocks.",
+        "\"Why are we up on the rocks?\" said Meg, and Dad said, \"To see a whale.\"",
+        "So we did sit. And we did sit. The sea did not do a thing.",
+        "Meg said, \"When can we see it?\" and Dad said, \"When it wants us to.\"",
+        "I did eat my buns. Meg did get her feet wet. The sun did go down a bit.",
+        "\"This is not fun,\" said Meg. \"I want to go back and get dry.\"",
+        "So we did stand up, and Dad did pack the bag, and Meg did run up the path.",
+        "Then, out in the sea, a big black back did rise up, and up, and up.",
+        "It did whip its tail up and drop it down, and all the sea did go white.",
+        "Meg did run back down the path so fast that she did land in the sand.",
+        "We did see its back, and then its tail, and then it did sink down and go.",
+        "In the truck Meg said, \"When can we go back?\" and Dad said, \"When you want to.\""
+      ],
+      "questions": [
+        {
+          "prompt": "Why did we go and sit up on the rocks?",
+          "choices": ["To see a whale", "To get wet", "To eat buns"],
+          "answer": "To see a whale"
+        },
+        {
+          "prompt": "When the big black back did rise up out in the sea, Meg did ...",
+          "choices": ["run back down the path", "sit still on the rocks", "go in the sea"],
+          "answer": "run back down the path"
+        },
+        {
+          "prompt": "The whale did whip its tail down, and then all the sea did go ...",
+          "choices": ["white", "black", "still"],
+          "answer": "white"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The sound from yesterday",
+      "words": ["my", "fly", "try", "sky", "dry"],
+      "prompt": "A y on the end of a short word says eye. Five of them in a row."
+    },
+    {
+      "type": "review",
+      "label": "Bits from the last two weeks",
+      "words": ["ball", "claw", "quilt", "prize", "storm"],
+      "prompt": "all, aw, qu, z and a bossy r. Find the tricky bit first, then say the word."
+    }
+  ]
+}
