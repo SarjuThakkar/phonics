@@ -1,0 +1,163 @@
+{
+  "level": 88,
+  "title": "you",
+  "kidTitle": "The word you",
+  "parentNote": "One word today, learned whole: you. Every letter in it is a letter your child knows, which is exactly the trouble — sounded out honestly it comes to yo-oo, and the ou in it is the same ou that says ow in couch and shout. It does not say ow here, and this course never teaches the job it is really doing, so you is simply remembered. Say it for them the moment they hesitate rather than letting them grind at it. It is worth a whole day for what it opens up: until now a sentence could only be about somebody else, and from today a story can talk straight to the child holding the tablet. Do you want to go in? I can see you. That is new, and the story at the end leans on it hard.",
+  "newGraphemes": [],
+  "newSightWords": ["you"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "you",
+      "sentence": "Do you want to go down to the den with me?",
+      "prompt": "Do not sound this one out. Look at it and say it: you."
+    },
+    {
+      "type": "readWord",
+      "word": "you",
+      "prompt": "No sounding out. Just say it: you."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "ow", "oi"],
+      "prompt": "The letters in the middle of you are these two. Find them, and remember that in you they do not say this at all."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ue",
+      "choices": ["ue", "u_e", "u"],
+      "prompt": "This is the sound you actually says. It just spells it a way we do not teach."
+    },
+    {
+      "type": "blend",
+      "word": "flower",
+      "parts": ["fl", "ow", "er"],
+      "picture": "🌼",
+      "prompt": "No new sound today, so all of these are words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "trumpet",
+      "parts": ["tr", "u", "mp", "e", "t"],
+      "picture": "🎺"
+    },
+    {
+      "type": "blend",
+      "word": "rainbow",
+      "parts": ["r", "ai", "n", "b", "ow"],
+      "picture": "🌈",
+      "prompt": "Two short words stuck together. Sound out rain, then sound out bow."
+    },
+    {
+      "type": "blend",
+      "word": "birthday",
+      "parts": ["b", "ir", "th", "d", "ay"],
+      "picture": "🎂"
+    },
+    {
+      "type": "blend",
+      "word": "farmyard",
+      "parts": ["f", "ar", "m", "y", "ar", "d"],
+      "prompt": "The long one. Two bossy r teams, and a y sitting in the middle doing the job it did yesterday."
+    },
+    {
+      "type": "readWord",
+      "word": "toad",
+      "picture": "🐸"
+    },
+    {
+      "type": "readWord",
+      "word": "torch",
+      "picture": "🔦"
+    },
+    {
+      "type": "readWord",
+      "word": "turnip"
+    },
+    {
+      "type": "readWord",
+      "word": "toaster"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "you",
+      "choices": ["you", "yes", "yet"],
+      "prompt": "All three start with a y. Only one of them is the word we learned whole today."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "torch",
+      "choices": ["torch", "porch", "perch"],
+      "prompt": "The same ending on all three. Listen to the front, then listen to the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "toad",
+      "choices": ["toad", "toast", "road"],
+      "prompt": "Two of these begin the same and two of these end the same."
+    },
+    {
+      "type": "sentence",
+      "text": "Do you want to go down to the bank and dig a den?"
+    },
+    {
+      "type": "sentence",
+      "text": "You did tell me the toad is in the tin, and it is not!"
+    },
+    {
+      "type": "sentence",
+      "text": "Are you up on the hill with Meg, or are you still in bed?"
+    },
+    {
+      "type": "sentence",
+      "text": "I can see you! You are up in the oak with the crow."
+    },
+    {
+      "type": "story",
+      "title": "Do you want to go in?",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "I did dig a den in the bank, down at the big oak.",
+        "Do you want to see it? You can go in if you want to.",
+        "You must bend down at the start, and then it is big in the back.",
+        "I did drag in a red rug and a tin cup and a torch.",
+        "But then I did see a fat toad sit down on that red rug.",
+        "Do you want to lift it out? I do not want to lift it.",
+        "It did blink up at me. It did not want to go.",
+        "So I did let it stay, and I did sit on the damp mud.",
+        "Do not tell Mum and do not tell Dad. It is a den for you and me.",
+        "And for a fat toad that will not get up off the rug."
+      ],
+      "questions": [
+        {
+          "prompt": "I did dig a den in the bank, down at the big ...",
+          "choices": ["oak", "hill", "shed"],
+          "answer": "oak"
+        },
+        {
+          "prompt": "I did drag in a red rug, a tin cup and a ...",
+          "choices": ["torch", "drum", "cake"],
+          "answer": "torch"
+        },
+        {
+          "prompt": "The fat toad did sit down on ...",
+          "choices": ["the red rug", "the damp mud", "the tin cup"],
+          "answer": "the red rug"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words from the last few days",
+      "words": ["yarn", "yellow", "hello", "banjo", "she"],
+      "prompt": "A y at the front, and words that stop on an e or an o."
+    },
+    {
+      "type": "review",
+      "label": "Teams and quiet letters from further back",
+      "words": ["crown", "spoil", "tray", "float", "stove"],
+      "prompt": "ow, oi, ay, oa, and a quiet e on the end. Find the team in each one first."
+    }
+  ]
+}

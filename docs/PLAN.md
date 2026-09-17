@@ -82,12 +82,11 @@ next batch goes out, which is the main reason the days keep improving.
 ## Status
 
 Remaining batches, in order — this is the schedule, and it is the thing to
-pick up if a session is interrupted. Batches 1–11 (days 28–82) are done,
+pick up if a session is interrupted. Batches 1–12 (days 28–87) are done,
 committed, pushed and live.
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 12 | 83–87 | Review: ou, oi, oy; e at the end says /ee/; o at the end says /oe/; Review: long e and o endings; y says /y/ |
 | 13 | 88–92 | you; said; qu says /kw/; x says /ks/; z says /z/ |
 | 14 | 93–97 | aw says /aw/; -all says /all/; y at the end says /ie/; wh says /w/; what |
 | 15 | 98–102 | where; there, here, of; th says /th/ (unvoiced); could, would, should; any, anywhere, many |

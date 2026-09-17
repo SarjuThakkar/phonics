@@ -220,9 +220,14 @@ def validate_level(path: pathlib.Path) -> Report:
         r.error(f"'{word}': {reason}")
 
     # --- connected text is punctuated ------------------------------------
+    # A line may be wholly quoted speech (Meg said, "Get the rope!"), which
+    # ends in a speech mark with the real punctuation just inside it. Strip
+    # the speech marks first so both shapes of dialogue are legal; from day 89
+    # ("said") stories can have characters talk to each other.
     for text in [a.get("text", "") for a in activities if a.get("type") == "sentence"] + \
                 [ln for a in activities if a.get("type") == "story" for ln in a.get("lines", [])]:
-        if text.strip() and text.strip()[-1] not in ".!?":
+        stripped = text.strip().rstrip('"')
+        if stripped and stripped[-1] not in ".!?":
             r.error(f'"{text}": a sentence ends with . ! or ?')
 
     # --- clusters are a step the sequence delays until day 27 -------------
@@ -255,7 +260,9 @@ def validate_level(path: pathlib.Path) -> Report:
                 r.error(f"'{word}': capital letters are not taught until day {CAPITALS_FROM}")
     else:
         for text in sentences:
-            first = text.strip()[:1]
+            # A line may open with quoted speech ("Get the rope!" said Meg),
+            # where the capital sits just inside the speech mark.
+            first = text.strip().lstrip('"')[:1]
             if first and not first.isupper():
                 r.error(f'"{text}": sentences start with a capital letter from day {CAPITALS_FROM}')
 

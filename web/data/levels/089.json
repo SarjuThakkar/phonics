@@ -1,0 +1,161 @@
+{
+  "level": 89,
+  "title": "said",
+  "kidTitle": "The word said",
+  "parentNote": "One word today, learned whole: said. The ai in it says the short e in bed, which is a thing those two letters do in this word and almost nowhere else, so there is nothing to puzzle out — it is sed, and the quicker you say it for them the better. The slip to expect is sayed, and it is a good mistake: ai has meant the sound in rain since day 73 and your child is applying the rule properly. Today also changes what a story can be. Until now nobody in this course has been able to speak, because there was no word to hang speech on, so eighty-eight days of stories have been somebody telling you what happened. With you yesterday and said today, two people can talk to each other, and that means speech marks — which your child has never seen. Point at a pair and say: the words between these two little marks are the ones Meg says out loud. Then read Meg's lines in a Meg voice and the narrator's in yours. That one trick teaches the marks faster than any explaining.",
+  "newGraphemes": [],
+  "newSightWords": ["said"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "said",
+      "sentence": "Meg said, \"It is an owl!\" and she did point up at it.",
+      "prompt": "Do not sound this one out. It looks like it should say sayed. It says sed."
+    },
+    {
+      "type": "readWord",
+      "word": "said",
+      "prompt": "No sounding out. Look at it and say it: said."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e",
+      "choices": ["e", "ai", "ay"],
+      "prompt": "This is the sound in the middle of said. Find it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ai",
+      "choices": ["ai", "ay", "ea"],
+      "prompt": "Now find the two letters that are really sitting in the middle of said. They are doing somebody else's job in that word."
+    },
+    {
+      "type": "blend",
+      "word": "shelf",
+      "parts": ["sh", "e", "l", "f"],
+      "prompt": "No new sound today, so all of these are words you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "cobweb",
+      "parts": ["c", "o", "b", "w", "e", "b"],
+      "picture": "🕸"
+    },
+    {
+      "type": "blend",
+      "word": "thunder",
+      "parts": ["th", "u", "nd", "er"],
+      "picture": "⛈"
+    },
+    {
+      "type": "blend",
+      "word": "seagull",
+      "parts": ["s", "ea", "g", "u", "ll"],
+      "picture": "🐦"
+    },
+    {
+      "type": "blend",
+      "word": "windmill",
+      "parts": ["w", "i", "nd", "m", "i", "ll"],
+      "prompt": "The long one. Two short words stuck together, and each one ends in a team."
+    },
+    {
+      "type": "readWord",
+      "word": "owl",
+      "picture": "🦉"
+    },
+    {
+      "type": "readWord",
+      "word": "bark"
+    },
+    {
+      "type": "readWord",
+      "word": "thud"
+    },
+    {
+      "type": "readWord",
+      "word": "huff"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "said",
+      "choices": ["said", "sad", "sand"],
+      "prompt": "Three words that start with an s. Two of them you sound out and one of them you just know."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "owl",
+      "choices": ["owl", "howl", "oil"],
+      "prompt": "Listen to the front of the word first, then to the team in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "thunder",
+      "choices": ["thunder", "thinner", "tender"],
+      "prompt": "This one is hard. All three end the same, so everything you need is at the start."
+    },
+    {
+      "type": "sentence",
+      "text": "Mum said, \"Do you want to go out?\" and I did run to the yard."
+    },
+    {
+      "type": "sentence",
+      "text": "I said, \"It is not me!\" and then Meg did start to grin."
+    },
+    {
+      "type": "sentence",
+      "text": "You said the tin is not on the shelf, and Meg said it is."
+    },
+    {
+      "type": "sentence",
+      "text": "She said the toad is in the den, and he said it is in the pond."
+    },
+    {
+      "type": "story",
+      "title": "Meg said it is an owl",
+      "prompt": "Two of us talk in this story. The words in the little marks are the ones we say out loud.",
+      "lines": [
+        "Up in the big oak sat a dark lump.",
+        "Meg said, \"It is an owl!\" and she did point up at it.",
+        "I said, \"It is not an owl. It is a crow!\" and Meg did huff.",
+        "Meg said, \"Owls are big and crows are not,\" and she did cross her arms.",
+        "So we did creep up to the oak to see.",
+        "The lump did not stir, and it did not make a peep.",
+        "I did chuck a nut up at it, and down it did drop.",
+        "It did land in the mud with a thud. It is not an owl. It is not a crow.",
+        "It is the red hat Dad did drop in the storm at sun up.",
+        "Meg said, \"I did tell you it is big!\" and I did grin at her.",
+        "We did run in, and Dad said, \"You did get it back!\" and he did pop it on."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg said the dark lump up in the oak is ...",
+          "choices": ["an owl", "a crow", "a red hat"],
+          "answer": "an owl"
+        },
+        {
+          "prompt": "Meg said owls are big and crows are ...",
+          "choices": ["not big", "dark", "fast"],
+          "answer": "not big"
+        },
+        {
+          "prompt": "I did chuck a nut up at it, and down in the mud did land ...",
+          "choices": ["the red hat", "a big owl", "a nest"],
+          "answer": "the red hat"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The words we just remember",
+      "words": ["the", "is", "they", "are", "you"],
+      "prompt": "Not one of these can be sounded out. We know them by heart, and now there are ten."
+    },
+    {
+      "type": "review",
+      "label": "One word for each team from last week",
+      "words": ["shout", "joint", "brain", "cheek", "burnt"],
+      "prompt": "ou, oi, ai, ee and a bossy r. Find the team in each word before you say it."
+    }
+  ]
+}

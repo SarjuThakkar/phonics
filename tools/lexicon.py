@@ -185,6 +185,26 @@ IRREGULAR: dict[str, int | None] = {
     "yoyo": None, "joyous": None,
     # silent-e long i plus s saying /z/, same family as prize/rise/wise
     "prise": None,
+    # soft c says /s/ before e and i. This course never teaches it, and every
+    # one of these segments perfectly cleanly (c is taught on day 16, e on 44),
+    # so nothing but a human ear catches them. "fence" is the one authors
+    # actually reach for.
+    "fence": None, "mice": None, "rice": None, "nice": None, "race": None,
+    "face": None, "ice": None, "slice": None, "space": None, "since": None,
+    "prince": None, "dance": None, "city": None, "cent": None, "cell": None,
+    # soft g at the START of a word says /j/ -- never taught; the day-120 `ge`
+    # grapheme is the ENDING only, so these stay illegal forever.
+    "gem": None, "giant": None, "gentle": None, "ginger": None,
+    # ...whereas the -ge ending IS taught, on the last day of the course.
+    # TRAP_EXCEPTIONS whitelists "ge" so "get" isn't flagged, which lets this
+    # whole family through the trap check until then.
+    "page": 120, "cage": 120, "huge": 120, "stage": 120, "large": 120,
+    "age": 120, "rage": 120, "wage": 120, "charge": 120,
+    # the -es plural says /iz/, not /z/ -- a live temptation from day 91, when
+    # x arrives and "boxes" becomes the obvious plural to write
+    "boxes": None, "foxes": None, "quizzes": None,
+    # miscellaneous false passes: a long first syllable, or s saying /z/
+    "paper": None, "leave": None, "times": None, "seaside": None,
 }
 
 

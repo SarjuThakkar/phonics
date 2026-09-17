@@ -1,0 +1,167 @@
+{
+  "level": 91,
+  "title": "x says /ks/",
+  "kidTitle": "Meet x",
+  "parentNote": "x is one letter doing two sounds at once: k and s, stuck together. Box is b-o-ks. The slip to expect is the letter name creeping in, so box comes out as bo-eks, because the name of this letter has a sound of its own hiding at the front of it — keep them saying ks, ks, ks and never ex. The other thing worth knowing is where it sits: in nearly every word a small child meets, x is at the end or near it, never at the start, so if your child is hunting for it they should look at the back of the word. This one letter hands over a pile of words that have been out of reach for months — box, six, fox, mix, fix and next — so today's lesson should feel less like a new sound and more like a door opening.",
+  "newGraphemes": ["x"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "x",
+      "keyword": "box",
+      "picture": "📦",
+      "mouthCue": "Stop the air right at the back of your mouth, then let it hiss straight out at the front: k, then s.",
+      "prompt": "A new letter, and it is greedy. It says two sounds at once: ks."
+    },
+    {
+      "type": "soundMatch",
+      "target": "x",
+      "choices": ["x", "ck", "s"],
+      "prompt": "The other two are the sounds hiding inside the new one. Find the one that says both."
+    },
+    {
+      "type": "soundMatch",
+      "target": "x",
+      "choices": ["x", "sk", "sc"],
+      "prompt": "This one is hard. Two of these say s first and k after. The new one does it the other way round."
+    },
+    {
+      "type": "blend",
+      "word": "ox",
+      "parts": ["o", "x"],
+      "picture": "🐂",
+      "prompt": "Two sounds in the word, but three if you count the two inside the x."
+    },
+    {
+      "type": "blend",
+      "word": "box",
+      "parts": ["b", "o", "x"],
+      "picture": "📦"
+    },
+    {
+      "type": "blend",
+      "word": "fox",
+      "parts": ["f", "o", "x"],
+      "picture": "🦊"
+    },
+    {
+      "type": "blend",
+      "word": "mix",
+      "parts": ["m", "i", "x"],
+      "picture": "🥣"
+    },
+    {
+      "type": "blend",
+      "word": "next",
+      "parts": ["n", "e", "x", "t"],
+      "prompt": "A t on the end of the ks. Say it slowly: n, e, ks, t."
+    },
+    {
+      "type": "blend",
+      "word": "sixteen",
+      "parts": ["s", "i", "x", "t", "ee", "n"],
+      "prompt": "The long one. Sound out six, then sound out teen, then push them together."
+    },
+    {
+      "type": "readWord",
+      "word": "six",
+      "picture": "6️⃣"
+    },
+    {
+      "type": "readWord",
+      "word": "fix",
+      "picture": "🔧"
+    },
+    {
+      "type": "readWord",
+      "word": "wax",
+      "picture": "🕯"
+    },
+    {
+      "type": "readWord",
+      "word": "text"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "six",
+      "choices": ["six", "sick", "sip"],
+      "prompt": "All three start the same. The end is where the work is."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mix",
+      "choices": ["mix", "miss", "mist"],
+      "prompt": "Listen right to the last sound. Only one of them has the greedy letter in it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "next",
+      "choices": ["next", "nest", "net"],
+      "prompt": "This one is hard. Two of them have a t on the end, and only one has a ks in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"Do you want to mix it?\" and she did hand me a fork."
+    },
+    {
+      "type": "sentence",
+      "text": "The fox did sit next to the box and did not run off."
+    },
+    {
+      "type": "sentence",
+      "text": "I can fix the red truck if you get me six nails."
+    },
+    {
+      "type": "sentence",
+      "text": "Do you want to go next, or do you want to go last?"
+    },
+    {
+      "type": "story",
+      "title": "The fox in the box",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Dad did drag a big box out to the shed and did set it down on the grass.",
+        "I said, \"I want that box,\" and Dad said it is for me.",
+        "So I did jump in and did shut the top, and it did go dark.",
+        "Then, next to me in the dark, a thing did shift and did sniff.",
+        "I said, \"Meg? Is that you?\" and it did sniff at me a lot.",
+        "It is not Meg. It is not Dad. It is a fox!",
+        "I did yell. The fox did yelp. The top did pop up.",
+        "Out did run the fox, and next out did run me.",
+        "The fox did stop at the gate and did sit down to lick its fur.",
+        "Dad said, \"Do you want the box back?\" and I said no.",
+        "Next to the shed, in a big box, that fox is in bed."
+      ],
+      "questions": [
+        {
+          "prompt": "Dad did set the big box down on ...",
+          "choices": ["the grass", "the step", "the mud"],
+          "answer": "the grass"
+        },
+        {
+          "prompt": "In the dark, next to me in the box, sat ...",
+          "choices": ["a fox", "Meg", "a duck"],
+          "answer": "a fox"
+        },
+        {
+          "prompt": "At the end the big box is for ...",
+          "choices": ["the fox", "me", "Dad"],
+          "answer": "the fox"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The sound from yesterday",
+      "words": ["queen", "quack", "quilt", "squid", "squish"],
+      "prompt": "qu says kw. Find the lips rounding up on every one of them."
+    },
+    {
+      "type": "review",
+      "label": "Teams and a quiet e from further back",
+      "words": ["spray", "groan", "proud", "shirt", "globe"],
+      "prompt": "ay, oa, ou, a bossy r, and a quiet e on the end. Find the team first, then say the word."
+    }
+  ]
+}

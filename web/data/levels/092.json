@@ -1,0 +1,176 @@
+{
+  "level": 92,
+  "title": "z says /z/, zz says /z/",
+  "kidTitle": "Meet z and zz",
+  "parentNote": "Two spellings today for one buzzing sound: z at the front of zip and zap, and zz at the end of buzz, fizz and jazz. The sound itself is easy — it is s with the voice switched on, so put a finger on your throat and say sss then zzz and let your child feel the hum start. The doubling is the part to name out loud: a short word with one vowel in it ends in zz, not z, which is the same rule your child already met with ll in hill and ss in grass. Expect zzz to come out as sss when they are tired, because the two sounds are made in exactly the same place in the mouth and only the voice tells them apart. buzz and bus are in here side by side for that reason. This is the last of the everyday consonants, so from tomorrow every plain letter in English has been met.",
+  "newGraphemes": ["z", "zz"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "z",
+      "keyword": "zip",
+      "picture": "🤐",
+      "mouthCue": "Put your tongue where it goes for sss, then switch your voice on. You can feel it hum in your neck.",
+      "prompt": "A new letter, and it is a stretchy one. Hold it: zzzzz."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "zz",
+      "keyword": "jazz",
+      "picture": "🎷",
+      "prompt": "The same buzz, spelled with two letters. Short words with one vowel in put two z letters on the end, the way hill has two l letters."
+    },
+    {
+      "type": "soundMatch",
+      "target": "z",
+      "choices": ["z", "s", "v"],
+      "prompt": "Three sounds you can hold. Two of them hum and one of them does not. Find the new one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "zz",
+      "choices": ["zz", "ll", "ck"],
+      "prompt": "Three endings that use two letters for one sound. Find the one that buzzes."
+    },
+    {
+      "type": "blend",
+      "word": "zip",
+      "parts": ["z", "i", "p"],
+      "picture": "🤐",
+      "prompt": "Three sounds, and the new one is at the front. Let it hum before you go on."
+    },
+    {
+      "type": "blend",
+      "word": "zap",
+      "parts": ["z", "a", "p"],
+      "picture": "⚡"
+    },
+    {
+      "type": "blend",
+      "word": "buzz",
+      "parts": ["b", "u", "zz"],
+      "picture": "🐝",
+      "prompt": "Two z letters on the end, but they are one sound. So this is three sounds, not four."
+    },
+    {
+      "type": "blend",
+      "word": "jazz",
+      "parts": ["j", "a", "zz"],
+      "picture": "🎷"
+    },
+    {
+      "type": "blend",
+      "word": "maze",
+      "parts": ["m", "a", "ze"],
+      "picture": "🌀",
+      "prompt": "A quiet e on the end, so it stays stuck to the z and the a says its name."
+    },
+    {
+      "type": "blend",
+      "word": "zipper",
+      "parts": ["z", "i", "pp", "er"],
+      "prompt": "The long one. Two beats, and the two p letters in the middle are one sound."
+    },
+    {
+      "type": "readWord",
+      "word": "quiz",
+      "prompt": "Your turn. Read this word. Both of the new sounds from this week are in it."
+    },
+    {
+      "type": "readWord",
+      "word": "fizz"
+    },
+    {
+      "type": "readWord",
+      "word": "prize",
+      "picture": "🏆"
+    },
+    {
+      "type": "readWord",
+      "word": "froze",
+      "picture": "🧊"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "zip",
+      "choices": ["zip", "sip", "zap"],
+      "prompt": "Two of these start with a hum and one of them does not. Listen to the front."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "buzz",
+      "choices": ["buzz", "bus", "bun"],
+      "prompt": "This is the hard pair. Two of them end at the back of the word with the same mouth shape, and only one of them hums."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "prize",
+      "choices": ["prize", "pride", "prod"],
+      "prompt": "All three start the same. The sound before the quiet e is the one to listen for."
+    },
+    {
+      "type": "sentence",
+      "text": "A bee did buzz up next to me, and then it did zip off."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"Do you want to be in the quiz?\" and I said yes."
+    },
+    {
+      "type": "sentence",
+      "text": "Dad did zip up the red bag and did stick it in the big box."
+    },
+    {
+      "type": "sentence",
+      "text": "The jazz band did zigzag up the street, and we did run out to see."
+    },
+    {
+      "type": "story",
+      "title": "The big quiz",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Dad said, \"I am the quiz man. Do you want a prize?\" and we did yell yes.",
+        "The prize is in a red box next to the stove, and we can not see in it.",
+        "Dad said, \"It can buzz and it can sting,\" and Meg did yell that it is a bee.",
+        "Then he said, \"It is red and it can zip up a hill,\" and I said it is the truck.",
+        "Meg did get six and I did get six, so it is the same.",
+        "Dad said, \"Then you must split the prize,\" and he did lift the top off the box.",
+        "In it sat six buns, a jam pot and a drink that did fizz.",
+        "Meg said, \"Do you want the buns or the jam?\" and I did pick the buns.",
+        "So Meg did get the jam, and she did dip a bun in it.",
+        "Then a bee did zip in and did buzz at the jam pot.",
+        "Dad said, \"It can buzz and it can sting,\" and we did run."
+      ],
+      "questions": [
+        {
+          "prompt": "Dad said it can buzz and it can sting, and Meg did yell that it is ...",
+          "choices": ["a bee", "a truck", "a fox"],
+          "answer": "a bee"
+        },
+        {
+          "prompt": "Meg did get six and I did get six, so it is ...",
+          "choices": ["the same", "a win", "a quiz"],
+          "answer": "the same"
+        },
+        {
+          "prompt": "In the red box sat six buns, a jam pot and ...",
+          "choices": ["a drink that did fizz", "a big prize", "a red truck"],
+          "answer": "a drink that did fizz"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The sounds from the last two days",
+      "words": ["quack", "squid", "fox", "box", "six"],
+      "prompt": "qu says kw and x says ks. Two letters for one sound, then one letter for two."
+    },
+    {
+      "type": "review",
+      "label": "Teams and quiet letters from further back",
+      "words": ["drain", "porch", "swept", "crunch", "mound"],
+      "prompt": "ai, or, ou and two old friends. Find the team before you say the word."
+    }
+  ]
+}

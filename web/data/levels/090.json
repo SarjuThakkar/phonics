@@ -1,0 +1,167 @@
+{
+  "level": 90,
+  "title": "qu says /kw/",
+  "kidTitle": "Meet qu",
+  "parentNote": "Today is qu, and the odd thing about it is that it is two letters making two sounds — k and w, squashed together into kw. Queen is k-w-ee-n. The q never turns up on its own in English, so we teach the pair and leave it at that; if your child asks what q says by itself, the honest answer is that it always brings a u with it. The slip to expect is the w going missing, so quick comes out as kick and quack as cack. Say the pair slowly yourself — k, w, kw — and then let them run it together. Watch for the lips: they should round up into a little circle straight after the k. Squid and squish are in here at the end because s-qu is a real mouthful and worth practising.",
+  "newGraphemes": ["qu"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "qu",
+      "keyword": "queen",
+      "picture": "👑",
+      "mouthCue": "The back of your tongue taps the roof of your mouth, and your lips round up into a little circle right after it.",
+      "prompt": "Two letters, and they never go anywhere on their own. Together they say kw."
+    },
+    {
+      "type": "soundMatch",
+      "target": "qu",
+      "choices": ["qu", "k", "w"],
+      "prompt": "The other two are the sounds hiding inside the new one. Find the one that says both at once."
+    },
+    {
+      "type": "soundMatch",
+      "target": "qu",
+      "choices": ["qu", "c", "ck"],
+      "prompt": "All three start with the same sound in your throat. Only one of them keeps going."
+    },
+    {
+      "type": "blend",
+      "word": "quack",
+      "parts": ["qu", "a", "ck"],
+      "picture": "🦆",
+      "prompt": "Three sounds. The new one is at the front, and it does not hang about."
+    },
+    {
+      "type": "blend",
+      "word": "quick",
+      "parts": ["qu", "i", "ck"],
+      "picture": "🏃"
+    },
+    {
+      "type": "blend",
+      "word": "queen",
+      "parts": ["qu", "ee", "n"],
+      "picture": "👑"
+    },
+    {
+      "type": "blend",
+      "word": "quilt",
+      "parts": ["qu", "i", "l", "t"],
+      "picture": "🛏"
+    },
+    {
+      "type": "blend",
+      "word": "squid",
+      "parts": ["s", "qu", "i", "d"],
+      "picture": "🦑",
+      "prompt": "An s in front of the new sound. Say the s first and then let the kw come."
+    },
+    {
+      "type": "blend",
+      "word": "squish",
+      "parts": ["s", "qu", "i", "sh"],
+      "prompt": "The long one. Four sounds and only two of them are one letter each."
+    },
+    {
+      "type": "readWord",
+      "word": "quit"
+    },
+    {
+      "type": "readWord",
+      "word": "quill",
+      "picture": "🪶"
+    },
+    {
+      "type": "readWord",
+      "word": "squeak",
+      "picture": "🐭"
+    },
+    {
+      "type": "readWord",
+      "word": "squint"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "quick",
+      "choices": ["quick", "quack", "quit"],
+      "prompt": "All three start with the new sound, so listen to the middle and the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "queen",
+      "choices": ["queen", "green", "keen"],
+      "prompt": "The same ending on all three. Everything you need is in the first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "squid",
+      "choices": ["squid", "squish", "skid"],
+      "prompt": "This one is hard. Two of them have the new sound in and one of them just has a k."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg said, \"Be quick!\" and we did squish in at the back with Dad."
+    },
+    {
+      "type": "sentence",
+      "text": "Do you want to see the squid, or do you want to see the big green crab?"
+    },
+    {
+      "type": "sentence",
+      "text": "The queen did sit up on a red quilt and did eat a bun."
+    },
+    {
+      "type": "sentence",
+      "text": "A duck did quack at me, and then it did quack at Dad, and then it did quit."
+    },
+    {
+      "type": "story",
+      "title": "The queen and the duck",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Meg did want to be a queen, so she did stick a red crown on.",
+        "She said, \"I am the queen. You must do it quick!\" and she did sit up on the big seat.",
+        "I said, \"Do you want a drink?\" and the queen said yes.",
+        "But then a duck did march in, quack quack quack, and it did stop at the seat.",
+        "It did grab the red crown and it did run out to the pond.",
+        "Meg did yell, \"Stop that duck!\" and we did run out at top speed.",
+        "The duck did jump in the pond with the crown on its back.",
+        "Meg said, \"It is not a duck. It is a robber!\" and she did stamp in the mud.",
+        "Then the duck did swim back and did drop the crown at her feet.",
+        "It did quack at Meg. Meg did grin at it.",
+        "Meg said, \"You can be the queen at sun up,\" and the duck did quack and quack."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did want to be a queen, so she did stick on ...",
+          "choices": ["a red crown", "a big quilt", "a green hat"],
+          "answer": "a red crown"
+        },
+        {
+          "prompt": "The duck did grab the crown and did run out to ...",
+          "choices": ["the pond", "the shed", "the oak"],
+          "answer": "the pond"
+        },
+        {
+          "prompt": "The duck did swim back and did drop the crown ...",
+          "choices": ["at her feet", "in the mud", "on the seat"],
+          "answer": "at her feet"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The last two days",
+      "words": ["you", "said", "owl", "toad", "torch"],
+      "prompt": "The first two we just know. The last three we sound out."
+    },
+    {
+      "type": "review",
+      "label": "Old sounds from a long way back",
+      "words": ["thorn", "brick", "champ", "plum", "swing"],
+      "prompt": "th, br, ch, pl and ng. Every one of them was new once."
+    }
+  ]
+}

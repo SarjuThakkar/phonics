@@ -86,7 +86,12 @@
     84,
     85,
     86,
-    87
+    87,
+    88,
+    89,
+    90,
+    91,
+    92
   ],
   "levels": [
     {
@@ -610,6 +615,36 @@
       "title": "y says /y/",
       "kidTitle": "Meet y",
       "activities": 22
+    },
+    {
+      "level": 88,
+      "title": "you",
+      "kidTitle": "The word you",
+      "activities": 23
+    },
+    {
+      "level": 89,
+      "title": "said",
+      "kidTitle": "The word said",
+      "activities": 23
+    },
+    {
+      "level": 90,
+      "title": "qu says /kw/",
+      "kidTitle": "Meet qu",
+      "activities": 23
+    },
+    {
+      "level": 91,
+      "title": "x says /ks/",
+      "kidTitle": "Meet x",
+      "activities": 23
+    },
+    {
+      "level": 92,
+      "title": "z says /z/, zz says /z/",
+      "kidTitle": "Meet z and zz",
+      "activities": 24
     }
   ]
 }
