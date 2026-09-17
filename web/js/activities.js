@@ -154,7 +154,7 @@ Activities.blend = (act, ctx) => {
     word.classList.remove('together');
     for (let i = 0; i < parts.length; i++) {
       parts[i].classList.add('lit');
-      const entry = graphemeFor(act.parts[i], ctx.phon);
+      const entry = graphemeFor(act.parts[i], ctx.phon, i === parts.length - 1);
       await Speech.sound(entry, { rate: 0.6 });
       await sleep(120);
       parts[i].classList.remove('lit');
@@ -179,9 +179,32 @@ Activities.blend = (act, ctx) => {
   return { node, enter: async () => { await Speech.say(instruction); await soundOut(); } };
 };
 
-/** Best phoneme entry for a chunk of a blended word. */
-function graphemeFor(part, phon) {
+/** Best phoneme entry for a chunk of a blended word.
+ *
+ * `atEnd` is what makes "fly" work. A blend's `parts` must spell the word
+ * exactly (validate.py enforces it), so a grapheme that only exists at the end
+ * of a word has to be written as its bare letters -- "fly" is ["f","l","y"].
+ * Looked up plainly that finds consonant y, the /y/ of "yak", and the app says
+ * "f-l-yuh" on the very day it teaches that final y says /eye/. phonemes.json
+ * already carries those final-position sounds as separate "-x" entries, so in
+ * final position try that first: -y (fly), -e (me), -o (go), -ie (pie).
+ *
+ * Only `team` entries are consulted, never the `suffix` ones, and that is
+ * deliberate rather than tidiness: "-le" would hijack the silent-e chunk in
+ * whale ["wh","a","le"] and say "wh-a-ul". "-s" and "-ed" say the same thing
+ * as their bare letters anyway, so nothing is lost by leaving them out.
+ *
+ * Known limit: a final y is /eye/ in a one-syllable word (fly) but /ee/ in a
+ * longer one (happy) -- phonemes.json has both, as -y and -ey, and letters
+ * alone cannot tell them apart. Every y-final blend written so far is the
+ * /eye/ kind. A "happy" blend would need its grapheme named in the data.
+ */
+function graphemeFor(part, phon, atEnd = false) {
   const p = part.toLowerCase();
+  if (atEnd) {
+    const positional = phon[`-${p}`];
+    if (positional && positional.kind === 'team') return positional;
+  }
   if (phon[p]) return phon[p];
   // "a_e" style chunks arrive as plain letters; fall back to saying the letters.
   return { display: part, say: p, stretchy: true };
