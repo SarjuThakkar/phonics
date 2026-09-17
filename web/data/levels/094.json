@@ -117,27 +117,27 @@
       "title": "The ball and the tall wall",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "Meg did kick the ball, and up it did go, up and up and down in the next yard.",
+        "Meg did kick the ball, and up it did go, up and up, and then it did fall in the next yard.",
         "That wall is the tallest wall on the street, and we can not see past it.",
         "I said, \"Do you want to go and ask?\" and Meg said the man in that yard is cross.",
         "So we did call and call, and all we did get back is a big deep bark.",
         "Meg did stand up on a pot to peep past the wall, and the pot did crack.",
-        "Down she did fall, and she did sit on the grass and rub her leg.",
+        "Off she did fall, and she did sit on the grass and rub her leg.",
         "Then a black nose did poke out at a gap in the wall.",
-        "It is the dog. It did poke the ball out to us with its nose, and then it did sit down.",
+        "It is the dog. It did poke the ball out to us with its nose, and then it did sit still.",
         "Meg said, \"That dog is not cross at all!\" and she did pat its nose.",
         "Then the man did call out, \"Do not kick it so hard next time!\" and he did grin.",
-        "So we did sit down next to the wall, and the small dog did peep out at us all day."
+        "So we did sit next to the wall, and the small dog did peep out at us all day."
       ],
       "questions": [
         {
-          "prompt": "Meg did kick the ball, and down it did land in ...",
+          "prompt": "Meg did kick the ball, and then it did fall in ...",
           "choices": ["the next yard", "the pond", "the street"],
           "answer": "the next yard"
         },
         {
           "prompt": "Meg did stand up on a pot to peep past the wall, and then the pot did ...",
-          "choices": ["crack", "tip up", "go down"],
+          "choices": ["crack", "tip up", "stay still"],
           "answer": "crack"
         },
         {

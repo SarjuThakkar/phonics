@@ -121,7 +121,7 @@
       "title": "The fox in the box",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "Dad did drag a big box out to the shed and did set it down on the grass.",
+        "Dad did drag a big box out to the shed and did set it on the grass.",
         "I said, \"I want that box,\" and Dad said it is for me.",
         "So I did jump in and did shut the top, and it did go dark.",
         "Then, next to me in the dark, a thing did shift and did sniff.",
@@ -129,13 +129,13 @@
         "It is not Meg. It is not Dad. It is a fox!",
         "I did yell. The fox did yelp. The top did pop up.",
         "Out did run the fox, and next out did run me.",
-        "The fox did stop at the gate and did sit down to lick its fur.",
+        "The fox did stop at the gate and did lick its fur.",
         "Dad said, \"Do you want the box back?\" and I said no.",
         "Next to the shed, in a big box, that fox is in bed."
       ],
       "questions": [
         {
-          "prompt": "Dad did set the big box down on ...",
+          "prompt": "Dad did set the big box on ...",
           "choices": ["the grass", "the step", "the mud"],
           "answer": "the grass"
         },

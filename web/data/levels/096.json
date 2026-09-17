@@ -114,17 +114,17 @@
       "title": "When the whale did jump",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "Dad did drive us down to the sea, and we did sit up on the rocks.",
+        "Dad did drive us out to the sea, and we did sit up on the rocks.",
         "\"Why are we up on the rocks?\" said Meg, and Dad said, \"To see a whale.\"",
         "So we did sit. And we did sit. The sea did not do a thing.",
         "Meg said, \"When can we see it?\" and Dad said, \"When it wants us to.\"",
-        "I did eat my buns. Meg did get her feet wet. The sun did go down a bit.",
+        "I did eat my buns. Meg did get her feet wet. The sun did drop a bit.",
         "\"This is not fun,\" said Meg. \"I want to go back and get dry.\"",
         "So we did stand up, and Dad did pack the bag, and Meg did run up the path.",
         "Then, out in the sea, a big black back did rise up, and up, and up.",
-        "It did whip its tail up and drop it down, and all the sea did go white.",
-        "Meg did run back down the path so fast that she did land in the sand.",
-        "We did see its back, and then its tail, and then it did sink down and go.",
+        "It did whip its tail up and then drop it, and all the sea did go white.",
+        "Meg did run back so fast that she did land in the sand.",
+        "We did see its back, and then its tail, and then it did sink and go.",
         "In the truck Meg said, \"When can we go back?\" and Dad said, \"When you want to.\""
       ],
       "questions": [
@@ -135,11 +135,11 @@
         },
         {
           "prompt": "When the big black back did rise up out in the sea, Meg did ...",
-          "choices": ["run back down the path", "sit still on the rocks", "go in the sea"],
-          "answer": "run back down the path"
+          "choices": ["run back to us", "sit still on the rocks", "go in the sea"],
+          "answer": "run back to us"
         },
         {
-          "prompt": "The whale did whip its tail down, and then all the sea did go ...",
+          "prompt": "The whale did whip its tail up, and then all the sea did go ...",
           "choices": ["white", "black", "still"],
           "answer": "white"
         }

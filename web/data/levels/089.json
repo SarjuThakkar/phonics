@@ -9,7 +9,7 @@
     {
       "type": "sightWord",
       "word": "said",
-      "sentence": "Meg said, \"It is an owl!\" and she did point up at it.",
+      "sentence": "Meg said, \"It is a stork!\" and she did point up at it.",
       "prompt": "Do not sound this one out. It looks like it should say sayed. It says sed."
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "type": "readWord",
-      "word": "owl",
-      "picture": "🦉"
+      "word": "stork",
+      "picture": "🐦"
     },
     {
       "type": "readWord",
@@ -84,9 +84,9 @@
     },
     {
       "type": "chooseWord",
-      "answer": "owl",
-      "choices": ["owl", "howl", "oil"],
-      "prompt": "Listen to the front of the word first, then to the team in the middle."
+      "answer": "stork",
+      "choices": ["stork", "storm", "start"],
+      "prompt": "All three start the same, so listen right to the end first, and then to the bossy r in the middle."
     },
     {
       "type": "chooseWord",
@@ -112,17 +112,17 @@
     },
     {
       "type": "story",
-      "title": "Meg said it is an owl",
+      "title": "Meg said it is a stork",
       "prompt": "Two of us talk in this story. The words in the little marks are the ones we say out loud.",
       "lines": [
         "Up in the big oak sat a dark lump.",
-        "Meg said, \"It is an owl!\" and she did point up at it.",
-        "I said, \"It is not an owl. It is a crow!\" and Meg did huff.",
-        "Meg said, \"Owls are big and crows are not,\" and she did cross her arms.",
+        "Meg said, \"It is a stork!\" and she did point up at it.",
+        "I said, \"It is not a stork. It is a crow!\" and Meg did huff.",
+        "Meg said, \"Storks are big and crows are not,\" and she did cross her arms.",
         "So we did creep up to the oak to see.",
         "The lump did not stir, and it did not make a peep.",
-        "I did chuck a nut up at it, and down it did drop.",
-        "It did land in the mud with a thud. It is not an owl. It is not a crow.",
+        "I did chuck a nut up at it, and the lump did drop.",
+        "It did land in the mud with a thud. It is not a stork. It is not a crow.",
         "It is the red hat Dad did drop in the storm at sun up.",
         "Meg said, \"I did tell you it is big!\" and I did grin at her.",
         "We did run in, and Dad said, \"You did get it back!\" and he did pop it on."
@@ -130,17 +130,17 @@
       "questions": [
         {
           "prompt": "Meg said the dark lump up in the oak is ...",
-          "choices": ["an owl", "a crow", "a red hat"],
-          "answer": "an owl"
+          "choices": ["a stork", "a crow", "a red hat"],
+          "answer": "a stork"
         },
         {
-          "prompt": "Meg said owls are big and crows are ...",
+          "prompt": "Meg said storks are big and crows are ...",
           "choices": ["not big", "dark", "fast"],
           "answer": "not big"
         },
         {
-          "prompt": "I did chuck a nut up at it, and down in the mud did land ...",
-          "choices": ["the red hat", "a big owl", "a nest"],
+          "prompt": "The lump did drop, and in the mud did land ...",
+          "choices": ["the red hat", "a big stork", "a nest"],
           "answer": "the red hat"
         }
       ]

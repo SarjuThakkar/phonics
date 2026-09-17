@@ -1,12 +1,12 @@
 {
   "note": "Every string the site speaks. Record any of them into web/audio/human/<id>.mp3 and the site will use the recording instead of the browser voice.",
-  "sourceFingerprint": "ac43cd4947617d50",
+  "sourceFingerprint": "ad83afd730c3bb17",
   "counts": {
     "sound": 93,
     "ui": 16,
-    "word": 985,
+    "word": 984,
     "prompt": 1283,
-    "line": 1827
+    "line": 1825
   },
   "plans": {
     "1": [
@@ -3659,8 +3659,8 @@
       "ui-have-another-look-at-50133a",
       "sound-or",
       "word-sock",
-      "word-shop",
       "word-storm",
+      "word-shop",
       "word-star",
       "word-stomp",
       "word-porch",
@@ -3673,6 +3673,7 @@
       "word-barn",
       "word-card",
       "word-frog",
+      "word-stork",
       "word-born",
       "word-chart",
       "word-cord",
@@ -3681,7 +3682,6 @@
       "word-sharp",
       "word-thorn",
       "word-fort",
-      "word-stork",
       "prompt-read-the-story-one-a2bc68",
       "prompt-all-three-start-the-56534f",
       "prompt-another-team-where-the-88ee31",
@@ -3731,8 +3731,8 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-er",
-      "word-shop",
       "word-storm",
+      "word-shop",
       "word-hen",
       "word-chick",
       "word-bang",
@@ -3919,6 +3919,7 @@
       "prompt-two-spellings-of-the-c3481a",
       "line-a-cat-008bd0",
       "line-a-bird-31071d",
+      "line-a-stork-5e558a",
       "line-burt-did-chop-them-d16999",
       "line-burt-did-dig-up-594139",
       "line-burt-did-dig-up-dd3523",
@@ -3935,8 +3936,7 @@
       "line-then-a-bird-did-e9e541",
       "line-a-big-fork-308754",
       "line-a-fresh-pot-660995",
-      "line-a-red-shirt-4f9fea",
-      "line-a-stork-5e558a"
+      "line-a-red-shirt-4f9fea"
     ],
     "68": [
       "ui-you-did-it-great-7e9bba",
@@ -3953,8 +3953,8 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "word-shirt",
-      "word-shop",
       "word-storm",
+      "word-shop",
       "word-cat",
       "word-burn",
       "word-chick",
@@ -4807,6 +4807,7 @@
       "word-leaf",
       "word-mow",
       "word-peach",
+      "word-pillow",
       "word-beast",
       "word-boast",
       "word-cloak",
@@ -4817,7 +4818,6 @@
       "word-moat",
       "word-oatmeal",
       "word-peanut",
-      "word-pillow",
       "prompt-read-the-story-one-a2bc68",
       "prompt-a-second-story-and-8c696e",
       "prompt-all-three-begin-with-38c5f7",
@@ -5069,13 +5069,13 @@
       "word-float",
       "word-clay",
       "word-cone",
-      "word-oil",
       "word-soil",
       "word-train",
       "word-boil",
       "word-ground",
       "word-join",
       "word-moist",
+      "word-oil",
       "word-point",
       "word-round",
       "word-bowl",
@@ -5143,7 +5143,6 @@
       "word-cloud",
       "word-stay",
       "word-toy",
-      "word-oil",
       "word-soil",
       "word-bay",
       "word-boil",
@@ -5151,6 +5150,7 @@
       "word-join",
       "word-joy",
       "word-moist",
+      "word-oil",
       "word-point",
       "word-soy",
       "word-boy",
@@ -5645,6 +5645,7 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
+      "word-snow",
       "word-tray",
       "word-stove",
       "word-porch",
@@ -5659,7 +5660,7 @@
       "word-spoil",
       "word-toad",
       "word-torch",
-      "word-flower",
+      "word-pillow",
       "word-rainbow",
       "word-road",
       "word-turnip",
@@ -5667,7 +5668,6 @@
       "word-yellow",
       "word-yes",
       "word-yet",
-      "word-crown",
       "word-farmyard",
       "word-toaster",
       "word-trumpet",
@@ -5686,22 +5686,22 @@
       "prompt-ow-oi-ay-oa-3e7b08",
       "line-and-for-a-fat-6cfb3d",
       "line-are-you-up-on-7842f2",
-      "line-but-then-i-did-7edeab",
+      "line-but-then-i-did-401c36",
       "line-do-not-tell-mum-6ad843",
-      "line-do-you-want-to-13eeae",
-      "line-do-you-want-to-e2ae9a",
+      "line-do-you-want-to-6703c0",
+      "line-do-you-want-to-fafd3b",
       "line-do-you-want-to-aebfd2",
       "line-do-you-want-to-11f333",
       "line-i-can-see-you-4b4011",
-      "line-i-did-dig-a-b33627",
-      "line-i-did-dig-a-2a3f70",
+      "line-i-did-dig-a-a1dd09",
+      "line-i-did-dig-a-33e348",
       "line-i-did-drag-in-5f85f4",
       "line-i-did-drag-in-56483d",
       "line-it-did-blink-up-761dc4",
       "line-so-i-did-let-15afa7",
-      "line-the-fat-toad-did-4b9a7c",
+      "line-the-fat-toad-did-0ca5e7",
       "line-you-did-tell-me-f59dde",
-      "line-you-must-bend-down-ee3c3c",
+      "line-you-must-bend-low-cd257c",
       "line-the-damp-mud-3336c2",
       "line-the-red-rug-456f29",
       "line-the-tin-cup-ba8eff"
@@ -5721,6 +5721,7 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
+      "word-storm",
       "word-shout",
       "word-sad",
       "word-said",
@@ -5729,27 +5730,26 @@
       "word-the",
       "word-they",
       "word-is",
-      "word-owl",
       "word-you",
       "word-brain",
-      "word-oil",
       "word-shelf",
+      "word-stork",
       "word-bark",
       "word-thunder",
       "word-burnt",
       "word-cheek",
       "word-cobweb",
-      "word-howl",
       "word-huff",
       "word-joint",
       "word-seagull",
+      "word-start",
       "word-tender",
       "word-thinner",
       "word-thud",
       "word-windmill",
       "prompt-no-new-sound-today-1a4e5c",
+      "prompt-all-three-start-the-6e7bf0",
       "prompt-do-not-sound-this-e81380",
-      "prompt-listen-to-the-front-49555c",
       "prompt-no-sounding-out-look-1c77ab",
       "prompt-not-one-of-these-2464ae",
       "prompt-now-find-the-two-9dc1d0",
@@ -5760,28 +5760,28 @@
       "prompt-two-of-us-talk-9aba27",
       "prompt-ou-oi-ai-ee-943150",
       "line-a-crow-16ec8f",
+      "line-a-stork-5e558a",
       "line-a-nest-fdc02a",
       "line-a-red-hat-3e56ed",
-      "line-an-owl-d47290",
-      "line-i-did-chuck-a-a62b2e",
-      "line-i-did-chuck-a-0867be",
-      "line-i-said-it-is-0a1803",
+      "line-i-did-chuck-a-2a372f",
+      "line-i-said-it-is-afb575",
       "line-i-said-it-is-bcc945",
-      "line-it-did-land-in-2d1654",
+      "line-it-did-land-in-f21214",
       "line-it-is-the-red-a4f80d",
-      "line-meg-said-owls-are-4074b1",
+      "line-meg-said-storks-are-498cfe",
       "line-meg-said-the-dark-db4be6",
       "line-meg-said-i-did-8dd66f",
-      "line-meg-said-it-is-cd1c71",
-      "line-meg-said-owls-are-44f360",
+      "line-meg-said-it-is-c78643",
+      "line-meg-said-storks-are-bd7131",
       "line-mum-said-do-you-da415d",
       "line-she-said-the-toad-897259",
       "line-so-we-did-creep-432db7",
+      "line-the-lump-did-drop-9633d3",
       "line-the-lump-did-not-e866e0",
       "line-up-in-the-big-57f74b",
       "line-we-did-run-in-b52517",
       "line-you-said-the-tin-dee339",
-      "line-a-big-owl-0e6ab1",
+      "line-a-big-stork-a26454",
       "line-not-big-dc48e9",
       "line-the-red-hat-0c167c"
     ],
@@ -5805,13 +5805,13 @@
       "word-plum",
       "word-brick",
       "word-green",
-      "word-owl",
       "word-squid",
       "word-you",
       "word-champ",
       "word-quack",
       "word-quilt",
       "word-skid",
+      "word-stork",
       "word-toad",
       "word-torch",
       "word-queen",
@@ -5844,23 +5844,23 @@
       "line-but-then-a-duck-870f76",
       "line-do-you-want-to-a7e02b",
       "line-i-said-do-you-87a4d0",
-      "line-it-did-grab-the-a59419",
+      "line-it-did-grab-the-01a933",
       "line-it-did-quack-at-ed396c",
-      "line-meg-did-want-to-c06623",
+      "line-meg-did-want-to-74cda0",
       "line-meg-did-want-to-cdb420",
       "line-meg-did-yell-stop-ef3192",
       "line-meg-said-be-quick-bcd4c6",
       "line-meg-said-it-is-b8635e",
       "line-meg-said-you-can-abe255",
       "line-she-said-i-am-bc1b63",
-      "line-the-duck-did-grab-7aae88",
-      "line-the-duck-did-jump-9fc5ad",
-      "line-the-duck-did-swim-230759",
+      "line-the-duck-did-grab-e7ccc6",
+      "line-the-duck-did-jump-3af97c",
+      "line-the-duck-did-swim-1896cc",
       "line-the-queen-did-sit-f3a49d",
-      "line-then-the-duck-did-73a289",
+      "line-then-the-duck-did-bea393",
       "line-a-big-quilt-12fead",
       "line-a-green-hat-f75b31",
-      "line-a-red-crown-ae5851",
+      "line-a-red-cape-ce6e81",
       "line-at-her-feet-084e7c",
       "line-in-the-mud-83876c",
       "line-on-the-seat-678c58"
@@ -5925,8 +5925,8 @@
       "line-the-step-439aff",
       "line-a-fox-f55ac5",
       "line-at-the-end-the-3616e3",
-      "line-dad-did-drag-a-f5b278",
-      "line-dad-did-set-the-eb574e",
+      "line-dad-did-drag-a-dc6c53",
+      "line-dad-did-set-the-91f584",
       "line-dad-said-do-you-128d68",
       "line-do-you-want-to-ec0a66",
       "line-i-can-fix-the-8c2147",
@@ -5940,7 +5940,7 @@
       "line-out-did-run-the-1c7df3",
       "line-so-i-did-jump-b924dc",
       "line-the-fox-did-sit-d37436",
-      "line-the-fox-did-stop-cda98e",
+      "line-the-fox-did-stop-301271",
       "line-then-next-to-me-4bdb93",
       "line-a-duck-065c8a",
       "line-the-fox-d16a14"
@@ -6086,22 +6086,22 @@
       "prompt-ai-oa-ow-a-914c31",
       "prompt-x-says-ks-and-36481d",
       "line-a-crow-16ec8f",
-      "line-an-owl-d47290",
+      "line-a-stork-5e558a",
       "line-do-not-sit-on-ab648f",
       "line-get-me-the-ham-b9f05f",
-      "line-a-big-hawk-did-d5d53a",
+      "line-a-big-hawk-did-664c18",
       "line-a-long-straw-did-be95c3",
-      "line-at-sun-up-i-1dc6d0",
+      "line-at-sun-up-i-8f6fd0",
       "line-dad-did-slip-the-97c130",
       "line-dad-said-that-is-015724",
-      "line-he-did-set-the-ee6cfd",
+      "line-he-did-set-the-2bca84",
       "line-it-did-not-hop-e8a25c",
       "line-meg-said-do-you-ad48dc",
       "line-meg-said-do-you-641206",
       "line-meg-said-it-is-88fe85",
-      "line-the-big-bird-sat-51db31",
+      "line-the-big-bird-sat-b442e3",
       "line-the-cat-did-yawn-82598c",
-      "line-the-hawk-did-lift-c123e0",
+      "line-the-hawk-did-lift-73b832",
       "line-the-hawk-did-peck-11bcd0",
       "line-the-hawk-did-tug-3e33d8",
       "line-up-it-did-go-181022",
@@ -6170,26 +6170,26 @@
       "line-the-street-a22cc7",
       "line-call-dad-said-mum-543f24",
       "line-all-the-buns-did-b5b1e0",
-      "line-down-she-did-fall-85e72c",
       "line-i-said-do-you-a28710",
-      "line-it-is-the-dog-d5931f",
-      "line-meg-did-kick-the-0853a0",
-      "line-meg-did-kick-the-534d8e",
+      "line-it-is-the-dog-2679c7",
+      "line-meg-did-kick-the-193210",
+      "line-meg-did-kick-the-38a4d3",
       "line-meg-did-stand-up-54453b",
       "line-meg-did-stand-up-77ac3e",
       "line-meg-said-i-can-7bb445",
       "line-meg-said-that-dog-b1286d",
+      "line-off-she-did-fall-146722",
       "line-so-we-did-call-660ecf",
-      "line-so-we-did-sit-10cf52",
+      "line-so-we-did-sit-45ac5e",
       "line-that-wall-is-the-098596",
       "line-the-ball-did-go-44542a",
       "line-the-dog-did-poke-256f1f",
       "line-then-a-black-nose-7a38f3",
       "line-then-the-man-did-603659",
-      "line-go-down-c9fde0",
       "line-its-nose-d75cd9",
       "line-its-paw-050f88",
       "line-its-tail-d32c61",
+      "line-stay-still-e1f790",
       "line-the-next-yard-cf02a5",
       "line-tip-up-908caa"
     ],
@@ -6258,13 +6258,13 @@
       "line-meg-said-can-i-bb8a55",
       "line-meg-said-do-you-42609f",
       "line-meg-said-do-you-4dca9e",
-      "line-my-den-did-fall-cd945b",
-      "line-my-dog-did-get-ee4a89",
+      "line-my-den-did-fall-45d644",
+      "line-my-dog-did-get-4db68d",
       "line-next-to-the-tall-e19db2",
-      "line-so-meg-did-sit-e32b62",
-      "line-the-rain-did-drop-22cff8",
+      "line-so-meg-did-sit-807917",
+      "line-the-rain-did-fall-98b947",
       "line-the-rug-did-get-ba3b61",
-      "line-then-the-sky-did-9e6b2e",
+      "line-then-the-sky-did-3a3551",
       "line-we-did-run-in-66692f",
       "line-a-big-box-8e22ad",
       "line-a-red-kite-f40eca",
@@ -6331,27 +6331,27 @@
       "line-this-is-not-fun-367938",
       "line-why-are-we-up-3fbc40",
       "line-why-did-you-go-58a0dc",
-      "line-dad-did-drive-us-6869d3",
-      "line-i-did-eat-my-1917e1",
+      "line-dad-did-drive-us-6ac6d2",
+      "line-i-did-eat-my-51c26e",
       "line-in-the-truck-meg-73cbae",
-      "line-it-did-whip-its-3b1895",
-      "line-meg-did-run-back-4808cd",
+      "line-it-did-whip-its-7184b3",
+      "line-meg-did-run-back-a157e5",
       "line-meg-said-when-can-7b8083",
       "line-meg-said-when-can-83412a",
       "line-mum-did-whisk-six-60ae34",
       "line-my-bike-did-get-689fc0",
       "line-so-we-did-sit-9d4d31",
       "line-so-we-did-stand-a7366f",
-      "line-the-whale-did-whip-1cf323",
+      "line-the-whale-did-whip-18f02f",
       "line-then-out-in-the-029384",
       "line-to-eat-buns-9d8d36",
       "line-to-get-wet-c13465",
       "line-to-see-a-whale-0cd2b5",
-      "line-we-did-see-its-de9516",
+      "line-we-did-see-its-61456f",
       "line-when-the-big-black-0bba6f",
       "line-why-did-we-go-427504",
       "line-go-in-the-sea-c1110a",
-      "line-run-back-down-the-cf81c5",
+      "line-run-back-to-us-b347dd",
       "line-sit-still-on-the-76da2c"
     ],
     "97": [
@@ -6421,7 +6421,7 @@
       "line-dad-did-want-to-625dd6",
       "line-dad-said-it-is-1b3a02",
       "line-i-did-ask-dad-9906e6",
-      "line-in-the-dark-i-dcad30",
+      "line-in-the-dark-i-587e03",
       "line-meg-did-drop-it-cec197",
       "line-meg-said-what-can-aca772",
       "line-mum-said-what-do-ee8932",
@@ -6429,12 +6429,12 @@
       "line-so-we-did-all-41a2c5",
       "line-the-big-white-thing-073e94",
       "line-the-fan-c958e1",
-      "line-the-fan-did-whip-88fe45",
+      "line-the-fan-did-lift-e619b2",
       "line-the-lamp-a47946",
       "line-the-rat-did-drag-905519",
       "line-the-step-e0bddb",
       "line-what-did-the-sheet-ffbf03",
-      "line-what-did-we-see-1004f8",
+      "line-what-did-we-see-09a66c",
       "line-what-did-you-do-3278f5",
       "line-why-is-the-sheet-22fed4"
     ],
@@ -6502,16 +6502,16 @@
       "line-a-wet-sock-db0ce7",
       "line-dad-said-where-do-71929d",
       "line-damp-bits-10f726",
-      "line-down-in-the-mud-b54c90",
-      "line-i-did-ask-dad-1cc29d",
+      "line-i-did-ask-dad-f48b45",
       "line-i-did-check-the-a24d8d",
       "line-in-a-big-green-1ca47a",
       "line-in-the-box-with-7b5514",
       "line-in-the-dark-the-818c4a",
+      "line-in-the-mud-next-900ad2",
       "line-in-the-sink-762b24",
       "line-it-is-the-frog-e02fa7",
       "line-meg-did-get-a-94585d",
-      "line-no-frog-dad-did-783a1a",
+      "line-no-frog-dad-did-f47663",
       "line-so-we-did-hunt-0a4ec2",
       "line-then-meg-did-see-d7e623",
       "line-then-a-wet-thing-2d31e7",
@@ -6585,23 +6585,22 @@
       "line-here-is-not-bad-411a98",
       "line-here-we-are-i-e94bcd",
       "line-it-did-rip-said-d0b9e5",
-      "line-we-did-want-to-f18607",
+      "line-we-did-want-to-88b6a2",
       "line-where-do-you-want-973069",
       "line-a-bag-of-nuts-27d33c",
       "line-a-big-chunk-of-68030e",
       "line-at-the-end-of-6f1f2f",
-      "line-at-the-end-of-70b485",
-      "line-at-the-top-the-3513c3",
-      "line-down-at-the-end-0a952e",
+      "line-at-the-end-of-ca8a4b",
+      "line-at-the-top-the-95d3f1",
       "line-here-is-a-bag-0eaf67",
       "line-here-is-the-bag-6df070",
       "line-in-a-clump-of-f8cb19",
-      "line-in-the-town-e9d654",
       "line-meg-did-get-the-1d74e5",
       "line-meg-did-hand-me-e24a43",
       "line-mum-did-fill-a-d6b260",
+      "line-on-the-steep-path-07ad72",
       "line-on-the-top-of-5bbe14",
-      "line-so-down-we-went-975327",
+      "line-so-back-we-went-c86c27",
       "line-so-we-did-lug-c37341",
       "line-the-bag-is-flat-7e9112",
       "line-the-best-bit-of-57db6b",
@@ -6611,7 +6610,7 @@
       "line-what-did-drop-out-2569d9",
       "line-where-did-we-eat-20b6f8",
       "line-where-did-we-want-86ce2c",
-      "line-where-do-you-want-19593a"
+      "line-where-do-you-want-9facf7"
     ],
     "100": [
       "ui-you-did-it-great-7e9bba",
@@ -6763,9 +6762,9 @@
       "line-we-should-take-it-a583b6",
       "line-a-green-hat-840c43",
       "line-a-red-tag-496ea8",
-      "line-a-wet-dog-did-2329a1",
+      "line-a-wet-dog-did-ae3fec",
+      "line-and-so-we-do-1014e6",
       "line-but-on-the-red-3cc1df",
-      "line-down-to-the-pond-213468",
       "line-go-up-to-bed-376f42",
       "line-i-said-i-would-d41045",
       "line-i-would-like-a-f281fb",
@@ -6774,7 +6773,7 @@
       "line-it-is-a-big-d66515",
       "line-keep-the-dog-in-f24a91",
       "line-meg-did-not-want-e789f9",
-      "line-so-now-we-do-8cf316",
+      "line-off-to-the-pond-f36b8f",
       "line-so-we-did-sit-a49e52",
       "line-take-the-dog-back-6ac7e1",
       "line-the-tag-said-the-a0d9fc",
@@ -6850,19 +6849,19 @@
       "line-are-there-any-buns-89b7b6",
       "line-are-there-any-plums-ac745d",
       "line-at-the-end-of-38117f",
-      "line-how-many-plums-are-da215f",
+      "line-at-the-end-are-fb2ad9",
       "line-i-did-hunt-for-40b9f5",
-      "line-meg-did-go-a-bebcc8",
+      "line-meg-did-go-a-afebfe",
       "line-meg-did-pick-the-73e3de",
       "line-mum-did-hand-me-7f887a",
       "line-my-red-sock-is-4a754b",
       "line-next-to-the-pond-8c940a",
-      "line-not-a-plum-anywhere-d340d6",
+      "line-not-a-plum-anywhere-f949e2",
       "line-not-any-at-all-73f485",
       "line-she-did-keep-them-ed4f07",
       "line-she-did-make-jam-55eac6",
       "line-she-did-throw-them-6cad55",
-      "line-so-mum-did-get-3980a5",
+      "line-so-mum-did-get-2b1158",
       "line-so-many-4d7591",
       "line-so-we-did-get-6c9b41",
       "line-then-we-did-go-ddc61d",
@@ -6893,8 +6892,8 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-oo",
-      "word-thick",
       "word-snow",
+      "word-thick",
       "word-shout",
       "word-boat",
       "word-of",
@@ -7164,7 +7163,6 @@
       "word-grow",
       "word-low",
       "word-out",
-      "word-owl",
       "word-brain",
       "word-crow",
       "word-house",
@@ -7172,17 +7170,18 @@
       "word-brown",
       "word-cow",
       "word-down",
-      "word-flower",
       "word-how",
       "word-jumped",
       "word-landed",
       "word-looked",
       "word-needed",
+      "word-owl",
       "word-window",
       "word-yelled",
       "word-broom",
       "word-cot",
       "word-crowd",
+      "word-flower",
       "word-grill",
       "word-growl",
       "word-town",
@@ -7257,11 +7256,11 @@
       "word-crawl",
       "word-tall",
       "word-my",
-      "word-owl",
       "word-brown",
       "word-cow",
       "word-down",
       "word-how",
+      "word-owl",
       "word-paw",
       "word-tail",
       "word-bright",
@@ -9232,6 +9231,26 @@
       "days": []
     },
     {
+      "id": "word-snow",
+      "kind": "word",
+      "text": "snow",
+      "script": "The word \"snow\", said clearly and slowly.",
+      "file": "word-snow.mp3",
+      "days": [
+        77,
+        79,
+        80,
+        81,
+        82,
+        83,
+        85,
+        88,
+        93,
+        103,
+        106
+      ]
+    },
+    {
       "id": "word-thick",
       "kind": "word",
       "text": "thick",
@@ -9309,25 +9328,6 @@
       ]
     },
     {
-      "id": "word-snow",
-      "kind": "word",
-      "text": "snow",
-      "script": "The word \"snow\", said clearly and slowly.",
-      "file": "word-snow.mp3",
-      "days": [
-        77,
-        79,
-        80,
-        81,
-        82,
-        83,
-        85,
-        93,
-        103,
-        106
-      ]
-    },
-    {
       "id": "word-flute",
       "kind": "word",
       "text": "flute",
@@ -9397,6 +9397,24 @@
         70,
         76,
         86
+      ]
+    },
+    {
+      "id": "word-storm",
+      "kind": "word",
+      "text": "storm",
+      "script": "The word \"storm\", said clearly and slowly.",
+      "file": "word-storm.mp3",
+      "days": [
+        64,
+        65,
+        68,
+        78,
+        83,
+        84,
+        89,
+        96,
+        98
       ]
     },
     {
@@ -9551,23 +9569,6 @@
         103,
         104,
         106
-      ]
-    },
-    {
-      "id": "word-storm",
-      "kind": "word",
-      "text": "storm",
-      "script": "The word \"storm\", said clearly and slowly.",
-      "file": "word-storm.mp3",
-      "days": [
-        64,
-        65,
-        68,
-        78,
-        83,
-        84,
-        96,
-        98
       ]
     },
     {
@@ -11256,19 +11257,6 @@
       ]
     },
     {
-      "id": "word-owl",
-      "kind": "word",
-      "text": "owl",
-      "script": "The word \"owl\", said clearly and slowly.",
-      "file": "word-owl.mp3",
-      "days": [
-        89,
-        90,
-        106,
-        107
-      ]
-    },
-    {
       "id": "word-perch",
       "kind": "word",
       "text": "perch",
@@ -12435,18 +12423,6 @@
       ]
     },
     {
-      "id": "word-oil",
-      "kind": "word",
-      "text": "oil",
-      "script": "The word \"oil\", said clearly and slowly.",
-      "file": "word-oil.mp3",
-      "days": [
-        81,
-        82,
-        89
-      ]
-    },
-    {
       "id": "word-pete",
       "kind": "word",
       "text": "pete",
@@ -12852,6 +12828,18 @@
         8,
         10,
         12
+      ]
+    },
+    {
+      "id": "word-stork",
+      "kind": "word",
+      "text": "stork",
+      "script": "The word \"stork\", said clearly and slowly.",
+      "file": "word-stork.mp3",
+      "days": [
+        64,
+        89,
+        90
       ]
     },
     {
@@ -13952,17 +13940,6 @@
       ]
     },
     {
-      "id": "word-flower",
-      "kind": "word",
-      "text": "flower",
-      "script": "The word \"flower\", said clearly and slowly.",
-      "file": "word-flower.mp3",
-      "days": [
-        88,
-        106
-      ]
-    },
-    {
       "id": "word-food",
       "kind": "word",
       "text": "food",
@@ -14623,6 +14600,28 @@
       ]
     },
     {
+      "id": "word-oil",
+      "kind": "word",
+      "text": "oil",
+      "script": "The word \"oil\", said clearly and slowly.",
+      "file": "word-oil.mp3",
+      "days": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "word-owl",
+      "kind": "word",
+      "text": "owl",
+      "script": "The word \"owl\", said clearly and slowly.",
+      "file": "word-owl.mp3",
+      "days": [
+        106,
+        107
+      ]
+    },
+    {
       "id": "word-pack",
       "kind": "word",
       "text": "pack",
@@ -14686,6 +14685,17 @@
       "days": [
         78,
         86
+      ]
+    },
+    {
+      "id": "word-pillow",
+      "kind": "word",
+      "text": "pillow",
+      "script": "The word \"pillow\", said clearly and slowly.",
+      "file": "word-pillow.mp3",
+      "days": [
+        78,
+        88
       ]
     },
     {
@@ -16447,16 +16457,6 @@
       ]
     },
     {
-      "id": "word-crown",
-      "kind": "word",
-      "text": "crown",
-      "script": "The word \"crown\", said clearly and slowly.",
-      "file": "word-crown.mp3",
-      "days": [
-        88
-      ]
-    },
-    {
       "id": "word-crunch",
       "kind": "word",
       "text": "crunch",
@@ -16914,6 +16914,16 @@
       "file": "word-flips.mp3",
       "days": [
         34
+      ]
+    },
+    {
+      "id": "word-flower",
+      "kind": "word",
+      "text": "flower",
+      "script": "The word \"flower\", said clearly and slowly.",
+      "file": "word-flower.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -17444,16 +17454,6 @@
       "file": "word-hoe.mp3",
       "days": [
         53
-      ]
-    },
-    {
-      "id": "word-howl",
-      "kind": "word",
-      "text": "howl",
-      "script": "The word \"howl\", said clearly and slowly.",
-      "file": "word-howl.mp3",
-      "days": [
-        89
       ]
     },
     {
@@ -18384,16 +18384,6 @@
       "file": "word-pigs.mp3",
       "days": [
         28
-      ]
-    },
-    {
-      "id": "word-pillow",
-      "kind": "word",
-      "text": "pillow",
-      "script": "The word \"pillow\", said clearly and slowly.",
-      "file": "word-pillow.mp3",
-      "days": [
-        78
       ]
     },
     {
@@ -19387,6 +19377,16 @@
       ]
     },
     {
+      "id": "word-start",
+      "kind": "word",
+      "text": "start",
+      "script": "The word \"start\", said clearly and slowly.",
+      "file": "word-start.mp3",
+      "days": [
+        89
+      ]
+    },
+    {
       "id": "word-steep",
       "kind": "word",
       "text": "steep",
@@ -19454,16 +19454,6 @@
       "file": "word-stool.mp3",
       "days": [
         104
-      ]
-    },
-    {
-      "id": "word-stork",
-      "kind": "word",
-      "text": "stork",
-      "script": "The word \"stork\", said clearly and slowly.",
-      "file": "word-stork.mp3",
-      "days": [
-        64
       ]
     },
     {
@@ -21992,6 +21982,16 @@
       ]
     },
     {
+      "id": "prompt-all-three-start-the-6e7bf0",
+      "kind": "prompt",
+      "text": "All three start the same, so listen right to the end first, and then to the bossy r in the middle.",
+      "script": "Spoken instruction: \"All three start the same, so listen right to the end first, and then to the bossy r in the middle.\"",
+      "file": "prompt-all-three-start-the-6e7bf0.mp3",
+      "days": [
+        89
+      ]
+    },
+    {
       "id": "prompt-all-three-start-the-31adfd",
       "kind": "prompt",
       "text": "All three start the same. Everything depends on the last sound.",
@@ -24179,16 +24179,6 @@
       "file": "prompt-listen-to-the-first-0192b9.mp3",
       "days": [
         6
-      ]
-    },
-    {
-      "id": "prompt-listen-to-the-front-49555c",
-      "kind": "prompt",
-      "text": "Listen to the front of the word first, then to the team in the middle.",
-      "script": "Spoken instruction: \"Listen to the front of the word first, then to the team in the middle.\"",
-      "file": "prompt-listen-to-the-front-49555c.mp3",
-      "days": [
-        89
       ]
     },
     {
@@ -33592,6 +33582,18 @@
       ]
     },
     {
+      "id": "line-a-stork-5e558a",
+      "kind": "line",
+      "text": "a stork",
+      "script": "Read aloud, warmly, at storytime pace: \"a stork\"",
+      "file": "line-a-stork-5e558a.mp3",
+      "days": [
+        67,
+        89,
+        93
+      ]
+    },
+    {
       "id": "line-the-corn-c874fc",
       "kind": "line",
       "text": "the corn",
@@ -33802,17 +33804,6 @@
       "days": [
         54,
         61
-      ]
-    },
-    {
-      "id": "line-an-owl-d47290",
-      "kind": "line",
-      "text": "an owl",
-      "script": "Read aloud, warmly, at storytime pace: \"an owl\"",
-      "file": "line-an-owl-d47290.mp3",
-      "days": [
-        89,
-        93
       ]
     },
     {
@@ -34350,11 +34341,11 @@
       ]
     },
     {
-      "id": "line-we-did-want-to-f18607",
+      "id": "line-we-did-want-to-88b6a2",
       "kind": "line",
-      "text": "\"We did want to eat up there,\" said Meg, \"and we did eat down here.\"",
-      "script": "Read aloud, warmly, at storytime pace: \"\"We did want to eat up there,\" said Meg, \"and we did eat down here.\"\"",
-      "file": "line-we-did-want-to-f18607.mp3",
+      "text": "\"We did want to eat up there,\" said Meg, \"and we did eat here.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"We did want to eat up there,\" said Meg, \"and we did eat here.\"\"",
+      "file": "line-we-did-want-to-88b6a2.mp3",
       "days": [
         99
       ]
@@ -34590,11 +34581,11 @@
       ]
     },
     {
-      "id": "line-a-big-hawk-did-d5d53a",
+      "id": "line-a-big-hawk-did-664c18",
       "kind": "line",
-      "text": "A big hawk did sit up in the oak, and I saw it drop down fast.",
-      "script": "Read aloud, warmly, at storytime pace: \"A big hawk did sit up in the oak, and I saw it drop down fast.\"",
-      "file": "line-a-big-hawk-did-d5d53a.mp3",
+      "text": "A big hawk did sit up in the oak, and I saw it drop fast.",
+      "script": "Read aloud, warmly, at storytime pace: \"A big hawk did sit up in the oak, and I saw it drop fast.\"",
+      "file": "line-a-big-hawk-did-664c18.mp3",
       "days": [
         93
       ]
@@ -35140,11 +35131,11 @@
       ]
     },
     {
-      "id": "line-a-wet-dog-did-2329a1",
+      "id": "line-a-wet-dog-did-ae3fec",
       "kind": "line",
-      "text": "A wet dog did trot up the lane and did sit down next to me, and it did not go off.",
-      "script": "Read aloud, warmly, at storytime pace: \"A wet dog did trot up the lane and did sit down next to me, and it did not go off.\"",
-      "file": "line-a-wet-dog-did-2329a1.mp3",
+      "text": "A wet dog did trot up the lane and did sit next to me, and it did not go off.",
+      "script": "Read aloud, warmly, at storytime pace: \"A wet dog did trot up the lane and did sit next to me, and it did not go off.\"",
+      "file": "line-a-wet-dog-did-ae3fec.mp3",
       "days": [
         101
       ]
@@ -35247,6 +35238,16 @@
       "file": "line-and-for-a-fat-6cfb3d.mp3",
       "days": [
         88
+      ]
+    },
+    {
+      "id": "line-and-so-we-do-1014e6",
+      "kind": "line",
+      "text": "And so we do. Sam is not my dog, but he is the dog I see all the time.",
+      "script": "Read aloud, warmly, at storytime pace: \"And so we do. Sam is not my dog, but he is the dog I see all the time.\"",
+      "file": "line-and-so-we-do-1014e6.mp3",
+      "days": [
+        101
       ]
     },
     {
@@ -35410,11 +35411,11 @@
       ]
     },
     {
-      "id": "line-at-sun-up-i-1dc6d0",
+      "id": "line-at-sun-up-i-8f6fd0",
       "kind": "line",
-      "text": "At sun up I did peep out, and I saw a big bird sat down on the lawn.",
-      "script": "Read aloud, warmly, at storytime pace: \"At sun up I did peep out, and I saw a big bird sat down on the lawn.\"",
-      "file": "line-at-sun-up-i-1dc6d0.mp3",
+      "text": "At sun up I did peep out, and I saw a big bird sat on the lawn.",
+      "script": "Read aloud, warmly, at storytime pace: \"At sun up I did peep out, and I saw a big bird sat on the lawn.\"",
+      "file": "line-at-sun-up-i-8f6fd0.mp3",
       "days": [
         93
       ]
@@ -35510,11 +35511,11 @@
       ]
     },
     {
-      "id": "line-at-the-end-of-70b485",
+      "id": "line-at-the-end-of-ca8a4b",
       "kind": "line",
-      "text": "At the end of the path we did sit down in the grass with all of it.",
-      "script": "Read aloud, warmly, at storytime pace: \"At the end of the path we did sit down in the grass with all of it.\"",
-      "file": "line-at-the-end-of-70b485.mp3",
+      "text": "At the end of the path we did sit in the grass with all of it.",
+      "script": "Read aloud, warmly, at storytime pace: \"At the end of the path we did sit in the grass with all of it.\"",
+      "file": "line-at-the-end-of-ca8a4b.mp3",
       "days": [
         99
       ]
@@ -35580,6 +35581,16 @@
       ]
     },
     {
+      "id": "line-at-the-end-are-fb2ad9",
+      "kind": "line",
+      "text": "At the end, are there any plums on the tree?",
+      "script": "Read aloud, warmly, at storytime pace: \"At the end, are there any plums on the tree?\"",
+      "file": "line-at-the-end-are-fb2ad9.mp3",
+      "days": [
+        102
+      ]
+    },
+    {
       "id": "line-at-the-end-up-8d54cd",
       "kind": "line",
       "text": "At the end, up the tree is ...",
@@ -35590,11 +35601,11 @@
       ]
     },
     {
-      "id": "line-at-the-top-the-3513c3",
+      "id": "line-at-the-top-the-95d3f1",
       "kind": "line",
-      "text": "At the top the grass is soft, and we can see all of the town.",
-      "script": "Read aloud, warmly, at storytime pace: \"At the top the grass is soft, and we can see all of the town.\"",
-      "file": "line-at-the-top-the-3513c3.mp3",
+      "text": "At the top the grass is soft, and we can see all of the land.",
+      "script": "Read aloud, warmly, at storytime pace: \"At the top the grass is soft, and we can see all of the land.\"",
+      "file": "line-at-the-top-the-95d3f1.mp3",
       "days": [
         99
       ]
@@ -35990,11 +36001,11 @@
       ]
     },
     {
-      "id": "line-but-then-i-did-7edeab",
+      "id": "line-but-then-i-did-401c36",
       "kind": "line",
-      "text": "But then I did see a fat toad sit down on that red rug.",
-      "script": "Read aloud, warmly, at storytime pace: \"But then I did see a fat toad sit down on that red rug.\"",
-      "file": "line-but-then-i-did-7edeab.mp3",
+      "text": "But then I did see a fat toad sit on that red rug.",
+      "script": "Read aloud, warmly, at storytime pace: \"But then I did see a fat toad sit on that red rug.\"",
+      "file": "line-but-then-i-did-401c36.mp3",
       "days": [
         88
       ]
@@ -36100,21 +36111,21 @@
       ]
     },
     {
-      "id": "line-dad-did-drag-a-f5b278",
+      "id": "line-dad-did-drag-a-dc6c53",
       "kind": "line",
-      "text": "Dad did drag a big box out to the shed and did set it down on the grass.",
-      "script": "Read aloud, warmly, at storytime pace: \"Dad did drag a big box out to the shed and did set it down on the grass.\"",
-      "file": "line-dad-did-drag-a-f5b278.mp3",
+      "text": "Dad did drag a big box out to the shed and did set it on the grass.",
+      "script": "Read aloud, warmly, at storytime pace: \"Dad did drag a big box out to the shed and did set it on the grass.\"",
+      "file": "line-dad-did-drag-a-dc6c53.mp3",
       "days": [
         91
       ]
     },
     {
-      "id": "line-dad-did-drive-us-6869d3",
+      "id": "line-dad-did-drive-us-6ac6d2",
       "kind": "line",
-      "text": "Dad did drive us down to the sea, and we did sit up on the rocks.",
-      "script": "Read aloud, warmly, at storytime pace: \"Dad did drive us down to the sea, and we did sit up on the rocks.\"",
-      "file": "line-dad-did-drive-us-6869d3.mp3",
+      "text": "Dad did drive us out to the sea, and we did sit up on the rocks.",
+      "script": "Read aloud, warmly, at storytime pace: \"Dad did drive us out to the sea, and we did sit up on the rocks.\"",
+      "file": "line-dad-did-drive-us-6ac6d2.mp3",
       "days": [
         96
       ]
@@ -36230,11 +36241,11 @@
       ]
     },
     {
-      "id": "line-dad-did-set-the-eb574e",
+      "id": "line-dad-did-set-the-91f584",
       "kind": "line",
-      "text": "Dad did set the big box down on ...",
-      "script": "Read aloud, warmly, at storytime pace: \"Dad did set the big box down on ...\"",
-      "file": "line-dad-did-set-the-eb574e.mp3",
+      "text": "Dad did set the big box on ...",
+      "script": "Read aloud, warmly, at storytime pace: \"Dad did set the big box on ...\"",
+      "file": "line-dad-did-set-the-91f584.mp3",
       "days": [
         91
       ]
@@ -36750,26 +36761,6 @@
       ]
     },
     {
-      "id": "line-do-you-want-to-13eeae",
-      "kind": "line",
-      "text": "Do you want to go down to the bank and dig a den?",
-      "script": "Read aloud, warmly, at storytime pace: \"Do you want to go down to the bank and dig a den?\"",
-      "file": "line-do-you-want-to-13eeae.mp3",
-      "days": [
-        88
-      ]
-    },
-    {
-      "id": "line-do-you-want-to-e2ae9a",
-      "kind": "line",
-      "text": "Do you want to go down to the den with me?",
-      "script": "Read aloud, warmly, at storytime pace: \"Do you want to go down to the den with me?\"",
-      "file": "line-do-you-want-to-e2ae9a.mp3",
-      "days": [
-        88
-      ]
-    },
-    {
       "id": "line-do-you-want-to-ec0a66",
       "kind": "line",
       "text": "Do you want to go next, or do you want to go last?",
@@ -36777,6 +36768,26 @@
       "file": "line-do-you-want-to-ec0a66.mp3",
       "days": [
         91
+      ]
+    },
+    {
+      "id": "line-do-you-want-to-6703c0",
+      "kind": "line",
+      "text": "Do you want to go out to the bank and dig a den?",
+      "script": "Read aloud, warmly, at storytime pace: \"Do you want to go out to the bank and dig a den?\"",
+      "file": "line-do-you-want-to-6703c0.mp3",
+      "days": [
+        88
+      ]
+    },
+    {
+      "id": "line-do-you-want-to-fafd3b",
+      "kind": "line",
+      "text": "Do you want to go out to the den with me?",
+      "script": "Read aloud, warmly, at storytime pace: \"Do you want to go out to the den with me?\"",
+      "file": "line-do-you-want-to-fafd3b.mp3",
+      "days": [
+        88
       ]
     },
     {
@@ -36810,36 +36821,6 @@
       ]
     },
     {
-      "id": "line-down-at-the-end-0a952e",
-      "kind": "line",
-      "text": "Down at the end of the path",
-      "script": "Read aloud, warmly, at storytime pace: \"Down at the end of the path\"",
-      "file": "line-down-at-the-end-0a952e.mp3",
-      "days": [
-        99
-      ]
-    },
-    {
-      "id": "line-down-in-the-mud-b54c90",
-      "kind": "line",
-      "text": "Down in the mud",
-      "script": "Read aloud, warmly, at storytime pace: \"Down in the mud\"",
-      "file": "line-down-in-the-mud-b54c90.mp3",
-      "days": [
-        98
-      ]
-    },
-    {
-      "id": "line-down-she-did-fall-85e72c",
-      "kind": "line",
-      "text": "Down she did fall, and she did sit on the grass and rub her leg.",
-      "script": "Read aloud, warmly, at storytime pace: \"Down she did fall, and she did sit on the grass and rub her leg.\"",
-      "file": "line-down-she-did-fall-85e72c.mp3",
-      "days": [
-        94
-      ]
-    },
-    {
       "id": "line-down-the-road-to-17b634",
       "kind": "line",
       "text": "Down the road to the town",
@@ -36847,16 +36828,6 @@
       "file": "line-down-the-road-to-17b634.mp3",
       "days": [
         106
-      ]
-    },
-    {
-      "id": "line-down-to-the-pond-213468",
-      "kind": "line",
-      "text": "Down to the pond",
-      "script": "Read aloud, warmly, at storytime pace: \"Down to the pond\"",
-      "file": "line-down-to-the-pond-213468.mp3",
-      "days": [
-        101
       ]
     },
     {
@@ -37340,11 +37311,11 @@
       ]
     },
     {
-      "id": "line-he-did-set-the-ee6cfd",
+      "id": "line-he-did-set-the-2bca84",
       "kind": "line",
-      "text": "He did set the ham down on the lawn and did creep up next to the hawk.",
-      "script": "Read aloud, warmly, at storytime pace: \"He did set the ham down on the lawn and did creep up next to the hawk.\"",
-      "file": "line-he-did-set-the-ee6cfd.mp3",
+      "text": "He did set the ham on the lawn and did creep up next to the hawk.",
+      "script": "Read aloud, warmly, at storytime pace: \"He did set the ham on the lawn and did creep up next to the hawk.\"",
+      "file": "line-he-did-set-the-2bca84.mp3",
       "days": [
         93
       ]
@@ -37450,16 +37421,6 @@
       ]
     },
     {
-      "id": "line-how-many-plums-are-da215f",
-      "kind": "line",
-      "text": "How many plums are on the tree at the end?",
-      "script": "Read aloud, warmly, at storytime pace: \"How many plums are on the tree at the end?\"",
-      "file": "line-how-many-plums-are-da215f.mp3",
-      "days": [
-        102
-      ]
-    },
-    {
       "id": "line-i-can-fix-the-8c2147",
       "kind": "line",
       "text": "I can fix the red truck if you get me six nails.",
@@ -37540,11 +37501,11 @@
       ]
     },
     {
-      "id": "line-i-did-ask-dad-1cc29d",
+      "id": "line-i-did-ask-dad-f48b45",
       "kind": "line",
-      "text": "I did ask Dad where he did set the big torch down, and he said it is in the truck.",
-      "script": "Read aloud, warmly, at storytime pace: \"I did ask Dad where he did set the big torch down, and he said it is in the truck.\"",
-      "file": "line-i-did-ask-dad-1cc29d.mp3",
+      "text": "I did ask Dad where he did set the big torch, and he said it is in the truck.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did ask Dad where he did set the big torch, and he said it is in the truck.\"",
+      "file": "line-i-did-ask-dad-f48b45.mp3",
       "days": [
         98
       ]
@@ -37580,21 +37541,11 @@
       ]
     },
     {
-      "id": "line-i-did-chuck-a-a62b2e",
+      "id": "line-i-did-chuck-a-2a372f",
       "kind": "line",
-      "text": "I did chuck a nut up at it, and down in the mud did land ...",
-      "script": "Read aloud, warmly, at storytime pace: \"I did chuck a nut up at it, and down in the mud did land ...\"",
-      "file": "line-i-did-chuck-a-a62b2e.mp3",
-      "days": [
-        89
-      ]
-    },
-    {
-      "id": "line-i-did-chuck-a-0867be",
-      "kind": "line",
-      "text": "I did chuck a nut up at it, and down it did drop.",
-      "script": "Read aloud, warmly, at storytime pace: \"I did chuck a nut up at it, and down it did drop.\"",
-      "file": "line-i-did-chuck-a-0867be.mp3",
+      "text": "I did chuck a nut up at it, and the lump did drop.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did chuck a nut up at it, and the lump did drop.\"",
+      "file": "line-i-did-chuck-a-2a372f.mp3",
       "days": [
         89
       ]
@@ -37610,21 +37561,21 @@
       ]
     },
     {
-      "id": "line-i-did-dig-a-b33627",
+      "id": "line-i-did-dig-a-a1dd09",
       "kind": "line",
-      "text": "I did dig a den in the bank, down at the big ...",
-      "script": "Read aloud, warmly, at storytime pace: \"I did dig a den in the bank, down at the big ...\"",
-      "file": "line-i-did-dig-a-b33627.mp3",
+      "text": "I did dig a den in the bank, out at the big ...",
+      "script": "Read aloud, warmly, at storytime pace: \"I did dig a den in the bank, out at the big ...\"",
+      "file": "line-i-did-dig-a-a1dd09.mp3",
       "days": [
         88
       ]
     },
     {
-      "id": "line-i-did-dig-a-2a3f70",
+      "id": "line-i-did-dig-a-33e348",
       "kind": "line",
-      "text": "I did dig a den in the bank, down at the big oak.",
-      "script": "Read aloud, warmly, at storytime pace: \"I did dig a den in the bank, down at the big oak.\"",
-      "file": "line-i-did-dig-a-2a3f70.mp3",
+      "text": "I did dig a den in the bank, out at the big oak.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did dig a den in the bank, out at the big oak.\"",
+      "file": "line-i-did-dig-a-33e348.mp3",
       "days": [
         88
       ]
@@ -37700,11 +37651,11 @@
       ]
     },
     {
-      "id": "line-i-did-eat-my-1917e1",
+      "id": "line-i-did-eat-my-51c26e",
       "kind": "line",
-      "text": "I did eat my buns. Meg did get her feet wet. The sun did go down a bit.",
-      "script": "Read aloud, warmly, at storytime pace: \"I did eat my buns. Meg did get her feet wet. The sun did go down a bit.\"",
-      "file": "line-i-did-eat-my-1917e1.mp3",
+      "text": "I did eat my buns. Meg did get her feet wet. The sun did drop a bit.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did eat my buns. Meg did get her feet wet. The sun did drop a bit.\"",
+      "file": "line-i-did-eat-my-51c26e.mp3",
       "days": [
         96
       ]
@@ -38140,11 +38091,11 @@
       ]
     },
     {
-      "id": "line-i-said-it-is-0a1803",
+      "id": "line-i-said-it-is-afb575",
       "kind": "line",
-      "text": "I said, \"It is not an owl. It is a crow!\" and Meg did huff.",
-      "script": "Read aloud, warmly, at storytime pace: \"I said, \"It is not an owl. It is a crow!\" and Meg did huff.\"",
-      "file": "line-i-said-it-is-0a1803.mp3",
+      "text": "I said, \"It is not a stork. It is a crow!\" and Meg did huff.",
+      "script": "Read aloud, warmly, at storytime pace: \"I said, \"It is not a stork. It is a crow!\" and Meg did huff.\"",
+      "file": "line-i-said-it-is-afb575.mp3",
       "days": [
         89
       ]
@@ -38460,11 +38411,11 @@
       ]
     },
     {
-      "id": "line-in-the-dark-i-dcad30",
+      "id": "line-in-the-dark-i-587e03",
       "kind": "line",
-      "text": "In the dark I did see a big white thing go up and down and up and down.",
-      "script": "Read aloud, warmly, at storytime pace: \"In the dark I did see a big white thing go up and down and up and down.\"",
-      "file": "line-in-the-dark-i-dcad30.mp3",
+      "text": "In the dark I did see a big white thing lift and drop and lift and drop.",
+      "script": "Read aloud, warmly, at storytime pace: \"In the dark I did see a big white thing lift and drop and lift and drop.\"",
+      "file": "line-in-the-dark-i-587e03.mp3",
       "days": [
         97
       ]
@@ -38640,6 +38591,16 @@
       ]
     },
     {
+      "id": "line-in-the-mud-next-900ad2",
+      "kind": "line",
+      "text": "In the mud next to the step",
+      "script": "Read aloud, warmly, at storytime pace: \"In the mud next to the step\"",
+      "file": "line-in-the-mud-next-900ad2.mp3",
+      "days": [
+        98
+      ]
+    },
+    {
       "id": "line-in-the-nest-are-d46971",
       "kind": "line",
       "text": "In the nest are ...",
@@ -38747,16 +38708,6 @@
       "file": "line-in-the-tin-sat-8e9847.mp3",
       "days": [
         83
-      ]
-    },
-    {
-      "id": "line-in-the-town-e9d654",
-      "kind": "line",
-      "text": "In the town",
-      "script": "Read aloud, warmly, at storytime pace: \"In the town\"",
-      "file": "line-in-the-town-e9d654.mp3",
-      "days": [
-        99
       ]
     },
     {
@@ -39030,11 +38981,11 @@
       ]
     },
     {
-      "id": "line-it-did-grab-the-a59419",
+      "id": "line-it-did-grab-the-01a933",
       "kind": "line",
-      "text": "It did grab the red crown and it did run out to the pond.",
-      "script": "Read aloud, warmly, at storytime pace: \"It did grab the red crown and it did run out to the pond.\"",
-      "file": "line-it-did-grab-the-a59419.mp3",
+      "text": "It did grab the red cape and it did run out to the pond.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did grab the red cape and it did run out to the pond.\"",
+      "file": "line-it-did-grab-the-01a933.mp3",
       "days": [
         90
       ]
@@ -39080,11 +39031,11 @@
       ]
     },
     {
-      "id": "line-it-did-land-in-2d1654",
+      "id": "line-it-did-land-in-f21214",
       "kind": "line",
-      "text": "It did land in the mud with a thud. It is not an owl. It is not a crow.",
-      "script": "Read aloud, warmly, at storytime pace: \"It did land in the mud with a thud. It is not an owl. It is not a crow.\"",
-      "file": "line-it-did-land-in-2d1654.mp3",
+      "text": "It did land in the mud with a thud. It is not a stork. It is not a crow.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did land in the mud with a thud. It is not a stork. It is not a crow.\"",
+      "file": "line-it-did-land-in-f21214.mp3",
       "days": [
         89
       ]
@@ -39260,11 +39211,11 @@
       ]
     },
     {
-      "id": "line-it-did-whip-its-3b1895",
+      "id": "line-it-did-whip-its-7184b3",
       "kind": "line",
-      "text": "It did whip its tail up and drop it down, and all the sea did go white.",
-      "script": "Read aloud, warmly, at storytime pace: \"It did whip its tail up and drop it down, and all the sea did go white.\"",
-      "file": "line-it-did-whip-its-3b1895.mp3",
+      "text": "It did whip its tail up and then drop it, and all the sea did go white.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did whip its tail up and then drop it, and all the sea did go white.\"",
+      "file": "line-it-did-whip-its-7184b3.mp3",
       "days": [
         96
       ]
@@ -39520,11 +39471,11 @@
       ]
     },
     {
-      "id": "line-it-is-the-dog-d5931f",
+      "id": "line-it-is-the-dog-2679c7",
       "kind": "line",
-      "text": "It is the dog. It did poke the ball out to us with its nose, and then it did sit down.",
-      "script": "Read aloud, warmly, at storytime pace: \"It is the dog. It did poke the ball out to us with its nose, and then it did sit down.\"",
-      "file": "line-it-is-the-dog-d5931f.mp3",
+      "text": "It is the dog. It did poke the ball out to us with its nose, and then it did sit still.",
+      "script": "Read aloud, warmly, at storytime pace: \"It is the dog. It did poke the ball out to us with its nose, and then it did sit still.\"",
+      "file": "line-it-is-the-dog-2679c7.mp3",
       "days": [
         94
       ]
@@ -40620,11 +40571,11 @@
       ]
     },
     {
-      "id": "line-meg-did-go-a-bebcc8",
+      "id": "line-meg-did-go-a-afebfe",
       "kind": "line",
-      "text": "Meg did go a bit green and did sit down on the grass with a thud.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg did go a bit green and did sit down on the grass with a thud.\"",
-      "file": "line-meg-did-go-a-bebcc8.mp3",
+      "text": "Meg did go a bit green and did sit on the grass with a thud.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did go a bit green and did sit on the grass with a thud.\"",
+      "file": "line-meg-did-go-a-afebfe.mp3",
       "days": [
         102
       ]
@@ -40730,21 +40681,21 @@
       ]
     },
     {
-      "id": "line-meg-did-kick-the-0853a0",
+      "id": "line-meg-did-kick-the-193210",
       "kind": "line",
-      "text": "Meg did kick the ball, and down it did land in ...",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg did kick the ball, and down it did land in ...\"",
-      "file": "line-meg-did-kick-the-0853a0.mp3",
+      "text": "Meg did kick the ball, and then it did fall in ...",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did kick the ball, and then it did fall in ...\"",
+      "file": "line-meg-did-kick-the-193210.mp3",
       "days": [
         94
       ]
     },
     {
-      "id": "line-meg-did-kick-the-534d8e",
+      "id": "line-meg-did-kick-the-38a4d3",
       "kind": "line",
-      "text": "Meg did kick the ball, and up it did go, up and up and down in the next yard.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg did kick the ball, and up it did go, up and up and down in the next yard.\"",
-      "file": "line-meg-did-kick-the-534d8e.mp3",
+      "text": "Meg did kick the ball, and up it did go, up and up, and then it did fall in the next yard.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did kick the ball, and up it did go, up and up, and then it did fall in the next yard.\"",
+      "file": "line-meg-did-kick-the-38a4d3.mp3",
       "days": [
         94
       ]
@@ -40830,11 +40781,11 @@
       ]
     },
     {
-      "id": "line-meg-did-run-back-4808cd",
+      "id": "line-meg-did-run-back-a157e5",
       "kind": "line",
-      "text": "Meg did run back down the path so fast that she did land in the sand.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg did run back down the path so fast that she did land in the sand.\"",
-      "file": "line-meg-did-run-back-4808cd.mp3",
+      "text": "Meg did run back so fast that she did land in the sand.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did run back so fast that she did land in the sand.\"",
+      "file": "line-meg-did-run-back-a157e5.mp3",
       "days": [
         96
       ]
@@ -41070,11 +41021,11 @@
       ]
     },
     {
-      "id": "line-meg-did-want-to-c06623",
+      "id": "line-meg-did-want-to-74cda0",
       "kind": "line",
-      "text": "Meg did want to be a queen, so she did stick a red crown on.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg did want to be a queen, so she did stick a red crown on.\"",
-      "file": "line-meg-did-want-to-c06623.mp3",
+      "text": "Meg did want to be a queen, so she did stick a red cape on.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did want to be a queen, so she did stick a red cape on.\"",
+      "file": "line-meg-did-want-to-74cda0.mp3",
       "days": [
         90
       ]
@@ -41330,11 +41281,11 @@
       ]
     },
     {
-      "id": "line-meg-said-owls-are-4074b1",
+      "id": "line-meg-said-storks-are-498cfe",
       "kind": "line",
-      "text": "Meg said owls are big and crows are ...",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg said owls are big and crows are ...\"",
-      "file": "line-meg-said-owls-are-4074b1.mp3",
+      "text": "Meg said storks are big and crows are ...",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg said storks are big and crows are ...\"",
+      "file": "line-meg-said-storks-are-498cfe.mp3",
       "days": [
         89
       ]
@@ -41460,11 +41411,11 @@
       ]
     },
     {
-      "id": "line-meg-said-it-is-cd1c71",
+      "id": "line-meg-said-it-is-c78643",
       "kind": "line",
-      "text": "Meg said, \"It is an owl!\" and she did point up at it.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg said, \"It is an owl!\" and she did point up at it.\"",
-      "file": "line-meg-said-it-is-cd1c71.mp3",
+      "text": "Meg said, \"It is a stork!\" and she did point up at it.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg said, \"It is a stork!\" and she did point up at it.\"",
+      "file": "line-meg-said-it-is-c78643.mp3",
       "days": [
         89
       ]
@@ -41490,11 +41441,11 @@
       ]
     },
     {
-      "id": "line-meg-said-owls-are-44f360",
+      "id": "line-meg-said-storks-are-bd7131",
       "kind": "line",
-      "text": "Meg said, \"Owls are big and crows are not,\" and she did cross her arms.",
-      "script": "Read aloud, warmly, at storytime pace: \"Meg said, \"Owls are big and crows are not,\" and she did cross her arms.\"",
-      "file": "line-meg-said-owls-are-44f360.mp3",
+      "text": "Meg said, \"Storks are big and crows are not,\" and she did cross her arms.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg said, \"Storks are big and crows are not,\" and she did cross her arms.\"",
+      "file": "line-meg-said-storks-are-bd7131.mp3",
       "days": [
         89
       ]
@@ -41770,21 +41721,21 @@
       ]
     },
     {
-      "id": "line-my-den-did-fall-cd945b",
+      "id": "line-my-den-did-fall-45d644",
       "kind": "line",
-      "text": "My den did fall down on my back, and I did yell and yell.",
-      "script": "Read aloud, warmly, at storytime pace: \"My den did fall down on my back, and I did yell and yell.\"",
-      "file": "line-my-den-did-fall-cd945b.mp3",
+      "text": "My den did fall on my back, and I did yell and yell.",
+      "script": "Read aloud, warmly, at storytime pace: \"My den did fall on my back, and I did yell and yell.\"",
+      "file": "line-my-den-did-fall-45d644.mp3",
       "days": [
         95
       ]
     },
     {
-      "id": "line-my-dog-did-get-ee4a89",
+      "id": "line-my-dog-did-get-4db68d",
       "kind": "line",
-      "text": "My dog did get up on my bed, and he did not want to go back down.",
-      "script": "Read aloud, warmly, at storytime pace: \"My dog did get up on my bed, and he did not want to go back down.\"",
-      "file": "line-my-dog-did-get-ee4a89.mp3",
+      "text": "My dog did get up on my bed, and he did not want to get off.",
+      "script": "Read aloud, warmly, at storytime pace: \"My dog did get up on my bed, and he did not want to get off.\"",
+      "file": "line-my-dog-did-get-4db68d.mp3",
       "days": [
         95
       ]
@@ -41890,11 +41841,11 @@
       ]
     },
     {
-      "id": "line-no-frog-dad-did-783a1a",
+      "id": "line-no-frog-dad-did-f47663",
       "kind": "line",
-      "text": "No frog. Dad did sit down and grin. \"A frog can not hide all day,\" he said.",
-      "script": "Read aloud, warmly, at storytime pace: \"No frog. Dad did sit down and grin. \"A frog can not hide all day,\" he said.\"",
-      "file": "line-no-frog-dad-did-783a1a.mp3",
+      "text": "No frog. Dad did sit on the step and grin. \"A frog can not hide all day,\" he said.",
+      "script": "Read aloud, warmly, at storytime pace: \"No frog. Dad did sit on the step and grin. \"A frog can not hide all day,\" he said.\"",
+      "file": "line-no-frog-dad-did-f47663.mp3",
       "days": [
         98
       ]
@@ -41920,11 +41871,11 @@
       ]
     },
     {
-      "id": "line-not-a-plum-anywhere-d340d6",
+      "id": "line-not-a-plum-anywhere-f949e2",
       "kind": "line",
-      "text": "Not a plum anywhere. We did get the lot, and now we do not want any.",
-      "script": "Read aloud, warmly, at storytime pace: \"Not a plum anywhere. We did get the lot, and now we do not want any.\"",
-      "file": "line-not-a-plum-anywhere-d340d6.mp3",
+      "text": "Not a plum anywhere. We did get the lot, and we do not want any.",
+      "script": "Read aloud, warmly, at storytime pace: \"Not a plum anywhere. We did get the lot, and we do not want any.\"",
+      "file": "line-not-a-plum-anywhere-f949e2.mp3",
       "days": [
         102
       ]
@@ -41940,6 +41891,26 @@
       ]
     },
     {
+      "id": "line-off-she-did-fall-146722",
+      "kind": "line",
+      "text": "Off she did fall, and she did sit on the grass and rub her leg.",
+      "script": "Read aloud, warmly, at storytime pace: \"Off she did fall, and she did sit on the grass and rub her leg.\"",
+      "file": "line-off-she-did-fall-146722.mp3",
+      "days": [
+        94
+      ]
+    },
+    {
+      "id": "line-off-to-the-pond-f36b8f",
+      "kind": "line",
+      "text": "Off to the pond",
+      "script": "Read aloud, warmly, at storytime pace: \"Off to the pond\"",
+      "file": "line-off-to-the-pond-f36b8f.mp3",
+      "days": [
+        101
+      ]
+    },
+    {
       "id": "line-on-a-gray-day-4c6838",
       "kind": "line",
       "text": "On a gray day, Meg and I did wait for the train to the sea.",
@@ -41947,6 +41918,16 @@
       "file": "line-on-a-gray-day-4c6838.mp3",
       "days": [
         79
+      ]
+    },
+    {
+      "id": "line-on-the-steep-path-07ad72",
+      "kind": "line",
+      "text": "On the steep path",
+      "script": "Read aloud, warmly, at storytime pace: \"On the steep path\"",
+      "file": "line-on-the-steep-path-07ad72.mp3",
+      "days": [
+        99
       ]
     },
     {
@@ -43040,31 +43021,31 @@
       ]
     },
     {
-      "id": "line-so-meg-did-sit-e32b62",
+      "id": "line-so-meg-did-sit-807917",
       "kind": "line",
-      "text": "So Meg did sit down on the step and she did not say a thing.",
-      "script": "Read aloud, warmly, at storytime pace: \"So Meg did sit down on the step and she did not say a thing.\"",
-      "file": "line-so-meg-did-sit-e32b62.mp3",
+      "text": "So Meg did sit on the step and she did not say a thing.",
+      "script": "Read aloud, warmly, at storytime pace: \"So Meg did sit on the step and she did not say a thing.\"",
+      "file": "line-so-meg-did-sit-807917.mp3",
       "days": [
         95
       ]
     },
     {
-      "id": "line-so-mum-did-get-3980a5",
+      "id": "line-so-mum-did-get-2b1158",
       "kind": "line",
-      "text": "So Mum did get the big pot out, and all of the plums did go in it, and now there is jam.",
-      "script": "Read aloud, warmly, at storytime pace: \"So Mum did get the big pot out, and all of the plums did go in it, and now there is jam.\"",
-      "file": "line-so-mum-did-get-3980a5.mp3",
+      "text": "So Mum did get the big pot out, and all of the plums did go in it, and then there is jam.",
+      "script": "Read aloud, warmly, at storytime pace: \"So Mum did get the big pot out, and all of the plums did go in it, and then there is jam.\"",
+      "file": "line-so-mum-did-get-2b1158.mp3",
       "days": [
         102
       ]
     },
     {
-      "id": "line-so-down-we-went-975327",
+      "id": "line-so-back-we-went-c86c27",
       "kind": "line",
-      "text": "So down we went. A bun here. A nut there. The tin of beans in a clump of grass.",
-      "script": "Read aloud, warmly, at storytime pace: \"So down we went. A bun here. A nut there. The tin of beans in a clump of grass.\"",
-      "file": "line-so-down-we-went-975327.mp3",
+      "text": "So back we went. A bun here. A nut there. The tin of beans in a clump of grass.",
+      "script": "Read aloud, warmly, at storytime pace: \"So back we went. A bun here. A nut there. The tin of beans in a clump of grass.\"",
+      "file": "line-so-back-we-went-c86c27.mp3",
       "days": [
         99
       ]
@@ -43097,16 +43078,6 @@
       "file": "line-so-my-brother-can-4cc322.mp3",
       "days": [
         107
-      ]
-    },
-    {
-      "id": "line-so-now-we-do-8cf316",
-      "kind": "line",
-      "text": "So now we do. Sam is not my dog, but he is the dog I see all the time.",
-      "script": "Read aloud, warmly, at storytime pace: \"So now we do. Sam is not my dog, but he is the dog I see all the time.\"",
-      "file": "line-so-now-we-do-8cf316.mp3",
-      "days": [
-        101
       ]
     },
     {
@@ -43240,11 +43211,11 @@
       ]
     },
     {
-      "id": "line-so-we-did-sit-10cf52",
+      "id": "line-so-we-did-sit-45ac5e",
       "kind": "line",
-      "text": "So we did sit down next to the wall, and the small dog did peep out at us all day.",
-      "script": "Read aloud, warmly, at storytime pace: \"So we did sit down next to the wall, and the small dog did peep out at us all day.\"",
-      "file": "line-so-we-did-sit-10cf52.mp3",
+      "text": "So we did sit next to the wall, and the small dog did peep out at us all day.",
+      "script": "Read aloud, warmly, at storytime pace: \"So we did sit next to the wall, and the small dog did peep out at us all day.\"",
+      "file": "line-so-we-did-sit-45ac5e.mp3",
       "days": [
         94
       ]
@@ -43830,11 +43801,11 @@
       ]
     },
     {
-      "id": "line-the-big-bird-sat-51db31",
+      "id": "line-the-big-bird-sat-b442e3",
       "kind": "line",
-      "text": "The big bird sat down on the lawn is ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The big bird sat down on the lawn is ...\"",
-      "file": "line-the-big-bird-sat-51db31.mp3",
+      "text": "The big bird sat on the lawn is ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The big bird sat on the lawn is ...\"",
+      "file": "line-the-big-bird-sat-b442e3.mp3",
       "days": [
         93
       ]
@@ -44620,21 +44591,21 @@
       ]
     },
     {
-      "id": "line-the-duck-did-grab-7aae88",
+      "id": "line-the-duck-did-grab-e7ccc6",
       "kind": "line",
-      "text": "The duck did grab the crown and did run out to ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The duck did grab the crown and did run out to ...\"",
-      "file": "line-the-duck-did-grab-7aae88.mp3",
+      "text": "The duck did grab the cape and did run out to ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The duck did grab the cape and did run out to ...\"",
+      "file": "line-the-duck-did-grab-e7ccc6.mp3",
       "days": [
         90
       ]
     },
     {
-      "id": "line-the-duck-did-jump-9fc5ad",
+      "id": "line-the-duck-did-jump-3af97c",
       "kind": "line",
-      "text": "The duck did jump in the pond with the crown on its back.",
-      "script": "Read aloud, warmly, at storytime pace: \"The duck did jump in the pond with the crown on its back.\"",
-      "file": "line-the-duck-did-jump-9fc5ad.mp3",
+      "text": "The duck did jump in the pond with the cape on its back.",
+      "script": "Read aloud, warmly, at storytime pace: \"The duck did jump in the pond with the cape on its back.\"",
+      "file": "line-the-duck-did-jump-3af97c.mp3",
       "days": [
         90
       ]
@@ -44670,11 +44641,11 @@
       ]
     },
     {
-      "id": "line-the-duck-did-swim-230759",
+      "id": "line-the-duck-did-swim-1896cc",
       "kind": "line",
-      "text": "The duck did swim back and did drop the crown ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The duck did swim back and did drop the crown ...\"",
-      "file": "line-the-duck-did-swim-230759.mp3",
+      "text": "The duck did swim back and did drop the cape ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The duck did swim back and did drop the cape ...\"",
+      "file": "line-the-duck-did-swim-1896cc.mp3",
       "days": [
         90
       ]
@@ -44700,11 +44671,11 @@
       ]
     },
     {
-      "id": "line-the-fan-did-whip-88fe45",
+      "id": "line-the-fan-did-lift-e619b2",
       "kind": "line",
-      "text": "The fan did whip it up and drop it down, up and down, all on its own.",
-      "script": "Read aloud, warmly, at storytime pace: \"The fan did whip it up and drop it down, up and down, all on its own.\"",
-      "file": "line-the-fan-did-whip-88fe45.mp3",
+      "text": "The fan did lift it up and drop it, lift it and drop it, all on its own.",
+      "script": "Read aloud, warmly, at storytime pace: \"The fan did lift it up and drop it, lift it and drop it, all on its own.\"",
+      "file": "line-the-fan-did-lift-e619b2.mp3",
       "days": [
         97
       ]
@@ -44720,11 +44691,11 @@
       ]
     },
     {
-      "id": "line-the-fat-toad-did-4b9a7c",
+      "id": "line-the-fat-toad-did-0ca5e7",
       "kind": "line",
-      "text": "The fat toad did sit down on ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The fat toad did sit down on ...\"",
-      "file": "line-the-fat-toad-did-4b9a7c.mp3",
+      "text": "The fat toad did sit on ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The fat toad did sit on ...\"",
+      "file": "line-the-fat-toad-did-0ca5e7.mp3",
       "days": [
         88
       ]
@@ -44780,11 +44751,11 @@
       ]
     },
     {
-      "id": "line-the-fox-did-stop-cda98e",
+      "id": "line-the-fox-did-stop-301271",
       "kind": "line",
-      "text": "The fox did stop at the gate and did sit down to lick its fur.",
-      "script": "Read aloud, warmly, at storytime pace: \"The fox did stop at the gate and did sit down to lick its fur.\"",
-      "file": "line-the-fox-did-stop-cda98e.mp3",
+      "text": "The fox did stop at the gate and did lick its fur.",
+      "script": "Read aloud, warmly, at storytime pace: \"The fox did stop at the gate and did lick its fur.\"",
+      "file": "line-the-fox-did-stop-301271.mp3",
       "days": [
         91
       ]
@@ -44980,11 +44951,11 @@
       ]
     },
     {
-      "id": "line-the-hawk-did-lift-c123e0",
+      "id": "line-the-hawk-did-lift-73b832",
       "kind": "line",
-      "text": "The hawk did lift up a claw, and it did not set it back down.",
-      "script": "Read aloud, warmly, at storytime pace: \"The hawk did lift up a claw, and it did not set it back down.\"",
-      "file": "line-the-hawk-did-lift-c123e0.mp3",
+      "text": "The hawk did lift up a claw, and it did not set it back.",
+      "script": "Read aloud, warmly, at storytime pace: \"The hawk did lift up a claw, and it did not set it back.\"",
+      "file": "line-the-hawk-did-lift-73b832.mp3",
       "days": [
         93
       ]
@@ -45270,6 +45241,16 @@
       ]
     },
     {
+      "id": "line-the-lump-did-drop-9633d3",
+      "kind": "line",
+      "text": "The lump did drop, and in the mud did land ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The lump did drop, and in the mud did land ...\"",
+      "file": "line-the-lump-did-drop-9633d3.mp3",
+      "days": [
+        89
+      ]
+    },
+    {
       "id": "line-the-lump-did-not-e866e0",
       "kind": "line",
       "text": "The lump did not stir, and it did not make a peep.",
@@ -45550,11 +45531,11 @@
       ]
     },
     {
-      "id": "line-the-rain-did-drop-22cff8",
+      "id": "line-the-rain-did-fall-98b947",
       "kind": "line",
-      "text": "The rain did drop down and my den did fall on me. Then Meg did ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The rain did drop down and my den did fall on me. Then Meg did ...\"",
-      "file": "line-the-rain-did-drop-22cff8.mp3",
+      "text": "The rain did fall and my den did fall on me. Then Meg did ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The rain did fall and my den did fall on me. Then Meg did ...\"",
+      "file": "line-the-rain-did-fall-98b947.mp3",
       "days": [
         95
       ]
@@ -46130,11 +46111,11 @@
       ]
     },
     {
-      "id": "line-the-whale-did-whip-1cf323",
+      "id": "line-the-whale-did-whip-18f02f",
       "kind": "line",
-      "text": "The whale did whip its tail down, and then all the sea did go ...",
-      "script": "Read aloud, warmly, at storytime pace: \"The whale did whip its tail down, and then all the sea did go ...\"",
-      "file": "line-the-whale-did-whip-1cf323.mp3",
+      "text": "The whale did whip its tail up, and then all the sea did go ...",
+      "script": "Read aloud, warmly, at storytime pace: \"The whale did whip its tail up, and then all the sea did go ...\"",
+      "file": "line-the-whale-did-whip-18f02f.mp3",
       "days": [
         96
       ]
@@ -46740,11 +46721,11 @@
       ]
     },
     {
-      "id": "line-then-the-duck-did-73a289",
+      "id": "line-then-the-duck-did-bea393",
       "kind": "line",
-      "text": "Then the duck did swim back and did drop the crown at her feet.",
-      "script": "Read aloud, warmly, at storytime pace: \"Then the duck did swim back and did drop the crown at her feet.\"",
-      "file": "line-then-the-duck-did-73a289.mp3",
+      "text": "Then the duck did swim back and did drop the cape at her feet.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then the duck did swim back and did drop the cape at her feet.\"",
+      "file": "line-then-the-duck-did-bea393.mp3",
       "days": [
         90
       ]
@@ -46850,11 +46831,11 @@
       ]
     },
     {
-      "id": "line-then-the-sky-did-9e6b2e",
+      "id": "line-then-the-sky-did-3a3551",
       "kind": "line",
-      "text": "Then the sky did go black, and the rain did drop down on my den.",
-      "script": "Read aloud, warmly, at storytime pace: \"Then the sky did go black, and the rain did drop down on my den.\"",
-      "file": "line-then-the-sky-did-9e6b2e.mp3",
+      "text": "Then the sky did go black, and the rain did fall on my den.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then the sky did go black, and the rain did fall on my den.\"",
+      "file": "line-then-the-sky-did-3a3551.mp3",
       "days": [
         95
       ]
@@ -47720,11 +47701,11 @@
       ]
     },
     {
-      "id": "line-we-did-see-its-de9516",
+      "id": "line-we-did-see-its-61456f",
       "kind": "line",
-      "text": "We did see its back, and then its tail, and then it did sink down and go.",
-      "script": "Read aloud, warmly, at storytime pace: \"We did see its back, and then its tail, and then it did sink down and go.\"",
-      "file": "line-we-did-see-its-de9516.mp3",
+      "text": "We did see its back, and then its tail, and then it did sink and go.",
+      "script": "Read aloud, warmly, at storytime pace: \"We did see its back, and then its tail, and then it did sink and go.\"",
+      "file": "line-we-did-see-its-61456f.mp3",
       "days": [
         96
       ]
@@ -47980,11 +47961,11 @@
       ]
     },
     {
-      "id": "line-what-did-we-see-1004f8",
+      "id": "line-what-did-we-see-09a66c",
       "kind": "line",
-      "text": "What did we see go up and down in the dark?",
-      "script": "Read aloud, warmly, at storytime pace: \"What did we see go up and down in the dark?\"",
-      "file": "line-what-did-we-see-1004f8.mp3",
+      "text": "What did we see lift and drop in the dark?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did we see lift and drop in the dark?\"",
+      "file": "line-what-did-we-see-09a66c.mp3",
       "days": [
         97
       ]
@@ -48130,11 +48111,11 @@
       ]
     },
     {
-      "id": "line-where-do-you-want-19593a",
+      "id": "line-where-do-you-want-9facf7",
       "kind": "line",
-      "text": "Where do you want to sit, up there on the top of the hill or down here?",
-      "script": "Read aloud, warmly, at storytime pace: \"Where do you want to sit, up there on the top of the hill or down here?\"",
-      "file": "line-where-do-you-want-19593a.mp3",
+      "text": "Where do you want to sit, up there on the top of the hill or here in the grass?",
+      "script": "Read aloud, warmly, at storytime pace: \"Where do you want to sit, up there on the top of the hill or here in the grass?\"",
+      "file": "line-where-do-you-want-9facf7.mp3",
       "days": [
         99
       ]
@@ -48300,11 +48281,11 @@
       ]
     },
     {
-      "id": "line-you-must-bend-down-ee3c3c",
+      "id": "line-you-must-bend-low-cd257c",
       "kind": "line",
-      "text": "You must bend down at the start, and then it is big in the back.",
-      "script": "Read aloud, warmly, at storytime pace: \"You must bend down at the start, and then it is big in the back.\"",
-      "file": "line-you-must-bend-down-ee3c3c.mp3",
+      "text": "You must bend low at the start, and then it is big in the back.",
+      "script": "Read aloud, warmly, at storytime pace: \"You must bend low at the start, and then it is big in the back.\"",
+      "file": "line-you-must-bend-low-cd257c.mp3",
       "days": [
         88
       ]
@@ -48460,16 +48441,6 @@
       ]
     },
     {
-      "id": "line-a-big-owl-0e6ab1",
-      "kind": "line",
-      "text": "a big owl",
-      "script": "Read aloud, warmly, at storytime pace: \"a big owl\"",
-      "file": "line-a-big-owl-0e6ab1.mp3",
-      "days": [
-        89
-      ]
-    },
-    {
       "id": "line-a-big-peach-e05590",
       "kind": "line",
       "text": "a big peach",
@@ -48617,6 +48588,16 @@
       "file": "line-a-big-stone-1bc8a8.mp3",
       "days": [
         54
+      ]
+    },
+    {
+      "id": "line-a-big-stork-a26454",
+      "kind": "line",
+      "text": "a big stork",
+      "script": "Read aloud, warmly, at storytime pace: \"a big stork\"",
+      "file": "line-a-big-stork-a26454.mp3",
+      "days": [
+        89
       ]
     },
     {
@@ -49300,6 +49281,16 @@
       ]
     },
     {
+      "id": "line-a-red-cape-ce6e81",
+      "kind": "line",
+      "text": "a red cape",
+      "script": "Read aloud, warmly, at storytime pace: \"a red cape\"",
+      "file": "line-a-red-cape-ce6e81.mp3",
+      "days": [
+        90
+      ]
+    },
+    {
       "id": "line-a-red-car-247d56",
       "kind": "line",
       "text": "a red car",
@@ -49337,16 +49328,6 @@
       "file": "line-a-red-coat-3f99dd.mp3",
       "days": [
         79
-      ]
-    },
-    {
-      "id": "line-a-red-crown-ae5851",
-      "kind": "line",
-      "text": "a red crown",
-      "script": "Read aloud, warmly, at storytime pace: \"a red crown\"",
-      "file": "line-a-red-crown-ae5851.mp3",
-      "days": [
-        90
       ]
     },
     {
@@ -49527,16 +49508,6 @@
       "file": "line-a-stone-6ade75.mp3",
       "days": [
         61
-      ]
-    },
-    {
-      "id": "line-a-stork-5e558a",
-      "kind": "line",
-      "text": "a stork",
-      "script": "Read aloud, warmly, at storytime pace: \"a stork\"",
-      "file": "line-a-stork-5e558a.mp3",
-      "days": [
-        67
       ]
     },
     {
@@ -49967,16 +49938,6 @@
       "file": "line-go-black-f4bda4.mp3",
       "days": [
         86
-      ]
-    },
-    {
-      "id": "line-go-down-c9fde0",
-      "kind": "line",
-      "text": "go down",
-      "script": "Read aloud, warmly, at storytime pace: \"go down\"",
-      "file": "line-go-down-c9fde0.mp3",
-      "days": [
-        94
       ]
     },
     {
@@ -50460,11 +50421,11 @@
       ]
     },
     {
-      "id": "line-run-back-down-the-cf81c5",
+      "id": "line-run-back-to-us-b347dd",
       "kind": "line",
-      "text": "run back down the path",
-      "script": "Read aloud, warmly, at storytime pace: \"run back down the path\"",
-      "file": "line-run-back-down-the-cf81c5.mp3",
+      "text": "run back to us",
+      "script": "Read aloud, warmly, at storytime pace: \"run back to us\"",
+      "file": "line-run-back-to-us-b347dd.mp3",
       "days": [
         96
       ]
@@ -50627,6 +50588,16 @@
       "file": "line-stand-up-7da7e8.mp3",
       "days": [
         77
+      ]
+    },
+    {
+      "id": "line-stay-still-e1f790",
+      "kind": "line",
+      "text": "stay still",
+      "script": "Read aloud, warmly, at storytime pace: \"stay still\"",
+      "file": "line-stay-still-e1f790.mp3",
+      "days": [
+        94
       ]
     },
     {

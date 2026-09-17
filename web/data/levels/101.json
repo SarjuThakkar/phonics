@@ -119,7 +119,7 @@
       "title": "The dog with the red tag",
       "prompt": "The three words today are all about picking. Could is what you can do, would is what you want, and should is what is right. See if you can tell which is which as you go.",
       "lines": [
-        "A wet dog did trot up the lane and did sit down next to me, and it did not go off.",
+        "A wet dog did trot up the lane and did sit next to me, and it did not go off.",
         "It is a big dog with damp feet and a red tag on it.",
         "\"We could keep it,\" said Meg. \"We could keep it in the shed and Dad would not see.\"",
         "I said I would like that a lot. I would like a dog more than a bike.",
@@ -131,7 +131,7 @@
         "Then Meg did get up. \"We should go,\" she said. \"It is not my dog.\"",
         "We did all go up the lane to the farm, and a man in a green hat did run out to the gate.",
         "\"Sam!\" he said. \"I did think the fox did get him.\" And he said we can go up and see Sam when we want to.",
-        "So now we do. Sam is not my dog, but he is the dog I see all the time."
+        "And so we do. Sam is not my dog, but he is the dog I see all the time."
       ],
       "questions": [
         {
@@ -146,7 +146,7 @@
         },
         {
           "prompt": "Where did we take Sam?",
-          "choices": ["Up the lane to the farm", "Down to the pond", "In the shed"],
+          "choices": ["Up the lane to the farm", "Off to the pond", "In the shed"],
           "answer": "Up the lane to the farm"
         }
       ]

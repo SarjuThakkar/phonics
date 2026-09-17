@@ -120,11 +120,11 @@
         "We did fill the tin. Then we did fill a jar. Then we did fill the hat that Dad did lend us.",
         "\"That is so many plums,\" said Meg. \"I do not think we can eat this many.\"",
         "We did eat plums with lunch. We did eat plums on the step. By six we did not want any more.",
-        "Meg did go a bit green and did sit down on the grass with a thud.",
-        "So Mum did get the big pot out, and all of the plums did go in it, and now there is jam.",
+        "Meg did go a bit green and did sit on the grass with a thud.",
+        "So Mum did get the big pot out, and all of the plums did go in it, and then there is jam.",
         "There is jam in the shed, jam on the shelf and jam under the sink. There is not anywhere left to keep it.",
         "Then we did go and check the tree. There are not any plums on it at all.",
-        "Not a plum anywhere. We did get the lot, and now we do not want any.",
+        "Not a plum anywhere. We did get the lot, and we do not want any.",
         "Mum did hand me a bun. \"Do you want jam on it?\" she said. For the first time, I said no."
       ],
       "questions": [
@@ -139,7 +139,7 @@
           "answer": "She did make jam"
         },
         {
-          "prompt": "How many plums are on the tree at the end?",
+          "prompt": "At the end, are there any plums on the tree?",
           "choices": ["Not any at all", "So many", "Six"],
           "answer": "Not any at all"
         }

@@ -121,31 +121,31 @@
       "title": "The queen and the duck",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "Meg did want to be a queen, so she did stick a red crown on.",
+        "Meg did want to be a queen, so she did stick a red cape on.",
         "She said, \"I am the queen. You must do it quick!\" and she did sit up on the big seat.",
         "I said, \"Do you want a drink?\" and the queen said yes.",
         "But then a duck did march in, quack quack quack, and it did stop at the seat.",
-        "It did grab the red crown and it did run out to the pond.",
+        "It did grab the red cape and it did run out to the pond.",
         "Meg did yell, \"Stop that duck!\" and we did run out at top speed.",
-        "The duck did jump in the pond with the crown on its back.",
+        "The duck did jump in the pond with the cape on its back.",
         "Meg said, \"It is not a duck. It is a robber!\" and she did stamp in the mud.",
-        "Then the duck did swim back and did drop the crown at her feet.",
+        "Then the duck did swim back and did drop the cape at her feet.",
         "It did quack at Meg. Meg did grin at it.",
         "Meg said, \"You can be the queen at sun up,\" and the duck did quack and quack."
       ],
       "questions": [
         {
           "prompt": "Meg did want to be a queen, so she did stick on ...",
-          "choices": ["a red crown", "a big quilt", "a green hat"],
-          "answer": "a red crown"
+          "choices": ["a red cape", "a big quilt", "a green hat"],
+          "answer": "a red cape"
         },
         {
-          "prompt": "The duck did grab the crown and did run out to ...",
+          "prompt": "The duck did grab the cape and did run out to ...",
           "choices": ["the pond", "the shed", "the oak"],
           "answer": "the pond"
         },
         {
-          "prompt": "The duck did swim back and did drop the crown ...",
+          "prompt": "The duck did swim back and did drop the cape ...",
           "choices": ["at her feet", "in the mud", "on the seat"],
           "answer": "at her feet"
         }
@@ -154,7 +154,7 @@
     {
       "type": "review",
       "label": "The last two days",
-      "words": ["you", "said", "owl", "toad", "torch"],
+      "words": ["you", "said", "stork", "toad", "torch"],
       "prompt": "The first two we just know. The last three we sound out."
     },
     {

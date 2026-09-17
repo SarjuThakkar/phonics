@@ -96,7 +96,7 @@
     },
     {
       "type": "sentence",
-      "text": "A big hawk did sit up in the oak, and I saw it drop down fast."
+      "text": "A big hawk did sit up in the oak, and I saw it drop fast."
     },
     {
       "type": "sentence",
@@ -115,22 +115,22 @@
       "title": "The hawk on the lawn",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "At sun up I did peep out, and I saw a big bird sat down on the lawn.",
+        "At sun up I did peep out, and I saw a big bird sat on the lawn.",
         "It did not hop and it did not peck. It did not want to go.",
         "Dad said, \"That is a hawk. Do not run at it,\" and we did stand still.",
-        "The hawk did lift up a claw, and it did not set it back down.",
+        "The hawk did lift up a claw, and it did not set it back.",
         "Meg said, \"It is stuck!\" and she did point at the grass.",
         "A long straw did get stuck on that claw, and the hawk did tug and tug.",
         "\"Get me the ham,\" said Dad, and I did run in and get it.",
-        "He did set the ham down on the lawn and did creep up next to the hawk.",
+        "He did set the ham on the lawn and did creep up next to the hawk.",
         "The hawk did peck at the ham, and Dad did slip the straw off its claw.",
         "Up it did go, off the lawn and up past the big oak.",
         "Meg said, \"Do you want to draw it?\" and so we did sit on the step and draw a hawk."
       ],
       "questions": [
         {
-          "prompt": "The big bird sat down on the lawn is ...",
-          "choices": ["a hawk", "a crow", "an owl"],
+          "prompt": "The big bird sat on the lawn is ...",
+          "choices": ["a hawk", "a crow", "a stork"],
           "answer": "a hawk"
         },
         {

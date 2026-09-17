@@ -98,7 +98,7 @@
     },
     {
       "type": "sentence",
-      "text": "I did ask Dad where he did set the big torch down, and he said it is in the truck."
+      "text": "I did ask Dad where he did set the big torch, and he said it is in the truck."
     },
     {
       "type": "sentence",
@@ -116,7 +116,7 @@
         "Dad said, \"Where do frogs want to go? Frogs want to go where it is damp.\"",
         "So we did hunt in the damp bits. Meg did check the drip under the tap.",
         "I did check the wet moss in the yard, and Mum did check the mud next to the step.",
-        "No frog. Dad did sit down and grin. \"A frog can not hide all day,\" he said.",
+        "No frog. Dad did sit on the step and grin. \"A frog can not hide all day,\" he said.",
         "Then a wet thing did land on Dad with a splat, and he did yell and yell.",
         "It is the frog. It did sit on him and it did not want to hop off.",
         "Then Meg did see it. Up on the top shelf, next to the wet plant pot, is a damp green spot.",
@@ -135,7 +135,7 @@
         },
         {
           "prompt": "Where did the frog hide all this time?",
-          "choices": ["Up on the top shelf", "Down in the mud", "In the box with the socks"],
+          "choices": ["Up on the top shelf", "In the mud next to the step", "In the box with the socks"],
           "answer": "Up on the top shelf"
         }
       ]

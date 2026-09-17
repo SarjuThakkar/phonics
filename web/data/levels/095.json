@@ -94,7 +94,7 @@
     },
     {
       "type": "sentence",
-      "text": "My dog did get up on my bed, and he did not want to go back down."
+      "text": "My dog did get up on my bed, and he did not want to get off."
     },
     {
       "type": "sentence",
@@ -116,10 +116,10 @@
         "Next to the tall wall in the back yard, I did make my den.",
         "It is a big box, a rug and six sticks, and it is my den.",
         "Meg said, \"Can I go in?\" and I said no, it is my den.",
-        "So Meg did sit down on the step and she did not say a thing.",
-        "Then the sky did go black, and the rain did drop down on my den.",
+        "So Meg did sit on the step and she did not say a thing.",
+        "Then the sky did go black, and the rain did fall on my den.",
         "The rug did get wet. The box did get wet. I did get wet.",
-        "My den did fall down on my back, and I did yell and yell.",
+        "My den did fall on my back, and I did yell and yell.",
         "Meg did run out and did tug the box off me. \"Do you want to dry off?\" she said.",
         "We did run in, and Mum did dry us next to the stove.",
         "Meg said, \"Do you want to try my den? It is in the hall and it can not get wet.\"",
@@ -133,7 +133,7 @@
           "answer": "a big box"
         },
         {
-          "prompt": "The rain did drop down and my den did fall on me. Then Meg did ...",
+          "prompt": "The rain did fall and my den did fall on me. Then Meg did ...",
           "choices": ["run out and tug the box off me", "sit on the step and grin", "go up to bed"],
           "answer": "run out and tug the box off me"
         },

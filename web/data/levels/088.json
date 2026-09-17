@@ -9,7 +9,7 @@
     {
       "type": "sightWord",
       "word": "you",
-      "sentence": "Do you want to go down to the den with me?",
+      "sentence": "Do you want to go out to the den with me?",
       "prompt": "Do not sound this one out. Look at it and say it: you."
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "blend",
-      "word": "flower",
-      "parts": ["fl", "ow", "er"],
-      "picture": "🌼",
+      "word": "pillow",
+      "parts": ["p", "i", "ll", "ow"],
+      "picture": "🛏",
       "prompt": "No new sound today, so all of these are words you can already sound out."
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "type": "sentence",
-      "text": "Do you want to go down to the bank and dig a den?"
+      "text": "Do you want to go out to the bank and dig a den?"
     },
     {
       "type": "sentence",
@@ -118,11 +118,11 @@
       "title": "Do you want to go in?",
       "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
       "lines": [
-        "I did dig a den in the bank, down at the big oak.",
+        "I did dig a den in the bank, out at the big oak.",
         "Do you want to see it? You can go in if you want to.",
-        "You must bend down at the start, and then it is big in the back.",
+        "You must bend low at the start, and then it is big in the back.",
         "I did drag in a red rug and a tin cup and a torch.",
-        "But then I did see a fat toad sit down on that red rug.",
+        "But then I did see a fat toad sit on that red rug.",
         "Do you want to lift it out? I do not want to lift it.",
         "It did blink up at me. It did not want to go.",
         "So I did let it stay, and I did sit on the damp mud.",
@@ -131,7 +131,7 @@
       ],
       "questions": [
         {
-          "prompt": "I did dig a den in the bank, down at the big ...",
+          "prompt": "I did dig a den in the bank, out at the big ...",
           "choices": ["oak", "hill", "shed"],
           "answer": "oak"
         },
@@ -141,7 +141,7 @@
           "answer": "torch"
         },
         {
-          "prompt": "The fat toad did sit down on ...",
+          "prompt": "The fat toad did sit on ...",
           "choices": ["the red rug", "the damp mud", "the tin cup"],
           "answer": "the red rug"
         }
@@ -156,7 +156,7 @@
     {
       "type": "review",
       "label": "Teams and quiet letters from further back",
-      "words": ["crown", "spoil", "tray", "float", "stove"],
+      "words": ["snow", "spoil", "tray", "float", "stove"],
       "prompt": "ow, oi, ay, oa, and a quiet e on the end. Find the team in each one first."
     }
   ]

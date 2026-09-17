@@ -104,7 +104,7 @@
     },
     {
       "type": "sentence",
-      "text": "Where do you want to sit, up there on the top of the hill or down here?"
+      "text": "Where do you want to sit, up there on the top of the hill or here in the grass?"
     },
     {
       "type": "sentence",
@@ -118,20 +118,20 @@
         "Mum did fill a big bag with the best bits of lunch and did hand it to me.",
         "\"Where do you want to sit?\" said Meg. \"Up there,\" I said. \"On the top of the hill.\"",
         "So we did lug the bag up the steep path, and Meg did munch a bun on the way up.",
-        "At the top the grass is soft, and we can see all of the town.",
+        "At the top the grass is soft, and we can see all of the land.",
         "\"Here we are,\" I said. \"Get the bag out.\" And then I did see the hole in it.",
         "The bag is flat. The nuts and the buns and the tin of beans are not in there.",
         "\"It did rip,\" said Meg. \"All of it did drop out on the path.\"",
-        "So down we went. A bun here. A nut there. The tin of beans in a clump of grass.",
+        "So back we went. A bun here. A nut there. The tin of beans in a clump of grass.",
         "Meg did get the jug of milk, and I did get the rest of the buns in my hat.",
-        "At the end of the path we did sit down in the grass with all of it.",
-        "\"We did want to eat up there,\" said Meg, \"and we did eat down here.\"",
+        "At the end of the path we did sit in the grass with all of it.",
+        "\"We did want to eat up there,\" said Meg, \"and we did eat here.\"",
         "\"Here is not bad,\" I said. \"Here is just like there, with less of the hill in it.\""
       ],
       "questions": [
         {
           "prompt": "Where did we want to sit at the start?",
-          "choices": ["On the top of the hill", "Down at the end of the path", "In a clump of grass"],
+          "choices": ["On the top of the hill", "At the end of the path", "In a clump of grass"],
           "answer": "On the top of the hill"
         },
         {
@@ -141,7 +141,7 @@
         },
         {
           "prompt": "Where did we eat in the end?",
-          "choices": ["At the end of the path", "On the top of the hill", "In the town"],
+          "choices": ["At the end of the path", "On the top of the hill", "On the steep path"],
           "answer": "At the end of the path"
         }
       ]

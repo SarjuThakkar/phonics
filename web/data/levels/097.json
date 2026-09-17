@@ -120,17 +120,17 @@
         "Dad said, \"It is a rat,\" but Mum said rats do not bump like that.",
         "So we did all stand up at the shed, and we did not go in.",
         "Meg said, \"What can we do?\" and I said we can peep in at the gap.",
-        "In the dark I did see a big white thing go up and down and up and down.",
+        "In the dark I did see a big white thing lift and drop and lift and drop.",
         "\"It is tall!\" I said. \"It is the tallest thing in the shed!\"",
         "Dad did get a lamp, and then we did all go in at the same time.",
         "The big white thing is a sheet, and it did land on the fan.",
-        "The fan did whip it up and drop it down, up and down, all on its own.",
+        "The fan did lift it up and drop it, lift it and drop it, all on its own.",
         "\"That is my sheet!\" said Meg. \"Why is it out in the shed?\"",
         "Dad did go red. \"I did want to dry it in the sun,\" he said, \"and then I did not.\""
       ],
       "questions": [
         {
-          "prompt": "What did we see go up and down in the dark?",
+          "prompt": "What did we see lift and drop in the dark?",
           "choices": ["A big white sheet", "A big black rat", "My red kite"],
           "answer": "A big white sheet"
         },
