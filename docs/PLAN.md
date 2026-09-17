@@ -82,12 +82,11 @@ next batch goes out, which is the main reason the days keep improving.
 ## Status
 
 Remaining batches, in order — this is the schedule, and it is the thing to
-pick up if a session is interrupted. Batches 1–15 (days 28–102) are done,
+pick up if a session is interrupted. Batches 1–16 (days 28–107) are done,
 committed, pushed and live.
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 16 | 103–107 | oo says /uu/ and /oo/; house, mouse; -ed endings; ow says /ow/; igh and -alk |
 | 17 | 108–112 | -le endings; tomorrow, today, father; bye, your, friend; ew says /oo/; again, were |
 | 18 | 113–117 | some, horse, hooray; kn and wr (silent letters); air, and our and eyes; y at the end says /ee/; oh, have, put, away |
 | 19 | 118–120 | one, whole, worth, able; -ie at the end; soft g says /j/ |
@@ -186,7 +185,18 @@ worth more than the other 542 recordings together.
   real rule is that a collision is only broken when the prompt *doesn't*
   disambiguate, and no validator can judge that. Left alone deliberately.
 - **Day 82's seed word `cowboy`** is the same class of bug as day 29's `lump`,
-  except permanent rather than deferred: it contains `ow`, and this course
-  never teaches `ow` saying /ow/ at all (the sequence's `ow` levels are all
-  the /oh/ reading — snow, grow). `boy`, `toy`, `enjoy`, `joy` all work fine;
-  skip `cowboy`, or swap it for `tomboy` if a compound word is wanted there.
+  and like `lump` it is deferred rather than permanent. On day 82 the only
+  `ow` the child has is the /oh/ of *snow* (day 77), so `cowboy` decodes as
+  "coh-boy". **Day 106 teaches `ow` saying /ow/**, and from there it is fine.
+  `boy`, `toy`, `enjoy`, `joy` all work on the day itself; skip `cowboy` there.
+
+  Worth knowing *how* day 106 does it, because it is invisible to the tools:
+  it is a "same letters, new job" day like day 100's unvoiced `th`, so it adds
+  **no new grapheme id** — `phonemes.json` still holds exactly one `ow`,
+  saying "oh". `lexicon.py` therefore models only the /oh/ reading and happily
+  passes `cow`, `how`, `now` and `cowboy` at *every* level, including day 82.
+  For days 77–105 that is a false pass an author has to catch by ear; from 106
+  it is correct for the wrong reason. (An earlier note here claimed this course
+  never teaches the /ow/ reading at all. That was wrong — it came from a batch
+  report I took at face value, and day 106's own `inventory.py` brief
+  contradicts it.)

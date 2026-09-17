@@ -234,6 +234,22 @@ IRREGULAR: dict[str, int | None] = {
     # a schwa in the second syllable, and a word that is wrong in every letter
     # that matters but segments cleanly as s+u+g+ar
     "bottom": None, "sugar": None,
+    # The /ow/ reading of "ow" -- cow, how, down. Day 77 teaches ow saying
+    # /oh/ (snow, grow) and day 106 teaches these, but 106 is a "same letters,
+    # new job" day that adds no new grapheme id, so phonemes.json holds only
+    # one ow (saying "oh") and the segmenter cannot tell the two apart. Left
+    # to itself it passes "down" on day 1. Mapping them to 106 is what stops
+    # a child being asked to decode "down" when the only ow they know would
+    # make it "dohn".
+    "cow": 106, "how": 106, "now": 106, "down": 106, "town": 106,
+    "brown": 106, "owl": 106, "growl": 106, "crowd": 106, "clown": 106,
+    "frown": 106, "howl": 106, "crown": 106, "gown": 106, "prowl": 106,
+    "scowl": 106, "drown": 106, "tower": 106, "flower": 106, "shower": 106,
+    "power": 106, "towel": 106, "vowel": 106, "growled": 106, "howled": 106,
+    # words the day 103-107 author hit by ear that still went green
+    "opened": None, "open": None, "cheese": None, "crumb": None,
+    "crumbs": None, "wanted": None, "door": None, "floor": None,
+    "lose": None, "moose": None, "loose": None, "grey": None, "wooden": None,
 }
 
 

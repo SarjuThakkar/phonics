@@ -1,12 +1,12 @@
 {
   "note": "Every string the site speaks. Record any of them into web/audio/human/<id>.mp3 and the site will use the recording instead of the browser voice.",
-  "sourceFingerprint": "79b7196a7d823ec7",
+  "sourceFingerprint": "ac43cd4947617d50",
   "counts": {
     "sound": 93,
     "ui": 16,
-    "word": 930,
-    "prompt": 1205,
-    "line": 1660
+    "word": 985,
+    "prompt": 1283,
+    "line": 1827
   },
   "plans": {
     "1": [
@@ -513,8 +513,8 @@
       "word-snap",
       "word-flag",
       "word-hand",
-      "word-sip",
       "word-hill",
+      "word-sip",
       "word-fig",
       "word-fill",
       "word-lamp",
@@ -612,8 +612,8 @@
       "word-jam",
       "word-cab",
       "word-cat",
-      "word-cap",
       "word-hill",
+      "word-cap",
       "word-band",
       "word-camp",
       "word-clap",
@@ -1262,8 +1262,8 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-end-s",
-      "word-sock",
       "word-thick",
+      "word-sock",
       "word-van",
       "word-cat",
       "word-hand",
@@ -1390,9 +1390,9 @@
       "word-sock",
       "word-gift",
       "word-rat",
+      "word-thin",
       "word-camp",
       "word-daft",
-      "word-thin",
       "word-dogs",
       "word-land",
       "word-shot",
@@ -1458,8 +1458,8 @@
       "word-lost",
       "word-pond",
       "word-hats",
-      "word-chomp",
       "word-miss",
+      "word-chomp",
       "word-fists",
       "word-last",
       "word-list",
@@ -1924,10 +1924,10 @@
       "word-flash",
       "word-pink",
       "word-duck",
+      "word-jump",
       "word-big",
       "word-bus",
       "word-cup",
-      "word-jump",
       "word-king",
       "word-ran",
       "word-rock",
@@ -2851,9 +2851,9 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-oe",
+      "word-tie",
       "word-toe",
       "word-five",
-      "word-tie",
       "word-plum",
       "word-blush",
       "word-kite",
@@ -2995,9 +2995,9 @@
       "word-home",
       "word-van",
       "word-cat",
+      "word-tie",
       "word-toe",
       "word-five",
-      "word-tie",
       "word-hat",
       "word-note",
       "word-they",
@@ -3209,9 +3209,9 @@
       "sound-u-e",
       "word-flute",
       "word-blue",
+      "word-jump",
       "word-tune",
       "word-bun",
-      "word-jump",
       "word-stump",
       "word-tub",
       "word-tube",
@@ -3349,10 +3349,10 @@
       "word-home",
       "word-hen",
       "word-cake",
+      "word-here",
       "word-note",
       "word-bed",
       "word-green",
-      "word-here",
       "word-pet",
       "word-tree",
       "word-well",
@@ -3413,14 +3413,14 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
-      "word-home",
       "word-thick",
+      "word-home",
       "word-shop",
+      "word-tie",
       "word-toe",
       "word-cap",
       "word-chat",
       "word-five",
-      "word-tie",
       "word-bang",
       "word-cake",
       "word-blue",
@@ -3738,11 +3738,11 @@
       "word-bang",
       "word-porch",
       "word-short",
+      "word-thin",
       "word-corn",
       "word-fork",
       "word-her",
       "word-stamp",
-      "word-thin",
       "word-after",
       "word-hard",
       "word-silver",
@@ -3886,10 +3886,10 @@
       "word-burn",
       "word-bird",
       "word-church",
+      "word-jump",
       "word-after",
       "word-bun",
       "word-cup",
-      "word-jump",
       "word-silver",
       "word-stuck",
       "word-tan",
@@ -4059,10 +4059,10 @@
       "ui-have-another-look-at-50133a",
       "word-globe",
       "word-hen",
+      "word-tie",
       "word-toe",
       "word-cap",
       "word-stove",
-      "word-tie",
       "word-ship",
       "word-blue",
       "word-cape",
@@ -4161,14 +4161,14 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
-      "word-sock",
       "word-thick",
+      "word-sock",
       "word-globe",
       "word-bang",
+      "word-want",
       "word-went",
       "word-drum",
       "word-fish",
-      "word-want",
       "word-carve",
       "word-hornet",
       "word-much",
@@ -4330,12 +4330,12 @@
       "word-stay",
       "word-the",
       "word-they",
+      "word-want",
       "word-church",
       "word-is",
       "word-plan",
       "word-play",
       "word-stray",
-      "word-want",
       "word-birthday",
       "word-clay",
       "word-do",
@@ -4397,9 +4397,9 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-ai",
+      "word-thick",
       "word-shirt",
       "word-flute",
-      "word-thick",
       "word-tray",
       "word-burn",
       "word-paint",
@@ -4408,18 +4408,18 @@
       "word-stay",
       "word-play",
       "word-rain",
+      "word-brain",
       "word-crate",
       "word-ran",
       "word-train",
-      "word-brain",
       "word-chain",
       "word-day",
       "word-sail",
+      "word-tail",
       "word-nail",
       "word-paid",
       "word-pant",
       "word-rail",
-      "word-tail",
       "word-wait",
       "prompt-read-the-story-one-a2bc68",
       "prompt-three-vowel-teams-three-d7aaa8",
@@ -4472,8 +4472,8 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
-      "word-flute",
       "word-thick",
+      "word-flute",
       "word-globe",
       "word-sat",
       "word-tray",
@@ -4646,9 +4646,9 @@
       "word-globe",
       "word-toe",
       "word-beach",
+      "word-boat",
       "word-stove",
       "word-toast",
-      "word-boat",
       "word-clean",
       "word-float",
       "word-bone",
@@ -4716,29 +4716,29 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-ow",
-      "word-home",
       "word-snow",
+      "word-home",
       "word-tray",
       "word-toe",
+      "word-boat",
       "word-stove",
       "word-toast",
-      "word-boat",
       "word-clean",
+      "word-grow",
       "word-rain",
       "word-trail",
+      "word-crow",
       "word-sea",
       "word-blow",
-      "word-crow",
-      "word-grow",
       "word-rainbow",
       "word-row",
       "word-show",
+      "word-window",
       "word-glow",
       "word-oat",
       "word-on",
       "word-own",
       "word-slow",
-      "word-window",
       "prompt-read-the-story-one-a2bc68",
       "prompt-three-vowel-teams-three-d7aaa8",
       "prompt-three-things-an-o-832afa",
@@ -4790,18 +4790,18 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
+      "word-thick",
       "word-shirt",
       "word-flute",
-      "word-thick",
       "word-storm",
       "word-tray",
       "word-paint",
       "word-spray",
       "word-snail",
       "word-stay",
+      "word-low",
       "word-coach",
       "word-crate",
-      "word-low",
       "word-best",
       "word-goal",
       "word-leaf",
@@ -4884,17 +4884,17 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "word-snow",
-      "word-toast",
       "word-boat",
+      "word-toast",
       "word-clean",
+      "word-low",
       "word-play",
       "word-rain",
       "word-stray",
-      "word-low",
+      "word-bait",
       "word-bay",
       "word-load",
       "word-mow",
-      "word-bait",
       "word-beat",
       "word-daydream",
       "word-grain",
@@ -4978,30 +4978,30 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-ou",
-      "word-globe",
       "word-snow",
+      "word-globe",
+      "word-shout",
       "word-burn",
       "word-stove",
-      "word-shout",
+      "word-cloud",
+      "word-loud",
       "word-bird",
       "word-church",
-      "word-cloud",
+      "word-grow",
       "word-low",
+      "word-out",
+      "word-crow",
+      "word-mouth",
       "word-shot",
       "word-blow",
-      "word-crow",
       "word-ground",
-      "word-grow",
       "word-load",
-      "word-loud",
       "word-round",
       "word-row",
       "word-show",
       "word-foam",
       "word-fond",
       "word-found",
-      "word-mouth",
-      "word-out",
       "word-outside",
       "prompt-read-the-story-one-a2bc68",
       "prompt-a-brand-new-sound-f5ac42",
@@ -5058,12 +5058,13 @@
       "ui-have-another-look-at-50133a",
       "sound-oi",
       "word-snow",
+      "word-shout",
       "word-coin",
       "word-beach",
-      "word-paint",
-      "word-shout",
       "word-boat",
+      "word-paint",
       "word-cloud",
+      "word-loud",
       "word-corn",
       "word-float",
       "word-clay",
@@ -5074,7 +5075,6 @@
       "word-boil",
       "word-ground",
       "word-join",
-      "word-loud",
       "word-moist",
       "word-point",
       "word-round",
@@ -5137,11 +5137,11 @@
       "ui-have-another-look-at-50133a",
       "sound-oy",
       "word-snow",
+      "word-shout",
       "word-coin",
       "word-beach",
-      "word-shout",
-      "word-stay",
       "word-cloud",
+      "word-stay",
       "word-toy",
       "word-oil",
       "word-soil",
@@ -5222,11 +5222,12 @@
       "word-burn",
       "word-paint",
       "word-porch",
+      "word-churn",
       "word-corn",
       "word-couch",
       "word-float",
-      "word-churn",
       "word-hoist",
+      "word-mouse",
       "word-soil",
       "word-spoil",
       "word-charm",
@@ -5235,7 +5236,6 @@
       "word-cloudburst",
       "word-count",
       "word-floyd",
-      "word-mouse",
       "word-oink",
       "word-ouch",
       "word-poach",
@@ -5320,9 +5320,9 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-end-e",
+      "word-thick",
       "word-shirt",
       "word-flute",
-      "word-thick",
       "word-storm",
       "word-coin",
       "word-hen",
@@ -5572,13 +5572,13 @@
       "word-she",
       "word-stray",
       "word-well",
+      "word-bell",
       "word-card",
       "word-go",
       "word-hello",
       "word-hoist",
       "word-so",
       "word-sprout",
-      "word-bell",
       "word-goal",
       "word-joy",
       "word-yarn",
@@ -5659,6 +5659,7 @@
       "word-spoil",
       "word-toad",
       "word-torch",
+      "word-flower",
       "word-rainbow",
       "word-road",
       "word-turnip",
@@ -5668,7 +5669,6 @@
       "word-yet",
       "word-crown",
       "word-farmyard",
-      "word-flower",
       "word-toaster",
       "word-trumpet",
       "prompt-read-the-story-one-a2bc68",
@@ -5721,20 +5721,20 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
+      "word-shout",
       "word-sad",
       "word-said",
       "word-sand",
       "word-are",
-      "word-shout",
       "word-the",
       "word-they",
       "word-is",
+      "word-owl",
       "word-you",
+      "word-brain",
       "word-oil",
       "word-shelf",
       "word-bark",
-      "word-brain",
-      "word-owl",
       "word-thunder",
       "word-burnt",
       "word-cheek",
@@ -5805,6 +5805,7 @@
       "word-plum",
       "word-brick",
       "word-green",
+      "word-owl",
       "word-squid",
       "word-you",
       "word-champ",
@@ -5813,7 +5814,6 @@
       "word-skid",
       "word-toad",
       "word-torch",
-      "word-owl",
       "word-queen",
       "word-squish",
       "word-thorn",
@@ -5887,12 +5887,12 @@
       "word-sip",
       "word-spray",
       "word-squid",
+      "word-miss",
       "word-quack",
       "word-quilt",
       "word-text",
       "word-box",
       "word-fox",
-      "word-miss",
       "word-nest",
       "word-net",
       "word-queen",
@@ -5971,12 +5971,12 @@
       "word-prize",
       "word-quack",
       "word-box",
+      "word-buzz",
       "word-fizz",
       "word-fox",
       "word-jazz",
       "word-six",
       "word-zip",
-      "word-buzz",
       "word-crunch",
       "word-froze",
       "word-maze",
@@ -6049,12 +6049,12 @@
       "sound-aw",
       "word-snow",
       "word-sad",
+      "word-crawl",
       "word-snail",
-      "word-draw",
       "word-churn",
+      "word-draw",
       "word-claw",
       "word-coach",
-      "word-crawl",
       "word-drain",
       "word-prize",
       "word-saw",
@@ -6129,19 +6129,19 @@
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
       "sound-all",
+      "word-tall",
       "word-draw",
       "word-perch",
       "word-squid",
-      "word-tall",
       "word-trail",
       "word-ball",
+      "word-bell",
       "word-bill",
       "word-claw",
       "word-saw",
       "word-small",
       "word-text",
       "word-yawn",
-      "word-bell",
       "word-call",
       "word-fizz",
       "word-hawk",
@@ -6211,14 +6211,14 @@
       "sound-end-y",
       "word-tie",
       "word-me",
+      "word-tall",
       "word-draw",
       "word-dry",
       "word-kite",
-      "word-tall",
+      "word-my",
       "word-ball",
       "word-bike",
       "word-fly",
-      "word-my",
       "word-pie",
       "word-saw",
       "word-small",
@@ -6295,12 +6295,12 @@
       "word-hen",
       "word-wish",
       "word-dry",
+      "word-my",
       "word-then",
       "word-when",
       "word-ball",
       "word-claw",
       "word-fly",
-      "word-my",
       "word-prize",
       "word-quilt",
       "word-try",
@@ -6371,19 +6371,19 @@
       "ui-have-another-look-at-50133a",
       "word-said",
       "word-are",
+      "word-crawl",
+      "word-tall",
       "word-the",
+      "word-want",
       "word-what",
       "word-draw",
       "word-dry",
-      "word-tall",
-      "word-want",
+      "word-my",
       "word-we",
       "word-well",
       "word-when",
       "word-you",
-      "word-crawl",
       "word-fly",
-      "word-my",
       "word-small",
       "word-whale",
       "word-wheel",
@@ -6455,16 +6455,16 @@
       "ui-have-another-look-at-50133a",
       "word-storm",
       "word-said",
+      "word-crawl",
       "word-lamp",
+      "word-tall",
       "word-they",
       "word-what",
       "word-where",
       "word-damp",
       "word-fork",
       "word-pond",
-      "word-tall",
       "word-when",
-      "word-crawl",
       "word-do",
       "word-frog",
       "word-shark",
@@ -6539,30 +6539,30 @@
       "ui-here-is-a-story-7e6a38",
       "ui-that-s-right-82a287",
       "ui-have-another-look-at-50133a",
+      "word-shout",
       "word-coin",
       "word-hill",
       "word-said",
+      "word-of",
       "word-are",
-      "word-shout",
+      "word-cloud",
+      "word-here",
+      "word-there",
+      "word-want",
       "word-what",
       "word-where",
-      "word-cloud",
       "word-dry",
-      "word-here",
-      "word-of",
-      "word-there",
       "word-toy",
-      "word-want",
       "word-when",
       "word-whale",
       "word-call",
       "word-crush",
       "word-crust",
+      "word-paw",
       "word-chunk",
       "word-cross",
       "word-heap",
       "word-jug",
-      "word-paw",
       "word-steep",
       "word-sting",
       "word-string",
@@ -6630,24 +6630,24 @@
       "ui-have-another-look-at-50133a",
       "word-thick",
       "word-shop",
+      "word-of",
+      "word-here",
+      "word-there",
+      "word-thin",
       "word-where",
       "word-with",
       "word-chin",
-      "word-here",
-      "word-of",
+      "word-moth",
       "word-that",
       "word-then",
-      "word-there",
-      "word-thin",
       "word-fin",
       "word-shed",
       "word-teeth",
       "word-this",
+      "word-throw",
       "word-whip",
-      "word-moth",
       "word-path",
       "word-them",
-      "word-throw",
       "word-thunder",
       "word-tick",
       "word-cloth",
@@ -6714,27 +6714,27 @@
       "ui-have-another-look-at-50133a",
       "word-thick",
       "word-said",
+      "word-of",
       "word-snail",
+      "word-there",
+      "word-thin",
       "word-what",
       "word-where",
       "word-farm",
-      "word-of",
-      "word-there",
-      "word-thin",
+      "word-moth",
       "word-trot",
       "word-coach",
       "word-drain",
       "word-lick",
       "word-tag",
       "word-teeth",
+      "word-throw",
       "word-wag",
       "word-could",
       "word-gate",
       "word-lane",
-      "word-moth",
       "word-path",
       "word-should",
-      "word-throw",
       "word-would",
       "word-firm",
       "word-form",
@@ -6808,21 +6808,22 @@
       "word-jam",
       "word-tray",
       "word-burn",
+      "word-of",
+      "word-here",
       "word-plum",
+      "word-there",
       "word-what",
       "word-where",
-      "word-here",
-      "word-of",
+      "word-churn",
       "word-perch",
       "word-plan",
-      "word-there",
       "word-tree",
-      "word-churn",
       "word-much",
       "word-pick",
       "word-plug",
       "word-try",
       "word-could",
+      "word-many",
       "word-may",
       "word-morning",
       "word-should",
@@ -6830,7 +6831,6 @@
       "word-any",
       "word-anywhere",
       "word-jar",
-      "word-many",
       "prompt-all-three-start-with-a8fd84",
       "prompt-do-not-sound-this-e59b47",
       "prompt-exactly-the-same-trick-cec844",
@@ -6876,6 +6876,463 @@
       "line-what-did-mum-do-2d0dd9",
       "line-where-is-the-plum-515699",
       "line-you-can-sit-anywhere-beb6f3"
+    ],
+    "103": [
+      "ui-you-did-it-great-7e9bba",
+      "ui-sound-it-out-then-837f61",
+      "ui-which-word-is-this-b45183",
+      "ui-listen-again-1098e8",
+      "ui-your-turn-read-this-7aaadd",
+      "ui-read-it-out-loud-639ff9",
+      "ui-this-one-says-c136d8",
+      "ui-which-one-says-this-857fd9",
+      "ui-yes-ee33f3",
+      "ui-not-that-one-listen-3655d3",
+      "ui-read-the-story-tap-8673b8",
+      "ui-here-is-a-story-7e6a38",
+      "ui-that-s-right-82a287",
+      "ui-have-another-look-at-50133a",
+      "sound-oo",
+      "word-thick",
+      "word-snow",
+      "word-shout",
+      "word-boat",
+      "word-of",
+      "word-here",
+      "word-loud",
+      "word-thin",
+      "word-grow",
+      "word-moth",
+      "word-bait",
+      "word-boot",
+      "word-cook",
+      "word-food",
+      "word-good",
+      "word-look",
+      "word-moon",
+      "word-spoon",
+      "word-coal",
+      "word-cool",
+      "word-foot",
+      "word-goose",
+      "word-pool",
+      "word-shook",
+      "word-wood",
+      "prompt-all-three-have-oo-cf3f5b",
+      "prompt-careful-this-one-looks-9fc3d2",
+      "prompt-lips-squeeze-into-a-3f3cc3",
+      "prompt-now-the-second-job-985155",
+      "prompt-short-again-say-it-4fea99",
+      "prompt-the-long-one-and-30967f",
+      "prompt-the-quiet-th-and-3a8be4",
+      "prompt-these-three-all-run-d8ea47",
+      "prompt-this-story-is-stuffed-0971d9",
+      "prompt-three-different-middles-say-5b9a8d",
+      "prompt-three-sounds-and-the-0afaa5",
+      "prompt-three-teams-that-all-5c190f",
+      "prompt-three-vowel-teams-one-fe35c0",
+      "prompt-two-o-letters-standing-a1ddf7",
+      "prompt-ou-and-ow-both-0cccaa",
+      "line-do-you-want-it-78af77",
+      "line-look-in-the-pool-608c6f",
+      "line-look-in-the-wood-d00012",
+      "line-that-is-my-boot-985ba3",
+      "line-a-good-cook-can-439160",
+      "line-and-all-the-way-c16001",
+      "line-dry-and-good-d8f7ad",
+      "line-i-did-drop-my-c9013c",
+      "line-i-did-grab-the-a09384",
+      "line-i-did-sit-on-95419b",
+      "line-in-the-beak-of-f3e450",
+      "line-in-the-wood-shed-d41ab4",
+      "line-look-up-at-the-176e82",
+      "line-lost-in-the-pool-b78f83",
+      "line-meg-did-dig-in-5e72a3",
+      "line-she-did-jump-in-1cae89",
+      "line-she-did-set-food-aab5b4",
+      "line-she-did-set-the-136f80",
+      "line-she-did-yell-at-5df397",
+      "line-so-we-did-look-25b8ad",
+      "line-the-goose-did-look-a70e00",
+      "line-then-meg-did-see-7971ec",
+      "line-then-it-did-drop-3075eb",
+      "line-up-a-tree-50bd5d",
+      "line-wet-and-a-bit-efac11",
+      "line-what-did-meg-do-c1a693",
+      "line-what-is-the-boot-d51636",
+      "line-where-did-my-boot-fc7533"
+    ],
+    "104": [
+      "ui-you-did-it-great-7e9bba",
+      "ui-sound-it-out-then-837f61",
+      "ui-which-word-is-this-b45183",
+      "ui-listen-again-1098e8",
+      "ui-your-turn-read-this-7aaadd",
+      "ui-read-it-out-loud-639ff9",
+      "ui-this-one-we-just-965efa",
+      "ui-which-one-says-this-857fd9",
+      "ui-yes-ee33f3",
+      "ui-not-that-one-listen-3655d3",
+      "ui-read-the-story-tap-8673b8",
+      "ui-here-is-a-story-7e6a38",
+      "ui-that-s-right-82a287",
+      "ui-have-another-look-at-50133a",
+      "word-thick",
+      "word-shout",
+      "word-said",
+      "word-boat",
+      "word-of",
+      "word-cloud",
+      "word-crawl",
+      "word-loud",
+      "word-there",
+      "word-want",
+      "word-churn",
+      "word-moth",
+      "word-out",
+      "word-house",
+      "word-mouse",
+      "word-mouth",
+      "word-boot",
+      "word-cook",
+      "word-food",
+      "word-good",
+      "word-look",
+      "word-many",
+      "word-moon",
+      "word-spoon",
+      "word-book",
+      "word-brook",
+      "word-stool",
+      "prompt-all-three-start-with-171186",
+      "prompt-no-new-sound-today-c35d38",
+      "prompt-not-one-of-these-fd5c75",
+      "prompt-now-swap-the-front-a83dc6",
+      "prompt-the-long-one-two-45c860",
+      "prompt-the-ou-in-all-e35903",
+      "prompt-the-quiet-th-from-99f40b",
+      "prompt-this-is-the-sound-f68f0c",
+      "prompt-three-words-with-ou-ed3351",
+      "prompt-two-of-these-have-097579",
+      "prompt-two-words-in-this-7e6508",
+      "prompt-yesterday-s-two-oo-3cc07d",
+      "prompt-you-know-the-middle-e8d571",
+      "line-do-not-yell-said-8ff50a",
+      "line-do-you-want-a-1bca53",
+      "line-is-there-a-mouse-3b8889",
+      "line-it-will-be-back-0794b2",
+      "line-look-by-the-food-61011e",
+      "line-a-boot-9f5638",
+      "line-a-box-a-bun-c3d211",
+      "line-a-mouse-can-get-e360ba",
+      "line-a-mouse-did-get-958e6e",
+      "line-a-mouse-did-get-54b13d",
+      "line-a-spoon-and-a-d693bb",
+      "line-by-the-food-bin-1a7996",
+      "line-by-the-pool-f3ca2c",
+      "line-by-the-wood-shed-f15a25",
+      "line-it-did-get-in-6bfc76",
+      "line-it-did-get-out-1105cc",
+      "line-it-did-see-the-b219bb",
+      "line-it-did-shoot-up-7c5c5e",
+      "line-it-did-sit-in-b2aedb",
+      "line-it-likes-the-wood-b83858",
+      "line-meg-did-drop-the-c530da",
+      "line-meg-did-see-it-0e78f2",
+      "line-meg-is-in-bed-075343",
+      "line-so-we-did-get-ccde2c",
+      "line-the-house-at-the-e65089",
+      "line-the-house-by-the-9ef08d",
+      "line-the-mouse-did-look-71ac9f",
+      "line-the-mouse-will-eat-10161d",
+      "line-the-mouse-will-hide-bee0d3",
+      "line-then-it-did-shoot-b76e03",
+      "line-there-is-a-mouse-8c9b14",
+      "line-we-did-lug-the-d5d619",
+      "line-what-did-we-get-53cb1c",
+      "line-where-did-the-mouse-f3cab8",
+      "line-why-did-meg-think-4e6a97",
+      "line-why-did-mum-tell-434741"
+    ],
+    "105": [
+      "ui-you-did-it-great-7e9bba",
+      "ui-sound-it-out-then-837f61",
+      "ui-which-word-is-this-b45183",
+      "ui-listen-again-1098e8",
+      "ui-your-turn-read-this-7aaadd",
+      "ui-read-it-out-loud-639ff9",
+      "ui-this-one-says-c136d8",
+      "ui-which-one-says-this-857fd9",
+      "ui-yes-ee33f3",
+      "ui-not-that-one-listen-3655d3",
+      "ui-read-the-story-tap-8673b8",
+      "ui-here-is-a-story-7e6a38",
+      "ui-that-s-right-82a287",
+      "ui-have-another-look-at-50133a",
+      "sound-end-ed",
+      "word-hill",
+      "word-jump",
+      "word-out",
+      "word-bell",
+      "word-house",
+      "word-miss",
+      "word-mouse",
+      "word-mouth",
+      "word-buzz",
+      "word-jumped",
+      "word-landed",
+      "word-looked",
+      "word-needed",
+      "word-yelled",
+      "word-backed",
+      "word-cooked",
+      "word-cooled",
+      "word-fixed",
+      "word-grinned",
+      "word-handed",
+      "word-jumps",
+      "word-lifted",
+      "word-sanded",
+      "word-shouted",
+      "prompt-all-three-end-the-49f2fa",
+      "prompt-and-the-third-sound-f87730",
+      "prompt-nearly-all-of-this-1d1efa",
+      "prompt-now-the-second-sound-61e40d",
+      "prompt-same-again-lift-then-e895fc",
+      "prompt-same-trick-backt-your-dc8534",
+      "prompt-same-word-three-times-3a8023",
+      "prompt-these-two-letters-go-f3f35d",
+      "prompt-this-is-the-ending-db5b82",
+      "prompt-three-endings-that-go-c16ccb",
+      "prompt-two-letters-one-sound-a8e23c",
+      "prompt-two-of-these-are-1ed12c",
+      "prompt-two-of-these-say-f0a22c",
+      "prompt-two-you-just-remember-e0a433",
+      "line-i-can-get-it-14e3dd",
+      "line-that-kite-likes-the-152634",
+      "line-a-bag-of-food-adb883",
+      "line-a-kite-with-red-9beeb6",
+      "line-a-wood-shed-a0bddd",
+      "line-i-got-a-long-1aa858",
+      "line-i-got-up-to-929e17",
+      "line-i-grabbed-the-branch-b80476",
+      "line-i-looked-in-the-a60977",
+      "line-i-yelled-at-it-62b84a",
+      "line-it-looked-like-a-ec428d",
+      "line-meg-and-i-fixed-e26cb5",
+      "line-meg-dropped-it-18a1b6",
+      "line-meg-yelled-at-me-b2c9fd",
+      "line-meg-yelled-up-at-62ae8b",
+      "line-she-lifted-the-kite-0d1a6b",
+      "line-so-i-grabbed-the-efb545",
+      "line-the-cat-jumped-up-dec172",
+      "line-the-kite-dropped-out-ec0bb8",
+      "line-the-kite-is-bust-3d47d7",
+      "line-the-kite-likes-the-db0c2e",
+      "line-the-rain-got-it-85757e",
+      "line-the-rain-stopped-the-3c59cd",
+      "line-the-string-snapped-4a8c44",
+      "line-the-wind-grabbed-it-049192",
+      "line-the-wind-stopped-22ddb1",
+      "line-then-the-string-snapped-2f2676",
+      "line-we-marched-up-the-c9c7e7",
+      "line-we-packed-a-bag-b5d7c1",
+      "line-we-tied-the-string-71061a",
+      "line-what-did-i-do-639a10",
+      "line-what-did-meg-think-7f9842",
+      "line-what-did-we-fix-fea3e1",
+      "line-why-did-the-kite-8e78b6"
+    ],
+    "106": [
+      "ui-you-did-it-great-7e9bba",
+      "ui-sound-it-out-then-837f61",
+      "ui-which-word-is-this-b45183",
+      "ui-listen-again-1098e8",
+      "ui-your-turn-read-this-7aaadd",
+      "ui-read-it-out-loud-639ff9",
+      "ui-this-one-says-c136d8",
+      "ui-which-one-says-this-857fd9",
+      "ui-yes-ee33f3",
+      "ui-not-that-one-listen-3655d3",
+      "ui-read-the-story-tap-8673b8",
+      "ui-here-is-a-story-7e6a38",
+      "ui-that-s-right-82a287",
+      "ui-have-another-look-at-50133a",
+      "word-snow",
+      "word-shout",
+      "word-loud",
+      "word-grow",
+      "word-low",
+      "word-out",
+      "word-owl",
+      "word-brain",
+      "word-crow",
+      "word-house",
+      "word-throw",
+      "word-brown",
+      "word-cow",
+      "word-down",
+      "word-flower",
+      "word-how",
+      "word-jumped",
+      "word-landed",
+      "word-looked",
+      "word-needed",
+      "word-window",
+      "word-yelled",
+      "word-broom",
+      "word-cot",
+      "word-crowd",
+      "word-grill",
+      "word-growl",
+      "word-town",
+      "prompt-here-is-today-s-ec0d2e",
+      "prompt-just-two-sounds-and-ac52b9",
+      "prompt-listen-for-the-l-ed4482",
+      "prompt-mouth-drops-wide-open-2ecbc0",
+      "prompt-now-stick-a-sound-5eab14",
+      "prompt-read-these-first-and-aa555c",
+      "prompt-the-tricky-one-cover-e8212c",
+      "prompt-there-is-an-ow-281ca9",
+      "prompt-this-time-ow-is-b5b64a",
+      "prompt-three-sounds-one-spelling-22effd",
+      "prompt-three-teams-that-all-61245d",
+      "prompt-three-vowel-teams-all-f4d16d",
+      "prompt-two-of-these-have-80f854",
+      "prompt-you-have-known-these-0d55ac",
+      "prompt-ou-did-this-job-2b4616",
+      "line-how-did-the-owl-3fd47e",
+      "line-how-do-you-get-94d2c8",
+      "line-that-cow-is-not-771315",
+      "line-a-big-brown-cow-649fc3",
+      "line-a-brown-cow-got-bd9f05",
+      "line-down-the-road-to-17b634",
+      "line-how-did-meg-get-f32df1",
+      "line-i-did-not-want-16ec7e",
+      "line-in-the-house-d7d51f",
+      "line-it-let-out-a-310b3c",
+      "line-it-sat-on-the-be6651",
+      "line-it-went-after-the-7f7334",
+      "line-meg-dropped-the-bun-69966d",
+      "line-meg-looked-out-of-201170",
+      "line-she-did-tug-it-3e34e8",
+      "line-she-lifted-up-a-b6c5a2",
+      "line-she-yelled-at-it-000598",
+      "line-snow-and-cow-end-44e916",
+      "line-so-dad-can-see-34dbd2",
+      "line-so-the-cow-can-cec1b2",
+      "line-so-the-owl-can-dd70d3",
+      "line-so-we-ran-down-84569e",
+      "line-the-cow-looked-at-803bac",
+      "line-the-cow-stopped-by-c97c07",
+      "line-the-dog-growled-at-aa9cf1",
+      "line-then-meg-grabbed-a-86b76c",
+      "line-then-it-went-after-afa9f5",
+      "line-up-in-the-wood-0edb08",
+      "line-up-the-hill-to-7aca90",
+      "line-we-fixed-the-gap-504429",
+      "line-what-did-the-owl-86af39",
+      "line-where-did-the-cow-4a00f0",
+      "line-why-did-we-fix-b9e1c9"
+    ],
+    "107": [
+      "ui-you-did-it-great-7e9bba",
+      "ui-sound-it-out-then-837f61",
+      "ui-which-word-is-this-b45183",
+      "ui-listen-again-1098e8",
+      "ui-your-turn-read-this-7aaadd",
+      "ui-read-it-out-loud-639ff9",
+      "ui-this-one-we-just-965efa",
+      "ui-this-one-says-c136d8",
+      "ui-which-one-says-this-857fd9",
+      "ui-yes-ee33f3",
+      "ui-not-that-one-listen-3655d3",
+      "ui-read-the-story-tap-8673b8",
+      "ui-here-is-a-story-7e6a38",
+      "ui-that-s-right-82a287",
+      "ui-have-another-look-at-50133a",
+      "sound-alk",
+      "sound-igh",
+      "word-tie",
+      "word-crawl",
+      "word-tall",
+      "word-my",
+      "word-owl",
+      "word-brown",
+      "word-cow",
+      "word-down",
+      "word-how",
+      "word-paw",
+      "word-tail",
+      "word-bright",
+      "word-brother",
+      "word-chalk",
+      "word-high",
+      "word-light",
+      "word-might",
+      "word-mother",
+      "word-night",
+      "word-other",
+      "word-talk",
+      "word-walk",
+      "word-walked",
+      "prompt-all-three-are-the-b99c4e",
+      "prompt-all-three-of-these-d43da0",
+      "prompt-and-now-br-on-334e85",
+      "prompt-mouth-drops-open-wide-84cb1c",
+      "prompt-mouth-opens-round-for-dec51a",
+      "prompt-stick-an-m-on-2768eb",
+      "prompt-the-first-two-letters-6572ef",
+      "prompt-the-first-two-say-0024b7",
+      "prompt-the-long-one-six-a4a5d1",
+      "prompt-the-second-job-of-7f6ca8",
+      "prompt-this-one-is-just-2abb12",
+      "prompt-this-one-you-just-7c5140",
+      "prompt-three-letters-again-and-035199",
+      "prompt-three-letters-and-only-1687a1",
+      "prompt-three-sounds-not-five-53a4ad",
+      "prompt-three-teams-that-all-39dc05",
+      "prompt-three-words-that-start-3cb831",
+      "prompt-three-words-you-just-265102",
+      "prompt-today-s-ending-on-8c9527",
+      "prompt-two-new-teams-in-25f032",
+      "prompt-two-sounds-not-wal-3307ec",
+      "line-do-not-talk-to-21eef9",
+      "line-do-not-talk-said-6f182e",
+      "line-that-is-why-we-f5bb40",
+      "line-a-big-brown-owl-80d294",
+      "line-a-cow-1eb6e3",
+      "line-an-owl-might-be-dcf850",
+      "line-at-night-the-moon-89249e",
+      "line-i-got-this-boot-1d6a13",
+      "line-it-did-not-hoot-468f8b",
+      "line-it-is-dark-out-4a8ce2",
+      "line-it-is-not-dark-b9b3ed",
+      "line-my-brother-33703a",
+      "line-my-brother-did-not-71c191",
+      "line-my-brother-did-not-3f36d2",
+      "line-my-brother-is-a-33a8dc",
+      "line-my-mother-got-a-b44244",
+      "line-my-mother-got-a-d90180",
+      "line-my-mother-grinned-get-dd6f30",
+      "line-my-mother-sat-down-3124e3",
+      "line-my-mother-woke-us-67b96c",
+      "line-so-my-brother-can-4cc322",
+      "line-so-the-owl-can-088230",
+      "line-so-the-three-of-68915a",
+      "line-so-we-might-see-051ac2",
+      "line-so-we-walked-and-41577a",
+      "line-the-moon-is-so-06f573",
+      "line-then-it-dropped-off-77e9d8",
+      "line-then-at-the-gate-b88ae3",
+      "line-then-up-in-a-34219c",
+      "line-to-get-a-light-3a6d76",
+      "line-to-go-back-to-b90e25",
+      "line-to-walk-in-the-f997a8",
+      "line-what-did-my-brother-f8c049",
+      "line-what-did-we-see-a8bae2",
+      "line-why-did-my-mother-bd9f44",
+      "line-why-did-we-not-609e70"
     ]
   },
   "entries": [
@@ -8775,6 +9232,26 @@
       "days": []
     },
     {
+      "id": "word-thick",
+      "kind": "word",
+      "text": "thick",
+      "script": "The word \"thick\", said clearly and slowly.",
+      "file": "word-thick.mp3",
+      "days": [
+        28,
+        61,
+        70,
+        73,
+        74,
+        78,
+        84,
+        100,
+        101,
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-frost",
       "kind": "word",
       "text": "frost",
@@ -8829,6 +9306,25 @@
         84,
         91,
         102
+      ]
+    },
+    {
+      "id": "word-snow",
+      "kind": "word",
+      "text": "snow",
+      "script": "The word \"snow\", said clearly and slowly.",
+      "file": "word-snow.mp3",
+      "days": [
+        77,
+        79,
+        80,
+        81,
+        82,
+        83,
+        85,
+        93,
+        103,
+        106
       ]
     },
     {
@@ -8919,24 +9415,6 @@
         41,
         46,
         49
-      ]
-    },
-    {
-      "id": "word-thick",
-      "kind": "word",
-      "text": "thick",
-      "script": "The word \"thick\", said clearly and slowly.",
-      "file": "word-thick.mp3",
-      "days": [
-        28,
-        61,
-        70,
-        73,
-        74,
-        78,
-        84,
-        100,
-        101
       ]
     },
     {
@@ -9059,20 +9537,20 @@
       ]
     },
     {
-      "id": "word-snow",
+      "id": "word-shout",
       "kind": "word",
-      "text": "snow",
-      "script": "The word \"snow\", said clearly and slowly.",
-      "file": "word-snow.mp3",
+      "text": "shout",
+      "script": "The word \"shout\", said clearly and slowly.",
+      "file": "word-shout.mp3",
       "days": [
-        77,
-        79,
         80,
         81,
         82,
-        83,
-        85,
-        93
+        89,
+        99,
+        103,
+        104,
+        106
       ]
     },
     {
@@ -9207,6 +9685,22 @@
       ]
     },
     {
+      "id": "word-hill",
+      "kind": "word",
+      "text": "hill",
+      "script": "The word \"hill\", said clearly and slowly.",
+      "file": "word-hill.mp3",
+      "days": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        99,
+        105
+      ]
+    },
+    {
       "id": "word-mat",
       "kind": "word",
       "text": "mat",
@@ -9239,6 +9733,22 @@
       ]
     },
     {
+      "id": "word-said",
+      "kind": "word",
+      "text": "said",
+      "script": "The word \"said\", said clearly and slowly.",
+      "file": "word-said.mp3",
+      "days": [
+        89,
+        90,
+        97,
+        98,
+        99,
+        101,
+        104
+      ]
+    },
+    {
       "id": "word-sip",
       "kind": "word",
       "text": "sip",
@@ -9252,6 +9762,22 @@
         43,
         91,
         92
+      ]
+    },
+    {
+      "id": "word-tie",
+      "kind": "word",
+      "text": "tie",
+      "script": "The word \"tie\", said clearly and slowly.",
+      "file": "word-tie.mp3",
+      "days": [
+        51,
+        53,
+        55,
+        61,
+        69,
+        95,
+        107
       ]
     },
     {
@@ -9283,6 +9809,21 @@
         82,
         83,
         85
+      ]
+    },
+    {
+      "id": "word-boat",
+      "kind": "word",
+      "text": "boat",
+      "script": "The word \"boat\", said clearly and slowly.",
+      "file": "word-boat.mp3",
+      "days": [
+        76,
+        77,
+        79,
+        81,
+        103,
+        104
       ]
     },
     {
@@ -9376,21 +9917,6 @@
       ]
     },
     {
-      "id": "word-hill",
-      "kind": "word",
-      "text": "hill",
-      "script": "The word \"hill\", said clearly and slowly.",
-      "file": "word-hill.mp3",
-      "days": [
-        14,
-        15,
-        16,
-        18,
-        19,
-        99
-      ]
-    },
-    {
       "id": "word-mask",
       "kind": "word",
       "text": "mask",
@@ -9406,6 +9932,21 @@
       ]
     },
     {
+      "id": "word-of",
+      "kind": "word",
+      "text": "of",
+      "script": "The word \"of\", said clearly and slowly.",
+      "file": "word-of.mp3",
+      "days": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-paint",
       "kind": "word",
       "text": "paint",
@@ -9418,21 +9959,6 @@
         78,
         81,
         83
-      ]
-    },
-    {
-      "id": "word-said",
-      "kind": "word",
-      "text": "said",
-      "script": "The word \"said\", said clearly and slowly.",
-      "file": "word-said.mp3",
-      "days": [
-        89,
-        90,
-        97,
-        98,
-        99,
-        101
       ]
     },
     {
@@ -9541,21 +10067,6 @@
       ]
     },
     {
-      "id": "word-tie",
-      "kind": "word",
-      "text": "tie",
-      "script": "The word \"tie\", said clearly and slowly.",
-      "file": "word-tie.mp3",
-      "days": [
-        51,
-        53,
-        55,
-        61,
-        69,
-        95
-      ]
-    },
-    {
       "id": "word-wig",
       "kind": "word",
       "text": "wig",
@@ -9639,6 +10150,34 @@
         60,
         61,
         63
+      ]
+    },
+    {
+      "id": "word-cloud",
+      "kind": "word",
+      "text": "cloud",
+      "script": "The word \"cloud\", said clearly and slowly.",
+      "file": "word-cloud.mp3",
+      "days": [
+        80,
+        81,
+        82,
+        99,
+        104
+      ]
+    },
+    {
+      "id": "word-crawl",
+      "kind": "word",
+      "text": "crawl",
+      "script": "The word \"crawl\", said clearly and slowly.",
+      "file": "word-crawl.mp3",
+      "days": [
+        93,
+        97,
+        98,
+        104,
+        107
       ]
     },
     {
@@ -9754,6 +10293,20 @@
       ]
     },
     {
+      "id": "word-here",
+      "kind": "word",
+      "text": "here",
+      "script": "The word \"here\", said clearly and slowly.",
+      "file": "word-here.mp3",
+      "days": [
+        60,
+        99,
+        100,
+        102,
+        103
+      ]
+    },
+    {
       "id": "word-lamp",
       "kind": "word",
       "text": "lamp",
@@ -9765,6 +10318,20 @@
         29,
         34,
         98
+      ]
+    },
+    {
+      "id": "word-loud",
+      "kind": "word",
+      "text": "loud",
+      "script": "The word \"loud\", said clearly and slowly.",
+      "file": "word-loud.mp3",
+      "days": [
+        80,
+        81,
+        103,
+        104,
+        106
       ]
     },
     {
@@ -9880,20 +10447,6 @@
       ]
     },
     {
-      "id": "word-shout",
-      "kind": "word",
-      "text": "shout",
-      "script": "The word \"shout\", said clearly and slowly.",
-      "file": "word-shout.mp3",
-      "days": [
-        80,
-        81,
-        82,
-        89,
-        99
-      ]
-    },
-    {
       "id": "word-skip",
       "kind": "word",
       "text": "skip",
@@ -9950,6 +10503,20 @@
       ]
     },
     {
+      "id": "word-tall",
+      "kind": "word",
+      "text": "tall",
+      "script": "The word \"tall\", said clearly and slowly.",
+      "file": "word-tall.mp3",
+      "days": [
+        94,
+        95,
+        97,
+        98,
+        107
+      ]
+    },
+    {
       "id": "word-tam",
       "kind": "word",
       "text": "tam",
@@ -9978,6 +10545,20 @@
       ]
     },
     {
+      "id": "word-there",
+      "kind": "word",
+      "text": "there",
+      "script": "The word \"there\", said clearly and slowly.",
+      "file": "word-there.mp3",
+      "days": [
+        99,
+        100,
+        101,
+        102,
+        104
+      ]
+    },
+    {
       "id": "word-they",
       "kind": "word",
       "text": "they",
@@ -9992,6 +10573,20 @@
       ]
     },
     {
+      "id": "word-thin",
+      "kind": "word",
+      "text": "thin",
+      "script": "The word \"thin\", said clearly and slowly.",
+      "file": "word-thin.mp3",
+      "days": [
+        30,
+        65,
+        100,
+        101,
+        103
+      ]
+    },
+    {
       "id": "word-toast",
       "kind": "word",
       "text": "toast",
@@ -10003,6 +10598,20 @@
         79,
         86,
         88
+      ]
+    },
+    {
+      "id": "word-want",
+      "kind": "word",
+      "text": "want",
+      "script": "The word \"want\", said clearly and slowly.",
+      "file": "word-want.mp3",
+      "days": [
+        70,
+        72,
+        97,
+        99,
+        104
       ]
     },
     {
@@ -10153,19 +10762,6 @@
       ]
     },
     {
-      "id": "word-boat",
-      "kind": "word",
-      "text": "boat",
-      "script": "The word \"boat\", said clearly and slowly.",
-      "file": "word-boat.mp3",
-      "days": [
-        76,
-        77,
-        79,
-        81
-      ]
-    },
-    {
       "id": "word-brick",
       "kind": "word",
       "text": "brick",
@@ -10270,6 +10866,19 @@
       ]
     },
     {
+      "id": "word-churn",
+      "kind": "word",
+      "text": "churn",
+      "script": "The word \"churn\", said clearly and slowly.",
+      "file": "word-churn.mp3",
+      "days": [
+        83,
+        93,
+        102,
+        104
+      ]
+    },
+    {
       "id": "word-clean",
       "kind": "word",
       "text": "clean",
@@ -10280,19 +10889,6 @@
         76,
         77,
         79
-      ]
-    },
-    {
-      "id": "word-cloud",
-      "kind": "word",
-      "text": "cloud",
-      "script": "The word \"cloud\", said clearly and slowly.",
-      "file": "word-cloud.mp3",
-      "days": [
-        80,
-        81,
-        82,
-        99
       ]
     },
     {
@@ -10465,6 +11061,19 @@
       ]
     },
     {
+      "id": "word-grow",
+      "kind": "word",
+      "text": "grow",
+      "script": "The word \"grow\", said clearly and slowly.",
+      "file": "word-grow.mp3",
+      "days": [
+        77,
+        80,
+        103,
+        106
+      ]
+    },
+    {
       "id": "word-her",
       "kind": "word",
       "text": "her",
@@ -10475,19 +11084,6 @@
         66,
         71,
         84
-      ]
-    },
-    {
-      "id": "word-here",
-      "kind": "word",
-      "text": "here",
-      "script": "The word \"here\", said clearly and slowly.",
-      "file": "word-here.mp3",
-      "days": [
-        60,
-        99,
-        100,
-        102
       ]
     },
     {
@@ -10514,6 +11110,19 @@
         36,
         72,
         89
+      ]
+    },
+    {
+      "id": "word-jump",
+      "kind": "word",
+      "text": "jump",
+      "script": "The word \"jump\", said clearly and slowly.",
+      "file": "word-jump.mp3",
+      "days": [
+        39,
+        58,
+        67,
+        105
       ]
     },
     {
@@ -10582,6 +11191,45 @@
       ]
     },
     {
+      "id": "word-low",
+      "kind": "word",
+      "text": "low",
+      "script": "The word \"low\", said clearly and slowly.",
+      "file": "word-low.mp3",
+      "days": [
+        78,
+        79,
+        80,
+        106
+      ]
+    },
+    {
+      "id": "word-moth",
+      "kind": "word",
+      "text": "moth",
+      "script": "The word \"moth\", said clearly and slowly.",
+      "file": "word-moth.mp3",
+      "days": [
+        100,
+        101,
+        103,
+        104
+      ]
+    },
+    {
+      "id": "word-my",
+      "kind": "word",
+      "text": "my",
+      "script": "The word \"my\", said clearly and slowly.",
+      "file": "word-my.mp3",
+      "days": [
+        95,
+        96,
+        97,
+        107
+      ]
+    },
+    {
       "id": "word-not",
       "kind": "word",
       "text": "not",
@@ -10595,16 +11243,29 @@
       ]
     },
     {
-      "id": "word-of",
+      "id": "word-out",
       "kind": "word",
-      "text": "of",
-      "script": "The word \"of\", said clearly and slowly.",
-      "file": "word-of.mp3",
+      "text": "out",
+      "script": "The word \"out\", said clearly and slowly.",
+      "file": "word-out.mp3",
       "days": [
-        99,
-        100,
-        101,
-        102
+        80,
+        104,
+        105,
+        106
+      ]
+    },
+    {
+      "id": "word-owl",
+      "kind": "word",
+      "text": "owl",
+      "script": "The word \"owl\", said clearly and slowly.",
+      "file": "word-owl.mp3",
+      "days": [
+        89,
+        90,
+        106,
+        107
       ]
     },
     {
@@ -10790,19 +11451,6 @@
       ]
     },
     {
-      "id": "word-tall",
-      "kind": "word",
-      "text": "tall",
-      "script": "The word \"tall\", said clearly and slowly.",
-      "file": "word-tall.mp3",
-      "days": [
-        94,
-        95,
-        97,
-        98
-      ]
-    },
-    {
       "id": "word-that",
       "kind": "word",
       "text": "that",
@@ -10826,32 +11474,6 @@
         45,
         96,
         100
-      ]
-    },
-    {
-      "id": "word-there",
-      "kind": "word",
-      "text": "there",
-      "script": "The word \"there\", said clearly and slowly.",
-      "file": "word-there.mp3",
-      "days": [
-        99,
-        100,
-        101,
-        102
-      ]
-    },
-    {
-      "id": "word-thin",
-      "kind": "word",
-      "text": "thin",
-      "script": "The word \"thin\", said clearly and slowly.",
-      "file": "word-thin.mp3",
-      "days": [
-        30,
-        65,
-        100,
-        101
       ]
     },
     {
@@ -10930,19 +11552,6 @@
         59,
         61,
         63
-      ]
-    },
-    {
-      "id": "word-want",
-      "kind": "word",
-      "text": "want",
-      "script": "The word \"want\", said clearly and slowly.",
-      "file": "word-want.mp3",
-      "days": [
-        70,
-        72,
-        97,
-        99
       ]
     },
     {
@@ -11082,6 +11691,18 @@
       ]
     },
     {
+      "id": "word-bell",
+      "kind": "word",
+      "text": "bell",
+      "script": "The word \"bell\", said clearly and slowly.",
+      "file": "word-bell.mp3",
+      "days": [
+        87,
+        94,
+        105
+      ]
+    },
+    {
       "id": "word-big",
       "kind": "word",
       "text": "big",
@@ -11163,6 +11784,18 @@
         54,
         61,
         76
+      ]
+    },
+    {
+      "id": "word-brain",
+      "kind": "word",
+      "text": "brain",
+      "script": "The word \"brain\", said clearly and slowly.",
+      "file": "word-brain.mp3",
+      "days": [
+        73,
+        89,
+        106
       ]
     },
     {
@@ -11250,18 +11883,6 @@
       ]
     },
     {
-      "id": "word-churn",
-      "kind": "word",
-      "text": "churn",
-      "script": "The word \"churn\", said clearly and slowly.",
-      "file": "word-churn.mp3",
-      "days": [
-        83,
-        93,
-        102
-      ]
-    },
-    {
       "id": "word-clap",
       "kind": "word",
       "text": "clap",
@@ -11346,15 +11967,15 @@
       ]
     },
     {
-      "id": "word-crawl",
+      "id": "word-crow",
       "kind": "word",
-      "text": "crawl",
-      "script": "The word \"crawl\", said clearly and slowly.",
-      "file": "word-crawl.mp3",
+      "text": "crow",
+      "script": "The word \"crow\", said clearly and slowly.",
+      "file": "word-crow.mp3",
       "days": [
-        93,
-        97,
-        98
+        77,
+        80,
+        106
       ]
     },
     {
@@ -11682,6 +12303,18 @@
       ]
     },
     {
+      "id": "word-house",
+      "kind": "word",
+      "text": "house",
+      "script": "The word \"house\", said clearly and slowly.",
+      "file": "word-house.mp3",
+      "days": [
+        104,
+        105,
+        106
+      ]
+    },
+    {
       "id": "word-jack",
       "kind": "word",
       "text": "jack",
@@ -11691,18 +12324,6 @@
         21,
         23,
         26
-      ]
-    },
-    {
-      "id": "word-jump",
-      "kind": "word",
-      "text": "jump",
-      "script": "The word \"jump\", said clearly and slowly.",
-      "file": "word-jump.mp3",
-      "days": [
-        39,
-        58,
-        67
       ]
     },
     {
@@ -11742,18 +12363,6 @@
       ]
     },
     {
-      "id": "word-low",
-      "kind": "word",
-      "text": "low",
-      "script": "The word \"low\", said clearly and slowly.",
-      "file": "word-low.mp3",
-      "days": [
-        78,
-        79,
-        80
-      ]
-    },
-    {
       "id": "word-ma",
       "kind": "word",
       "text": "ma",
@@ -11778,6 +12387,42 @@
       ]
     },
     {
+      "id": "word-miss",
+      "kind": "word",
+      "text": "miss",
+      "script": "The word \"miss\", said clearly and slowly.",
+      "file": "word-miss.mp3",
+      "days": [
+        31,
+        91,
+        105
+      ]
+    },
+    {
+      "id": "word-mouse",
+      "kind": "word",
+      "text": "mouse",
+      "script": "The word \"mouse\", said clearly and slowly.",
+      "file": "word-mouse.mp3",
+      "days": [
+        83,
+        104,
+        105
+      ]
+    },
+    {
+      "id": "word-mouth",
+      "kind": "word",
+      "text": "mouth",
+      "script": "The word \"mouth\", said clearly and slowly.",
+      "file": "word-mouth.mp3",
+      "days": [
+        80,
+        104,
+        105
+      ]
+    },
+    {
       "id": "word-much",
       "kind": "word",
       "text": "much",
@@ -11787,18 +12432,6 @@
         68,
         70,
         102
-      ]
-    },
-    {
-      "id": "word-my",
-      "kind": "word",
-      "text": "my",
-      "script": "The word \"my\", said clearly and slowly.",
-      "file": "word-my.mp3",
-      "days": [
-        95,
-        96,
-        97
       ]
     },
     {
@@ -12342,6 +12975,18 @@
       ]
     },
     {
+      "id": "word-throw",
+      "kind": "word",
+      "text": "throw",
+      "script": "The word \"throw\", said clearly and slowly.",
+      "file": "word-throw.mp3",
+      "days": [
+        100,
+        101,
+        106
+      ]
+    },
+    {
       "id": "word-time",
       "kind": "word",
       "text": "time",
@@ -12614,6 +13259,17 @@
       ]
     },
     {
+      "id": "word-bait",
+      "kind": "word",
+      "text": "bait",
+      "script": "The word \"bait\", said clearly and slowly.",
+      "file": "word-bait.mp3",
+      "days": [
+        79,
+        103
+      ]
+    },
+    {
       "id": "word-bark",
       "kind": "word",
       "text": "bark",
@@ -12655,17 +13311,6 @@
       "days": [
         84,
         85
-      ]
-    },
-    {
-      "id": "word-bell",
-      "kind": "word",
-      "text": "bell",
-      "script": "The word \"bell\", said clearly and slowly.",
-      "file": "word-bell.mp3",
-      "days": [
-        87,
-        94
       ]
     },
     {
@@ -12768,6 +13413,17 @@
       ]
     },
     {
+      "id": "word-boot",
+      "kind": "word",
+      "text": "boot",
+      "script": "The word \"boot\", said clearly and slowly.",
+      "file": "word-boot.mp3",
+      "days": [
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-born",
       "kind": "word",
       "text": "born",
@@ -12801,17 +13457,6 @@
       ]
     },
     {
-      "id": "word-brain",
-      "kind": "word",
-      "text": "brain",
-      "script": "The word \"brain\", said clearly and slowly.",
-      "file": "word-brain.mp3",
-      "days": [
-        73,
-        89
-      ]
-    },
-    {
       "id": "word-broke",
       "kind": "word",
       "text": "broke",
@@ -12820,6 +13465,17 @@
       "days": [
         54,
         56
+      ]
+    },
+    {
+      "id": "word-brown",
+      "kind": "word",
+      "text": "brown",
+      "script": "The word \"brown\", said clearly and slowly.",
+      "file": "word-brown.mp3",
+      "days": [
+        106,
+        107
       ]
     },
     {
@@ -12842,6 +13498,17 @@
       "days": [
         39,
         69
+      ]
+    },
+    {
+      "id": "word-buzz",
+      "kind": "word",
+      "text": "buzz",
+      "script": "The word \"buzz\", said clearly and slowly.",
+      "file": "word-buzz.mp3",
+      "days": [
+        92,
+        105
       ]
     },
     {
@@ -12999,6 +13666,17 @@
       ]
     },
     {
+      "id": "word-cook",
+      "kind": "word",
+      "text": "cook",
+      "script": "The word \"cook\", said clearly and slowly.",
+      "file": "word-cook.mp3",
+      "days": [
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-cord",
       "kind": "word",
       "text": "cord",
@@ -13032,6 +13710,17 @@
       ]
     },
     {
+      "id": "word-cow",
+      "kind": "word",
+      "text": "cow",
+      "script": "The word \"cow\", said clearly and slowly.",
+      "file": "word-cow.mp3",
+      "days": [
+        106,
+        107
+      ]
+    },
+    {
       "id": "word-crash",
       "kind": "word",
       "text": "crash",
@@ -13051,17 +13740,6 @@
       "days": [
         76,
         98
-      ]
-    },
-    {
-      "id": "word-crow",
-      "kind": "word",
-      "text": "crow",
-      "script": "The word \"crow\", said clearly and slowly.",
-      "file": "word-crow.mp3",
-      "days": [
-        77,
-        80
       ]
     },
     {
@@ -13164,6 +13842,17 @@
       ]
     },
     {
+      "id": "word-down",
+      "kind": "word",
+      "text": "down",
+      "script": "The word \"down\", said clearly and slowly.",
+      "file": "word-down.mp3",
+      "days": [
+        106,
+        107
+      ]
+    },
+    {
       "id": "word-dream",
       "kind": "word",
       "text": "dream",
@@ -13260,6 +13949,28 @@
       "days": [
         34,
         35
+      ]
+    },
+    {
+      "id": "word-flower",
+      "kind": "word",
+      "text": "flower",
+      "script": "The word \"flower\", said clearly and slowly.",
+      "file": "word-flower.mp3",
+      "days": [
+        88,
+        106
+      ]
+    },
+    {
+      "id": "word-food",
+      "kind": "word",
+      "text": "food",
+      "script": "The word \"food\", said clearly and slowly.",
+      "file": "word-food.mp3",
+      "days": [
+        103,
+        104
       ]
     },
     {
@@ -13373,6 +14084,17 @@
       ]
     },
     {
+      "id": "word-good",
+      "kind": "word",
+      "text": "good",
+      "script": "The word \"good\", said clearly and slowly.",
+      "file": "word-good.mp3",
+      "days": [
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-grape",
       "kind": "word",
       "text": "grape",
@@ -13392,17 +14114,6 @@
       "days": [
         80,
         81
-      ]
-    },
-    {
-      "id": "word-grow",
-      "kind": "word",
-      "text": "grow",
-      "script": "The word \"grow\", said clearly and slowly.",
-      "file": "word-grow.mp3",
-      "days": [
-        77,
-        80
       ]
     },
     {
@@ -13516,6 +14227,17 @@
       ]
     },
     {
+      "id": "word-how",
+      "kind": "word",
+      "text": "how",
+      "script": "The word \"how\", said clearly and slowly.",
+      "file": "word-how.mp3",
+      "days": [
+        106,
+        107
+      ]
+    },
+    {
       "id": "word-hut",
       "kind": "word",
       "text": "hut",
@@ -13604,6 +14326,17 @@
       ]
     },
     {
+      "id": "word-jumped",
+      "kind": "word",
+      "text": "jumped",
+      "script": "The word \"jumped\", said clearly and slowly.",
+      "file": "word-jumped.mp3",
+      "days": [
+        105,
+        106
+      ]
+    },
+    {
       "id": "word-june",
       "kind": "word",
       "text": "june",
@@ -13623,6 +14356,17 @@
       "days": [
         21,
         25
+      ]
+    },
+    {
+      "id": "word-landed",
+      "kind": "word",
+      "text": "landed",
+      "script": "The word \"landed\", said clearly and slowly.",
+      "file": "word-landed.mp3",
+      "days": [
+        105,
+        106
       ]
     },
     {
@@ -13703,14 +14447,25 @@
       ]
     },
     {
-      "id": "word-loud",
+      "id": "word-look",
       "kind": "word",
-      "text": "loud",
-      "script": "The word \"loud\", said clearly and slowly.",
-      "file": "word-loud.mp3",
+      "text": "look",
+      "script": "The word \"look\", said clearly and slowly.",
+      "file": "word-look.mp3",
       "days": [
-        80,
-        81
+        103,
+        104
+      ]
+    },
+    {
+      "id": "word-looked",
+      "kind": "word",
+      "text": "looked",
+      "script": "The word \"looked\", said clearly and slowly.",
+      "file": "word-looked.mp3",
+      "days": [
+        105,
+        106
       ]
     },
     {
@@ -13722,6 +14477,17 @@
       "days": [
         10,
         45
+      ]
+    },
+    {
+      "id": "word-many",
+      "kind": "word",
+      "text": "many",
+      "script": "The word \"many\", said clearly and slowly.",
+      "file": "word-many.mp3",
+      "days": [
+        102,
+        104
       ]
     },
     {
@@ -13747,17 +14513,6 @@
       ]
     },
     {
-      "id": "word-miss",
-      "kind": "word",
-      "text": "miss",
-      "script": "The word \"miss\", said clearly and slowly.",
-      "file": "word-miss.mp3",
-      "days": [
-        31,
-        91
-      ]
-    },
-    {
       "id": "word-moist",
       "kind": "word",
       "text": "moist",
@@ -13769,6 +14524,17 @@
       ]
     },
     {
+      "id": "word-moon",
+      "kind": "word",
+      "text": "moon",
+      "script": "The word \"moon\", said clearly and slowly.",
+      "file": "word-moon.mp3",
+      "days": [
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-morning",
       "kind": "word",
       "text": "morning",
@@ -13777,17 +14543,6 @@
       "days": [
         64,
         102
-      ]
-    },
-    {
-      "id": "word-moth",
-      "kind": "word",
-      "text": "moth",
-      "script": "The word \"moth\", said clearly and slowly.",
-      "file": "word-moth.mp3",
-      "days": [
-        100,
-        101
       ]
     },
     {
@@ -13835,6 +14590,17 @@
       ]
     },
     {
+      "id": "word-needed",
+      "kind": "word",
+      "text": "needed",
+      "script": "The word \"needed\", said clearly and slowly.",
+      "file": "word-needed.mp3",
+      "days": [
+        105,
+        106
+      ]
+    },
+    {
       "id": "word-nest",
       "kind": "word",
       "text": "nest",
@@ -13854,17 +14620,6 @@
       "days": [
         44,
         91
-      ]
-    },
-    {
-      "id": "word-owl",
-      "kind": "word",
-      "text": "owl",
-      "script": "The word \"owl\", said clearly and slowly.",
-      "file": "word-owl.mp3",
-      "days": [
-        89,
-        90
       ]
     },
     {
@@ -13898,6 +14653,17 @@
       "days": [
         100,
         101
+      ]
+    },
+    {
+      "id": "word-paw",
+      "kind": "word",
+      "text": "paw",
+      "script": "The word \"paw\", said clearly and slowly.",
+      "file": "word-paw.mp3",
+      "days": [
+        99,
+        107
       ]
     },
     {
@@ -14363,6 +15129,17 @@
       ]
     },
     {
+      "id": "word-spoon",
+      "kind": "word",
+      "text": "spoon",
+      "script": "The word \"spoon\", said clearly and slowly.",
+      "file": "word-spoon.mp3",
+      "days": [
+        103,
+        104
+      ]
+    },
+    {
       "id": "word-spot",
       "kind": "word",
       "text": "spot",
@@ -14495,6 +15272,17 @@
       ]
     },
     {
+      "id": "word-tail",
+      "kind": "word",
+      "text": "tail",
+      "script": "The word \"tail\", said clearly and slowly.",
+      "file": "word-tail.mp3",
+      "days": [
+        73,
+        107
+      ]
+    },
+    {
       "id": "word-task",
       "kind": "word",
       "text": "task",
@@ -14580,17 +15368,6 @@
       "days": [
         59,
         61
-      ]
-    },
-    {
-      "id": "word-throw",
-      "kind": "word",
-      "text": "throw",
-      "script": "The word \"throw\", said clearly and slowly.",
-      "file": "word-throw.mp3",
-      "days": [
-        100,
-        101
       ]
     },
     {
@@ -14792,6 +15569,17 @@
       ]
     },
     {
+      "id": "word-window",
+      "kind": "word",
+      "text": "window",
+      "script": "The word \"window\", said clearly and slowly.",
+      "file": "word-window.mp3",
+      "days": [
+        77,
+        106
+      ]
+    },
+    {
       "id": "word-would",
       "kind": "word",
       "text": "would",
@@ -14811,6 +15599,17 @@
       "days": [
         87,
         88
+      ]
+    },
+    {
+      "id": "word-yelled",
+      "kind": "word",
+      "text": "yelled",
+      "script": "The word \"yelled\", said clearly and slowly.",
+      "file": "word-yelled.mp3",
+      "days": [
+        105,
+        106
       ]
     },
     {
@@ -14928,6 +15727,16 @@
       ]
     },
     {
+      "id": "word-backed",
+      "kind": "word",
+      "text": "backed",
+      "script": "The word \"backed\", said clearly and slowly.",
+      "file": "word-backed.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "word-bags",
       "kind": "word",
       "text": "bags",
@@ -14935,16 +15744,6 @@
       "file": "word-bags.mp3",
       "days": [
         28
-      ]
-    },
-    {
-      "id": "word-bait",
-      "kind": "word",
-      "text": "bait",
-      "script": "The word \"bait\", said clearly and slowly.",
-      "file": "word-bait.mp3",
-      "days": [
-        79
       ]
     },
     {
@@ -15128,6 +15927,16 @@
       ]
     },
     {
+      "id": "word-book",
+      "kind": "word",
+      "text": "book",
+      "script": "The word \"book\", said clearly and slowly.",
+      "file": "word-book.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "word-bowl",
       "kind": "word",
       "text": "bowl",
@@ -15155,6 +15964,46 @@
       "file": "word-brave.mp3",
       "days": [
         63
+      ]
+    },
+    {
+      "id": "word-bright",
+      "kind": "word",
+      "text": "bright",
+      "script": "The word \"bright\", said clearly and slowly.",
+      "file": "word-bright.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "word-brook",
+      "kind": "word",
+      "text": "brook",
+      "script": "The word \"brook\", said clearly and slowly.",
+      "file": "word-brook.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "word-broom",
+      "kind": "word",
+      "text": "broom",
+      "script": "The word \"broom\", said clearly and slowly.",
+      "file": "word-broom.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "word-brother",
+      "kind": "word",
+      "text": "brother",
+      "script": "The word \"brother\", said clearly and slowly.",
+      "file": "word-brother.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -15195,16 +16044,6 @@
       "file": "word-butterfly.mp3",
       "days": [
         95
-      ]
-    },
-    {
-      "id": "word-buzz",
-      "kind": "word",
-      "text": "buzz",
-      "script": "The word \"buzz\", said clearly and slowly.",
-      "file": "word-buzz.mp3",
-      "days": [
-        92
       ]
     },
     {
@@ -15265,6 +16104,16 @@
       "file": "word-cave.mp3",
       "days": [
         61
+      ]
+    },
+    {
+      "id": "word-chalk",
+      "kind": "word",
+      "text": "chalk",
+      "script": "The word \"chalk\", said clearly and slowly.",
+      "file": "word-chalk.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -15408,6 +16257,16 @@
       ]
     },
     {
+      "id": "word-coal",
+      "kind": "word",
+      "text": "coal",
+      "script": "The word \"coal\", said clearly and slowly.",
+      "file": "word-coal.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "word-coat",
       "kind": "word",
       "text": "coat",
@@ -15455,6 +16314,46 @@
       "file": "word-coil.mp3",
       "days": [
         81
+      ]
+    },
+    {
+      "id": "word-cooked",
+      "kind": "word",
+      "text": "cooked",
+      "script": "The word \"cooked\", said clearly and slowly.",
+      "file": "word-cooked.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "word-cool",
+      "kind": "word",
+      "text": "cool",
+      "script": "The word \"cool\", said clearly and slowly.",
+      "file": "word-cool.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "word-cooled",
+      "kind": "word",
+      "text": "cooled",
+      "script": "The word \"cooled\", said clearly and slowly.",
+      "file": "word-cooled.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "word-cot",
+      "kind": "word",
+      "text": "cot",
+      "script": "The word \"cot\", said clearly and slowly.",
+      "file": "word-cot.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -15535,6 +16434,16 @@
       "file": "word-cross.mp3",
       "days": [
         99
+      ]
+    },
+    {
+      "id": "word-crowd",
+      "kind": "word",
+      "text": "crowd",
+      "script": "The word \"crowd\", said clearly and slowly.",
+      "file": "word-crowd.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -15948,6 +16857,16 @@
       ]
     },
     {
+      "id": "word-fixed",
+      "kind": "word",
+      "text": "fixed",
+      "script": "The word \"fixed\", said clearly and slowly.",
+      "file": "word-fixed.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "word-flame",
       "kind": "word",
       "text": "flame",
@@ -15995,16 +16914,6 @@
       "file": "word-flips.mp3",
       "days": [
         34
-      ]
-    },
-    {
-      "id": "word-flower",
-      "kind": "word",
-      "text": "flower",
-      "script": "The word \"flower\", said clearly and slowly.",
-      "file": "word-flower.mp3",
-      "days": [
-        88
       ]
     },
     {
@@ -16085,6 +16994,16 @@
       "file": "word-fond.mp3",
       "days": [
         80
+      ]
+    },
+    {
+      "id": "word-foot",
+      "kind": "word",
+      "text": "foot",
+      "script": "The word \"foot\", said clearly and slowly.",
+      "file": "word-foot.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -16258,6 +17177,16 @@
       ]
     },
     {
+      "id": "word-goose",
+      "kind": "word",
+      "text": "goose",
+      "script": "The word \"goose\", said clearly and slowly.",
+      "file": "word-goose.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "word-grain",
       "kind": "word",
       "text": "grain",
@@ -16278,6 +17207,16 @@
       ]
     },
     {
+      "id": "word-grill",
+      "kind": "word",
+      "text": "grill",
+      "script": "The word \"grill\", said clearly and slowly.",
+      "file": "word-grill.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "word-grin",
       "kind": "word",
       "text": "grin",
@@ -16288,6 +17227,16 @@
       ]
     },
     {
+      "id": "word-grinned",
+      "kind": "word",
+      "text": "grinned",
+      "script": "The word \"grinned\", said clearly and slowly.",
+      "file": "word-grinned.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "word-groan",
       "kind": "word",
       "text": "groan",
@@ -16295,6 +17244,16 @@
       "file": "word-groan.mp3",
       "days": [
         91
+      ]
+    },
+    {
+      "id": "word-growl",
+      "kind": "word",
+      "text": "growl",
+      "script": "The word \"growl\", said clearly and slowly.",
+      "file": "word-growl.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -16335,6 +17294,16 @@
       "file": "word-hamster.mp3",
       "days": [
         70
+      ]
+    },
+    {
+      "id": "word-handed",
+      "kind": "word",
+      "text": "handed",
+      "script": "The word \"handed\", said clearly and slowly.",
+      "file": "word-handed.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -16405,6 +17374,16 @@
       "file": "word-hem.mp3",
       "days": [
         60
+      ]
+    },
+    {
+      "id": "word-high",
+      "kind": "word",
+      "text": "high",
+      "script": "The word \"high\", said clearly and slowly.",
+      "file": "word-high.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -16628,6 +17607,16 @@
       ]
     },
     {
+      "id": "word-jumps",
+      "kind": "word",
+      "text": "jumps",
+      "script": "The word \"jumps\", said clearly and slowly.",
+      "file": "word-jumps.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "word-keen",
       "kind": "word",
       "text": "keen",
@@ -16758,6 +17747,26 @@
       ]
     },
     {
+      "id": "word-lifted",
+      "kind": "word",
+      "text": "lifted",
+      "script": "The word \"lifted\", said clearly and slowly.",
+      "file": "word-lifted.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "word-light",
+      "kind": "word",
+      "text": "light",
+      "script": "The word \"light\", said clearly and slowly.",
+      "file": "word-light.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "word-limp",
       "kind": "word",
       "text": "limp",
@@ -16868,16 +17877,6 @@
       ]
     },
     {
-      "id": "word-many",
-      "kind": "word",
-      "text": "many",
-      "script": "The word \"many\", said clearly and slowly.",
-      "file": "word-many.mp3",
-      "days": [
-        102
-      ]
-    },
-    {
       "id": "word-map",
       "kind": "word",
       "text": "map",
@@ -16958,6 +17957,16 @@
       ]
     },
     {
+      "id": "word-might",
+      "kind": "word",
+      "text": "might",
+      "script": "The word \"might\", said clearly and slowly.",
+      "file": "word-might.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "word-milk",
       "kind": "word",
       "text": "milk",
@@ -17028,6 +18037,16 @@
       ]
     },
     {
+      "id": "word-mother",
+      "kind": "word",
+      "text": "mother",
+      "script": "The word \"mother\", said clearly and slowly.",
+      "file": "word-mother.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "word-mound",
       "kind": "word",
       "text": "mound",
@@ -17035,26 +18054,6 @@
       "file": "word-mound.mp3",
       "days": [
         92
-      ]
-    },
-    {
-      "id": "word-mouse",
-      "kind": "word",
-      "text": "mouse",
-      "script": "The word \"mouse\", said clearly and slowly.",
-      "file": "word-mouse.mp3",
-      "days": [
-        83
-      ]
-    },
-    {
-      "id": "word-mouth",
-      "kind": "word",
-      "text": "mouth",
-      "script": "The word \"mouth\", said clearly and slowly.",
-      "file": "word-mouth.mp3",
-      "days": [
-        80
       ]
     },
     {
@@ -17125,6 +18124,16 @@
       "file": "word-next.mp3",
       "days": [
         91
+      ]
+    },
+    {
+      "id": "word-night",
+      "kind": "word",
+      "text": "night",
+      "script": "The word \"night\", said clearly and slowly.",
+      "file": "word-night.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -17218,6 +18227,16 @@
       ]
     },
     {
+      "id": "word-other",
+      "kind": "word",
+      "text": "other",
+      "script": "The word \"other\", said clearly and slowly.",
+      "file": "word-other.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "word-ouch",
       "kind": "word",
       "text": "ouch",
@@ -17225,16 +18244,6 @@
       "file": "word-ouch.mp3",
       "days": [
         83
-      ]
-    },
-    {
-      "id": "word-out",
-      "kind": "word",
-      "text": "out",
-      "script": "The word \"out\", said clearly and slowly.",
-      "file": "word-out.mp3",
-      "days": [
-        80
       ]
     },
     {
@@ -17345,16 +18354,6 @@
       "file": "word-pat.mp3",
       "days": [
         100
-      ]
-    },
-    {
-      "id": "word-paw",
-      "kind": "word",
-      "text": "paw",
-      "script": "The word \"paw\", said clearly and slowly.",
-      "file": "word-paw.mp3",
-      "days": [
-        99
       ]
     },
     {
@@ -17485,6 +18484,16 @@
       "file": "word-poach.mp3",
       "days": [
         83
+      ]
+    },
+    {
+      "id": "word-pool",
+      "kind": "word",
+      "text": "pool",
+      "script": "The word \"pool\", said clearly and slowly.",
+      "file": "word-pool.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -17808,6 +18817,16 @@
       ]
     },
     {
+      "id": "word-sanded",
+      "kind": "word",
+      "text": "sanded",
+      "script": "The word \"sanded\", said clearly and slowly.",
+      "file": "word-sanded.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "word-sang",
       "kind": "word",
       "text": "sang",
@@ -17955,6 +18974,26 @@
       "file": "word-ships.mp3",
       "days": [
         28
+      ]
+    },
+    {
+      "id": "word-shook",
+      "kind": "word",
+      "text": "shook",
+      "script": "The word \"shook\", said clearly and slowly.",
+      "file": "word-shook.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "word-shouted",
+      "kind": "word",
+      "text": "shouted",
+      "script": "The word \"shouted\", said clearly and slowly.",
+      "file": "word-shouted.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -18408,6 +19447,16 @@
       ]
     },
     {
+      "id": "word-stool",
+      "kind": "word",
+      "text": "stool",
+      "script": "The word \"stool\", said clearly and slowly.",
+      "file": "word-stool.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "word-stork",
       "kind": "word",
       "text": "stork",
@@ -18608,13 +19657,13 @@
       ]
     },
     {
-      "id": "word-tail",
+      "id": "word-talk",
       "kind": "word",
-      "text": "tail",
-      "script": "The word \"tail\", said clearly and slowly.",
-      "file": "word-tail.mp3",
+      "text": "talk",
+      "script": "The word \"talk\", said clearly and slowly.",
+      "file": "word-talk.mp3",
       "days": [
-        73
+        107
       ]
     },
     {
@@ -18808,6 +19857,16 @@
       ]
     },
     {
+      "id": "word-town",
+      "kind": "word",
+      "text": "town",
+      "script": "The word \"town\", said clearly and slowly.",
+      "file": "word-town.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "word-toys",
       "kind": "word",
       "text": "toys",
@@ -18968,6 +20027,26 @@
       ]
     },
     {
+      "id": "word-walk",
+      "kind": "word",
+      "text": "walk",
+      "script": "The word \"walk\", said clearly and slowly.",
+      "file": "word-walk.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "word-walked",
+      "kind": "word",
+      "text": "walked",
+      "script": "The word \"walked\", said clearly and slowly.",
+      "file": "word-walked.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "word-wave",
       "kind": "word",
       "text": "wave",
@@ -19058,16 +20137,6 @@
       ]
     },
     {
-      "id": "word-window",
-      "kind": "word",
-      "text": "window",
-      "script": "The word \"window\", said clearly and slowly.",
-      "file": "word-window.mp3",
-      "days": [
-        77
-      ]
-    },
-    {
       "id": "word-wing",
       "kind": "word",
       "text": "wing",
@@ -19115,6 +20184,16 @@
       "file": "word-wipe.mp3",
       "days": [
         96
+      ]
+    },
+    {
+      "id": "word-wood",
+      "kind": "word",
+      "text": "wood",
+      "script": "The word \"wood\", said clearly and slowly.",
+      "file": "word-wood.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -20643,6 +21722,16 @@
       ]
     },
     {
+      "id": "prompt-all-three-are-the-b99c4e",
+      "kind": "prompt",
+      "text": "All three are the same word with a new front on it. Listen to the first sound.",
+      "script": "Spoken instruction: \"All three are the same word with a new front on it. Listen to the first sound.\"",
+      "file": "prompt-all-three-are-the-b99c4e.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-all-three-are-tiny-13f25e",
       "kind": "prompt",
       "text": "All three are tiny. Listen to the front of the word, and then right to the end.",
@@ -20690,6 +21779,16 @@
       "file": "prompt-all-three-begin-with-7f459d.mp3",
       "days": [
         83
+      ]
+    },
+    {
+      "id": "prompt-all-three-end-the-49f2fa",
+      "kind": "prompt",
+      "text": "All three end the same way. Everything you need is the sound at the front.",
+      "script": "Spoken instruction: \"All three end the same way. Everything you need is the sound at the front.\"",
+      "file": "prompt-all-three-end-the-49f2fa.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -20800,6 +21899,26 @@
       "file": "prompt-all-three-have-an-149125.mp3",
       "days": [
         65
+      ]
+    },
+    {
+      "id": "prompt-all-three-have-oo-cf3f5b",
+      "kind": "prompt",
+      "text": "All three have oo in the middle, and one of them says it the other way. Listen hard.",
+      "script": "Spoken instruction: \"All three have oo in the middle, and one of them says it the other way. Listen hard.\"",
+      "file": "prompt-all-three-have-oo-cf3f5b.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-all-three-of-these-d43da0",
+      "kind": "prompt",
+      "text": "All three of these say eye. Find the one with three letters in it.",
+      "script": "Spoken instruction: \"All three of these say eye. Find the one with three letters in it.\"",
+      "file": "prompt-all-three-of-these-d43da0.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -20980,6 +22099,16 @@
       "file": "prompt-all-three-start-with-c21800.mp3",
       "days": [
         95
+      ]
+    },
+    {
+      "id": "prompt-all-three-start-with-171186",
+      "kind": "prompt",
+      "text": "All three start with an m. Listen to the middle and then listen to the end.",
+      "script": "Spoken instruction: \"All three start with an m. Listen to the middle and then listen to the end.\"",
+      "file": "prompt-all-three-start-with-171186.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -21253,6 +22382,16 @@
       ]
     },
     {
+      "id": "prompt-and-now-br-on-334e85",
+      "kind": "prompt",
+      "text": "And now br on the front. Other, mother, brother. Three words, one ending, and not a single one of them can be sounded out.",
+      "script": "Spoken instruction: \"And now br on the front. Other, mother, brother. Three words, one ending, and not a single one of them can be sounded out.\"",
+      "file": "prompt-and-now-br-on-334e85.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-and-the-quick-tap-be4915",
       "kind": "prompt",
       "text": "And the quick tap?",
@@ -21260,6 +22399,16 @@
       "file": "prompt-and-the-quick-tap-be4915.mp3",
       "days": [
         5
+      ]
+    },
+    {
+      "id": "prompt-and-the-third-sound-f87730",
+      "kind": "prompt",
+      "text": "And the third sound. Here the ed says d. Yelld. Three words, three sounds, one spelling.",
+      "script": "Spoken instruction: \"And the third sound. Here the ed says d. Yelld. Three words, three sounds, one spelling.\"",
+      "file": "prompt-and-the-third-sound-f87730.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -21700,6 +22849,16 @@
       "file": "prompt-careful-there-is-an-58b576.mp3",
       "days": [
         84
+      ]
+    },
+    {
+      "id": "prompt-careful-this-one-looks-9fc3d2",
+      "kind": "prompt",
+      "text": "Careful. This one looks like boot and does not sound like it.",
+      "script": "Spoken instruction: \"Careful. This one looks like boot and does not sound like it.\"",
+      "file": "prompt-careful-this-one-looks-9fc3d2.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -22353,6 +23512,16 @@
       ]
     },
     {
+      "id": "prompt-here-is-today-s-ec0d2e",
+      "kind": "prompt",
+      "text": "Here is today's sound, and you have met it before. This is the spelling from loud and shout. From today, ow says it too.",
+      "script": "Spoken instruction: \"Here is today's sound, and you have met it before. This is the spelling from loud and shout. From today, ow says it too.\"",
+      "file": "prompt-here-is-today-s-ec0d2e.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "prompt-here-it-is-again-873b60",
       "kind": "prompt",
       "text": "Here it is again. What does it say?",
@@ -22593,6 +23762,16 @@
       ]
     },
     {
+      "id": "prompt-just-two-sounds-and-ac52b9",
+      "kind": "prompt",
+      "text": "Just two sounds, and the second one is today's. Not coh. Cow.",
+      "script": "Spoken instruction: \"Just two sounds, and the second one is today's. Not coh. Cow.\"",
+      "file": "prompt-just-two-sounds-and-ac52b9.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "prompt-just-two-this-time-4a363a",
       "kind": "prompt",
       "text": "Just two this time, and one sound apart.",
@@ -22773,6 +23952,16 @@
       ]
     },
     {
+      "id": "prompt-lips-squeeze-into-a-3f3cc3",
+      "kind": "prompt",
+      "text": "Lips squeeze into a tiny round hole and the sound runs out long: ooooo.",
+      "script": "Spoken instruction: \"Lips squeeze into a tiny round hole and the sound runs out long: ooooo.\"",
+      "file": "prompt-lips-squeeze-into-a-3f3cc3.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "prompt-lips-wide-in-a-771a3a",
       "kind": "prompt",
       "text": "Lips wide in a smile, teeth almost shut: eee. The same sound as yesterday's bee.",
@@ -22810,6 +23999,16 @@
       "file": "prompt-listen-for-a-sound-30c24b.mp3",
       "days": [
         74
+      ]
+    },
+    {
+      "id": "prompt-listen-for-the-l-ed4482",
+      "kind": "prompt",
+      "text": "Listen for the l on the end. It changes more than you think.",
+      "script": "Spoken instruction: \"Listen for the l on the end. It changes more than you think.\"",
+      "file": "prompt-listen-for-the-l-ed4482.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -23143,6 +24342,46 @@
       ]
     },
     {
+      "id": "prompt-mouth-drops-open-wide-84cb1c",
+      "kind": "prompt",
+      "text": "Mouth drops open wide and then glides up small, the same sound as the word eye.",
+      "script": "Spoken instruction: \"Mouth drops open wide and then glides up small, the same sound as the word eye.\"",
+      "file": "prompt-mouth-drops-open-wide-84cb1c.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "prompt-mouth-drops-wide-open-2ecbc0",
+      "kind": "prompt",
+      "text": "Mouth drops wide open and then squeezes shut small, like you sat on a pin: ow!",
+      "script": "Spoken instruction: \"Mouth drops wide open and then squeezes shut small, like you sat on a pin: ow!\"",
+      "file": "prompt-mouth-drops-wide-open-2ecbc0.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "prompt-mouth-opens-round-for-dec51a",
+      "kind": "prompt",
+      "text": "Mouth opens round for aw, then stops dead on a k. No l in there anywhere.",
+      "script": "Spoken instruction: \"Mouth opens round for aw, then stops dead on a k. No l in there anywhere.\"",
+      "file": "prompt-mouth-opens-round-for-dec51a.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "prompt-nearly-all-of-this-1d1efa",
+      "kind": "prompt",
+      "text": "Nearly all of this story is in the past, so the ed ending is all over it. Some of them say ed, some say t and some say d.",
+      "script": "Spoken instruction: \"Nearly all of this story is in the past, so the ed ending is all over it. Some of them say ed, some say t and some say d.\"",
+      "file": "prompt-nearly-all-of-this-1d1efa.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "prompt-nearly-cab-but-the-3c7eee",
       "kind": "prompt",
       "text": "Nearly cab, but the last pop has no buzz in it.",
@@ -23230,6 +24469,16 @@
       "file": "prompt-no-new-sound-today-985b47.mp3",
       "days": [
         35
+      ]
+    },
+    {
+      "id": "prompt-no-new-sound-today-c35d38",
+      "kind": "prompt",
+      "text": "No new sound today, so these are old ones coming back. This one is from yesterday.",
+      "script": "Spoken instruction: \"No new sound today, so these are old ones coming back. This one is from yesterday.\"",
+      "file": "prompt-no-new-sound-today-c35d38.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -23493,6 +24742,16 @@
       ]
     },
     {
+      "id": "prompt-not-one-of-these-fd5c75",
+      "kind": "prompt",
+      "text": "Not one of these can be sounded out. With house and mouse, there are now twenty-three.",
+      "script": "Spoken instruction: \"Not one of these can be sounded out. With house and mouse, there are now twenty-three.\"",
+      "file": "prompt-not-one-of-these-fd5c75.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-not-one-of-these-460430",
       "kind": "prompt",
       "text": "Not one of these can be sounded out. With where, there are now twelve.",
@@ -23693,6 +24952,26 @@
       ]
     },
     {
+      "id": "prompt-now-stick-a-sound-5eab14",
+      "kind": "prompt",
+      "text": "Now stick a sound on the end of it: d, ow, n.",
+      "script": "Spoken instruction: \"Now stick a sound on the end of it: d, ow, n.\"",
+      "file": "prompt-now-stick-a-sound-5eab14.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "prompt-now-swap-the-front-a83dc6",
+      "kind": "prompt",
+      "text": "Now swap the front. Same five letters at the back, same odd ending: mouse. House, mouse. They rhyme, and they are spelled the same way.",
+      "script": "Spoken instruction: \"Now swap the front. Same five letters at the back, same odd ending: mouse. House, mouse. They rhyme, and they are spelled the same way.\"",
+      "file": "prompt-now-swap-the-front-a83dc6.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-now-th-is-at-b64838",
       "kind": "prompt",
       "text": "Now th is at the end instead. Round your lips first, then out comes the tongue.",
@@ -23850,6 +25129,26 @@
       "file": "prompt-now-the-same-three-6b5376.mp3",
       "days": [
         69
+      ]
+    },
+    {
+      "id": "prompt-now-the-second-job-985155",
+      "kind": "prompt",
+      "text": "Now the second job. Same two letters, but this time the sound is short and it stops fast. Not loooook. Just look.",
+      "script": "Spoken instruction: \"Now the second job. Same two letters, but this time the sound is short and it stops fast. Not loooook. Just look.\"",
+      "file": "prompt-now-the-second-job-985155.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-now-the-second-sound-61e40d",
+      "kind": "prompt",
+      "text": "Now the second sound. It is spelled ed and it says t. Not jump-ed. Jumpt. Say it fast and it will come out right.",
+      "script": "Spoken instruction: \"Now the second sound. It is spelled ed and it says t. Not jump-ed. Jumpt. Say it fast and it will come out right.\"",
+      "file": "prompt-now-the-second-sound-61e40d.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -25203,6 +26502,16 @@
       ]
     },
     {
+      "id": "prompt-read-these-first-and-aa555c",
+      "kind": "prompt",
+      "text": "Read these first, and keep them in your head. Every one of them says oh. Today is the other one.",
+      "script": "Spoken instruction: \"Read these first, and keep them in your head. Every one of them says oh. Today is the other one.\"",
+      "file": "prompt-read-these-first-and-aa555c.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "prompt-round-lips-at-the-1719c0",
       "kind": "prompt",
       "text": "Round lips at the front and round lips at the end.",
@@ -25370,6 +26679,16 @@
       "file": "prompt-same-again-is-there-1419aa.mp3",
       "days": [
         41
+      ]
+    },
+    {
+      "id": "prompt-same-again-lift-then-e895fc",
+      "kind": "prompt",
+      "text": "Same again. Lift, then ed. You get a whole extra beat: lift-ed.",
+      "script": "Spoken instruction: \"Same again. Lift, then ed. You get a whole extra beat: lift-ed.\"",
+      "file": "prompt-same-again-lift-then-e895fc.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -25773,6 +27092,16 @@
       ]
     },
     {
+      "id": "prompt-same-trick-backt-your-dc8534",
+      "kind": "prompt",
+      "text": "Same trick: backt. Your mouth wants to say t here, so let it.",
+      "script": "Spoken instruction: \"Same trick: backt. Your mouth wants to say t here, so let it.\"",
+      "file": "prompt-same-trick-backt-your-dc8534.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "prompt-same-two-sounds-other-2aa508",
       "kind": "prompt",
       "text": "Same two sounds, other way round. What happens?",
@@ -25780,6 +27109,16 @@
       "file": "prompt-same-two-sounds-other-2aa508.mp3",
       "days": [
         2
+      ]
+    },
+    {
+      "id": "prompt-same-word-three-times-3a8023",
+      "kind": "prompt",
+      "text": "Same word three times with three ends. Listen right to the last sound.",
+      "script": "Spoken instruction: \"Same word three times with three ends. Listen right to the last sound.\"",
+      "file": "prompt-same-word-three-times-3a8023.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -25890,6 +27229,16 @@
       "file": "prompt-seven-words-take-a-22a5ee.mp3",
       "days": [
         15
+      ]
+    },
+    {
+      "id": "prompt-short-again-say-it-4fea99",
+      "kind": "prompt",
+      "text": "Short again. Say it next to food and hear how the middle swaps over: food, wood.",
+      "script": "Spoken instruction: \"Short again. Say it next to food and hear how the middle swaps over: food, wood.\"",
+      "file": "prompt-short-again-say-it-4fea99.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -26100,6 +27449,16 @@
       "file": "prompt-start-with-the-tongue-c4fc11.mp3",
       "days": [
         21
+      ]
+    },
+    {
+      "id": "prompt-stick-an-m-on-2768eb",
+      "kind": "prompt",
+      "text": "Stick an m on the front of other and you get mother. Same ending, same odd o.",
+      "script": "Spoken instruction: \"Stick an m on the front of other and you get mother. Same ending, same odd o.\"",
+      "file": "prompt-stick-an-m-on-2768eb.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -26433,6 +27792,26 @@
       ]
     },
     {
+      "id": "prompt-the-first-two-letters-6572ef",
+      "kind": "prompt",
+      "text": "The first two letters are one sound and the last three are one sound. Two sounds in five letters.",
+      "script": "Spoken instruction: \"The first two letters are one sound and the last three are one sound. Two sounds in five letters.\"",
+      "file": "prompt-the-first-two-letters-6572ef.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "prompt-the-first-two-say-0024b7",
+      "kind": "prompt",
+      "text": "The first two say eye, the same as igh. The last two say aw, the same as the start of walk.",
+      "script": "Spoken instruction: \"The first two say eye, the same as igh. The last two say aw, the same as the start of walk.\"",
+      "file": "prompt-the-first-two-say-0024b7.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-the-first-two-we-4c05e8",
       "kind": "prompt",
       "text": "The first two we just know. The last three we sound out.",
@@ -26510,6 +27889,16 @@
       "file": "prompt-the-letters-in-the-a2fa03.mp3",
       "days": [
         88
+      ]
+    },
+    {
+      "id": "prompt-the-long-one-and-30967f",
+      "kind": "prompt",
+      "text": "The long one, and a silent e hanging off the end doing nothing at all. Three sounds: g, oo, se.",
+      "script": "Spoken instruction: \"The long one, and a silent e hanging off the end doing nothing at all. Three sounds: g, oo, se.\"",
+      "file": "prompt-the-long-one-and-30967f.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -26633,6 +28022,16 @@
       ]
     },
     {
+      "id": "prompt-the-long-one-six-a4a5d1",
+      "kind": "prompt",
+      "text": "The long one. Six letters, and still only four sounds: b, r, igh, t.",
+      "script": "Spoken instruction: \"The long one. Six letters, and still only four sounds: b, r, igh, t.\"",
+      "file": "prompt-the-long-one-six-a4a5d1.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-the-long-one-sound-11d2da",
       "kind": "prompt",
       "text": "The long one. Sound out six, then sound out teen, then push them together.",
@@ -26710,6 +28109,16 @@
       "file": "prompt-the-long-one-two-9290f7.mp3",
       "days": [
         100
+      ]
+    },
+    {
+      "id": "prompt-the-long-one-two-45c860",
+      "kind": "prompt",
+      "text": "The long one. Two letters, then two more letters, and each pair is one sound.",
+      "script": "Spoken instruction: \"The long one. Two letters, then two more letters, and each pair is one sound.\"",
+      "file": "prompt-the-long-one-two-45c860.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -27093,6 +28502,16 @@
       ]
     },
     {
+      "id": "prompt-the-ou-in-all-e35903",
+      "kind": "prompt",
+      "text": "The ou in all four is the same ou that sits in the middle of house and mouse.",
+      "script": "Spoken instruction: \"The ou in all four is the same ou that sits in the middle of house and mouse.\"",
+      "file": "prompt-the-ou-in-all-e35903.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-the-pop-is-at-06ad0f",
       "kind": "prompt",
       "text": "The pop is at the end of both. It is the middle that changes.",
@@ -27110,6 +28529,26 @@
       "file": "prompt-the-quiet-e-on-fee840.mp3",
       "days": [
         53
+      ]
+    },
+    {
+      "id": "prompt-the-quiet-th-and-3a8be4",
+      "kind": "prompt",
+      "text": "The quiet th, and the little words we just remember.",
+      "script": "Spoken instruction: \"The quiet th, and the little words we just remember.\"",
+      "file": "prompt-the-quiet-th-and-3a8be4.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-the-quiet-th-from-99f40b",
+      "kind": "prompt",
+      "text": "The quiet th, from a few days back. No buzz in your throat.",
+      "script": "Spoken instruction: \"The quiet th, from a few days back. No buzz in your throat.\"",
+      "file": "prompt-the-quiet-th-from-99f40b.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -27413,6 +28852,16 @@
       ]
     },
     {
+      "id": "prompt-the-second-job-of-7f6ca8",
+      "kind": "prompt",
+      "text": "The second job of ow. Not one of these says oh.",
+      "script": "Spoken instruction: \"The second job of ow. Not one of these says oh.\"",
+      "file": "prompt-the-second-job-of-7f6ca8.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-the-sh-is-one-3572bf",
       "kind": "prompt",
       "text": "The sh is one sound, so this word has two sounds in it as well.",
@@ -27520,6 +28969,16 @@
       "file": "prompt-the-tricky-one-a-f3d68e.mp3",
       "days": [
         69
+      ]
+    },
+    {
+      "id": "prompt-the-tricky-one-cover-e8212c",
+      "kind": "prompt",
+      "text": "The tricky one. Cover up the l and it is grow, which says oh. Put the l back and it flips.",
+      "script": "Spoken instruction: \"The tricky one. Cover up the l and it is grow, which says oh. Put the l back and it flips.\"",
+      "file": "prompt-the-tricky-one-cover-e8212c.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -27663,6 +29122,16 @@
       ]
     },
     {
+      "id": "prompt-there-is-an-ow-281ca9",
+      "kind": "prompt",
+      "text": "There is an ow in nearly every line. Most of them say ow, but not all of them, so if a word comes out odd, try the other sound.",
+      "script": "Spoken instruction: \"There is an ow in nearly every line. Most of them say ow, but not all of them, so if a word comes out odd, try the other sound.\"",
+      "file": "prompt-there-is-an-ow-281ca9.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "prompt-there-means-a-spot-a609d6",
       "kind": "prompt",
       "text": "There means a spot that is not this one. Point at the door and say it: there. Here and there rhyme with the word you got yesterday: where.",
@@ -27700,6 +29169,16 @@
       "file": "prompt-these-three-all-hiss-710758.mp3",
       "days": [
         3
+      ]
+    },
+    {
+      "id": "prompt-these-three-all-run-d8ea47",
+      "kind": "prompt",
+      "text": "These three all run on long. Listen right to the end and find today's.",
+      "script": "Spoken instruction: \"These three all run on long. Listen right to the end and find today's.\"",
+      "file": "prompt-these-three-all-run-d8ea47.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -27773,6 +29252,16 @@
       ]
     },
     {
+      "id": "prompt-these-two-letters-go-f3f35d",
+      "kind": "prompt",
+      "text": "These two letters go on the end of a word and mean it has been and gone. You did it, it is over. And here is the strange bit: these two letters make three different sounds, and you will meet all three today.",
+      "script": "Spoken instruction: \"These two letters go on the end of a word and mean it has been and gone. You did it, it is over. And here is the strange bit: these two letters make three different sounds, and you will meet all three today.\"",
+      "file": "prompt-these-two-letters-go-f3f35d.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "prompt-these-two-look-almost-f2f2df",
       "kind": "prompt",
       "text": "These two look almost the same. Listen to the very first sound.",
@@ -27830,6 +29319,16 @@
       "file": "prompt-this-is-the-big-c8d69c.mp3",
       "days": [
         26
+      ]
+    },
+    {
+      "id": "prompt-this-is-the-ending-db5b82",
+      "kind": "prompt",
+      "text": "This is the ending you can hear best. Say land, then stick ed on the back of it: land-ed.",
+      "script": "Spoken instruction: \"This is the ending you can hear best. Say land, then stick ed on the back of it: land-ed.\"",
+      "file": "prompt-this-is-the-ending-db5b82.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -27970,6 +29469,16 @@
       "file": "prompt-this-is-the-sound-1c4d5a.mp3",
       "days": [
         97
+      ]
+    },
+    {
+      "id": "prompt-this-is-the-sound-f68f0c",
+      "kind": "prompt",
+      "text": "This is the sound sitting in the middle of house and mouse. Find the two letters that make it.",
+      "script": "Spoken instruction: \"This is the sound sitting in the middle of house and mouse. Find the two letters that make it.\"",
+      "file": "prompt-this-is-the-sound-f68f0c.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -28363,6 +29872,16 @@
       ]
     },
     {
+      "id": "prompt-this-one-is-just-2abb12",
+      "kind": "prompt",
+      "text": "This one is just two sounds, and the igh is on the end doing all the work.",
+      "script": "Spoken instruction: \"This one is just two sounds, and the igh is on the end doing all the work.\"",
+      "file": "prompt-this-one-is-just-2abb12.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-this-one-is-made-396027",
       "kind": "prompt",
       "text": "This one is made with your lips only. Watch mine, then try.",
@@ -28463,6 +29982,16 @@
       ]
     },
     {
+      "id": "prompt-this-one-you-just-7c5140",
+      "kind": "prompt",
+      "text": "This one you just remember. The o at the front says u, so it is uther, not oh-ther. Other.",
+      "script": "Spoken instruction: \"This one you just remember. The o at the front says u, so it is uther, not oh-ther. Other.\"",
+      "file": "prompt-this-one-you-just-7c5140.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-this-pair-lives-at-548502",
       "kind": "prompt",
       "text": "This pair lives at the end of a word. Listen to the very last sound in pack.",
@@ -28480,6 +30009,16 @@
       "file": "prompt-this-story-ends-with-d7f3b7.mp3",
       "days": [
         97
+      ]
+    },
+    {
+      "id": "prompt-this-story-is-stuffed-0971d9",
+      "kind": "prompt",
+      "text": "This story is stuffed with oo words, and they are not all the same sound. If a word comes out odd, try the other oo and see if it fixes it.",
+      "script": "Spoken instruction: \"This story is stuffed with oo words, and they are not all the same sound. If a word comes out odd, try the other oo and see if it fixes it.\"",
+      "file": "prompt-this-story-is-stuffed-0971d9.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -28540,6 +30079,16 @@
       "file": "prompt-this-time-it-is-718448.mp3",
       "days": [
         8
+      ]
+    },
+    {
+      "id": "prompt-this-time-ow-is-b5b64a",
+      "kind": "prompt",
+      "text": "This time ow is at the front, all by itself.",
+      "script": "Spoken instruction: \"This time ow is at the front, all by itself.\"",
+      "file": "prompt-this-time-ow-is-b5b64a.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -28613,6 +30162,26 @@
       ]
     },
     {
+      "id": "prompt-three-different-middles-say-5b9a8d",
+      "kind": "prompt",
+      "text": "Three different middles. Say all three out loud first and then pick.",
+      "script": "Spoken instruction: \"Three different middles. Say all three out loud first and then pick.\"",
+      "file": "prompt-three-different-middles-say-5b9a8d.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-three-endings-that-go-c16ccb",
+      "kind": "prompt",
+      "text": "Three endings that go on the back of a word. Find the one from today.",
+      "script": "Spoken instruction: \"Three endings that go on the back of a word. Find the one from today.\"",
+      "file": "prompt-three-endings-that-go-c16ccb.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "prompt-three-endings-that-use-eb2dac",
       "kind": "prompt",
       "text": "Three endings that use two letters for one sound. Find the one that buzzes.",
@@ -28670,6 +30239,26 @@
       "file": "prompt-three-jobs-an-o-dc47f6.mp3",
       "days": [
         71
+      ]
+    },
+    {
+      "id": "prompt-three-letters-again-and-035199",
+      "kind": "prompt",
+      "text": "Three letters again, and this time it is the l that is silent. alk says awk. You know the aw part from paw and saw, so this is that sound with a k stuck on the end.",
+      "script": "Spoken instruction: \"Three letters again, and this time it is the l that is silent. alk says awk. You know the aw part from paw and saw, so this is that sound with a k stuck on the end.\"",
+      "file": "prompt-three-letters-again-and-035199.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "prompt-three-letters-and-only-1687a1",
+      "kind": "prompt",
+      "text": "Three letters, and only the first one makes a sound. The g and the h are silent — they just sit there and keep the i company. igh says eye.",
+      "script": "Spoken instruction: \"Three letters, and only the first one makes a sound. The g and the h are silent — they just sit there and keep the i company. igh says eye.\"",
+      "file": "prompt-three-letters-and-only-1687a1.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -28893,6 +30482,16 @@
       ]
     },
     {
+      "id": "prompt-three-sounds-and-the-0afaa5",
+      "kind": "prompt",
+      "text": "Three sounds, and the long oo sits in the middle. Stretch it: m, oo, n.",
+      "script": "Spoken instruction: \"Three sounds, and the long oo sits in the middle. Stretch it: m, oo, n.\"",
+      "file": "prompt-three-sounds-and-the-0afaa5.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "prompt-three-sounds-and-the-6d0b29",
       "kind": "prompt",
       "text": "Three sounds, and the new one is at the front. Keep it short.",
@@ -28940,6 +30539,16 @@
       "file": "prompt-three-sounds-left-to-d2bf7e.mp3",
       "days": [
         5
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-not-five-53a4ad",
+      "kind": "prompt",
+      "text": "Three sounds, not five. n, igh, t.",
+      "script": "Spoken instruction: \"Three sounds, not five. n, igh, t.\"",
+      "file": "prompt-three-sounds-not-five-53a4ad.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -29000,6 +30609,16 @@
       "file": "prompt-three-sounds-not-four-7777a0.mp3",
       "days": [
         60
+      ]
+    },
+    {
+      "id": "prompt-three-sounds-one-spelling-22effd",
+      "kind": "prompt",
+      "text": "Three sounds, one spelling. Say each of them and see which one you get.",
+      "script": "Spoken instruction: \"Three sounds, one spelling. Say each of them and see which one you get.\"",
+      "file": "prompt-three-sounds-one-spelling-22effd.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -29110,6 +30729,36 @@
       "file": "prompt-three-teams-in-one-cc632d.mp3",
       "days": [
         67
+      ]
+    },
+    {
+      "id": "prompt-three-teams-that-all-61245d",
+      "kind": "prompt",
+      "text": "Three teams that all say oh. Find the one that is spelled with a w.",
+      "script": "Spoken instruction: \"Three teams that all say oh. Find the one that is spelled with a w.\"",
+      "file": "prompt-three-teams-that-all-61245d.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "prompt-three-teams-that-all-5c190f",
+      "kind": "prompt",
+      "text": "Three teams that all start with an o. Find the one from today.",
+      "script": "Spoken instruction: \"Three teams that all start with an o. Find the one from today.\"",
+      "file": "prompt-three-teams-that-all-5c190f.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-three-teams-that-all-39dc05",
+      "kind": "prompt",
+      "text": "Three teams that all start with the same sound. Find today's, the one that ends in a k.",
+      "script": "Spoken instruction: \"Three teams that all start with the same sound. Find today's, the one that ends in a k.\"",
+      "file": "prompt-three-teams-that-all-39dc05.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -29260,6 +30909,26 @@
       "file": "prompt-three-tiny-words-that-54f66d.mp3",
       "days": [
         95
+      ]
+    },
+    {
+      "id": "prompt-three-vowel-teams-all-f4d16d",
+      "kind": "prompt",
+      "text": "Three vowel teams, all of them with a b and an r in front.",
+      "script": "Spoken instruction: \"Three vowel teams, all of them with a b and an r in front.\"",
+      "file": "prompt-three-vowel-teams-all-f4d16d.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "prompt-three-vowel-teams-one-fe35c0",
+      "kind": "prompt",
+      "text": "Three vowel teams, one word. The front and the back are the same in all of them.",
+      "script": "Spoken instruction: \"Three vowel teams, one word. The front and the back are the same in all of them.\"",
+      "file": "prompt-three-vowel-teams-one-fe35c0.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -29453,6 +31122,16 @@
       ]
     },
     {
+      "id": "prompt-three-words-that-start-3cb831",
+      "kind": "prompt",
+      "text": "Three words that start with a t and go three different ways after it.",
+      "script": "Spoken instruction: \"Three words that start with a t and go three different ways after it.\"",
+      "file": "prompt-three-words-that-start-3cb831.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-three-words-that-start-034ffa",
       "kind": "prompt",
       "text": "Three words that start with a w and an e. Listen for whether the word stops.",
@@ -29533,6 +31212,16 @@
       ]
     },
     {
+      "id": "prompt-three-words-with-ou-ed3351",
+      "kind": "prompt",
+      "text": "Three words with ou in the middle. Two of them you just learnt and one you can sound out.",
+      "script": "Spoken instruction: \"Three words with ou in the middle. Two of them you just learnt and one you can sound out.\"",
+      "file": "prompt-three-words-with-ou-ed3351.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-three-words-you-just-9297eb",
       "kind": "prompt",
       "text": "Three words you just know, and the last four letters of each one are the same. Everything you need is the front.",
@@ -29540,6 +31229,16 @@
       "file": "prompt-three-words-you-just-9297eb.mp3",
       "days": [
         99
+      ]
+    },
+    {
+      "id": "prompt-three-words-you-just-265102",
+      "kind": "prompt",
+      "text": "Three words you just know. The end of all three is the same, so listen to the front.",
+      "script": "Spoken instruction: \"Three words you just know. The end of all three is the same, so listen to the front.\"",
+      "file": "prompt-three-words-you-just-265102.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -29590,6 +31289,16 @@
       "file": "prompt-today-you-have-a-26be25.mp3",
       "days": [
         99
+      ]
+    },
+    {
+      "id": "prompt-today-s-ending-on-8c9527",
+      "kind": "prompt",
+      "text": "Today's ending on yesterday's ending. The l is still silent and the ed says t: wawkt.",
+      "script": "Spoken instruction: \"Today's ending on yesterday's ending. The l is still silent and the ed says t: wawkt.\"",
+      "file": "prompt-today-s-ending-on-8c9527.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -29993,6 +31702,16 @@
       ]
     },
     {
+      "id": "prompt-two-letters-one-sound-a8e23c",
+      "kind": "prompt",
+      "text": "Two letters, one sound. That is the same trick as yelled and filled.",
+      "script": "Spoken instruction: \"Two letters, one sound. That is the same trick as yelled and filled.\"",
+      "file": "prompt-two-letters-one-sound-a8e23c.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "prompt-two-letters-one-sound-b18806",
       "kind": "prompt",
       "text": "Two letters, one sound. The r has got hold of the a, so the a no longer says its everyday sound.",
@@ -30033,6 +31752,26 @@
       ]
     },
     {
+      "id": "prompt-two-new-teams-in-25f032",
+      "kind": "prompt",
+      "text": "Two new teams in this one. Watch for the letters that say nothing at all: the gh in night, and the l in walk.",
+      "script": "Spoken instruction: \"Two new teams in this one. Watch for the letters that say nothing at all: the gh in night, and the l in walk.\"",
+      "file": "prompt-two-new-teams-in-25f032.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "prompt-two-o-letters-standing-a1ddf7",
+      "kind": "prompt",
+      "text": "Two o letters standing next to each other. They make a brand new sound, and here is the odd bit: they make two of them. This is the long one, the one in moon.",
+      "script": "Spoken instruction: \"Two o letters standing next to each other. They make a brand new sound, and here is the odd bit: they make two of them. This is the long one, the one in moon.\"",
+      "file": "prompt-two-o-letters-standing-a1ddf7.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "prompt-two-of-the-same-bfaf5c",
       "kind": "prompt",
       "text": "Two of the same letter, standing together. They do not say e and then e. Together they say ee.",
@@ -30070,6 +31809,16 @@
       "file": "prompt-two-of-these-are-7fb685.mp3",
       "days": [
         11
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-are-1ed12c",
+      "kind": "prompt",
+      "text": "Two of these are the letters on their own. Today's is the pair, working as a team on the end of a word.",
+      "script": "Spoken instruction: \"Two of these are the letters on their own. Today's is the pair, working as a team on the end of a word.\"",
+      "file": "prompt-two-of-these-are-1ed12c.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -30143,6 +31892,26 @@
       ]
     },
     {
+      "id": "prompt-two-of-these-have-80f854",
+      "kind": "prompt",
+      "text": "Two of these have ow in them and they do not rhyme. That is the whole of today in two words.",
+      "script": "Spoken instruction: \"Two of these have ow in them and they do not rhyme. That is the whole of today in two words.\"",
+      "file": "prompt-two-of-these-have-80f854.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-have-097579",
+      "kind": "prompt",
+      "text": "Two of these have the long oo and three have the short one. Sort them out as you go.",
+      "script": "Spoken instruction: \"Two of these have the long oo and three have the short one. Sort them out as you go.\"",
+      "file": "prompt-two-of-these-have-097579.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-two-of-these-have-4788f5",
       "kind": "prompt",
       "text": "Two of these have the quiet e. The last sound decides which one you heard.",
@@ -30200,6 +31969,16 @@
       "file": "prompt-two-of-these-have-3b87b0.mp3",
       "days": [
         73
+      ]
+    },
+    {
+      "id": "prompt-two-of-these-say-f0a22c",
+      "kind": "prompt",
+      "text": "Two of these say t on the end and one says d. Say all three and then pick.",
+      "script": "Spoken instruction: \"Two of these say t on the end and one says d. Say all three and then pick.\"",
+      "file": "prompt-two-of-these-say-f0a22c.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -30513,6 +32292,16 @@
       ]
     },
     {
+      "id": "prompt-two-sounds-not-wal-3307ec",
+      "kind": "prompt",
+      "text": "Two sounds. Not wal-k. Wawk.",
+      "script": "Spoken instruction: \"Two sounds. Not wal-k. Wawk.\"",
+      "file": "prompt-two-sounds-not-wal-3307ec.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "prompt-two-sounds-say-the-4cbaee",
       "kind": "prompt",
       "text": "Two sounds. Say the d, then the team, and do not let the y speak on its own.",
@@ -30633,6 +32422,16 @@
       ]
     },
     {
+      "id": "prompt-two-words-in-this-7e6508",
+      "kind": "prompt",
+      "text": "Two words in this story you just remember: house and mouse. They are in nearly every line, so keep an eye out.",
+      "script": "Spoken instruction: \"Two words in this story you just remember: house and mouse. They are in nearly every line, so keep an eye out.\"",
+      "file": "prompt-two-words-in-this-7e6508.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-two-words-we-just-a1124b",
       "kind": "prompt",
       "text": "Two words we just know. One of them is longer at the end.",
@@ -30640,6 +32439,16 @@
       "file": "prompt-two-words-we-just-a1124b.mp3",
       "days": [
         45
+      ]
+    },
+    {
+      "id": "prompt-two-you-just-remember-e0a433",
+      "kind": "prompt",
+      "text": "Two you just remember, two you can sound out. All four have the same middle.",
+      "script": "Spoken instruction: \"Two you just remember, two you can sound out. All four have the same middle.\"",
+      "file": "prompt-two-you-just-remember-e0a433.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -30783,6 +32592,16 @@
       ]
     },
     {
+      "id": "prompt-yesterday-s-two-oo-3cc07d",
+      "kind": "prompt",
+      "text": "Yesterday's two oo sounds, and one that is not oo at all.",
+      "script": "Spoken instruction: \"Yesterday's two oo sounds, and one that is not oo at all.\"",
+      "file": "prompt-yesterday-s-two-oo-3cc07d.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "prompt-you-already-know-the-4ca150",
       "kind": "prompt",
       "text": "You already know the first half of this one. It is the ng hum with a k on the end.",
@@ -30843,6 +32662,16 @@
       ]
     },
     {
+      "id": "prompt-you-have-known-these-0d55ac",
+      "kind": "prompt",
+      "text": "You have known these two letters for weeks. On day seventy-seven they said oh, the sound in snow. Today they do a second job, and it is this one. Same letters. Not the same sound.",
+      "script": "Spoken instruction: \"You have known these two letters for weeks. On day seventy-seven they said oh, the sound in snow. Today they do a second job, and it is this one. Same letters. Not the same sound.\"",
+      "file": "prompt-you-have-known-these-0d55ac.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "prompt-you-have-met-this-819eec",
       "kind": "prompt",
       "text": "You have met this sound before — c made it. This is its other letter, and it sounds exactly the same.",
@@ -30880,6 +32709,16 @@
       "file": "prompt-you-know-all-three-7a8c29.mp3",
       "days": [
         42
+      ]
+    },
+    {
+      "id": "prompt-you-know-the-middle-e8d571",
+      "kind": "prompt",
+      "text": "You know the middle bit of this one: ou, the sound in loud. It is the end that is odd. The se says a plain s and the e says nothing. House.",
+      "script": "Spoken instruction: \"You know the middle bit of this one: ou, the sound in loud. It is the end that is odd. The se says a plain s and the e says nothing. House.\"",
+      "file": "prompt-you-know-the-middle-e8d571.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -31310,6 +33149,26 @@
       "file": "prompt-oi-and-oy-ou-f1ceb9.mp3",
       "days": [
         99
+      ]
+    },
+    {
+      "id": "prompt-ou-and-ow-both-0cccaa",
+      "kind": "prompt",
+      "text": "ou and ow. Both of them have an o in front, and not one of them says oo.",
+      "script": "Spoken instruction: \"ou and ow. Both of them have an o in front, and not one of them says oo.\"",
+      "file": "prompt-ou-and-ow-both-0cccaa.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "prompt-ou-did-this-job-2b4616",
+      "kind": "prompt",
+      "text": "ou did this job first. Now ow does it too, and English never tells you which one it picked.",
+      "script": "Spoken instruction: \"ou did this job first. Now ow does it too, and English never tells you which one it picked.\"",
+      "file": "prompt-ou-did-this-job-2b4616.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -32151,6 +34010,36 @@
       ]
     },
     {
+      "id": "line-do-not-talk-to-21eef9",
+      "kind": "line",
+      "text": "\"Do not talk to me,\" said my brother. \"I want to sleep.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Do not talk to me,\" said my brother. \"I want to sleep.\"\"",
+      "file": "line-do-not-talk-to-21eef9.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-do-not-talk-said-6f182e",
+      "kind": "line",
+      "text": "\"Do not talk,\" said my mother. \"If we keep still, we might see a thing you can not see in the day.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Do not talk,\" said my mother. \"If we keep still, we might see a thing you can not see in the day.\"\"",
+      "file": "line-do-not-talk-said-6f182e.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-do-not-yell-said-8ff50a",
+      "kind": "line",
+      "text": "\"Do not yell,\" said Mum. \"If you yell, it will hide in the wall, and then we will not get it at all.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Do not yell,\" said Mum. \"If you yell, it will hide in the wall, and then we will not get it at all.\"\"",
+      "file": "line-do-not-yell-said-8ff50a.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-do-we-want-any-2eec82",
       "kind": "line",
       "text": "\"Do we want any?\" said Meg. \"We want all of them,\" I said.",
@@ -32158,6 +34047,26 @@
       "file": "line-do-we-want-any-2eec82.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-do-you-want-a-1bca53",
+      "kind": "line",
+      "text": "\"Do you want a mouse in the house?\" said Mum. \"I do,\" said Meg.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Do you want a mouse in the house?\" said Mum. \"I do,\" said Meg.\"",
+      "file": "line-do-you-want-a-1bca53.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-do-you-want-it-78af77",
+      "kind": "line",
+      "text": "\"Do you want it back on?\" said Meg. \"I do not,\" I said. \"It can drip in the bag.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Do you want it back on?\" said Meg. \"I do not,\" I said. \"It can drip in the bag.\"\"",
+      "file": "line-do-you-want-it-78af77.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -32191,6 +34100,36 @@
       ]
     },
     {
+      "id": "line-how-did-the-owl-3fd47e",
+      "kind": "line",
+      "text": "\"How did the owl get in the house?\" said Mum.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"How did the owl get in the house?\" said Mum.\"",
+      "file": "line-how-did-the-owl-3fd47e.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-how-do-you-get-94d2c8",
+      "kind": "line",
+      "text": "\"How do you get a cow to go back?\" said Meg. \"Do you tug it?\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"How do you get a cow to go back?\" said Meg. \"Do you tug it?\"\"",
+      "file": "line-how-do-you-get-94d2c8.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-i-can-get-it-14e3dd",
+      "kind": "line",
+      "text": "\"I can get it,\" I said. I kicked off my boots and started up the trunk.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"I can get it,\" I said. I kicked off my boots and started up the trunk.\"",
+      "file": "line-i-can-get-it-14e3dd.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-i-want-the-thick-c8f33f",
       "kind": "line",
       "text": "\"I want the thick sheet,\" said Meg. \"The thin sheet lets all of the wind in.\"",
@@ -32198,6 +34137,16 @@
       "file": "line-i-want-the-thick-c8f33f.mp3",
       "days": [
         100
+      ]
+    },
+    {
+      "id": "line-is-there-a-mouse-3b8889",
+      "kind": "line",
+      "text": "\"Is there a mouse in my boot?\" said Meg, and she did tip it up.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Is there a mouse in my boot?\" said Meg, and she did tip it up.\"",
+      "file": "line-is-there-a-mouse-3b8889.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -32241,6 +34190,46 @@
       ]
     },
     {
+      "id": "line-it-will-be-back-0794b2",
+      "kind": "line",
+      "text": "\"It will be back,\" said Meg. \"It did see the bun.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"It will be back,\" said Meg. \"It did see the bun.\"\"",
+      "file": "line-it-will-be-back-0794b2.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-look-by-the-food-61011e",
+      "kind": "line",
+      "text": "\"Look by the food bin,\" said Mum. \"That is where the bits of bun get to.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Look by the food bin,\" said Mum. \"That is where the bits of bun get to.\"\"",
+      "file": "line-look-by-the-food-61011e.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-look-in-the-pool-608c6f",
+      "kind": "line",
+      "text": "\"Look in the pool by the big tree,\" said Meg. \"All of the junk ends up in there.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Look in the pool by the big tree,\" said Meg. \"All of the junk ends up in there.\"\"",
+      "file": "line-look-in-the-pool-608c6f.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-look-in-the-wood-d00012",
+      "kind": "line",
+      "text": "\"Look in the wood shed,\" said Meg, \"and get the broom out of there.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"Look in the wood shed,\" said Meg, \"and get the broom out of there.\"\"",
+      "file": "line-look-in-the-wood-d00012.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-sam-he-said-i-8cdcea",
       "kind": "line",
       "text": "\"Sam!\" he said. \"I did think the fox did get him.\" And he said we can go up and see Sam when we want to.",
@@ -32271,6 +34260,26 @@
       ]
     },
     {
+      "id": "line-that-cow-is-not-771315",
+      "kind": "line",
+      "text": "\"That cow is not daft,\" said Meg. \"It went to town and got a bun out of it.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"That cow is not daft,\" said Meg. \"It went to town and got a bun out of it.\"\"",
+      "file": "line-that-cow-is-not-771315.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-that-is-my-boot-985ba3",
+      "kind": "line",
+      "text": "\"That is my boot!\" I did yell. The goose did look at me and did not let go of it.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"That is my boot!\" I did yell. The goose did look at me and did not let go of it.\"",
+      "file": "line-that-is-my-boot-985ba3.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-that-is-my-sheet-2cb434",
       "kind": "line",
       "text": "\"That is my sheet!\" said Meg. \"Why is it out in the shed?\"",
@@ -32288,6 +34297,26 @@
       "file": "line-that-is-so-many-47adec.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-that-is-why-we-f5bb40",
+      "kind": "line",
+      "text": "\"That is why we walk at night,\" said my mother.",
+      "script": "Read aloud, warmly, at storytime pace: \"\"That is why we walk at night,\" said my mother.\"",
+      "file": "line-that-is-why-we-f5bb40.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-that-kite-likes-the-152634",
+      "kind": "line",
+      "text": "\"That kite likes the tree,\" said Meg. \"It will be back up there by tea time.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"\"That kite likes the tree,\" said Meg. \"It will be back up there by tea time.\"\"",
+      "file": "line-that-kite-likes-the-152634.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -32431,6 +34460,16 @@
       ]
     },
     {
+      "id": "line-a-bag-of-food-adb883",
+      "kind": "line",
+      "text": "A bag of food",
+      "script": "Read aloud, warmly, at storytime pace: \"A bag of food\"",
+      "file": "line-a-bag-of-food-adb883.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-a-bag-of-nuts-27d33c",
       "kind": "line",
       "text": "A bag of nuts, a tin of beans and a jug of milk.",
@@ -32478,6 +34517,26 @@
       "file": "line-a-big-black-rat-029a26.mp3",
       "days": [
         97
+      ]
+    },
+    {
+      "id": "line-a-big-brown-cow-649fc3",
+      "kind": "line",
+      "text": "A big brown cow got out of the yard at dawn and went down the road to the town.",
+      "script": "Read aloud, warmly, at storytime pace: \"A big brown cow got out of the yard at dawn and went down the road to the town.\"",
+      "file": "line-a-big-brown-cow-649fc3.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-a-big-brown-owl-80d294",
+      "kind": "line",
+      "text": "A big brown owl",
+      "script": "Read aloud, warmly, at storytime pace: \"A big brown owl\"",
+      "file": "line-a-big-brown-owl-80d294.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -32611,6 +34670,36 @@
       ]
     },
     {
+      "id": "line-a-boot-9f5638",
+      "kind": "line",
+      "text": "A boot",
+      "script": "Read aloud, warmly, at storytime pace: \"A boot\"",
+      "file": "line-a-boot-9f5638.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-a-box-a-bun-c3d211",
+      "kind": "line",
+      "text": "A box, a bun and a book",
+      "script": "Read aloud, warmly, at storytime pace: \"A box, a bun and a book\"",
+      "file": "line-a-box-a-bun-c3d211.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-a-brown-cow-got-bd9f05",
+      "kind": "line",
+      "text": "A brown cow got out of the yard and went down the road.",
+      "script": "Read aloud, warmly, at storytime pace: \"A brown cow got out of the yard and went down the road.\"",
+      "file": "line-a-brown-cow-got-bd9f05.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-a-chick-can-pick-2db2ed",
       "kind": "line",
       "text": "A chick can pick at a chip.",
@@ -32658,6 +34747,16 @@
       "file": "line-a-coat-is-not-eb8181.mp3",
       "days": [
         76
+      ]
+    },
+    {
+      "id": "line-a-cow-1eb6e3",
+      "kind": "line",
+      "text": "A cow",
+      "script": "Read aloud, warmly, at storytime pace: \"A cow\"",
+      "file": "line-a-cow-1eb6e3.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -32781,6 +34880,16 @@
       ]
     },
     {
+      "id": "line-a-good-cook-can-439160",
+      "kind": "line",
+      "text": "A good cook can get food on the plate by noon.",
+      "script": "Read aloud, warmly, at storytime pace: \"A good cook can get food on the plate by noon.\"",
+      "file": "line-a-good-cook-can-439160.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-a-gray-jay-did-311a4e",
       "kind": "line",
       "text": "A gray jay did land on the rail.",
@@ -32808,6 +34917,16 @@
       "file": "line-a-kit-is-not-eef083.mp3",
       "days": [
         52
+      ]
+    },
+    {
+      "id": "line-a-kite-with-red-9beeb6",
+      "kind": "line",
+      "text": "A kite with red cloth",
+      "script": "Read aloud, warmly, at storytime pace: \"A kite with red cloth\"",
+      "file": "line-a-kite-with-red-9beeb6.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -32861,6 +34980,16 @@
       ]
     },
     {
+      "id": "line-a-mouse-can-get-e360ba",
+      "kind": "line",
+      "text": "A mouse can get in a house by a crack you can not see.",
+      "script": "Read aloud, warmly, at storytime pace: \"A mouse can get in a house by a crack you can not see.\"",
+      "file": "line-a-mouse-can-get-e360ba.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-a-mouse-did-creep-a55576",
       "kind": "line",
       "text": "A mouse did creep out and did sit up on the couch, and I did shout.",
@@ -32868,6 +34997,26 @@
       "file": "line-a-mouse-did-creep-a55576.mp3",
       "days": [
         83
+      ]
+    },
+    {
+      "id": "line-a-mouse-did-get-958e6e",
+      "kind": "line",
+      "text": "A mouse did get in the house and hide in my boot.",
+      "script": "Read aloud, warmly, at storytime pace: \"A mouse did get in the house and hide in my boot.\"",
+      "file": "line-a-mouse-did-get-958e6e.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-a-mouse-did-get-54b13d",
+      "kind": "line",
+      "text": "A mouse did get in the house, and Mum is not glad.",
+      "script": "Read aloud, warmly, at storytime pace: \"A mouse did get in the house, and Mum is not glad.\"",
+      "file": "line-a-mouse-did-get-54b13d.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -32961,6 +35110,16 @@
       ]
     },
     {
+      "id": "line-a-spoon-and-a-d693bb",
+      "kind": "line",
+      "text": "A spoon and a bin",
+      "script": "Read aloud, warmly, at storytime pace: \"A spoon and a bin\"",
+      "file": "line-a-spoon-and-a-d693bb.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-a-swift-fish-did-354d0f",
       "kind": "line",
       "text": "A swift fish did swish past and the pig got a shock.",
@@ -33011,6 +35170,16 @@
       ]
     },
     {
+      "id": "line-a-wood-shed-a0bddd",
+      "kind": "line",
+      "text": "A wood shed",
+      "script": "Read aloud, warmly, at storytime pace: \"A wood shed\"",
+      "file": "line-a-wood-shed-a0bddd.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-a-yak-did-get-230648",
       "kind": "line",
       "text": "A yak did get out, and in the yard it did ...",
@@ -33048,6 +35217,26 @@
       "file": "line-all-the-buns-did-b5b1e0.mp3",
       "days": [
         94
+      ]
+    },
+    {
+      "id": "line-an-owl-might-be-dcf850",
+      "kind": "line",
+      "text": "An owl might be up in that high tree, so walk and do not talk.",
+      "script": "Read aloud, warmly, at storytime pace: \"An owl might be up in that high tree, so walk and do not talk.\"",
+      "file": "line-an-owl-might-be-dcf850.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-and-all-the-way-c16001",
+      "kind": "line",
+      "text": "And all the way up the hill, the goose did look at us with the last bit of bun in its beak.",
+      "script": "Read aloud, warmly, at storytime pace: \"And all the way up the hill, the goose did look at us with the last bit of bun in its beak.\"",
+      "file": "line-and-all-the-way-c16001.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -33188,6 +35377,16 @@
       "file": "line-at-last-the-wind-9e4fb4.mp3",
       "days": [
         52
+      ]
+    },
+    {
+      "id": "line-at-night-the-moon-89249e",
+      "kind": "line",
+      "text": "At night the moon is so bright that we did not need a light.",
+      "script": "Read aloud, warmly, at storytime pace: \"At night the moon is so bright that we did not need a light.\"",
+      "file": "line-at-night-the-moon-89249e.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -33808,6 +36007,36 @@
       "file": "line-but-then-a-duck-870f76.mp3",
       "days": [
         90
+      ]
+    },
+    {
+      "id": "line-by-the-food-bin-1a7996",
+      "kind": "line",
+      "text": "By the food bin",
+      "script": "Read aloud, warmly, at storytime pace: \"By the food bin\"",
+      "file": "line-by-the-food-bin-1a7996.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-by-the-pool-f3ca2c",
+      "kind": "line",
+      "text": "By the pool",
+      "script": "Read aloud, warmly, at storytime pace: \"By the pool\"",
+      "file": "line-by-the-pool-f3ca2c.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-by-the-wood-shed-f15a25",
+      "kind": "line",
+      "text": "By the wood shed",
+      "script": "Read aloud, warmly, at storytime pace: \"By the wood shed\"",
+      "file": "line-by-the-wood-shed-f15a25.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -34611,6 +36840,16 @@
       ]
     },
     {
+      "id": "line-down-the-road-to-17b634",
+      "kind": "line",
+      "text": "Down the road to the town",
+      "script": "Read aloud, warmly, at storytime pace: \"Down the road to the town\"",
+      "file": "line-down-the-road-to-17b634.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-down-to-the-pond-213468",
       "kind": "line",
       "text": "Down to the pond",
@@ -34628,6 +36867,16 @@
       "file": "line-drip-drip-drip-fern-dd55e4.mp3",
       "days": [
         73
+      ]
+    },
+    {
+      "id": "line-dry-and-good-d8f7ad",
+      "kind": "line",
+      "text": "Dry and good",
+      "script": "Read aloud, warmly, at storytime pace: \"Dry and good\"",
+      "file": "line-dry-and-good-d8f7ad.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -35191,6 +37440,16 @@
       ]
     },
     {
+      "id": "line-how-did-meg-get-f32df1",
+      "kind": "line",
+      "text": "How did Meg get the cow to go back?",
+      "script": "Read aloud, warmly, at storytime pace: \"How did Meg get the cow to go back?\"",
+      "file": "line-how-did-meg-get-f32df1.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-how-many-plums-are-da215f",
       "kind": "line",
       "text": "How many plums are on the tree at the end?",
@@ -35421,6 +37680,16 @@
       ]
     },
     {
+      "id": "line-i-did-drop-my-c9013c",
+      "kind": "line",
+      "text": "I did drop my left boot in the brook, and off it did shoot.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did drop my left boot in the brook, and off it did shoot.\"",
+      "file": "line-i-did-drop-my-c9013c.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-i-did-drop-the-e72447",
       "kind": "line",
       "text": "I did drop the toast. The sound did not stop.",
@@ -35468,6 +37737,16 @@
       "file": "line-i-did-get-out-aecb59.mp3",
       "days": [
         85
+      ]
+    },
+    {
+      "id": "line-i-did-grab-the-a09384",
+      "kind": "line",
+      "text": "I did grab the boot. It is wet, it is green, and it is not good, but it is my boot.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did grab the boot. It is wet, it is green, and it is not good, but it is my boot.\"",
+      "file": "line-i-did-grab-the-a09384.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -35561,6 +37840,16 @@
       ]
     },
     {
+      "id": "line-i-did-not-want-16ec7e",
+      "kind": "line",
+      "text": "I did not want to tug a cow. A cow is big, and I am not.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did not want to tug a cow. A cow is big, and I am not.\"",
+      "file": "line-i-did-not-want-16ec7e.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-i-did-paint-the-bcfe88",
       "kind": "line",
       "text": "I did paint the train and its long black track.",
@@ -35648,6 +37937,16 @@
       "file": "line-i-did-shout-out-1c535b.mp3",
       "days": [
         80
+      ]
+    },
+    {
+      "id": "line-i-did-sit-on-95419b",
+      "kind": "line",
+      "text": "I did sit on a stool by the pool and dip my foot in.",
+      "script": "Read aloud, warmly, at storytime pace: \"I did sit on a stool by the pool and dip my foot in.\"",
+      "file": "line-i-did-sit-on-95419b.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -35748,6 +38047,56 @@
       "file": "line-i-do-not-want-9b2b7b.mp3",
       "days": [
         71
+      ]
+    },
+    {
+      "id": "line-i-got-a-long-1aa858",
+      "kind": "line",
+      "text": "I got a long stick",
+      "script": "Read aloud, warmly, at storytime pace: \"I got a long stick\"",
+      "file": "line-i-got-a-long-1aa858.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-i-got-this-boot-1d6a13",
+      "kind": "line",
+      "text": "I got this boot on, but I can not see the other boot.",
+      "script": "Read aloud, warmly, at storytime pace: \"I got this boot on, but I can not see the other boot.\"",
+      "file": "line-i-got-this-boot-1d6a13.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-i-got-up-to-929e17",
+      "kind": "line",
+      "text": "I got up to the kite, but it is stuck fast in the thin bits at the top.",
+      "script": "Read aloud, warmly, at storytime pace: \"I got up to the kite, but it is stuck fast in the thin bits at the top.\"",
+      "file": "line-i-got-up-to-929e17.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-i-grabbed-the-branch-b80476",
+      "kind": "line",
+      "text": "I grabbed the branch and shook it",
+      "script": "Read aloud, warmly, at storytime pace: \"I grabbed the branch and shook it\"",
+      "file": "line-i-grabbed-the-branch-b80476.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-i-looked-in-the-a60977",
+      "kind": "line",
+      "text": "I looked in the box for my boots, but Meg had them on.",
+      "script": "Read aloud, warmly, at storytime pace: \"I looked in the box for my boots, but Meg had them on.\"",
+      "file": "line-i-looked-in-the-a60977.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -35981,6 +38330,16 @@
       ]
     },
     {
+      "id": "line-i-yelled-at-it-62b84a",
+      "kind": "line",
+      "text": "I yelled at it",
+      "script": "Read aloud, warmly, at storytime pace: \"I yelled at it\"",
+      "file": "line-i-yelled-at-it-62b84a.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-in-march-bart-did-1fcb65",
       "kind": "line",
       "text": "In March Bart did plant ...",
@@ -36058,6 +38417,16 @@
       "file": "line-in-the-barn-is-6ad166.mp3",
       "days": [
         76
+      ]
+    },
+    {
+      "id": "line-in-the-beak-of-f3e450",
+      "kind": "line",
+      "text": "In the beak of a goose",
+      "script": "Read aloud, warmly, at storytime pace: \"In the beak of a goose\"",
+      "file": "line-in-the-beak-of-f3e450.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -36188,6 +38557,16 @@
       "file": "line-in-the-hole-is-266e41.mp3",
       "days": [
         61
+      ]
+    },
+    {
+      "id": "line-in-the-house-d7d51f",
+      "kind": "line",
+      "text": "In the house",
+      "script": "Read aloud, warmly, at storytime pace: \"In the house\"",
+      "file": "line-in-the-house-d7d51f.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -36388,6 +38767,16 @@
       "file": "line-in-the-truck-meg-73cbae.mp3",
       "days": [
         96
+      ]
+    },
+    {
+      "id": "line-in-the-wood-shed-d41ab4",
+      "kind": "line",
+      "text": "In the wood shed",
+      "script": "Read aloud, warmly, at storytime pace: \"In the wood shed\"",
+      "file": "line-in-the-wood-shed-d41ab4.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -36601,6 +38990,16 @@
       ]
     },
     {
+      "id": "line-it-did-get-in-6bfc76",
+      "kind": "line",
+      "text": "It did get in by the wood shed, and it will not go back out.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did get in by the wood shed, and it will not go back out.\"",
+      "file": "line-it-did-get-in-6bfc76.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-it-did-get-in-e7938b",
       "kind": "line",
       "text": "It did get in the tent",
@@ -36608,6 +39007,16 @@
       "file": "line-it-did-get-in-e7938b.mp3",
       "days": [
         100
+      ]
+    },
+    {
+      "id": "line-it-did-get-out-1105cc",
+      "kind": "line",
+      "text": "It did get out of the box",
+      "script": "Read aloud, warmly, at storytime pace: \"It did get out of the box\"",
+      "file": "line-it-did-get-out-1105cc.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -36711,6 +39120,16 @@
       ]
     },
     {
+      "id": "line-it-did-not-hoot-468f8b",
+      "kind": "line",
+      "text": "It did not hoot. It did not lift a wing.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did not hoot. It did not lift a wing.\"",
+      "file": "line-it-did-not-hoot-468f8b.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-it-did-not-hop-e8a25c",
       "kind": "line",
       "text": "It did not hop and it did not peck. It did not want to go.",
@@ -36741,6 +39160,26 @@
       ]
     },
     {
+      "id": "line-it-did-see-the-b219bb",
+      "kind": "line",
+      "text": "It did see the bun",
+      "script": "Read aloud, warmly, at storytime pace: \"It did see the bun\"",
+      "file": "line-it-did-see-the-b219bb.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-it-did-shoot-up-7c5c5e",
+      "kind": "line",
+      "text": "It did shoot up the leg of the stool and sit next to my spoon.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did shoot up the leg of the stool and sit next to my spoon.\"",
+      "file": "line-it-did-shoot-up-7c5c5e.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-it-did-sing-back-ebcf33",
       "kind": "line",
       "text": "It did sing back at the king.",
@@ -36758,6 +39197,16 @@
       "file": "line-it-did-sit-and-f944cf.mp3",
       "days": [
         24
+      ]
+    },
+    {
+      "id": "line-it-did-sit-in-b2aedb",
+      "kind": "line",
+      "text": "It did sit in the grass and look back at the house for a long time. Then off it went.",
+      "script": "Read aloud, warmly, at storytime pace: \"It did sit in the grass and look back at the house for a long time. Then off it went.\"",
+      "file": "line-it-did-sit-in-b2aedb.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -36971,6 +39420,16 @@
       ]
     },
     {
+      "id": "line-it-is-dark-out-4a8ce2",
+      "kind": "line",
+      "text": "It is dark out, but the moon is up and so bright that we did not need a light.",
+      "script": "Read aloud, warmly, at storytime pace: \"It is dark out, but the moon is up and so bright that we did not need a light.\"",
+      "file": "line-it-is-dark-out-4a8ce2.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-it-is-just-a-dfe7e8",
       "kind": "line",
       "text": "It is just a moth. It is thin and dull and not big at all.",
@@ -37028,6 +39487,16 @@
       "file": "line-it-is-not-a-a0b7ab.mp3",
       "days": [
         73
+      ]
+    },
+    {
+      "id": "line-it-is-not-dark-b9b3ed",
+      "kind": "line",
+      "text": "It is not dark in the wood",
+      "script": "Read aloud, warmly, at storytime pace: \"It is not dark in the wood\"",
+      "file": "line-it-is-not-dark-b9b3ed.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -37101,6 +39570,46 @@
       ]
     },
     {
+      "id": "line-it-let-out-a-310b3c",
+      "kind": "line",
+      "text": "It let out a hoot",
+      "script": "Read aloud, warmly, at storytime pace: \"It let out a hoot\"",
+      "file": "line-it-let-out-a-310b3c.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-it-likes-the-wood-b83858",
+      "kind": "line",
+      "text": "It likes the wood shed",
+      "script": "Read aloud, warmly, at storytime pace: \"It likes the wood shed\"",
+      "file": "line-it-likes-the-wood-b83858.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-it-looked-like-a-ec428d",
+      "kind": "line",
+      "text": "It looked like a red bird with a long thin tail.",
+      "script": "Read aloud, warmly, at storytime pace: \"It looked like a red bird with a long thin tail.\"",
+      "file": "line-it-looked-like-a-ec428d.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-it-sat-on-the-be6651",
+      "kind": "line",
+      "text": "It sat on the cow",
+      "script": "Read aloud, warmly, at storytime pace: \"It sat on the cow\"",
+      "file": "line-it-sat-on-the-be6651.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-it-sat-on-the-1bcc38",
       "kind": "line",
       "text": "It sat on the log.",
@@ -37118,6 +39627,16 @@
       "file": "line-it-sat-on-the-c0f590.mp3",
       "days": [
         74
+      ]
+    },
+    {
+      "id": "line-it-went-after-the-7f7334",
+      "kind": "line",
+      "text": "It went after the bun",
+      "script": "Read aloud, warmly, at storytime pace: \"It went after the bun\"",
+      "file": "line-it-went-after-the-7f7334.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -37621,6 +40140,26 @@
       ]
     },
     {
+      "id": "line-look-up-at-the-176e82",
+      "kind": "line",
+      "text": "Look up at the moon, and you can see it is big and round.",
+      "script": "Read aloud, warmly, at storytime pace: \"Look up at the moon, and you can see it is big and round.\"",
+      "file": "line-look-up-at-the-176e82.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-lost-in-the-pool-b78f83",
+      "kind": "line",
+      "text": "Lost in the pool",
+      "script": "Read aloud, warmly, at storytime pace: \"Lost in the pool\"",
+      "file": "line-lost-in-the-pool-b78f83.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-mark-and-meg-are-d6c5ee",
       "kind": "line",
       "text": "Mark and Meg are on the grass, and they are up late.",
@@ -37821,6 +40360,16 @@
       ]
     },
     {
+      "id": "line-meg-and-i-fixed-e26cb5",
+      "kind": "line",
+      "text": "Meg and I fixed up a kite with string, a stick and a bit of red cloth.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg and I fixed up a kite with string, a stick and a bit of red cloth.\"",
+      "file": "line-meg-and-i-fixed-e26cb5.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-meg-and-i-sat-ed6933",
       "kind": "line",
       "text": "Meg and I sat outside on the ground and did munch ...",
@@ -37971,6 +40520,16 @@
       ]
     },
     {
+      "id": "line-meg-did-dig-in-5e72a3",
+      "kind": "line",
+      "text": "Meg did dig in the bag and get out a bun and a chunk of ham.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did dig in the bag and get out a bun and a chunk of ham.\"",
+      "file": "line-meg-did-dig-in-5e72a3.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-meg-did-dig-in-d52aff",
       "kind": "line",
       "text": "Meg did dig in the damp soil and did spot ...",
@@ -38008,6 +40567,16 @@
       "file": "line-meg-did-drop-it-cec197.mp3",
       "days": [
         97
+      ]
+    },
+    {
+      "id": "line-meg-did-drop-the-c530da",
+      "kind": "line",
+      "text": "Meg did drop the box on it, and I did slip a book under the box.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did drop the box on it, and I did slip a book under the box.\"",
+      "file": "line-meg-did-drop-the-c530da.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -38291,6 +40860,16 @@
       ]
     },
     {
+      "id": "line-meg-did-see-it-0e78f2",
+      "kind": "line",
+      "text": "Meg did see it first: a fat mouse with a long thin tail.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg did see it first: a fat mouse with a long thin tail.\"",
+      "file": "line-meg-did-see-it-0e78f2.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-meg-did-see-them-2573c8",
       "kind": "line",
       "text": "Meg did see them at the green gate.",
@@ -38551,6 +41130,26 @@
       ]
     },
     {
+      "id": "line-meg-dropped-it-18a1b6",
+      "kind": "line",
+      "text": "Meg dropped it",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg dropped it\"",
+      "file": "line-meg-dropped-it-18a1b6.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-meg-dropped-the-bun-69966d",
+      "kind": "line",
+      "text": "Meg dropped the bun in the grass, and the cow munched it up.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg dropped the bun in the grass, and the cow munched it up.\"",
+      "file": "line-meg-dropped-the-bun-69966d.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-meg-got-a-fork-5e9d86",
       "kind": "line",
       "text": "Meg got a fork and did lift the thorns up.",
@@ -38611,6 +41210,16 @@
       ]
     },
     {
+      "id": "line-meg-is-in-bed-075343",
+      "kind": "line",
+      "text": "Meg is in bed",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg is in bed\"",
+      "file": "line-meg-is-in-bed-075343.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-meg-is-not-the-a17532",
       "kind": "line",
       "text": "Meg is not the sort to stand and wait, and I am.",
@@ -38658,6 +41267,16 @@
       "file": "line-meg-left-her-red-570b86.mp3",
       "days": [
         66
+      ]
+    },
+    {
+      "id": "line-meg-looked-out-of-201170",
+      "kind": "line",
+      "text": "Meg looked out of the window and yelled, \"The cow is in the town!\"",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg looked out of the window and yelled, \"The cow is in the town!\"\"",
+      "file": "line-meg-looked-out-of-201170.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -38931,6 +41550,26 @@
       ]
     },
     {
+      "id": "line-meg-yelled-at-me-b2c9fd",
+      "kind": "line",
+      "text": "Meg yelled at me, and then she grinned and handed me the ball.",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg yelled at me, and then she grinned and handed me the ball.\"",
+      "file": "line-meg-yelled-at-me-b2c9fd.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-meg-yelled-up-at-62ae8b",
+      "kind": "line",
+      "text": "Meg yelled up at me, \"Keep a grip! That tree is wet!\"",
+      "script": "Read aloud, warmly, at storytime pace: \"Meg yelled up at me, \"Keep a grip! That tree is wet!\"\"",
+      "file": "line-meg-yelled-up-at-62ae8b.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-mud-did-spit-up-bca1d0",
       "kind": "line",
       "text": "Mud did spit up and got a spot on the cat.",
@@ -39091,6 +41730,46 @@
       ]
     },
     {
+      "id": "line-my-brother-33703a",
+      "kind": "line",
+      "text": "My brother",
+      "script": "Read aloud, warmly, at storytime pace: \"My brother\"",
+      "file": "line-my-brother-33703a.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-brother-did-not-71c191",
+      "kind": "line",
+      "text": "My brother did not talk all the way back down the hill.",
+      "script": "Read aloud, warmly, at storytime pace: \"My brother did not talk all the way back down the hill.\"",
+      "file": "line-my-brother-did-not-71c191.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-brother-did-not-3f36d2",
+      "kind": "line",
+      "text": "My brother did not want to go, but my mother is not the sort you can talk out of a walk.",
+      "script": "Read aloud, warmly, at storytime pace: \"My brother did not want to go, but my mother is not the sort you can talk out of a walk.\"",
+      "file": "line-my-brother-did-not-3f36d2.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-brother-is-a-33a8dc",
+      "kind": "line",
+      "text": "My brother is a bit daft, but he is my brother.",
+      "script": "Read aloud, warmly, at storytime pace: \"My brother is a bit daft, but he is my brother.\"",
+      "file": "line-my-brother-is-a-33a8dc.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-my-den-did-fall-cd945b",
       "kind": "line",
       "text": "My den did fall down on my back, and I did yell and yell.",
@@ -39108,6 +41787,56 @@
       "file": "line-my-dog-did-get-ee4a89.mp3",
       "days": [
         95
+      ]
+    },
+    {
+      "id": "line-my-mother-got-a-b44244",
+      "kind": "line",
+      "text": "My mother got a bit of chalk and did a big brown cow on the path.",
+      "script": "Read aloud, warmly, at storytime pace: \"My mother got a bit of chalk and did a big brown cow on the path.\"",
+      "file": "line-my-mother-got-a-b44244.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-mother-got-a-d90180",
+      "kind": "line",
+      "text": "My mother got a light",
+      "script": "Read aloud, warmly, at storytime pace: \"My mother got a light\"",
+      "file": "line-my-mother-got-a-d90180.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-mother-grinned-get-dd6f30",
+      "kind": "line",
+      "text": "My mother grinned. \"Get the boots by the bed,\" she said. \"We walk at ten.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"My mother grinned. \"Get the boots by the bed,\" she said. \"We walk at ten.\"\"",
+      "file": "line-my-mother-grinned-get-dd6f30.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-mother-sat-down-3124e3",
+      "kind": "line",
+      "text": "My mother sat down on the bed and looked at the mess.",
+      "script": "Read aloud, warmly, at storytime pace: \"My mother sat down on the bed and looked at the mess.\"",
+      "file": "line-my-mother-sat-down-3124e3.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-my-mother-woke-us-67b96c",
+      "kind": "line",
+      "text": "My mother woke us up at ten and said, \"Boots on. We are off for a walk.\"",
+      "script": "Read aloud, warmly, at storytime pace: \"My mother woke us up at ten and said, \"Boots on. We are off for a walk.\"\"",
+      "file": "line-my-mother-woke-us-67b96c.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -40051,6 +42780,16 @@
       ]
     },
     {
+      "id": "line-she-did-jump-in-1cae89",
+      "kind": "line",
+      "text": "She did jump in the pool",
+      "script": "Read aloud, warmly, at storytime pace: \"She did jump in the pool\"",
+      "file": "line-she-did-jump-in-1cae89.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-she-did-keep-them-ed4f07",
       "kind": "line",
       "text": "She did keep them in a tin",
@@ -40068,6 +42807,26 @@
       "file": "line-she-did-make-jam-55eac6.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-she-did-set-food-aab5b4",
+      "kind": "line",
+      "text": "She did set food on a rock",
+      "script": "Read aloud, warmly, at storytime pace: \"She did set food on a rock\"",
+      "file": "line-she-did-set-food-aab5b4.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-she-did-set-the-136f80",
+      "kind": "line",
+      "text": "She did set the food on a rock. Then we did step back and wait.",
+      "script": "Read aloud, warmly, at storytime pace: \"She did set the food on a rock. Then we did step back and wait.\"",
+      "file": "line-she-did-set-the-136f80.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -40111,6 +42870,16 @@
       ]
     },
     {
+      "id": "line-she-did-tug-it-3e34e8",
+      "kind": "line",
+      "text": "She did tug it",
+      "script": "Read aloud, warmly, at storytime pace: \"She did tug it\"",
+      "file": "line-she-did-tug-it-3e34e8.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-she-did-want-to-d1ece5",
       "kind": "line",
       "text": "She did want to be in the boat, and so we did let her get in.",
@@ -40118,6 +42887,36 @@
       "file": "line-she-did-want-to-d1ece5.mp3",
       "days": [
         86
+      ]
+    },
+    {
+      "id": "line-she-did-yell-at-5df397",
+      "kind": "line",
+      "text": "She did yell at the goose",
+      "script": "Read aloud, warmly, at storytime pace: \"She did yell at the goose\"",
+      "file": "line-she-did-yell-at-5df397.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-she-lifted-the-kite-0d1a6b",
+      "kind": "line",
+      "text": "She lifted the kite up, the wind grabbed it, and off it went.",
+      "script": "Read aloud, warmly, at storytime pace: \"She lifted the kite up, the wind grabbed it, and off it went.\"",
+      "file": "line-she-lifted-the-kite-0d1a6b.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-she-lifted-up-a-b6c5a2",
+      "kind": "line",
+      "text": "She lifted up a bun",
+      "script": "Read aloud, warmly, at storytime pace: \"She lifted up a bun\"",
+      "file": "line-she-lifted-up-a-b6c5a2.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -40141,6 +42940,16 @@
       ]
     },
     {
+      "id": "line-she-yelled-at-it-000598",
+      "kind": "line",
+      "text": "She yelled at it",
+      "script": "Read aloud, warmly, at storytime pace: \"She yelled at it\"",
+      "file": "line-she-yelled-at-it-000598.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-snap-the-dog-got-d4f260",
       "kind": "line",
       "text": "Snap! The dog got the snack.",
@@ -40151,6 +42960,16 @@
       ]
     },
     {
+      "id": "line-snow-and-cow-end-44e916",
+      "kind": "line",
+      "text": "Snow and cow end with an o and a w, but they do not sound the same at all.",
+      "script": "Read aloud, warmly, at storytime pace: \"Snow and cow end with an o and a w, but they do not sound the same at all.\"",
+      "file": "line-snow-and-cow-end-44e916.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-snow-fell-in-the-03f978",
       "kind": "line",
       "text": "Snow fell in the dark, and in the sun it did glow.",
@@ -40158,6 +42977,16 @@
       "file": "line-snow-fell-in-the-03f978.mp3",
       "days": [
         77
+      ]
+    },
+    {
+      "id": "line-so-dad-can-see-34dbd2",
+      "kind": "line",
+      "text": "So Dad can see it",
+      "script": "Read aloud, warmly, at storytime pace: \"So Dad can see it\"",
+      "file": "line-so-dad-can-see-34dbd2.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -40188,6 +43017,16 @@
       "file": "line-so-i-did-let-15afa7.mp3",
       "days": [
         88
+      ]
+    },
+    {
+      "id": "line-so-i-grabbed-the-efb545",
+      "kind": "line",
+      "text": "So I grabbed the branch and shook it, and shook it, and shook it.",
+      "script": "Read aloud, warmly, at storytime pace: \"So I grabbed the branch and shook it, and shook it, and shook it.\"",
+      "file": "line-so-i-grabbed-the-efb545.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -40251,6 +43090,16 @@
       ]
     },
     {
+      "id": "line-so-my-brother-can-4cc322",
+      "kind": "line",
+      "text": "So my brother can sleep",
+      "script": "Read aloud, warmly, at storytime pace: \"So my brother can sleep\"",
+      "file": "line-so-my-brother-can-4cc322.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-so-now-we-do-8cf316",
       "kind": "line",
       "text": "So now we do. Sam is not my dog, but he is the dog I see all the time.",
@@ -40258,6 +43107,46 @@
       "file": "line-so-now-we-do-8cf316.mp3",
       "days": [
         101
+      ]
+    },
+    {
+      "id": "line-so-the-cow-can-cec1b2",
+      "kind": "line",
+      "text": "So the cow can not get out",
+      "script": "Read aloud, warmly, at storytime pace: \"So the cow can not get out\"",
+      "file": "line-so-the-cow-can-cec1b2.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-so-the-owl-can-088230",
+      "kind": "line",
+      "text": "So the owl can hoot",
+      "script": "Read aloud, warmly, at storytime pace: \"So the owl can hoot\"",
+      "file": "line-so-the-owl-can-088230.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-so-the-owl-can-dd70d3",
+      "kind": "line",
+      "text": "So the owl can not get in",
+      "script": "Read aloud, warmly, at storytime pace: \"So the owl can not get in\"",
+      "file": "line-so-the-owl-can-dd70d3.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-so-the-three-of-68915a",
+      "kind": "line",
+      "text": "So the three of us walked up the path and in under the big high trees.",
+      "script": "Read aloud, warmly, at storytime pace: \"So the three of us walked up the path and in under the big high trees.\"",
+      "file": "line-so-the-three-of-68915a.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -40311,6 +43200,16 @@
       ]
     },
     {
+      "id": "line-so-we-did-get-ccde2c",
+      "kind": "line",
+      "text": "So we did get a box and a bit of bun, and we did wait.",
+      "script": "Read aloud, warmly, at storytime pace: \"So we did get a box and a bit of bun, and we did wait.\"",
+      "file": "line-so-we-did-get-ccde2c.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-so-we-did-hunt-0a4ec2",
       "kind": "line",
       "text": "So we did hunt in the damp bits. Meg did check the drip under the tap.",
@@ -40318,6 +43217,16 @@
       "file": "line-so-we-did-hunt-0a4ec2.mp3",
       "days": [
         98
+      ]
+    },
+    {
+      "id": "line-so-we-did-look-25b8ad",
+      "kind": "line",
+      "text": "So we did look in the pool, and then in the mud, and then in the long grass. No boot.",
+      "script": "Read aloud, warmly, at storytime pace: \"So we did look in the pool, and then in the mud, and then in the long grass. No boot.\"",
+      "file": "line-so-we-did-look-25b8ad.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -40378,6 +43287,36 @@
       "file": "line-so-we-did-stand-a7366f.mp3",
       "days": [
         96
+      ]
+    },
+    {
+      "id": "line-so-we-might-see-051ac2",
+      "kind": "line",
+      "text": "So we might see a thing you can not see in the day",
+      "script": "Read aloud, warmly, at storytime pace: \"So we might see a thing you can not see in the day\"",
+      "file": "line-so-we-might-see-051ac2.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-so-we-ran-down-84569e",
+      "kind": "line",
+      "text": "So we ran down the hill to get it back.",
+      "script": "Read aloud, warmly, at storytime pace: \"So we ran down the hill to get it back.\"",
+      "file": "line-so-we-ran-down-84569e.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-so-we-walked-and-41577a",
+      "kind": "line",
+      "text": "So we walked and we did not talk. My brother held my hand.",
+      "script": "Read aloud, warmly, at storytime pace: \"So we walked and we did not talk. My brother held my hand.\"",
+      "file": "line-so-we-walked-and-41577a.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -41191,6 +44130,16 @@
       ]
     },
     {
+      "id": "line-the-cat-jumped-up-dec172",
+      "kind": "line",
+      "text": "The cat jumped up on the bed and landed on my foot.",
+      "script": "Read aloud, warmly, at storytime pace: \"The cat jumped up on the bed and landed on my foot.\"",
+      "file": "line-the-cat-jumped-up-dec172.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-the-cat-ran-back-9d73ce",
       "kind": "line",
       "text": "The cat ran back in and sat on the king!",
@@ -41368,6 +44317,26 @@
       "file": "line-the-corn-is-flat-c499ba.mp3",
       "days": [
         64
+      ]
+    },
+    {
+      "id": "line-the-cow-looked-at-803bac",
+      "kind": "line",
+      "text": "The cow looked at the bun. The crowd looked at the cow. Not a thing went on for a bit.",
+      "script": "Read aloud, warmly, at storytime pace: \"The cow looked at the bun. The crowd looked at the cow. Not a thing went on for a bit.\"",
+      "file": "line-the-cow-looked-at-803bac.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-the-cow-stopped-by-c97c07",
+      "kind": "line",
+      "text": "The cow stopped by the shop, looked at the crowd and let out a long, sad moo.",
+      "script": "Read aloud, warmly, at storytime pace: \"The cow stopped by the shop, looked at the crowd and let out a long, sad moo.\"",
+      "file": "line-the-cow-stopped-by-c97c07.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -41588,6 +44557,16 @@
       "file": "line-the-dog-got-off-a02e07.mp3",
       "days": [
         26
+      ]
+    },
+    {
+      "id": "line-the-dog-growled-at-aa9cf1",
+      "kind": "line",
+      "text": "The dog growled at the crowd, and then it sat down and licked my hand.",
+      "script": "Read aloud, warmly, at storytime pace: \"The dog growled at the crowd, and then it sat down and licked my hand.\"",
+      "file": "line-the-dog-growled-at-aa9cf1.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -41971,6 +44950,16 @@
       ]
     },
     {
+      "id": "line-the-goose-did-look-a70e00",
+      "kind": "line",
+      "text": "The goose did look at the bun. It did look at the boot. It did look at the bun.",
+      "script": "Read aloud, warmly, at storytime pace: \"The goose did look at the bun. It did look at the boot. It did look at the bun.\"",
+      "file": "line-the-goose-did-look-a70e00.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-the-grain-is-in-2fe462",
       "kind": "line",
       "text": "The grain is in the pail, and a stray goat did eat the lot.",
@@ -42081,6 +45070,26 @@
       ]
     },
     {
+      "id": "line-the-house-at-the-e65089",
+      "kind": "line",
+      "text": "The house at the end of the road is red, and the roof is green.",
+      "script": "Read aloud, warmly, at storytime pace: \"The house at the end of the road is red, and the roof is green.\"",
+      "file": "line-the-house-at-the-e65089.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-the-house-by-the-9ef08d",
+      "kind": "line",
+      "text": "The house by the pool is next to a big green tree, and there is a hole in the roof.",
+      "script": "Read aloud, warmly, at storytime pace: \"The house by the pool is next to a big green tree, and there is a hole in the roof.\"",
+      "file": "line-the-house-by-the-9ef08d.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-the-jay-did-drop-5a39a8",
       "kind": "line",
       "text": "The jay did drop the lot, and then it did ...",
@@ -42171,6 +45180,16 @@
       ]
     },
     {
+      "id": "line-the-kite-dropped-out-ec0bb8",
+      "kind": "line",
+      "text": "The kite dropped out, landed in the grass and did not rip at all.",
+      "script": "Read aloud, warmly, at storytime pace: \"The kite dropped out, landed in the grass and did not rip at all.\"",
+      "file": "line-the-kite-dropped-out-ec0bb8.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-the-kite-got-stuck-af1ff9",
       "kind": "line",
       "text": "The kite got stuck in ...",
@@ -42181,6 +45200,16 @@
       ]
     },
     {
+      "id": "line-the-kite-is-bust-3d47d7",
+      "kind": "line",
+      "text": "The kite is bust",
+      "script": "Read aloud, warmly, at storytime pace: \"The kite is bust\"",
+      "file": "line-the-kite-is-bust-3d47d7.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-the-kite-is-not-acc38b",
       "kind": "line",
       "text": "The kite is not blue. The kite is red!",
@@ -42188,6 +45217,16 @@
       "file": "line-the-kite-is-not-acc38b.mp3",
       "days": [
         57
+      ]
+    },
+    {
+      "id": "line-the-kite-likes-the-db0c2e",
+      "kind": "line",
+      "text": "The kite likes the tree",
+      "script": "Read aloud, warmly, at storytime pace: \"The kite likes the tree\"",
+      "file": "line-the-kite-likes-the-db0c2e.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -42291,6 +45330,16 @@
       ]
     },
     {
+      "id": "line-the-moon-is-so-06f573",
+      "kind": "line",
+      "text": "The moon is so bright",
+      "script": "Read aloud, warmly, at storytime pace: \"The moon is so bright\"",
+      "file": "line-the-moon-is-so-06f573.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-the-moth-is-thin-9753d2",
       "kind": "line",
       "text": "The moth is thin, and it did sit all day on the thick glass of the lamp.",
@@ -42301,6 +45350,16 @@
       ]
     },
     {
+      "id": "line-the-mouse-did-look-71ac9f",
+      "kind": "line",
+      "text": "The mouse did look at us. We did look at the mouse. The house went still.",
+      "script": "Read aloud, warmly, at storytime pace: \"The mouse did look at us. We did look at the mouse. The house went still.\"",
+      "file": "line-the-mouse-did-look-71ac9f.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-the-mouse-did-not-973446",
       "kind": "line",
       "text": "The mouse did not want to shift. It did just munch and munch.",
@@ -42308,6 +45367,26 @@
       "file": "line-the-mouse-did-not-973446.mp3",
       "days": [
         83
+      ]
+    },
+    {
+      "id": "line-the-mouse-will-eat-10161d",
+      "kind": "line",
+      "text": "The mouse will eat the bun",
+      "script": "Read aloud, warmly, at storytime pace: \"The mouse will eat the bun\"",
+      "file": "line-the-mouse-will-eat-10161d.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-the-mouse-will-hide-bee0d3",
+      "kind": "line",
+      "text": "The mouse will hide in the wall",
+      "script": "Read aloud, warmly, at storytime pace: \"The mouse will hide in the wall\"",
+      "file": "line-the-mouse-will-hide-bee0d3.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -42498,6 +45577,26 @@
       "file": "line-the-rain-fell-on-2e527d.mp3",
       "days": [
         73
+      ]
+    },
+    {
+      "id": "line-the-rain-got-it-85757e",
+      "kind": "line",
+      "text": "The rain got it",
+      "script": "Read aloud, warmly, at storytime pace: \"The rain got it\"",
+      "file": "line-the-rain-got-it-85757e.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-the-rain-stopped-the-3c59cd",
+      "kind": "line",
+      "text": "The rain stopped, the wind dropped, and the moon lifted up out of the sea.",
+      "script": "Read aloud, warmly, at storytime pace: \"The rain stopped, the wind dropped, and the moon lifted up out of the sea.\"",
+      "file": "line-the-rain-stopped-the-3c59cd.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -42871,6 +45970,16 @@
       ]
     },
     {
+      "id": "line-the-string-snapped-4a8c44",
+      "kind": "line",
+      "text": "The string snapped",
+      "script": "Read aloud, warmly, at storytime pace: \"The string snapped\"",
+      "file": "line-the-string-snapped-4a8c44.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-the-sun-did-glow-2531ba",
       "kind": "line",
       "text": "The sun did glow hot, and then the snowman did ...",
@@ -43061,6 +46170,26 @@
       ]
     },
     {
+      "id": "line-the-wind-grabbed-it-049192",
+      "kind": "line",
+      "text": "The wind grabbed it, and it jumped up and up and up.",
+      "script": "Read aloud, warmly, at storytime pace: \"The wind grabbed it, and it jumped up and up and up.\"",
+      "file": "line-the-wind-grabbed-it-049192.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-the-wind-stopped-22ddb1",
+      "kind": "line",
+      "text": "The wind stopped",
+      "script": "Read aloud, warmly, at storytime pace: \"The wind stopped\"",
+      "file": "line-the-wind-stopped-22ddb1.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-the-yak-did-not-78fb5a",
       "kind": "line",
       "text": "The yak did not want the yam. It did want ...",
@@ -43201,6 +46330,16 @@
       ]
     },
     {
+      "id": "line-then-meg-did-see-7971ec",
+      "kind": "line",
+      "text": "Then Meg did see a fat goose up on the bank, and my boot is in its beak.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then Meg did see a fat goose up on the bank, and my boot is in its beak.\"",
+      "file": "line-then-meg-did-see-7971ec.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-then-meg-did-see-d7e623",
       "kind": "line",
       "text": "Then Meg did see it. Up on the top shelf, next to the wet plant pot, is a damp green spot.",
@@ -43258,6 +46397,16 @@
       "file": "line-then-meg-did-strum-cb5cc4.mp3",
       "days": [
         86
+      ]
+    },
+    {
+      "id": "line-then-meg-grabbed-a-86b76c",
+      "kind": "line",
+      "text": "Then Meg grabbed a bun out of the shop bag and lifted it up.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then Meg grabbed a bun out of the shop bag and lifted it up.\"",
+      "file": "line-then-meg-grabbed-a-86b76c.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -43481,6 +46630,16 @@
       ]
     },
     {
+      "id": "line-then-it-did-drop-3075eb",
+      "kind": "line",
+      "text": "Then it did drop my boot in the mud and run at the food, fast.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then it did drop my boot in the mud and run at the food, fast.\"",
+      "file": "line-then-it-did-drop-3075eb.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-then-it-did-drop-79a5d5",
       "kind": "line",
       "text": "Then it did drop the lid and did land on me.",
@@ -43511,6 +46670,16 @@
       ]
     },
     {
+      "id": "line-then-it-did-shoot-b76e03",
+      "kind": "line",
+      "text": "Then it did shoot off the stool and in under the food bin.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then it did shoot off the stool and in under the food bin.\"",
+      "file": "line-then-it-did-shoot-b76e03.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-then-it-did-spot-dc259f",
       "kind": "line",
       "text": "Then it did spot a chain, and it did grab that.",
@@ -43518,6 +46687,26 @@
       "file": "line-then-it-did-spot-dc259f.mp3",
       "days": [
         74
+      ]
+    },
+    {
+      "id": "line-then-it-dropped-off-77e9d8",
+      "kind": "line",
+      "text": "Then it dropped off the branch and went off in the dark, and not a sound went with it.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then it dropped off the branch and went off in the dark, and not a sound went with it.\"",
+      "file": "line-then-it-dropped-off-77e9d8.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-then-it-went-after-afa9f5",
+      "kind": "line",
+      "text": "Then it went after that bun, down the road and up the hill, all the way back to the yard.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then it went after that bun, down the road and up the hill, all the way back to the yard.\"",
+      "file": "line-then-it-went-after-afa9f5.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -43681,6 +46870,16 @@
       ]
     },
     {
+      "id": "line-then-the-string-snapped-2f2676",
+      "kind": "line",
+      "text": "Then the string snapped, and the kite landed in the top of a big tree.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then the string snapped, and the kite landed in the top of a big tree.\"",
+      "file": "line-then-the-string-snapped-2f2676.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-then-we-did-go-ddc61d",
       "kind": "line",
       "text": "Then we did go and check the tree. There are not any plums on it at all.",
@@ -43688,6 +46887,16 @@
       "file": "line-then-we-did-go-ddc61d.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-then-at-the-gate-b88ae3",
+      "kind": "line",
+      "text": "Then, at the gate, he looked up and said, \"Can we do that the next night?\"",
+      "script": "Read aloud, warmly, at storytime pace: \"Then, at the gate, he looked up and said, \"Can we do that the next night?\"\"",
+      "file": "line-then-at-the-gate-b88ae3.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -43721,6 +46930,16 @@
       ]
     },
     {
+      "id": "line-then-up-in-a-34219c",
+      "kind": "line",
+      "text": "Then, up in a high branch, we saw it: an owl, big and brown, and it looked down at the three of us.",
+      "script": "Read aloud, warmly, at storytime pace: \"Then, up in a high branch, we saw it: an owl, big and brown, and it looked down at the three of us.\"",
+      "file": "line-then-up-in-a-34219c.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-there-are-so-many-0e8fc4",
       "kind": "line",
       "text": "There are so many bugs on this plant that I can not see the plant.",
@@ -43738,6 +46957,16 @@
       "file": "line-there-are-so-many-272974.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-there-is-a-mouse-8c9b14",
+      "kind": "line",
+      "text": "There is a mouse in the house, and it did run under my bed.",
+      "script": "Read aloud, warmly, at storytime pace: \"There is a mouse in the house, and it did run under my bed.\"",
+      "file": "line-there-is-a-mouse-8c9b14.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -44151,6 +47380,16 @@
       ]
     },
     {
+      "id": "line-to-get-a-light-3a6d76",
+      "kind": "line",
+      "text": "To get a light",
+      "script": "Read aloud, warmly, at storytime pace: \"To get a light\"",
+      "file": "line-to-get-a-light-3a6d76.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-to-get-wet-c13465",
       "kind": "line",
       "text": "To get wet",
@@ -44161,6 +47400,16 @@
       ]
     },
     {
+      "id": "line-to-go-back-to-b90e25",
+      "kind": "line",
+      "text": "To go back to bed",
+      "script": "Read aloud, warmly, at storytime pace: \"To go back to bed\"",
+      "file": "line-to-go-back-to-b90e25.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-to-see-a-whale-0cd2b5",
       "kind": "line",
       "text": "To see a whale",
@@ -44168,6 +47417,16 @@
       "file": "line-to-see-a-whale-0cd2b5.mp3",
       "days": [
         96
+      ]
+    },
+    {
+      "id": "line-to-walk-in-the-f997a8",
+      "kind": "line",
+      "text": "To walk in the wood the next night",
+      "script": "Read aloud, warmly, at storytime pace: \"To walk in the wood the next night\"",
+      "file": "line-to-walk-in-the-f997a8.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -44271,6 +47530,16 @@
       ]
     },
     {
+      "id": "line-up-a-tree-50bd5d",
+      "kind": "line",
+      "text": "Up a tree",
+      "script": "Read aloud, warmly, at storytime pace: \"Up a tree\"",
+      "file": "line-up-a-tree-50bd5d.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-up-at-the-farm-f800b1",
       "kind": "line",
       "text": "Up at the farm",
@@ -44321,6 +47590,16 @@
       ]
     },
     {
+      "id": "line-up-in-the-wood-0edb08",
+      "kind": "line",
+      "text": "Up in the wood an owl looked down at the lot of us and let out a hoot.",
+      "script": "Read aloud, warmly, at storytime pace: \"Up in the wood an owl looked down at the lot of us and let out a hoot.\"",
+      "file": "line-up-in-the-wood-0edb08.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-up-it-did-go-181022",
       "kind": "line",
       "text": "Up it did go, off the lawn and up past the big oak.",
@@ -44338,6 +47617,16 @@
       "file": "line-up-on-the-top-d90a77.mp3",
       "days": [
         98
+      ]
+    },
+    {
+      "id": "line-up-the-hill-to-7aca90",
+      "kind": "line",
+      "text": "Up the hill to the wood",
+      "script": "Read aloud, warmly, at storytime pace: \"Up the hill to the wood\"",
+      "file": "line-up-the-hill-to-7aca90.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -44398,6 +47687,16 @@
       "file": "line-we-did-fill-the-c3df0b.mp3",
       "days": [
         102
+      ]
+    },
+    {
+      "id": "line-we-did-lug-the-d5d619",
+      "kind": "line",
+      "text": "We did lug the box out of the house and let the mouse go in the wood.",
+      "script": "Read aloud, warmly, at storytime pace: \"We did lug the box out of the house and let the mouse go in the wood.\"",
+      "file": "line-we-did-lug-the-d5d619.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -44471,6 +47770,36 @@
       ]
     },
     {
+      "id": "line-we-fixed-the-gap-504429",
+      "kind": "line",
+      "text": "We fixed the gap in the yard with a bit of wood, and we did not tell Dad.",
+      "script": "Read aloud, warmly, at storytime pace: \"We fixed the gap in the yard with a bit of wood, and we did not tell Dad.\"",
+      "file": "line-we-fixed-the-gap-504429.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
+      "id": "line-we-marched-up-the-c9c7e7",
+      "kind": "line",
+      "text": "We marched up the hill, and Meg lifted the kite up and let go.",
+      "script": "Read aloud, warmly, at storytime pace: \"We marched up the hill, and Meg lifted the kite up and let go.\"",
+      "file": "line-we-marched-up-the-c9c7e7.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-we-packed-a-bag-b5d7c1",
+      "kind": "line",
+      "text": "We packed a bag of food and marched up the hill in the rain.",
+      "script": "Read aloud, warmly, at storytime pace: \"We packed a bag of food and marched up the hill in the rain.\"",
+      "file": "line-we-packed-a-bag-b5d7c1.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
       "id": "line-we-should-not-throw-694a4e",
       "kind": "line",
       "text": "We should not throw the ball here. It could land in the pond.",
@@ -44491,6 +47820,26 @@
       ]
     },
     {
+      "id": "line-we-tied-the-string-71061a",
+      "kind": "line",
+      "text": "We tied the string back up, and then I looked at Meg. \"Do it,\" I said.",
+      "script": "Read aloud, warmly, at storytime pace: \"We tied the string back up, and then I looked at Meg. \"Do it,\" I said.\"",
+      "file": "line-we-tied-the-string-71061a.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-wet-and-a-bit-efac11",
+      "kind": "line",
+      "text": "Wet and a bit green",
+      "script": "Read aloud, warmly, at storytime pace: \"Wet and a bit green\"",
+      "file": "line-wet-and-a-bit-efac11.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
       "id": "line-what-did-dad-say-ff42fb",
       "kind": "line",
       "text": "What did Dad say frogs want?",
@@ -44498,6 +47847,36 @@
       "file": "line-what-did-dad-say-ff42fb.mp3",
       "days": [
         98
+      ]
+    },
+    {
+      "id": "line-what-did-i-do-639a10",
+      "kind": "line",
+      "text": "What did I do to get the kite out?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did I do to get the kite out?\"",
+      "file": "line-what-did-i-do-639a10.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-what-did-meg-do-c1a693",
+      "kind": "line",
+      "text": "What did Meg do to get the boot back?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did Meg do to get the boot back?\"",
+      "file": "line-what-did-meg-do-c1a693.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-what-did-meg-think-7f9842",
+      "kind": "line",
+      "text": "What did Meg think at the end?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did Meg think at the end?\"",
+      "file": "line-what-did-meg-think-7f9842.mp3",
+      "days": [
+        105
       ]
     },
     {
@@ -44531,6 +47910,16 @@
       ]
     },
     {
+      "id": "line-what-did-my-brother-f8c049",
+      "kind": "line",
+      "text": "What did my brother want at the end?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did my brother want at the end?\"",
+      "file": "line-what-did-my-brother-f8c049.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
       "id": "line-what-did-send-us-48a39e",
       "kind": "line",
       "text": "What did send us in at the end?",
@@ -44538,6 +47927,16 @@
       "file": "line-what-did-send-us-48a39e.mp3",
       "days": [
         100
+      ]
+    },
+    {
+      "id": "line-what-did-the-owl-86af39",
+      "kind": "line",
+      "text": "What did the owl do?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did the owl do?\"",
+      "file": "line-what-did-the-owl-86af39.mp3",
+      "days": [
+        106
       ]
     },
     {
@@ -44561,6 +47960,26 @@
       ]
     },
     {
+      "id": "line-what-did-we-fix-fea3e1",
+      "kind": "line",
+      "text": "What did we fix up at the start?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did we fix up at the start?\"",
+      "file": "line-what-did-we-fix-fea3e1.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-what-did-we-get-53cb1c",
+      "kind": "line",
+      "text": "What did we get the mouse with?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did we get the mouse with?\"",
+      "file": "line-what-did-we-get-53cb1c.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
       "id": "line-what-did-we-see-1004f8",
       "kind": "line",
       "text": "What did we see go up and down in the dark?",
@@ -44568,6 +47987,16 @@
       "file": "line-what-did-we-see-1004f8.mp3",
       "days": [
         97
+      ]
+    },
+    {
+      "id": "line-what-did-we-see-a8bae2",
+      "kind": "line",
+      "text": "What did we see up in a high branch?",
+      "script": "Read aloud, warmly, at storytime pace: \"What did we see up in a high branch?\"",
+      "file": "line-what-did-we-see-a8bae2.mp3",
+      "days": [
+        107
       ]
     },
     {
@@ -44588,6 +48017,16 @@
       "file": "line-what-is-on-the-fd7b87.mp3",
       "days": [
         101
+      ]
+    },
+    {
+      "id": "line-what-is-the-boot-d51636",
+      "kind": "line",
+      "text": "What is the boot like at the end?",
+      "script": "Read aloud, warmly, at storytime pace: \"What is the boot like at the end?\"",
+      "file": "line-what-is-the-boot-d51636.mp3",
+      "days": [
+        103
       ]
     },
     {
@@ -44621,6 +48060,26 @@
       ]
     },
     {
+      "id": "line-where-did-my-boot-fc7533",
+      "kind": "line",
+      "text": "Where did my boot end up?",
+      "script": "Read aloud, warmly, at storytime pace: \"Where did my boot end up?\"",
+      "file": "line-where-did-my-boot-fc7533.mp3",
+      "days": [
+        103
+      ]
+    },
+    {
+      "id": "line-where-did-the-cow-4a00f0",
+      "kind": "line",
+      "text": "Where did the cow go?",
+      "script": "Read aloud, warmly, at storytime pace: \"Where did the cow go?\"",
+      "file": "line-where-did-the-cow-4a00f0.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-where-did-the-frog-6bf31b",
       "kind": "line",
       "text": "Where did the frog hide all this time?",
@@ -44628,6 +48087,16 @@
       "file": "line-where-did-the-frog-6bf31b.mp3",
       "days": [
         98
+      ]
+    },
+    {
+      "id": "line-where-did-the-mouse-f3cab8",
+      "kind": "line",
+      "text": "Where did the mouse get in?",
+      "script": "Read aloud, warmly, at storytime pace: \"Where did the mouse get in?\"",
+      "file": "line-where-did-the-mouse-f3cab8.mp3",
+      "days": [
+        104
       ]
     },
     {
@@ -44701,6 +48170,56 @@
       ]
     },
     {
+      "id": "line-why-did-meg-think-4e6a97",
+      "kind": "line",
+      "text": "Why did Meg think the mouse will be back?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did Meg think the mouse will be back?\"",
+      "file": "line-why-did-meg-think-4e6a97.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-why-did-mum-tell-434741",
+      "kind": "line",
+      "text": "Why did Mum tell us not to yell?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did Mum tell us not to yell?\"",
+      "file": "line-why-did-mum-tell-434741.mp3",
+      "days": [
+        104
+      ]
+    },
+    {
+      "id": "line-why-did-my-mother-bd9f44",
+      "kind": "line",
+      "text": "Why did my mother say not to talk?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did my mother say not to talk?\"",
+      "file": "line-why-did-my-mother-bd9f44.mp3",
+      "days": [
+        107
+      ]
+    },
+    {
+      "id": "line-why-did-the-kite-8e78b6",
+      "kind": "line",
+      "text": "Why did the kite land in the tree?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did the kite land in the tree?\"",
+      "file": "line-why-did-the-kite-8e78b6.mp3",
+      "days": [
+        105
+      ]
+    },
+    {
+      "id": "line-why-did-we-fix-b9e1c9",
+      "kind": "line",
+      "text": "Why did we fix the gap in the yard?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did we fix the gap in the yard?\"",
+      "file": "line-why-did-we-fix-b9e1c9.mp3",
+      "days": [
+        106
+      ]
+    },
+    {
       "id": "line-why-did-we-go-427504",
       "kind": "line",
       "text": "Why did we go and sit up on the rocks?",
@@ -44708,6 +48227,16 @@
       "file": "line-why-did-we-go-427504.mp3",
       "days": [
         96
+      ]
+    },
+    {
+      "id": "line-why-did-we-not-609e70",
+      "kind": "line",
+      "text": "Why did we not need a light?",
+      "script": "Read aloud, warmly, at storytime pace: \"Why did we not need a light?\"",
+      "file": "line-why-did-we-not-609e70.mp3",
+      "days": [
+        107
       ]
     },
     {

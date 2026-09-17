@@ -1,0 +1,171 @@
+{
+  "level": 103,
+  "title": "oo says /uu/ and /oo/",
+  "kidTitle": "Two oo sounds",
+  "parentNote": "Two letters today, and they do two different jobs, which is the whole lesson. There is the long one in moon, food, boot and pool, where the sound runs on as long as you like, and there is the short one in good, book, foot and look, where it stops almost before it starts. Nothing in the spelling tells you which — that is genuinely unfair and worth saying out loud, because a child who thinks there is a rule they missed will stop trusting their own reading. There is one handy leaning, though: oo in front of a k is nearly always the short one (look, book, cook, took, shook, hook), so that is the tip to hand them. What you should expect is your child reading \"good\" as \"gooood\" and then stopping, puzzled. That is the right instinct and the right moment to say: try the other one. Both sounds are correct; they just have to try them in turn until the word is one they know.",
+  "newGraphemes": ["oo"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "oo",
+      "keyword": "moon",
+      "picture": "🌙",
+      "mouthCue": "Lips squeeze into a tiny round hole and the sound runs out long: ooooo.",
+      "prompt": "Two o letters standing next to each other. They make a brand new sound, and here is the odd bit: they make two of them. This is the long one, the one in moon."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oo",
+      "choices": ["oo", "oa", "ou"],
+      "prompt": "Three teams that all start with an o. Find the one from today."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oo",
+      "choices": ["oo", "ue", "ee"],
+      "prompt": "These three all run on long. Listen right to the end and find today's."
+    },
+    {
+      "type": "blend",
+      "word": "moon",
+      "parts": ["m", "oo", "n"],
+      "picture": "🌙",
+      "prompt": "Three sounds, and the long oo sits in the middle. Stretch it: m, oo, n."
+    },
+    {
+      "type": "blend",
+      "word": "food",
+      "parts": ["f", "oo", "d"],
+      "picture": "🍲"
+    },
+    {
+      "type": "blend",
+      "word": "look",
+      "parts": ["l", "oo", "k"],
+      "picture": "👀",
+      "prompt": "Now the second job. Same two letters, but this time the sound is short and it stops fast. Not loooook. Just look."
+    },
+    {
+      "type": "blend",
+      "word": "wood",
+      "parts": ["w", "oo", "d"],
+      "picture": "🪵",
+      "prompt": "Short again. Say it next to food and hear how the middle swaps over: food, wood."
+    },
+    {
+      "type": "blend",
+      "word": "goose",
+      "parts": ["g", "oo", "se"],
+      "picture": "🦢",
+      "prompt": "The long one, and a silent e hanging off the end doing nothing at all. Three sounds: g, oo, se."
+    },
+    {
+      "type": "readWord",
+      "word": "boot",
+      "picture": "🥾"
+    },
+    {
+      "type": "readWord",
+      "word": "pool",
+      "picture": "🏊"
+    },
+    {
+      "type": "readWord",
+      "word": "foot",
+      "picture": "🦶",
+      "prompt": "Careful. This one looks like boot and does not sound like it."
+    },
+    {
+      "type": "readWord",
+      "word": "shook"
+    },
+    {
+      "type": "readWord",
+      "word": "spoon",
+      "picture": "🥄"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "good",
+      "choices": ["good", "food", "wood"],
+      "prompt": "All three have oo in the middle, and one of them says it the other way. Listen hard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cook",
+      "choices": ["cook", "cool", "coal"],
+      "prompt": "Three different middles. Say all three out loud first and then pick."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "boot",
+      "choices": ["boot", "boat", "bait"],
+      "prompt": "Three vowel teams, one word. The front and the back are the same in all of them."
+    },
+    {
+      "type": "sentence",
+      "text": "Look up at the moon, and you can see it is big and round."
+    },
+    {
+      "type": "sentence",
+      "text": "A good cook can get food on the plate by noon."
+    },
+    {
+      "type": "sentence",
+      "text": "I did sit on a stool by the pool and dip my foot in."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Look in the wood shed,\" said Meg, \"and get the broom out of there.\""
+    },
+    {
+      "type": "story",
+      "title": "The goose and the boot",
+      "prompt": "This story is stuffed with oo words, and they are not all the same sound. If a word comes out odd, try the other oo and see if it fixes it.",
+      "lines": [
+        "I did drop my left boot in the brook, and off it did shoot.",
+        "\"Look in the pool by the big tree,\" said Meg. \"All of the junk ends up in there.\"",
+        "So we did look in the pool, and then in the mud, and then in the long grass. No boot.",
+        "Then Meg did see a fat goose up on the bank, and my boot is in its beak.",
+        "\"That is my boot!\" I did yell. The goose did look at me and did not let go of it.",
+        "Meg did dig in the bag and get out a bun and a chunk of ham.",
+        "She did set the food on a rock. Then we did step back and wait.",
+        "The goose did look at the bun. It did look at the boot. It did look at the bun.",
+        "Then it did drop my boot in the mud and run at the food, fast.",
+        "I did grab the boot. It is wet, it is green, and it is not good, but it is my boot.",
+        "\"Do you want it back on?\" said Meg. \"I do not,\" I said. \"It can drip in the bag.\"",
+        "And all the way up the hill, the goose did look at us with the last bit of bun in its beak."
+      ],
+      "questions": [
+        {
+          "prompt": "Where did my boot end up?",
+          "choices": ["In the beak of a goose", "Up a tree", "In the wood shed"],
+          "answer": "In the beak of a goose"
+        },
+        {
+          "prompt": "What did Meg do to get the boot back?",
+          "choices": ["She did set food on a rock", "She did yell at the goose", "She did jump in the pool"],
+          "answer": "She did set food on a rock"
+        },
+        {
+          "prompt": "What is the boot like at the end?",
+          "choices": ["Wet and a bit green", "Dry and good", "Lost in the pool"],
+          "answer": "Wet and a bit green"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The last few days",
+      "words": ["thin", "thick", "moth", "of", "here"],
+      "prompt": "The quiet th, and the little words we just remember."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the teams that look a bit like today",
+      "words": ["loud", "shout", "snow", "grow"],
+      "prompt": "ou and ow. Both of them have an o in front, and not one of them says oo."
+    }
+  ]
+}

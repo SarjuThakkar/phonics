@@ -1,0 +1,172 @@
+{
+  "level": 105,
+  "title": "-ed endings",
+  "kidTitle": "The ed ending",
+  "parentNote": "Today is the day this course can talk about the past. Until now every story has had to say \"Meg did run\" and \"Dad did shout\", because the ordinary way to say it — ran, shouted — was not spelled with anything your child had been taught. Two letters on the end fixes that, and you will see the stories change shape from here. Here is the part to know before you start: -ed is one spelling with three different sounds. In landed and lifted you hear it, a whole extra beat: land-ed. In jumped and backed it is a plain /t/, so jumped comes out \"jumpt\". In yelled and grinned it is a /d/. Nothing in the spelling tells you which, and there is no rule worth teaching a four-year-old — the mouth picks whichever one is easier to say after the sound before it, which is why it feels natural even though it looks inconsistent. So do not correct a child who says \"jump-ed\". Just say the word back to them the ordinary way and carry on; the ear sorts this one out long before the eye does.",
+  "newGraphemes": ["-ed"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-ed",
+      "keyword": "landed",
+      "picture": "🛬",
+      "prompt": "These two letters go on the end of a word and mean it has been and gone. You did it, it is over. And here is the strange bit: these two letters make three different sounds, and you will meet all three today."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-ed",
+      "choices": ["-ed", "-s", "-y"],
+      "prompt": "Three endings that go on the back of a word. Find the one from today."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-ed",
+      "choices": ["-ed", "e", "d"],
+      "prompt": "Two of these are the letters on their own. Today's is the pair, working as a team on the end of a word."
+    },
+    {
+      "type": "blend",
+      "word": "landed",
+      "parts": ["l", "a", "nd", "ed"],
+      "picture": "🛬",
+      "prompt": "This is the ending you can hear best. Say land, then stick ed on the back of it: land-ed."
+    },
+    {
+      "type": "blend",
+      "word": "lifted",
+      "parts": ["l", "i", "ft", "ed"],
+      "prompt": "Same again. Lift, then ed. You get a whole extra beat: lift-ed."
+    },
+    {
+      "type": "blend",
+      "word": "jumped",
+      "parts": ["j", "u", "mp", "ed"],
+      "prompt": "Now the second sound. It is spelled ed and it says t. Not jump-ed. Jumpt. Say it fast and it will come out right."
+    },
+    {
+      "type": "blend",
+      "word": "backed",
+      "parts": ["b", "a", "ck", "ed"],
+      "prompt": "Same trick: backt. Your mouth wants to say t here, so let it."
+    },
+    {
+      "type": "blend",
+      "word": "yelled",
+      "parts": ["y", "e", "ll", "ed"],
+      "prompt": "And the third sound. Here the ed says d. Yelld. Three words, three sounds, one spelling."
+    },
+    {
+      "type": "readWord",
+      "word": "looked"
+    },
+    {
+      "type": "readWord",
+      "word": "needed"
+    },
+    {
+      "type": "readWord",
+      "word": "grinned"
+    },
+    {
+      "type": "readWord",
+      "word": "fixed"
+    },
+    {
+      "type": "readWord",
+      "word": "shouted"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "landed",
+      "choices": ["landed", "handed", "sanded"],
+      "prompt": "All three end the same way. Everything you need is the sound at the front."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "jumped",
+      "choices": ["jumped", "jumps", "jump"],
+      "prompt": "Same word three times with three ends. Listen right to the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cooked",
+      "choices": ["cooked", "cooled", "looked"],
+      "prompt": "Two of these say t on the end and one says d. Say all three and then pick."
+    },
+    {
+      "type": "sentence",
+      "text": "The cat jumped up on the bed and landed on my foot."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg yelled at me, and then she grinned and handed me the ball."
+    },
+    {
+      "type": "sentence",
+      "text": "We packed a bag of food and marched up the hill in the rain."
+    },
+    {
+      "type": "sentence",
+      "text": "I looked in the box for my boots, but Meg had them on."
+    },
+    {
+      "type": "sentence",
+      "text": "The rain stopped, the wind dropped, and the moon lifted up out of the sea."
+    },
+    {
+      "type": "story",
+      "title": "The kite in the tree",
+      "prompt": "Nearly all of this story is in the past, so the ed ending is all over it. Some of them say ed, some say t and some say d.",
+      "lines": [
+        "Meg and I fixed up a kite with string, a stick and a bit of red cloth.",
+        "We marched up the hill, and Meg lifted the kite up and let go.",
+        "The wind grabbed it, and it jumped up and up and up.",
+        "It looked like a red bird with a long thin tail.",
+        "Then the string snapped, and the kite landed in the top of a big tree.",
+        "\"I can get it,\" I said. I kicked off my boots and started up the trunk.",
+        "Meg yelled up at me, \"Keep a grip! That tree is wet!\"",
+        "I got up to the kite, but it is stuck fast in the thin bits at the top.",
+        "So I grabbed the branch and shook it, and shook it, and shook it.",
+        "The kite dropped out, landed in the grass and did not rip at all.",
+        "We tied the string back up, and then I looked at Meg. \"Do it,\" I said.",
+        "She lifted the kite up, the wind grabbed it, and off it went.",
+        "\"That kite likes the tree,\" said Meg. \"It will be back up there by tea time.\""
+      ],
+      "questions": [
+        {
+          "prompt": "What did we fix up at the start?",
+          "choices": ["A kite with red cloth", "A bag of food", "A wood shed"],
+          "answer": "A kite with red cloth"
+        },
+        {
+          "prompt": "Why did the kite land in the tree?",
+          "choices": ["The string snapped", "Meg dropped it", "The rain got it"],
+          "answer": "The string snapped"
+        },
+        {
+          "prompt": "What did I do to get the kite out?",
+          "choices": ["I grabbed the branch and shook it", "I got a long stick", "I yelled at it"],
+          "answer": "I grabbed the branch and shook it"
+        },
+        {
+          "prompt": "What did Meg think at the end?",
+          "choices": ["The kite likes the tree", "The kite is bust", "The wind stopped"],
+          "answer": "The kite likes the tree"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The two words from yesterday",
+      "words": ["house", "mouse", "mouth", "out"],
+      "prompt": "Two you just remember, two you can sound out. All four have the same middle."
+    },
+    {
+      "type": "review",
+      "label": "Something older: doubled letters in the middle",
+      "words": ["hill", "bell", "miss", "buzz"],
+      "prompt": "Two letters, one sound. That is the same trick as yelled and filled."
+    }
+  ]
+}

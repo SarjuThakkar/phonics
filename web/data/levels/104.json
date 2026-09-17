@@ -1,0 +1,166 @@
+{
+  "level": 104,
+  "title": "house, mouse",
+  "kidTitle": "house and mouse",
+  "parentNote": "Two words today, and they are a pair: house and mouse, the same five letters with one swapped at the front. Your child can already read the ou in the middle — it is the /ow/ of loud and shout — so the only part that is genuinely new is the ending, where se says a plain /s/ and the e says nothing whatsoever. That is why these are handed over whole rather than sounded out; a child who tries will land on \"how-suh\" and be quite right to be annoyed. Say them together, point at the two of them side by side, and let the rhyme do the work. Today also starts the last stretch of the course, and you will notice the stories getting longer from here — if that is too much in one sitting, read half, stop, and pick the rest up after tea. A tired reader learns nothing except that reading is tiring.",
+  "newGraphemes": [],
+  "newSightWords": ["house", "mouse"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "house",
+      "sentence": "The house at the end of the road is red, and the roof is green.",
+      "prompt": "You know the middle bit of this one: ou, the sound in loud. It is the end that is odd. The se says a plain s and the e says nothing. House."
+    },
+    {
+      "type": "sightWord",
+      "word": "mouse",
+      "sentence": "A mouse did get in the house and hide in my boot.",
+      "prompt": "Now swap the front. Same five letters at the back, same odd ending: mouse. House, mouse. They rhyme, and they are spelled the same way."
+    },
+    {
+      "type": "readWord",
+      "word": "house"
+    },
+    {
+      "type": "readWord",
+      "word": "mouse"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "house",
+      "choices": ["house", "mouse", "mouth"],
+      "prompt": "Three words with ou in the middle. Two of them you just learnt and one you can sound out."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "oo", "oa"],
+      "prompt": "This is the sound sitting in the middle of house and mouse. Find the two letters that make it."
+    },
+    {
+      "type": "blend",
+      "word": "spoon",
+      "parts": ["sp", "oo", "n"],
+      "picture": "🥄",
+      "prompt": "No new sound today, so these are old ones coming back. This one is from yesterday."
+    },
+    {
+      "type": "blend",
+      "word": "thick",
+      "parts": ["th", "i", "ck"],
+      "prompt": "The quiet th, from a few days back. No buzz in your throat."
+    },
+    {
+      "type": "blend",
+      "word": "crawl",
+      "parts": ["cr", "aw", "l"]
+    },
+    {
+      "type": "blend",
+      "word": "churn",
+      "parts": ["ch", "ur", "n"],
+      "prompt": "The long one. Two letters, then two more letters, and each pair is one sound."
+    },
+    {
+      "type": "readWord",
+      "word": "brook"
+    },
+    {
+      "type": "readWord",
+      "word": "stool"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mouse",
+      "choices": ["mouse", "mouth", "moth"],
+      "prompt": "All three start with an m. Listen to the middle and then listen to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "book",
+      "choices": ["book", "boot", "boat"],
+      "prompt": "Yesterday's two oo sounds, and one that is not oo at all."
+    },
+    {
+      "type": "sentence",
+      "text": "There is a mouse in the house, and it did run under my bed."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Is there a mouse in my boot?\" said Meg, and she did tip it up."
+    },
+    {
+      "type": "sentence",
+      "text": "A mouse can get in a house by a crack you can not see."
+    },
+    {
+      "type": "sentence",
+      "text": "The house by the pool is next to a big green tree, and there is a hole in the roof."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do you want a mouse in the house?\" said Mum. \"I do,\" said Meg."
+    },
+    {
+      "type": "story",
+      "title": "The mouse in the house",
+      "prompt": "Two words in this story you just remember: house and mouse. They are in nearly every line, so keep an eye out.",
+      "lines": [
+        "A mouse did get in the house, and Mum is not glad.",
+        "It did get in by the wood shed, and it will not go back out.",
+        "\"Look by the food bin,\" said Mum. \"That is where the bits of bun get to.\"",
+        "Meg did see it first: a fat mouse with a long thin tail.",
+        "It did shoot up the leg of the stool and sit next to my spoon.",
+        "\"Do not yell,\" said Mum. \"If you yell, it will hide in the wall, and then we will not get it at all.\"",
+        "So we did get a box and a bit of bun, and we did wait.",
+        "The mouse did look at us. We did look at the mouse. The house went still.",
+        "Then it did shoot off the stool and in under the food bin.",
+        "Meg did drop the box on it, and I did slip a book under the box.",
+        "We did lug the box out of the house and let the mouse go in the wood.",
+        "It did sit in the grass and look back at the house for a long time. Then off it went.",
+        "\"It will be back,\" said Meg. \"It did see the bun.\""
+      ],
+      "questions": [
+        {
+          "prompt": "Where did the mouse get in?",
+          "choices": ["By the wood shed", "By the pool", "By the food bin"],
+          "answer": "By the wood shed"
+        },
+        {
+          "prompt": "Why did Mum tell us not to yell?",
+          "choices": ["The mouse will hide in the wall", "The mouse will eat the bun", "Meg is in bed"],
+          "answer": "The mouse will hide in the wall"
+        },
+        {
+          "prompt": "What did we get the mouse with?",
+          "choices": ["A box, a bun and a book", "A spoon and a bin", "A boot"],
+          "answer": "A box, a bun and a book"
+        },
+        {
+          "prompt": "Why did Meg think the mouse will be back?",
+          "choices": ["It did see the bun", "It likes the wood shed", "It did get out of the box"],
+          "answer": "It did see the bun"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday: the two oo sounds",
+      "words": ["moon", "food", "look", "good", "cook"],
+      "prompt": "Two of these have the long oo and three have the short one. Sort them out as you go."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the sound in the middle of house",
+      "words": ["loud", "shout", "out", "cloud"],
+      "prompt": "The ou in all four is the same ou that sits in the middle of house and mouse."
+    },
+    {
+      "type": "review",
+      "label": "The words we just remember",
+      "words": ["said", "want", "there", "of", "many"],
+      "prompt": "Not one of these can be sounded out. With house and mouse, there are now twenty-three."
+    }
+  ]
+}

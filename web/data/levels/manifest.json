@@ -101,7 +101,12 @@
     99,
     100,
     101,
-    102
+    102,
+    103,
+    104,
+    105,
+    106,
+    107
   ],
   "levels": [
     {
@@ -715,6 +720,36 @@
       "title": "any, anywhere, many",
       "kidTitle": "any, anywhere, many",
       "activities": 23
+    },
+    {
+      "level": 103,
+      "title": "oo says /uu/ and /oo/",
+      "kidTitle": "Two oo sounds",
+      "activities": 23
+    },
+    {
+      "level": 104,
+      "title": "house, mouse",
+      "kidTitle": "house and mouse",
+      "activities": 23
+    },
+    {
+      "level": 105,
+      "title": "-ed endings",
+      "kidTitle": "The ed ending",
+      "activities": 24
+    },
+    {
+      "level": 106,
+      "title": "ow says /ow/",
+      "kidTitle": "The other ow",
+      "activities": 23
+    },
+    {
+      "level": 107,
+      "title": "igh and -alk",
+      "kidTitle": "night and walk",
+      "activities": 26
     }
   ]
 }

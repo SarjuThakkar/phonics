@@ -1,0 +1,173 @@
+{
+  "level": 106,
+  "title": "ow says /ow/",
+  "kidTitle": "The other ow",
+  "parentNote": "No new letters today — a new job for two your child already knows. Back on day seventy-seven, ow was the sound in snow, grow and throw. Today it is the sound in cow, how, down and owl, which is the same sound as the ou in loud and shout. So ow has two readings and ou has one, and the two spellings overlap. Here is the hard truth, and it is worth saying to your child out loud: nothing in the word tells you which one it is. Not the letters, not their place, nothing. Grown-up readers do not know either — we guess from the rest of the sentence and fix it if it comes out wrong. That is the actual skill today, and it is called trying the other one. So when \"cow\" comes out as \"coh\", do not say no. Say: good try, now try the other ow. Do that four or five times and your child will start doing it themselves, which is the whole point.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ow",
+      "keyword": "cow",
+      "picture": "🐄",
+      "mouthCue": "Mouth drops wide open and then squeezes shut small, like you sat on a pin: ow!",
+      "prompt": "You have known these two letters for weeks. On day seventy-seven they said oh, the sound in snow. Today they do a second job, and it is this one. Same letters. Not the same sound."
+    },
+    {
+      "type": "review",
+      "label": "The ow you already know",
+      "words": ["snow", "grow", "low", "throw", "window"],
+      "prompt": "Read these first, and keep them in your head. Every one of them says oh. Today is the other one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ow",
+      "choices": ["ow", "oa", "oe"],
+      "prompt": "Three teams that all say oh. Find the one that is spelled with a w."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "oo", "oa"],
+      "prompt": "Here is today's sound, and you have met it before. This is the spelling from loud and shout. From today, ow says it too."
+    },
+    {
+      "type": "blend",
+      "word": "cow",
+      "parts": ["c", "ow"],
+      "picture": "🐄",
+      "prompt": "Just two sounds, and the second one is today's. Not coh. Cow."
+    },
+    {
+      "type": "blend",
+      "word": "how",
+      "parts": ["h", "ow"]
+    },
+    {
+      "type": "blend",
+      "word": "down",
+      "parts": ["d", "ow", "n"],
+      "prompt": "Now stick a sound on the end of it: d, ow, n."
+    },
+    {
+      "type": "blend",
+      "word": "owl",
+      "parts": ["ow", "l"],
+      "picture": "🦉",
+      "prompt": "This time ow is at the front, all by itself."
+    },
+    {
+      "type": "blend",
+      "word": "growl",
+      "parts": ["gr", "ow", "l"],
+      "prompt": "The tricky one. Cover up the l and it is grow, which says oh. Put the l back and it flips."
+    },
+    {
+      "type": "readWord",
+      "word": "brown",
+      "picture": "🟤"
+    },
+    {
+      "type": "readWord",
+      "word": "town"
+    },
+    {
+      "type": "readWord",
+      "word": "crowd"
+    },
+    {
+      "type": "readWord",
+      "word": "flower",
+      "picture": "🌻"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "cow",
+      "choices": ["cow", "crow", "cot"],
+      "prompt": "Two of these have ow in them and they do not rhyme. That is the whole of today in two words."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "growl",
+      "choices": ["growl", "grow", "grill"],
+      "prompt": "Listen for the l on the end. It changes more than you think."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "brown",
+      "choices": ["brown", "broom", "brain"],
+      "prompt": "Three vowel teams, all of them with a b and an r in front."
+    },
+    {
+      "type": "sentence",
+      "text": "A brown cow got out of the yard and went down the road."
+    },
+    {
+      "type": "sentence",
+      "text": "\"How did the owl get in the house?\" said Mum."
+    },
+    {
+      "type": "sentence",
+      "text": "Snow and cow end with an o and a w, but they do not sound the same at all."
+    },
+    {
+      "type": "sentence",
+      "text": "The dog growled at the crowd, and then it sat down and licked my hand."
+    },
+    {
+      "type": "story",
+      "title": "The cow in the town",
+      "prompt": "There is an ow in nearly every line. Most of them say ow, but not all of them, so if a word comes out odd, try the other sound.",
+      "lines": [
+        "A big brown cow got out of the yard at dawn and went down the road to the town.",
+        "Meg looked out of the window and yelled, \"The cow is in the town!\"",
+        "So we ran down the hill to get it back.",
+        "The cow stopped by the shop, looked at the crowd and let out a long, sad moo.",
+        "\"How do you get a cow to go back?\" said Meg. \"Do you tug it?\"",
+        "I did not want to tug a cow. A cow is big, and I am not.",
+        "Then Meg grabbed a bun out of the shop bag and lifted it up.",
+        "The cow looked at the bun. The crowd looked at the cow. Not a thing went on for a bit.",
+        "Then it went after that bun, down the road and up the hill, all the way back to the yard.",
+        "Meg dropped the bun in the grass, and the cow munched it up.",
+        "Up in the wood an owl looked down at the lot of us and let out a hoot.",
+        "\"That cow is not daft,\" said Meg. \"It went to town and got a bun out of it.\"",
+        "We fixed the gap in the yard with a bit of wood, and we did not tell Dad."
+      ],
+      "questions": [
+        {
+          "prompt": "Where did the cow go?",
+          "choices": ["Down the road to the town", "Up the hill to the wood", "In the house"],
+          "answer": "Down the road to the town"
+        },
+        {
+          "prompt": "How did Meg get the cow to go back?",
+          "choices": ["She lifted up a bun", "She did tug it", "She yelled at it"],
+          "answer": "She lifted up a bun"
+        },
+        {
+          "prompt": "What did the owl do?",
+          "choices": ["It let out a hoot", "It went after the bun", "It sat on the cow"],
+          "answer": "It let out a hoot"
+        },
+        {
+          "prompt": "Why did we fix the gap in the yard?",
+          "choices": ["So the cow can not get out", "So the owl can not get in", "So Dad can see it"],
+          "answer": "So the cow can not get out"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday: the ed ending",
+      "words": ["landed", "jumped", "yelled", "looked", "needed"],
+      "prompt": "Three sounds, one spelling. Say each of them and see which one you get."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the other way to spell today's sound",
+      "words": ["loud", "shout", "out", "house"],
+      "prompt": "ou did this job first. Now ow does it too, and English never tells you which one it picked."
+    }
+  ]
+}

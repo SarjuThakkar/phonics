@@ -1,0 +1,196 @@
+{
+  "level": 107,
+  "title": "igh and -alk",
+  "kidTitle": "night and walk",
+  "parentNote": "This is a big day — two new letter teams and three new words to remember — so if your child flags, stop after the sentences and read the story tomorrow. Nothing is lost by splitting it. The two teams are both about letters that do nothing. In igh, only the i speaks: the g and the h are silent, and igh says /eye/, as in night and high. In alk it is the l that goes quiet: walk and talk are said \"wawk\" and \"tawk\", using the aw sound your child already has from paw and saw. Both are worth naming out loud as letters that are just sitting there, because a child who expects every letter to say something will keep trying to make them. Then there are other, mother and brother, which share the same four letters on the end and the same awkward o that says /u/ — learn them as a family of three and they hold together. What usually goes wrong: night read as \"nigg-hut\", or walk read with the l in it. Say the word back whole and move on; these two only need meeting a few times.",
+  "newGraphemes": ["igh", "alk"],
+  "newSightWords": ["other", "mother", "brother"],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "igh",
+      "keyword": "night",
+      "picture": "🌃",
+      "mouthCue": "Mouth drops open wide and then glides up small, the same sound as the word eye.",
+      "prompt": "Three letters, and only the first one makes a sound. The g and the h are silent — they just sit there and keep the i company. igh says eye."
+    },
+    {
+      "type": "soundMatch",
+      "target": "igh",
+      "choices": ["igh", "ie", "y"],
+      "prompt": "All three of these say eye. Find the one with three letters in it."
+    },
+    {
+      "type": "blend",
+      "word": "night",
+      "parts": ["n", "igh", "t"],
+      "picture": "🌃",
+      "prompt": "Three sounds, not five. n, igh, t."
+    },
+    {
+      "type": "blend",
+      "word": "light",
+      "parts": ["l", "igh", "t"],
+      "picture": "💡"
+    },
+    {
+      "type": "blend",
+      "word": "high",
+      "parts": ["h", "igh"],
+      "prompt": "This one is just two sounds, and the igh is on the end doing all the work."
+    },
+    {
+      "type": "blend",
+      "word": "bright",
+      "parts": ["br", "igh", "t"],
+      "prompt": "The long one. Six letters, and still only four sounds: b, r, igh, t."
+    },
+    {
+      "type": "readWord",
+      "word": "might"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "night",
+      "choices": ["night", "light", "might"],
+      "prompt": "All three are the same word with a new front on it. Listen to the first sound."
+    },
+    {
+      "type": "soundIntro",
+      "grapheme": "alk",
+      "keyword": "walk",
+      "picture": "🚶",
+      "mouthCue": "Mouth opens round for aw, then stops dead on a k. No l in there anywhere.",
+      "prompt": "Three letters again, and this time it is the l that is silent. alk says awk. You know the aw part from paw and saw, so this is that sound with a k stuck on the end."
+    },
+    {
+      "type": "soundMatch",
+      "target": "alk",
+      "choices": ["alk", "all", "aw"],
+      "prompt": "Three teams that all start with the same sound. Find today's, the one that ends in a k."
+    },
+    {
+      "type": "blend",
+      "word": "walk",
+      "parts": ["w", "alk"],
+      "picture": "🚶",
+      "prompt": "Two sounds. Not wal-k. Wawk."
+    },
+    {
+      "type": "blend",
+      "word": "talk",
+      "parts": ["t", "alk"]
+    },
+    {
+      "type": "blend",
+      "word": "chalk",
+      "parts": ["ch", "alk"],
+      "prompt": "The first two letters are one sound and the last three are one sound. Two sounds in five letters."
+    },
+    {
+      "type": "readWord",
+      "word": "walked",
+      "prompt": "Today's ending on yesterday's ending. The l is still silent and the ed says t: wawkt."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "talk",
+      "choices": ["talk", "tall", "tail"],
+      "prompt": "Three words that start with a t and go three different ways after it."
+    },
+    {
+      "type": "sightWord",
+      "word": "other",
+      "sentence": "I got this boot on, but I can not see the other boot.",
+      "prompt": "This one you just remember. The o at the front says u, so it is uther, not oh-ther. Other."
+    },
+    {
+      "type": "sightWord",
+      "word": "mother",
+      "sentence": "My mother sat down on the bed and looked at the mess.",
+      "prompt": "Stick an m on the front of other and you get mother. Same ending, same odd o."
+    },
+    {
+      "type": "sightWord",
+      "word": "brother",
+      "sentence": "My brother is a bit daft, but he is my brother.",
+      "prompt": "And now br on the front. Other, mother, brother. Three words, one ending, and not a single one of them can be sounded out."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "mother",
+      "choices": ["mother", "brother", "other"],
+      "prompt": "Three words you just know. The end of all three is the same, so listen to the front."
+    },
+    {
+      "type": "sentence",
+      "text": "At night the moon is so bright that we did not need a light."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do not talk to me,\" said my brother. \"I want to sleep.\""
+    },
+    {
+      "type": "sentence",
+      "text": "My mother got a bit of chalk and did a big brown cow on the path."
+    },
+    {
+      "type": "sentence",
+      "text": "An owl might be up in that high tree, so walk and do not talk."
+    },
+    {
+      "type": "story",
+      "title": "A walk at night",
+      "prompt": "Two new teams in this one. Watch for the letters that say nothing at all: the gh in night, and the l in walk.",
+      "lines": [
+        "My mother woke us up at ten and said, \"Boots on. We are off for a walk.\"",
+        "It is dark out, but the moon is up and so bright that we did not need a light.",
+        "My brother did not want to go, but my mother is not the sort you can talk out of a walk.",
+        "So the three of us walked up the path and in under the big high trees.",
+        "\"Do not talk,\" said my mother. \"If we keep still, we might see a thing you can not see in the day.\"",
+        "So we walked and we did not talk. My brother held my hand.",
+        "Then, up in a high branch, we saw it: an owl, big and brown, and it looked down at the three of us.",
+        "It did not hoot. It did not lift a wing.",
+        "Then it dropped off the branch and went off in the dark, and not a sound went with it.",
+        "\"That is why we walk at night,\" said my mother.",
+        "My brother did not talk all the way back down the hill.",
+        "Then, at the gate, he looked up and said, \"Can we do that the next night?\"",
+        "My mother grinned. \"Get the boots by the bed,\" she said. \"We walk at ten.\""
+      ],
+      "questions": [
+        {
+          "prompt": "Why did we not need a light?",
+          "choices": ["The moon is so bright", "My mother got a light", "It is not dark in the wood"],
+          "answer": "The moon is so bright"
+        },
+        {
+          "prompt": "What did we see up in a high branch?",
+          "choices": ["A big brown owl", "A cow", "My brother"],
+          "answer": "A big brown owl"
+        },
+        {
+          "prompt": "Why did my mother say not to talk?",
+          "choices": ["So we might see a thing you can not see in the day", "So my brother can sleep", "So the owl can hoot"],
+          "answer": "So we might see a thing you can not see in the day"
+        },
+        {
+          "prompt": "What did my brother want at the end?",
+          "choices": ["To walk in the wood the next night", "To go back to bed", "To get a light"],
+          "answer": "To walk in the wood the next night"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday: the ow that says ow",
+      "words": ["cow", "down", "owl", "brown", "how"],
+      "prompt": "The second job of ow. Not one of these says oh."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the sounds today's teams are built out of",
+      "words": ["tie", "my", "paw", "crawl"],
+      "prompt": "The first two say eye, the same as igh. The last two say aw, the same as the start of walk."
+    }
+  ]
+}
