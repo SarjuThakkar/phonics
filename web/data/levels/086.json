@@ -1,0 +1,188 @@
+{
+  "level": 86,
+  "title": "Review: long e and o endings",
+  "kidTitle": "The last letter",
+  "parentNote": "No new sound today — just the two endings from the last two days, put side by side. The rule is one rule, not two: a word that stops on a vowel lets that vowel say its own name. Stop on an e and you get ee (me, he, she, we, be). Stop on an o and you get oh (go, no, so). What today adds is that the word does not have to be tiny. hello, hippo, banjo, mango, bingo and jumbo are all two beats long, and every one of them stops on an o and says oh at the end. The slip to expect is on those longer words: a child sounds out the first beat, gets tired, and guesses the rest. Cover the word with a finger and slide it right, one beat at a time, so the o at the end arrives as the last thing they do rather than the first thing they skip. It is worth knowing that the e version only ever turns up in the five tiny words, so there is nothing more to learn there — but the o version will keep showing up in long words for years.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "-e",
+      "choices": ["-e", "-o", "e"],
+      "prompt": "Two letters that sit on the end of a word. Find the one that says ee."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-o",
+      "choices": ["-o", "o", "-e"],
+      "prompt": "Now find the one that says oh. The other o is the short one."
+    },
+    {
+      "type": "blend",
+      "word": "we",
+      "parts": ["w", "e"],
+      "prompt": "The word stops at the e, so the e says its name."
+    },
+    {
+      "type": "blend",
+      "word": "web",
+      "parts": ["w", "e", "b"],
+      "picture": "🕸️",
+      "prompt": "The same start, but a b keeps coming. The word does not stop, so the e is the short one."
+    },
+    {
+      "type": "blend",
+      "word": "so",
+      "parts": ["s", "o"],
+      "prompt": "Now the o, and the very same rule. It stops, so it says oh."
+    },
+    {
+      "type": "blend",
+      "word": "sock",
+      "parts": ["s", "o", "ck"],
+      "picture": "🧦",
+      "prompt": "And a sound after it, which makes it short again. The rule does not care which vowel it is."
+    },
+    {
+      "type": "blend",
+      "word": "bingo",
+      "parts": ["b", "i", "ng", "o"],
+      "prompt": "Two beats. Slide a finger under it and do not stop until the o."
+    },
+    {
+      "type": "blend",
+      "word": "jumbo",
+      "parts": ["j", "u", "m", "b", "o"],
+      "picture": "🐘",
+      "prompt": "The long one, and it still ends on an o. A long word plays by the same rule."
+    },
+    {
+      "type": "readWord",
+      "word": "me"
+    },
+    {
+      "type": "readWord",
+      "word": "go"
+    },
+    {
+      "type": "readWord",
+      "word": "dingo",
+      "picture": "🐕"
+    },
+    {
+      "type": "readWord",
+      "word": "disco"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "we",
+      "choices": ["we", "wet", "web"],
+      "prompt": "Three words that start with a w and an e. Listen for whether the word stops."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "so",
+      "choices": ["so", "sock", "soak"],
+      "prompt": "All three begin with an s. One stops, one is short, and one has a team in it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "bingo",
+      "choices": ["bingo", "bongo", "banjo"],
+      "prompt": "This one is hard. Every one of them ends in oh, so the answer is in the first beat."
+    },
+    {
+      "type": "sentence",
+      "text": "She did want to be in the boat, and so we did let her get in."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want a mango, or do they want me to go and get a peach?"
+    },
+    {
+      "type": "sentence",
+      "text": "He did strum the banjo, and we did do the limbo out on the grass."
+    },
+    {
+      "type": "story",
+      "title": "She did tell me no",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "I did want a dog, and so I did ask Mum.",
+        "She did tell me no. A dog is a lot to feed.",
+        "So I did ask Dad. He did tell me no, and he did not grin.",
+        "Meg did grin. She did tell me to go and ask Gran.",
+        "Gran did not tell me no. Gran did tell me to go to the shed.",
+        "In the shed sat a big tin, and in the tin sat a hen.",
+        "It is not a dog. It is a hen, and it is red and cross.",
+        "We did set it out in the grass. It did peck at me and did run off.",
+        "Mum did shout. Dad did run. Meg and I did sit and grin.",
+        "So it is not a dog. It is a hen, and she is with us still."
+      ],
+      "questions": [
+        {
+          "prompt": "I did ask Mum for a dog, and she did tell me ...",
+          "choices": ["no", "to feed it", "to go on"],
+          "answer": "no"
+        },
+        {
+          "prompt": "Meg did tell me to go and ask ...",
+          "choices": ["Gran", "Dad", "Mum"],
+          "answer": "Gran"
+        },
+        {
+          "prompt": "In the tin in the shed sat ...",
+          "choices": ["a red hen", "a big dog", "a fat hippo"],
+          "answer": "a red hen"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "The disco in the shed",
+      "prompt": "A second story, and this one is all the long words that stop on an o.",
+      "lines": [
+        "Meg did want to set up a disco out in the shed.",
+        "Dad did lend us a banjo, a bongo and a big red lamp.",
+        "He did strum the banjo. She did tap out a tempo on the bongo.",
+        "I did not want to sing, so I did do the limbo.",
+        "Mum did pop in with a mango on a dish and did stay to see.",
+        "Then the lamp did pop, and the shed did go black.",
+        "No lamp, no disco. We did stand in the dark and did moan.",
+        "Then Meg did strum on in the dark, and so we did sing with her.",
+        "Dad did tap the bongo. Mum did do the limbo with the dish.",
+        "A dark shed and a banjo. That is the best disco we did get."
+      ],
+      "questions": [
+        {
+          "prompt": "Dad did lend us a banjo, a bongo and ...",
+          "choices": ["a big red lamp", "a fat mango", "a tin dish"],
+          "answer": "a big red lamp"
+        },
+        {
+          "prompt": "The lamp did pop, and the shed did ...",
+          "choices": ["go black", "get hot", "fill up"],
+          "answer": "go black"
+        },
+        {
+          "prompt": "In the dark Meg did ...",
+          "choices": ["strum on", "run out", "go to bed"],
+          "answer": "strum on"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The three teams from last week",
+      "words": ["sprout", "couch", "hoist", "coin", "ploy"],
+      "prompt": "ou, oi and oy. Say each one and check that your mouth moves."
+    },
+    {
+      "type": "review",
+      "label": "Teams from a long way back",
+      "words": ["snail", "stray", "peach", "toast", "willow"],
+      "prompt": "ai, ay, ea, oa and ow. Five older teams, and not one of them is on its own."
+    }
+  ]
+}

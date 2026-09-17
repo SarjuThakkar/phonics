@@ -82,12 +82,11 @@ next batch goes out, which is the main reason the days keep improving.
 ## Status
 
 Remaining batches, in order — this is the schedule, and it is the thing to
-pick up if a session is interrupted. Batches 1–10 (days 28–77) are done,
+pick up if a session is interrupted. Batches 1–11 (days 28–82) are done,
 committed, pushed and live.
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 11 | 78–82 | Review: ea, oa, ow; Review: ay, ai, ea, oa, ow; ou says /ow/; oi says /oi/; oy says /oi/ |
 | 12 | 83–87 | Review: ou, oi, oy; e at the end says /ee/; o at the end says /oe/; Review: long e and o endings; y says /y/ |
 | 13 | 88–92 | you; said; qu says /kw/; x says /ks/; z says /z/ |
 | 14 | 93–97 | aw says /aw/; -all says /all/; y at the end says /ie/; wh says /w/; what |
@@ -180,6 +179,16 @@ worth more than the other 542 recordings together.
 - **Day 55** in the source sequence ("the long a sound", seed words *bae, sae,
   hae*) is a sound-introduction day with no real English words — it is written
   as ear training for the long-a sound ahead of `a_e` on day 56.
+- **`soundMatch` with two same-sounding choices is a feature, not a bug —
+  don't "fix" it.** Several days deliberately put homophone spellings in one
+  choice set (`i_e`/`ie` on 52, `oa`/`ow` on 78 and 80, `-e`/`ee` on 84) and
+  make the colliding pair the *distractors*, with the prompt carrying the
+  question: *"Two of these say oh. Find the one that says ee."* A batch author
+  proposed erroring on this in `validate.py`, on the reasonable-sounding theory
+  that the site plays one sound so two choices making it is unanswerable —
+  checked, and it would have flagged seven correctly-designed activities. The
+  real rule is that a collision is only broken when the prompt *doesn't*
+  disambiguate, and no validator can judge that. Left alone deliberately.
 - **Day 82's seed word `cowboy`** is the same class of bug as day 29's `lump`,
   except permanent rather than deferred: it contains `ow`, and this course
   never teaches `ow` saying /ow/ at all (the sequence's `ow` levels are all

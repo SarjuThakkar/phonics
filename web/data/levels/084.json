@@ -1,0 +1,156 @@
+{
+  "level": 84,
+  "title": "e at the end says /ee/",
+  "kidTitle": "Meet the e on the end",
+  "parentNote": "Today is a small sound with a big payoff. When a short word ends in e and there is nothing after it, that e says its own name — me, be, he, she, we. That is the whole rule, and it gives your child five of the most useful words in English in one go, which is why today's story suddenly has people in it who are not the child. The slip to expect is the e going back to its old job: he read as heh, or she read as sheh, because for eighty days an e in a word has meant eh. The test is what comes after it. In hen and shed and bed there is a letter after the e, so it stays eh. In he and she and be the word stops, and a stopping e says ee. Say the pairs side by side — hen and he, shed and she, men and me — and let them hear the word fall off the end.",
+  "newGraphemes": ["-e"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-e",
+      "keyword": "me",
+      "picture": "🙋",
+      "mouthCue": "Pull the corners of your mouth back into a wide smile and hold it: eee.",
+      "prompt": "One letter, and it is one you have known since the start. On the end of a short word it says its own name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-e",
+      "choices": ["-e", "e", "er"],
+      "prompt": "The same letter doing three jobs. Find the one that says ee."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e",
+      "choices": ["e", "-e", "ee"],
+      "prompt": "Now the other way round. Two of these say ee. Find the plain old eh."
+    },
+    {
+      "type": "blend",
+      "word": "me",
+      "parts": ["m", "e"],
+      "picture": "🙋",
+      "prompt": "Two sounds, and the word stops at the e. So the e says its name."
+    },
+    {
+      "type": "blend",
+      "word": "be",
+      "parts": ["b", "e"]
+    },
+    {
+      "type": "blend",
+      "word": "we",
+      "parts": ["w", "e"]
+    },
+    {
+      "type": "blend",
+      "word": "he",
+      "parts": ["h", "e"]
+    },
+    {
+      "type": "blend",
+      "word": "she",
+      "parts": ["sh", "e"],
+      "prompt": "The sh is one sound, so this word has two sounds in it as well."
+    },
+    {
+      "type": "blend",
+      "word": "men",
+      "parts": ["m", "e", "n"],
+      "prompt": "Careful. There is an n after the e, so the word does not stop. Back to eh."
+    },
+    {
+      "type": "readWord",
+      "word": "he"
+    },
+    {
+      "type": "readWord",
+      "word": "she"
+    },
+    {
+      "type": "readWord",
+      "word": "we"
+    },
+    {
+      "type": "readWord",
+      "word": "be"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "me",
+      "choices": ["me", "men", "met"],
+      "prompt": "Three words that start with an m and an e. Listen for whether the word stops."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "he",
+      "choices": ["he", "hen", "her"],
+      "prompt": "The same again with an h. Only one of these stops at the e."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "she",
+      "choices": ["she", "shed", "shell"],
+      "prompt": "This one is hard. All three start with sh and an e, and two keep going."
+    },
+    {
+      "type": "sentence",
+      "text": "Mum did tell me to sit still, and then she did grin at me."
+    },
+    {
+      "type": "sentence",
+      "text": "He did hoist the sail, and we did float out past the big rocks."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to be in the boat with us, or do they want to stay on the sand?"
+    },
+    {
+      "type": "story",
+      "title": "We did feed the crow",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A big crow did land on the step and did peck at the mat.",
+        "Meg did want to feed it. She did run in and did get toast.",
+        "Dad did tell us to stand back. He did not trust that beak.",
+        "The crow did hop up to me and did not peck at the toast.",
+        "It did want the tin lid on the step, and it did grab it.",
+        "Then it did drop the lid and did land on me.",
+        "Meg did shout. Dad did run. I did not shift.",
+        "The crow did tug a long, damp string out and did grip it in that beak.",
+        "Then it did lift off and did dart up to the nest in the oak.",
+        "Meg did grin at me. It did not want toast. It did want a nest."
+      ],
+      "questions": [
+        {
+          "prompt": "Meg did run in and did get the crow a bit ...",
+          "choices": ["toast", "fish", "corn"],
+          "answer": "toast"
+        },
+        {
+          "prompt": "Dad did tell us to stand back, and he did not trust ...",
+          "choices": ["that beak", "the nest", "the oak"],
+          "answer": "that beak"
+        },
+        {
+          "prompt": "The crow did lift off and did dart up to the oak with ...",
+          "choices": ["the string", "the toast", "the tin lid"],
+          "answer": "the string"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The three teams from this week",
+      "words": ["couch", "sprout", "spoil", "coin", "toy"],
+      "prompt": "ou, oi and oy. Every one of them moves your mouth while you say it."
+    },
+    {
+      "type": "review",
+      "label": "The stage before this one",
+      "words": ["flute", "shirt", "crate", "thick", "storm"],
+      "prompt": "Older friends. A quiet e on the end of a long word, a bossy r, and a digraph from a long way back."
+    }
+  ]
+}

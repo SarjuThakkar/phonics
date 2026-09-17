@@ -1,0 +1,191 @@
+{
+  "level": 83,
+  "title": "Review: ou, oi, oy",
+  "kidTitle": "Teams that slide",
+  "parentNote": "No new sound today, just the three teams from this week — and the useful thing about them is that all three make your mouth move while you say them. ou drops the mouth wide open and then squeezes it small: ouch, couch, sprout. oi and oy do the opposite, starting round and pulling back into a smile: oink, spoil, Floyd. So the first question is never which letters are they, it is which way does my mouth go. Once a word is in the oy pile, the rule from yesterday finishes it: oi in the middle with a sound after it, oy on the end where the word stops. The slip to expect is a word like coin coming out as cone, because a child who does not finish the slide lands on plain oh. Say it slow and stretched — ooo-eee — and let them feel the smile arrive. If they are tired, stop after the first story; the second one keeps until tomorrow.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundMatch",
+      "target": "ou",
+      "choices": ["ou", "oi", "oa"],
+      "prompt": "Three teams that start with an o. Find the one that drops your mouth wide open."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oi",
+      "choices": ["oi", "ou", "ow"],
+      "prompt": "Now find the one that starts round and ends in a smile."
+    },
+    {
+      "type": "soundMatch",
+      "target": "oy",
+      "choices": ["oy", "ou", "ay"],
+      "prompt": "The same smile as last time, but this is the spelling that likes the end of a word."
+    },
+    {
+      "type": "blend",
+      "word": "ouch",
+      "parts": ["ou", "ch"],
+      "picture": "🤕",
+      "prompt": "Two sounds, and the team is right at the front. Feel your mouth drop open."
+    },
+    {
+      "type": "blend",
+      "word": "oink",
+      "parts": ["oi", "nk"],
+      "picture": "🐷",
+      "prompt": "The same shape of word, and the mouth goes the other way. Round, then a smile."
+    },
+    {
+      "type": "blend",
+      "word": "couch",
+      "parts": ["c", "ou", "ch"],
+      "picture": "🛋️"
+    },
+    {
+      "type": "blend",
+      "word": "spoil",
+      "parts": ["sp", "oi", "l"],
+      "prompt": "There is an l after the team, so this one has to be the oi."
+    },
+    {
+      "type": "blend",
+      "word": "Floyd",
+      "parts": ["fl", "oy", "d"],
+      "prompt": "A name, and an odd one. oy nearly always sits on the end, but names do as they like."
+    },
+    {
+      "type": "blend",
+      "word": "cloudburst",
+      "parts": ["cl", "ou", "d", "b", "ur", "st"],
+      "picture": "🌧️",
+      "prompt": "The long one. Two beats, a team in the first and a bossy r in the second."
+    },
+    {
+      "type": "readWord",
+      "word": "mouse",
+      "picture": "🐭"
+    },
+    {
+      "type": "readWord",
+      "word": "trout",
+      "picture": "🐟"
+    },
+    {
+      "type": "readWord",
+      "word": "hoist"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "count",
+      "choices": ["count", "coin", "corn"],
+      "prompt": "Three words that start with a c. Two of them move your mouth and one does not."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "soy",
+      "choices": ["soy", "soil", "south"],
+      "prompt": "All three begin with an s. Only one of them stops at the team."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "pouch",
+      "choices": ["pouch", "poach", "porch"],
+      "prompt": "This one is hard. The same start and the same ending, and everything is in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "A mouse did creep out and did sit up on the couch, and I did shout."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to count the coins, or do they want to boil them in a pot?"
+    },
+    {
+      "type": "sentence",
+      "text": "I did dig in the soil and did tug out a fat sprout and a bent coin."
+    },
+    {
+      "type": "story",
+      "title": "The mouse in the couch",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "Floyd did flop on the couch with a bag and did munch a nut.",
+        "Then a loud sound did creep out. Ouch!",
+        "A fat mouse did pop up and did land on him.",
+        "It did grab a nut and did munch it on the spot.",
+        "Then out did pop a mouse, and a mouse, and a mouse.",
+        "Floyd did count. It is not a mouse in the couch. It is ten mouse kids.",
+        "Floyd did hoist the couch out to the porch and did tip it up.",
+        "Out did drop the nuts, the dust and a big black puff.",
+        "The mouse did not want to shift. It did just munch and munch.",
+        "Floyd did grin. The couch is for them, and the mat is for him."
+      ],
+      "questions": [
+        {
+          "prompt": "Floyd did flop on the couch and did munch ...",
+          "choices": ["a nut", "a coin", "a trout"],
+          "answer": "a nut"
+        },
+        {
+          "prompt": "Floyd did count, and in the couch sat ...",
+          "choices": ["ten mouse kids", "just a nut", "a toy boat"],
+          "answer": "ten mouse kids"
+        },
+        {
+          "prompt": "In the end Floyd did sit on ...",
+          "choices": ["the mat", "the couch", "the porch"],
+          "answer": "the mat"
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "title": "Joy and the coin tin",
+      "prompt": "A second story, and this one is all the slide that ends in a smile.",
+      "lines": [
+        "Joy did dig in the topsoil out at the back, just past the shed.",
+        "I did tell her it is a ploy, and that a coin tin is not in it.",
+        "Her stick did hit a rock with a loud clunk.",
+        "Out did pop a damp tin, red with rust and shut up fast.",
+        "Joy did hoist it up and did bash the lid off on the step.",
+        "In it sat a coil, a bent nail and ten damp coins.",
+        "Joy did count them out on the mat. It is ten, and not a spot on them.",
+        "Then a mouse did run out, and Joy did drop the lot.",
+        "The coins did land in the soil, and the mouse did run for the shed.",
+        "Joy did grin. It is not a ploy, and it is not a tin. It is a dig."
+      ],
+      "questions": [
+        {
+          "prompt": "Joy did dig in the topsoil for ...",
+          "choices": ["a coin tin", "a fat trout", "a toy boat"],
+          "answer": "a coin tin"
+        },
+        {
+          "prompt": "In the tin sat a coil and a bent nail and ...",
+          "choices": ["ten damp coins", "a big rock", "a grass snake"],
+          "answer": "ten damp coins"
+        },
+        {
+          "prompt": "Joy did drop the lot, and the coins did land ...",
+          "choices": ["in the soil", "in the tin", "on the step"],
+          "answer": "in the soil"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The teams that do not slide",
+      "words": ["snow", "beach", "paint", "float", "tray"],
+      "prompt": "ow, ea, ai, oa and ay. Say each one, and check that your mouth sits still."
+    },
+    {
+      "type": "review",
+      "label": "Bossy r, from the stage before this one",
+      "words": ["storm", "churn", "third", "burn", "charm"],
+      "prompt": "Older friends. In every one of these the r is telling the vowel what to do."
+    }
+  ]
+}

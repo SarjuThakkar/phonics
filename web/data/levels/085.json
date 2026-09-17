@@ -1,0 +1,164 @@
+{
+  "level": 85,
+  "title": "o at the end says /oh/",
+  "kidTitle": "Meet the o on the end",
+  "parentNote": "Yesterday it was e; today it is o, and the rule is word for word the same. When a word ends in o and there is nothing after it, the o says its own name — go, no, so, hello, hippo. The slip to expect is exactly yesterday's slip in a new coat: go read as gog, or no read to rhyme with not, because for eighty days an o in a word has meant the short one. The test is still what comes after. In got and not and hop there is a letter after the o, so it stays short. In go and no and so the word stops, and a stopping o says oh. Say the pairs out loud — got and go, not and no, sob and so — and let them hear the word fall off the end. It is worth pointing out that this works in long words too: hippo and banjo and mango all stop at an o, and every one of them says oh.",
+  "newGraphemes": ["-o"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-o",
+      "keyword": "go",
+      "picture": "🚦",
+      "mouthCue": "Push your lips out into a small round ring, like blowing out a candle: oh.",
+      "prompt": "The same trick as yesterday, with a different letter. On the end of a word, o says its own name."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-o",
+      "choices": ["-o", "o", "or"],
+      "prompt": "The same letter doing three jobs. Find the one that says oh."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-e",
+      "choices": ["-e", "-o", "ou"],
+      "prompt": "Two letters that sit on the end of a word. Find the one you met yesterday."
+    },
+    {
+      "type": "blend",
+      "word": "go",
+      "parts": ["g", "o"],
+      "picture": "🚦",
+      "prompt": "Two sounds, and the word stops at the o. So the o says its name."
+    },
+    {
+      "type": "blend",
+      "word": "no",
+      "parts": ["n", "o"]
+    },
+    {
+      "type": "blend",
+      "word": "so",
+      "parts": ["s", "o"]
+    },
+    {
+      "type": "blend",
+      "word": "got",
+      "parts": ["g", "o", "t"],
+      "prompt": "Careful. There is a t after the o, so the word does not stop. Back to the short one."
+    },
+    {
+      "type": "blend",
+      "word": "hello",
+      "parts": ["h", "e", "ll", "o"],
+      "picture": "👋",
+      "prompt": "Two beats, and it still stops at the o. That is why the end says oh."
+    },
+    {
+      "type": "blend",
+      "word": "hippo",
+      "parts": ["h", "i", "pp", "o"],
+      "picture": "🦛"
+    },
+    {
+      "type": "blend",
+      "word": "banjo",
+      "parts": ["b", "a", "n", "j", "o"],
+      "picture": "🪕",
+      "prompt": "The long one. Run a finger under it, and do not stop until the o."
+    },
+    {
+      "type": "readWord",
+      "word": "mango",
+      "picture": "🥭"
+    },
+    {
+      "type": "readWord",
+      "word": "bongo",
+      "picture": "🥁"
+    },
+    {
+      "type": "readWord",
+      "word": "cargo",
+      "picture": "📦"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "go",
+      "choices": ["go", "got", "goat"],
+      "prompt": "Three words that start with a g. Only one of them stops at the o."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "no",
+      "choices": ["no", "not", "note"],
+      "prompt": "The same again with an n. Two of these keep going after the o."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "so",
+      "choices": ["so", "sob", "soap"],
+      "prompt": "This one is hard. Listen for whether the word stops, and then for the team."
+    },
+    {
+      "type": "sentence",
+      "text": "We did want to go to the sea, and so Dad did pack up the van."
+    },
+    {
+      "type": "sentence",
+      "text": "She did tell me no, but then he did tell me to go on in."
+    },
+    {
+      "type": "sentence",
+      "text": "Do they want to go to the show, or do they want to stay in bed?"
+    },
+    {
+      "type": "story",
+      "title": "The hippo that did not go",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A big hippo did sit in the road and did not want to go.",
+        "Dad did honk. The hippo did not go.",
+        "Meg did shout at it to go. The hippo did not go.",
+        "I did get out and did creep up to it and did tell it hello.",
+        "It did blink at me. It is hot, the road is hot, and so it did stop.",
+        "Then Mum did get the banjo and did sit up on the van.",
+        "She did strum a tune, and the hippo did lift up its chin.",
+        "He did tap out the tempo, and we did clap and sing.",
+        "The hippo did stand up and did stomp off up the road in tempo.",
+        "No honk did shift it and no shout did shift it. A tune did."
+      ],
+      "questions": [
+        {
+          "prompt": "A big hippo did sit in the road and did not want to ...",
+          "choices": ["go", "eat", "run"],
+          "answer": "go"
+        },
+        {
+          "prompt": "I did creep up to the hippo, and it did ...",
+          "choices": ["blink at me", "stomp off", "shout back"],
+          "answer": "blink at me"
+        },
+        {
+          "prompt": "The hippo did stand up and stomp off, and the thing that did it is ...",
+          "choices": ["the banjo tune", "the loud honk", "the big shout"],
+          "answer": "the banjo tune"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's letter on the end",
+      "words": ["me", "he", "she", "we", "be"],
+      "prompt": "An e on the end says ee. An o on the end says oh. Same rule, two letters."
+    },
+    {
+      "type": "review",
+      "label": "Teams from last week",
+      "words": ["couch", "coin", "toy", "snow", "beach"],
+      "prompt": "ou, oi, oy, ow and ea. Four teams in the middle or the end, and one that does both."
+    }
+  ]
+}

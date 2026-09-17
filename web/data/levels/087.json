@@ -1,0 +1,163 @@
+{
+  "level": 87,
+  "title": "y says /y/",
+  "kidTitle": "Meet y",
+  "parentNote": "y says /y/ — the sound at the front of yak, yes, yell, yarn and yellow. It is a quick sound, so clip it short: say it as the start of yak rather than as yuh, or your child will read yes as yuh-es and hear three beats in a two-beat word. Today y is only ever at the front of a word, and that is the whole job for now. A y on the end of a word does something else entirely, and it turns up much later in the course with a day of its own, so if your child spots one in the wild there is nothing to explain yet — just read it for them and move on. The other slip to expect is y and w getting swapped, because both are made with the mouth moving rather than stopping. yell and well are in here side by side on purpose.",
+  "newGraphemes": ["y"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "y",
+      "keyword": "yak",
+      "picture": "🐃",
+      "mouthCue": "The middle of your tongue jumps up to the roof of your mouth and springs straight off again.",
+      "prompt": "A new letter, and it is a quick one. Do not hold it: y."
+    },
+    {
+      "type": "soundMatch",
+      "target": "y",
+      "choices": ["y", "w", "j"],
+      "prompt": "Three sounds that slip out of your mouth. Find the new one."
+    },
+    {
+      "type": "soundMatch",
+      "target": "y",
+      "choices": ["y", "-e", "e"],
+      "prompt": "Careful, this one is close. Two of these are a long smile. Today's is a quick jump."
+    },
+    {
+      "type": "blend",
+      "word": "yak",
+      "parts": ["y", "a", "k"],
+      "picture": "🐃",
+      "prompt": "Three sounds, and the new one is at the front. Keep it short."
+    },
+    {
+      "type": "blend",
+      "word": "yes",
+      "parts": ["y", "e", "s"],
+      "picture": "✅"
+    },
+    {
+      "type": "blend",
+      "word": "yum",
+      "parts": ["y", "u", "m"],
+      "picture": "😋"
+    },
+    {
+      "type": "blend",
+      "word": "yell",
+      "parts": ["y", "e", "ll"],
+      "picture": "📢",
+      "prompt": "Two l letters on the end, but they are one sound. So this is three sounds, not four."
+    },
+    {
+      "type": "blend",
+      "word": "yard",
+      "parts": ["y", "ar", "d"],
+      "prompt": "A bossy r in the middle. The y is still quick and the ar is still long."
+    },
+    {
+      "type": "blend",
+      "word": "yellow",
+      "parts": ["y", "e", "ll", "ow"],
+      "picture": "💛",
+      "prompt": "The long one. Two beats, and it stops on a team that says oh."
+    },
+    {
+      "type": "readWord",
+      "word": "yet"
+    },
+    {
+      "type": "readWord",
+      "word": "yarn",
+      "picture": "🧶"
+    },
+    {
+      "type": "readWord",
+      "word": "yam",
+      "picture": "🍠"
+    },
+    {
+      "type": "readWord",
+      "word": "yelp"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "yell",
+      "choices": ["yell", "well", "bell"],
+      "prompt": "The same ending on all three. Everything you need is in the first sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "yam",
+      "choices": ["yam", "yak", "yap"],
+      "prompt": "Now they all start with the new sound, so listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "yard",
+      "choices": ["yard", "yarn", "card"],
+      "prompt": "This one is hard. Two of them start with a y, and two of them end with a d."
+    },
+    {
+      "type": "sentence",
+      "text": "He did yell at me to go out to the yard and get the yellow yarn."
+    },
+    {
+      "type": "sentence",
+      "text": "Is the yak in the yard, or did it get out and go up the hill?"
+    },
+    {
+      "type": "sentence",
+      "text": "Yes, we did see it, and then it did eat a yam and did yell at us."
+    },
+    {
+      "type": "story",
+      "title": "The yak in the yard",
+      "prompt": "Read the story one line at a time. Tap any word you want to hear again.",
+      "lines": [
+        "A yak did get out, and it did stand in the yard and yell.",
+        "Mum did yelp. Dad did shout. Meg did just stand still.",
+        "I did get a big yam and did wave it at the yak.",
+        "It did not want the yam. It did want the yellow yarn on the step.",
+        "It did grab the yarn and did munch and munch and munch.",
+        "Then it did run off, and the long yellow string did run with it.",
+        "We did trail up the hill, and the yarn did stop at a big oak.",
+        "Up in the oak sat a nest, and that nest is yellow and soft and big.",
+        "So the yak did not rob us. It did lend the yarn to a crow.",
+        "Yes, we did let it stay, and it did not yell at us till sun up."
+      ],
+      "questions": [
+        {
+          "prompt": "A yak did get out, and in the yard it did ...",
+          "choices": ["yell", "nod off", "dig"],
+          "answer": "yell"
+        },
+        {
+          "prompt": "The yak did not want the yam. It did want ...",
+          "choices": ["the yellow yarn", "the big oak", "the red hen"],
+          "answer": "the yellow yarn"
+        },
+        {
+          "prompt": "The yarn did stop at a big oak, and up in it sat ...",
+          "choices": ["a nest", "a yam", "a tin"],
+          "answer": "a nest"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The endings from the last three days",
+      "words": ["me", "she", "go", "so", "hello"],
+      "prompt": "A word that stops on an e says ee. A word that stops on an o says oh."
+    },
+    {
+      "type": "review",
+      "label": "Teams from last week",
+      "words": ["sprout", "hoist", "joy", "goal", "stray"],
+      "prompt": "ou, oi, oy, oa and ay. Say each one and check where the team is sitting."
+    }
+  ]
+}

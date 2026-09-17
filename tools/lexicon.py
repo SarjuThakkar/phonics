@@ -167,6 +167,24 @@ IRREGULAR: dict[str, int | None] = {
     "noise": None, "poison": None, "voice": None, "choice": None,
     "moisten": None, "toilet": None, "royal": None, "loyal": None,
     "annoy": None, "ahoy": None, "destroy": None, "joyful": None,
+    # ar + silent e is an untaught /air/ spelling (stare, care), not ar then
+    # the e making the a say its name -- a whole family, not a one-off.
+    "stare": None, "bare": None, "care": None, "dare": None, "hare": None,
+    "mare": None, "share": None, "scare": None, "spare": None,
+    "square": None, "flare": None, "glare": None,
+    # two long vowels in a row false-pass once both -e and -o say their name
+    # (days 84-85): the FIRST syllable is long here too, which the segmenter
+    # can't tell from a short one. halo is "hay-lo", solo is "so-lo", not
+    # "sol-oh". also additionally has the untaught -all sound.
+    "halo": None, "also": None, "solo": None, "polo": None,
+    "hobo": None, "silo": None,
+    # ou/ai as an unstressed schwa rather than the taught /ow/ or /ay/ sound
+    "mountain": None, "fountain": None, "curtain": None, "captain": None,
+    # mis-segments as containing oy/ou when the letters are just adjacent
+    # vowels working independently
+    "yoyo": None, "joyous": None,
+    # silent-e long i plus s saying /z/, same family as prize/rise/wise
+    "prise": None,
 }
 
 

@@ -81,7 +81,12 @@
     79,
     80,
     81,
-    82
+    82,
+    83,
+    84,
+    85,
+    86,
+    87
   ],
   "levels": [
     {
@@ -575,6 +580,36 @@
       "title": "oy says /oy/",
       "kidTitle": "Meet oy",
       "activities": 21
+    },
+    {
+      "level": 83,
+      "title": "Review: ou, oi, oy",
+      "kidTitle": "Teams that slide",
+      "activities": 22
+    },
+    {
+      "level": 84,
+      "title": "e at the end says /ee/",
+      "kidTitle": "Meet the e on the end",
+      "activities": 22
+    },
+    {
+      "level": 85,
+      "title": "o at the end says /oh/",
+      "kidTitle": "Meet the o on the end",
+      "activities": 22
+    },
+    {
+      "level": 86,
+      "title": "Review: long e and o endings",
+      "kidTitle": "The last letter",
+      "activities": 22
+    },
+    {
+      "level": 87,
+      "title": "y says /y/",
+      "kidTitle": "Meet y",
+      "activities": 22
     }
   ]
 }
