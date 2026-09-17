@@ -106,7 +106,12 @@
     104,
     105,
     106,
-    107
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
   ],
   "levels": [
     {
@@ -750,6 +755,36 @@
       "title": "igh and -alk",
       "kidTitle": "night and walk",
       "activities": 26
+    },
+    {
+      "level": 108,
+      "title": "-le endings",
+      "kidTitle": "little and bubble",
+      "activities": 23
+    },
+    {
+      "level": 109,
+      "title": "tomorrow, today, father",
+      "kidTitle": "today and tomorrow",
+      "activities": 19
+    },
+    {
+      "level": 110,
+      "title": "bye, your, friend",
+      "kidTitle": "bye and friend",
+      "activities": 19
+    },
+    {
+      "level": 111,
+      "title": "ew says /oo/",
+      "kidTitle": "flew and grew",
+      "activities": 22
+    },
+    {
+      "level": 112,
+      "title": "again, were",
+      "kidTitle": "again and were",
+      "activities": 18
     }
   ]
 }

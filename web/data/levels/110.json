@@ -1,0 +1,147 @@
+{
+  "level": 110,
+  "title": "bye, your, friend",
+  "kidTitle": "bye and friend",
+  "parentNote": "Three words to remember, and between them they let your child read something this course has never been able to write before: a goodbye. Friend is the hard one. It looks like it ought to be \"free-end\", because ie has said /eye/ ever since tie and pie, and instead it is said \"frend\". The thing to hold on to is that the word end is sitting right there inside it — a friend sticks with you to the end. Your comes next, and those last three letters say /or/, not \"ow-er\". Bye is kind: it is just by with an e stuck on, and the e behaves itself. If your child reads friend as \"free-end\", don't say no. Say the word back whole, put a finger on the end in it, and carry on. This one takes a dozen sightings rather than a lesson.",
+  "newGraphemes": [],
+  "newSightWords": ["bye", "your", "friend"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "friend",
+      "sentence": "My friend Meg can do a puzzle fast, but I am faster.",
+      "prompt": "This one you just remember, and it is a tricky one. It looks like free-end. It is said frend. Look at the last three letters: the word end is in there, and a friend sticks with you to the end."
+    },
+    {
+      "type": "sightWord",
+      "word": "your",
+      "sentence": "Is this your hat, or is it the hat that your brother had on?",
+      "prompt": "The last three letters say or. Not ow-er. Your, the same sound as for and or."
+    },
+    {
+      "type": "sightWord",
+      "word": "bye",
+      "sentence": "\"Bye!\" said my friend, and off she went down the path.",
+      "prompt": "This one is kind to you. It is the word by with an e stuck on the end, and it still says bye."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "your",
+      "choices": ["your", "you"],
+      "prompt": "The same word with an r on the end of it. Listen right to the last sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "wiggle",
+      "choices": ["wiggle", "giggle", "juggle"],
+      "prompt": "Three words with the same ending from the other day. Listen to the front and the middle."
+    },
+    {
+      "type": "blend",
+      "word": "letter",
+      "parts": ["l", "e", "tt", "er"],
+      "picture": "✉️",
+      "prompt": "This is what you send a friend who is a long way off. l, e, t, er."
+    },
+    {
+      "type": "blend",
+      "word": "hugged",
+      "parts": ["h", "u", "gg", "ed"]
+    },
+    {
+      "type": "blend",
+      "word": "waved",
+      "parts": ["w", "a", "ve", "d"],
+      "prompt": "The e on the end is silent, so it sticks to the v and they go together: w, ay, v, d."
+    },
+    {
+      "type": "readWord",
+      "word": "gift",
+      "picture": "🎁"
+    },
+    {
+      "type": "readWord",
+      "word": "truck",
+      "picture": "🚚"
+    },
+    {
+      "type": "readWord",
+      "word": "yelled"
+    },
+    {
+      "type": "sentence",
+      "text": "Say bye to your father, and then get your boots on."
+    },
+    {
+      "type": "sentence",
+      "text": "Is that your bag, or did your friend bring it?"
+    },
+    {
+      "type": "sentence",
+      "text": "My friend sat down on the step and did not say a thing."
+    },
+    {
+      "type": "sentence",
+      "text": "A friend is a thing you can not get in a shop."
+    },
+    {
+      "type": "sentence",
+      "text": "It is hard to say bye to a friend, so I did not say it at all."
+    },
+    {
+      "type": "story",
+      "title": "The day Sam went",
+      "prompt": "This is a story with a bye in it. Some of the words in it are hard to say out loud, and the boy in it can not say them at all at first.",
+      "lines": [
+        "Sam is my friend. He is my best friend, and he is in the house next to us.",
+        "Then a big truck came, and men got all the things out of that house and in the truck.",
+        "\"We go tomorrow,\" said Sam. \"My father got a job a long way off.\"",
+        "I did not want to say bye, so I did not say it at all.",
+        "I went in, and I got under my bed, and I did not get out all day.",
+        "In the morning the truck is still there, and Sam is on the step with a bag.",
+        "\"This is for you,\" he said. \"It is your bag now.\"",
+        "It is the red bag with the stars on it. I want that bag so much.",
+        "I did not say a thing back. My mouth went stiff and I looked down at the grass.",
+        "Then the truck went off down the hill, and I ran after it, and I yelled.",
+        "\"Bye, Sam!\" I yelled. \"Bye!\"",
+        "A hand came out of the truck and waved, all the way to the end of the hill.",
+        "\"Bye is not the end,\" said my mother. \"It is just a thing you say when you go.\"",
+        "Sam will send me a letter, and I will send a letter back. And the red bag is my bag now."
+      ],
+      "questions": [
+        {
+          "prompt": "Why did Sam go?",
+          "choices": ["A job a long way off", "He is not my friend", "The house is too big"],
+          "answer": "A job a long way off"
+        },
+        {
+          "prompt": "Why did I get under my bed all day?",
+          "choices": ["I did not want to say bye", "I want the red bag", "It is bed time"],
+          "answer": "I did not want to say bye"
+        },
+        {
+          "prompt": "What did Sam bring me on the step?",
+          "choices": ["The red bag with the stars", "A letter", "A big truck"],
+          "answer": "The red bag with the stars"
+        },
+        {
+          "prompt": "What did my mother say bye is?",
+          "choices": ["Just a thing you say when you go", "The end", "A sad thing"],
+          "answer": "Just a thing you say when you go"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Words for the time of day",
+      "words": ["today", "tomorrow", "morning", "week"],
+      "prompt": "Two you just remember from yesterday, and two you can sound out."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the ow that says ow",
+      "words": ["down", "town", "crowd", "shout"],
+      "prompt": "Four from the other week. The last one is spelled with ou and says the same thing."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "level": 112,
+  "title": "again, were",
+  "kidTitle": "again and were",
+  "parentNote": "Two words to remember, and the small one does a big job. Were is the past of are, so today is the first day your child can read about how things used to be rather than only what somebody did: we were cold, they were cross, my hands were black. Up to now the site has only had -ed verbs to work with. It rhymes with her and fur, not with here, and the word it gets muddled with is where — same five letters in nearly the same order, so expect that swap for a good while and just say both out loud when it happens. Again is the odd one: the ai says /e/, so it comes out \"a-gen\", and the a at the front is barely said at all. Neither word can be sounded out, so don't let your child sit and struggle at one. Say it for them after about three seconds. These are words you learn by meeting, not by working out.",
+  "newGraphemes": [],
+  "newSightWords": ["again", "were"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "were",
+      "sentence": "We were down at the sea all day, and now my boots are wet.",
+      "prompt": "This one you just remember. It is what are turns into when the thing has been and gone. It rhymes with her and fur, not with here. Were."
+    },
+    {
+      "type": "sightWord",
+      "word": "again",
+      "sentence": "Do it again, and this time do it fast.",
+      "prompt": "The ai in the middle does not say ay today. It says e, so the word is a-gen. Again: to do a thing you did, and do it a second time."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "were",
+      "choices": ["were", "where", "we"],
+      "prompt": "Two of these are nearly the same letters in nearly the same order, and they do not sound the same at all. Listen hard."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "again",
+      "choices": ["again", "gain", "rain"],
+      "prompt": "All three end the same way. The bit at the front is the bit to listen for."
+    },
+    {
+      "type": "blend",
+      "word": "chewed",
+      "parts": ["ch", "ew", "ed"],
+      "prompt": "Yesterday's team with the ed on the back of it. Three sounds: ch, oo, d."
+    },
+    {
+      "type": "blend",
+      "word": "puddle",
+      "parts": ["p", "u", "dd", "le"]
+    },
+    {
+      "type": "blend",
+      "word": "tumble",
+      "parts": ["t", "u", "m", "b", "le"],
+      "picture": "🤸",
+      "prompt": "The long one. Six letters, five sounds, and the le on the end says ul."
+    },
+    {
+      "type": "readWord",
+      "word": "screw",
+      "picture": "🔩"
+    },
+    {
+      "type": "readWord",
+      "word": "threw"
+    },
+    {
+      "type": "readWord",
+      "word": "tumbled"
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do it again,\" said my father. \"Do it again, and this time do it fast.\""
+    },
+    {
+      "type": "sentence",
+      "text": "Were you at the shop, or were you down in the wood with Meg?"
+    },
+    {
+      "type": "sentence",
+      "text": "My hands were black with mud, so I had a bath, and then I got in the mud again."
+    },
+    {
+      "type": "sentence",
+      "text": "The bird came back again and again, and then it went off for good."
+    },
+    {
+      "type": "sentence",
+      "text": "We were all in bed when the wind blew so hard that the shed fell down."
+    },
+    {
+      "type": "story",
+      "title": "Again",
+      "prompt": "This story is all about doing a thing that will not go right, and then doing it again. See if you can spot the bit the boy did not know at the time.",
+      "lines": [
+        "We were at the top of the hill with the bike: my father, my brother and me.",
+        "\"Sit on it,\" said my father. \"I will keep a grip on the back.\"",
+        "I sat on it. He let go. I went down three feet and fell off in the grass.",
+        "\"Again,\" I said.",
+        "We were at it all morning. Up the hill, down the hill, off in the grass.",
+        "My legs were green. My hands were black. My brother had stopped looking.",
+        "\"That will do for today,\" said my father. \"We can do it again tomorrow.\"",
+        "\"Again,\" I said.",
+        "So up the hill we went, and my father held the back of the bike, and off I went.",
+        "Down I went, and the grass did not get me.",
+        "I went past the shed. I went past the gate. I went all the way to the end.",
+        "Then I looked back. My father is still up at the top of the hill, a long way off.",
+        "He had let go a long way back, and he did not tell me.",
+        "\"Again!\" I said. And we did it again, and again, and again."
+      ],
+      "questions": [
+        {
+          "prompt": "Where were we at the start?",
+          "choices": ["At the top of the hill", "In the shed", "Down in the wood"],
+          "answer": "At the top of the hill"
+        },
+        {
+          "prompt": "What did I say when I fell off?",
+          "choices": ["Again", "Bye", "Not today"],
+          "answer": "Again"
+        },
+        {
+          "prompt": "Why did my father say that will do for today?",
+          "choices": ["We were at it all morning", "The bike is bust", "It is dark out"],
+          "answer": "We were at it all morning"
+        },
+        {
+          "prompt": "What did my father not tell me?",
+          "choices": ["He had let go a long way back", "The hill is too big", "My legs were green"],
+          "answer": "He had let go a long way back"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday: ew says oo",
+      "words": ["flew", "grew", "chew", "news", "drew"],
+      "prompt": "Five words, and not a single w sound in any of them."
+    },
+    {
+      "type": "review",
+      "label": "Something older: more words you just remember",
+      "words": ["said", "could", "many", "mouse"],
+      "prompt": "Four from a while back that you can not sound out. Today's two go in the same pile."
+    }
+  ]
+}

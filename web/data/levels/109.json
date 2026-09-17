@@ -1,0 +1,144 @@
+{
+  "level": 109,
+  "title": "tomorrow, today, father",
+  "kidTitle": "today and tomorrow",
+  "parentNote": "Three words to remember today, and two of them change what your child's reading can do. Until now every story on this site has had to happen now, because there was no readable word for later. Today and tomorrow fix that, and you will notice the sentences start looking forward. Both begin with to-, spelled like the word to and said \"tuh\", so point out that they are a pair and learn them together. Father is the awkward one: the a says \"ah\", not the a in cat, and it does not match mother and brother however much it looks like it should — same ending, different vowel. Here is the thing to expect and not worry about: a child can read tomorrow perfectly and still use it to mean yesterday for another year. That is not a reading problem, it is a time problem, and it sorts itself out. Read the word, let the muddle go.",
+  "newGraphemes": [],
+  "newSightWords": ["tomorrow", "today", "father"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "today",
+      "sentence": "Today it is wet, so we can not go out.",
+      "prompt": "This one you just remember. It starts with the word to, and it means the day you are in, right now. Today."
+    },
+    {
+      "type": "sightWord",
+      "word": "tomorrow",
+      "sentence": "Today it is wet, but tomorrow it will be hot.",
+      "prompt": "Same start: to. Then the long bit. Tomorrow is the day after this one, the day that has not got here yet."
+    },
+    {
+      "type": "sightWord",
+      "word": "father",
+      "sentence": "My father can juggle three apples and drop them all.",
+      "prompt": "It looks like mother and brother, and it does not sound like them. The a in father says ah. Fah-ther."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tomorrow",
+      "choices": ["tomorrow", "today"],
+      "prompt": "Both start with the same two letters. The long one is the day that has not got here yet."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "father",
+      "choices": ["father", "mother", "brother"],
+      "prompt": "Three words you just know, with the same ending. Listen to the front."
+    },
+    {
+      "type": "blend",
+      "word": "middle",
+      "parts": ["m", "i", "dd", "le"],
+      "prompt": "Yesterday's ending, back again. m, i, d, ul."
+    },
+    {
+      "type": "blend",
+      "word": "waited",
+      "parts": ["w", "ai", "t", "ed"],
+      "prompt": "Waiting is what today and tomorrow are all about. Four sounds: w, ay, t, ed."
+    },
+    {
+      "type": "blend",
+      "word": "morning",
+      "parts": ["m", "or", "n", "i", "ng"],
+      "prompt": "The long one. Seven letters and five sounds, and you know all of them."
+    },
+    {
+      "type": "readWord",
+      "word": "week"
+    },
+    {
+      "type": "readWord",
+      "word": "kettle"
+    },
+    {
+      "type": "readWord",
+      "word": "twinkle",
+      "prompt": "Two of yesterday's tricks at once: the nk team, and the le on the end."
+    },
+    {
+      "type": "sentence",
+      "text": "Today my father is at home, and tomorrow he is off to the sea."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Not today,\" said my father. \"We can do it tomorrow.\""
+    },
+    {
+      "type": "sentence",
+      "text": "Is it today that we go and see the big boats, or is it tomorrow?"
+    },
+    {
+      "type": "sentence",
+      "text": "Tomorrow my father will get up in the dark, and I will still be in bed."
+    },
+    {
+      "type": "sentence",
+      "text": "Today I am six. Tomorrow I will still be six, and that is a bit sad."
+    },
+    {
+      "type": "story",
+      "title": "Not today",
+      "prompt": "This one is about waiting, so today and tomorrow are all the way through it. See if you can work out the joke at the end.",
+      "lines": [
+        "All week I said the same thing to my father: \"Can we go and see the big boats?\"",
+        "And all week my father said the same thing back to me: \"Not today. Tomorrow.\"",
+        "So I did today fast, to get it out of the way.",
+        "I had my tea. I had my bath. I got in bed when it is still light out.",
+        "\"Sleep,\" said my father, \"and tomorrow will be here when you wake up.\"",
+        "But I can not sleep. I looked at the dark, and I looked at the dark.",
+        "Then it is day, and I ran down the steps and said, \"Is it tomorrow?\"",
+        "My father had a big grin on. \"No,\" he said. \"It is today.\"",
+        "I sat down on the step. I did not want today. I want tomorrow.",
+        "Then my father got the boots and the bags and the map down off the shelf.",
+        "\"Tomorrow will not get here,\" he said. \"When it gets here, it is today. So get in the truck.\"",
+        "We went and we saw the big boats, and I did not need tomorrow at all."
+      ],
+      "questions": [
+        {
+          "prompt": "What did I want to go and see?",
+          "choices": ["The big boats", "A big turtle", "The shops"],
+          "answer": "The big boats"
+        },
+        {
+          "prompt": "What did my father say back to me all week?",
+          "choices": ["Not today, tomorrow", "Get in the truck", "Go and see them"],
+          "answer": "Not today, tomorrow"
+        },
+        {
+          "prompt": "Why did I get in bed when it is still light out?",
+          "choices": ["To get today out of the way", "It is bed time", "My father yelled at me"],
+          "answer": "To get today out of the way"
+        },
+        {
+          "prompt": "Why will tomorrow not get here?",
+          "choices": ["When it gets here, it is today", "It is too far off", "My father hid it"],
+          "answer": "When it gets here, it is today"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday: the le on the end",
+      "words": ["little", "apple", "candle", "puzzle", "turtle"],
+      "prompt": "Five words that all end in ul, and not a single l sound to be seen at the end of any of them."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the sky at night",
+      "words": ["moon", "star", "dark", "dawn"],
+      "prompt": "Four words from a while back. The last one is the bit of the day when the light comes up."
+    }
+  ]
+}

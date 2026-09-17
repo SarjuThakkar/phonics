@@ -250,6 +250,22 @@ IRREGULAR: dict[str, int | None] = {
     "opened": None, "open": None, "cheese": None, "crumb": None,
     "crumbs": None, "wanted": None, "door": None, "floor": None,
     "lose": None, "moose": None, "loose": None, "grey": None, "wooden": None,
+    # ew not saying the plain /oo/ that day 111 teaches. "sew" is the
+    # dangerous one -- it says /soh/, it is three letters, and it sits inside
+    # the very family being taught that day.
+    "sew": None, "few": None, "dew": None, "jewel": None, "nephew": None,
+    # ie saying /ee/ rather than the taught /eye/, same trap as bread/head
+    "field": None, "shield": None, "chief": None, "thief": None,
+    # o saying /u/, the other/mother/brother family
+    "month": None, "monkey": None, "money": None, "honey": None,
+    # silent t before -le. Day 108 opens the -le ending and makes this whole
+    # family newly reachable, and every one of them segments cleanly.
+    "whistle": None, "castle": None, "listen": None, "fasten": None,
+    "rustle": None, "bustle": None, "thistle": None,
+    # -le where the n before it is /ng/, not the taught /n/
+    "uncle": None, "ankle": None,
+    # needs ch saying /k/, which this course never teaches
+    "school": None, "chemist": None, "ache": None,
 }
 
 

@@ -1,0 +1,171 @@
+{
+  "level": 108,
+  "title": "-le endings",
+  "kidTitle": "little and bubble",
+  "parentNote": "Today is the ending that unlocks a huge pile of ordinary words your child has been waiting for: little, apple, puddle, candle, bubble, turtle. Every one of them ends in the same two letters, and those two letters say /ul/. The part worth saying out loud is that they come out backwards — you see l and then e, but your mouth says the ul sound with the l last. So a child who learned a few weeks ago that a final e says its name will read little as \"lit-tull-ee\", and that is not a mistake, it is them applying the rule they were taught. Don't explain it away; just cover the -le with your finger, let them read lit-t, then slide your finger off and say \"ul\" for them. Two or three words in it clicks. Then say \"little\" together, because it is probably the word they have most wanted to read since day one.",
+  "newGraphemes": ["-le"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "-le",
+      "keyword": "little",
+      "picture": "🐜",
+      "mouthCue": "Say ul. Your tongue only comes up to the roof of your mouth at the very end.",
+      "prompt": "Two letters on the end of a word, and they say ul. Not lee. Not lay. Just ul. And look what it lets you read at last: little."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-le",
+      "choices": ["-le", "-ed", "-y"],
+      "prompt": "Three endings that go on the back of a word. Find today's."
+    },
+    {
+      "type": "soundMatch",
+      "target": "-le",
+      "choices": ["-le", "l", "-e"],
+      "prompt": "One of these is the l on its own and one is the e on its own. Today's is the pair, working together on the end."
+    },
+    {
+      "type": "blend",
+      "word": "apple",
+      "parts": ["a", "pp", "le"],
+      "picture": "🍎",
+      "prompt": "Three sounds. a, p, ul. Say it fast and you get a word you have known all your life."
+    },
+    {
+      "type": "blend",
+      "word": "little",
+      "parts": ["l", "i", "tt", "le"],
+      "prompt": "There are two l sounds in here, one at each end, and they do different jobs. l, i, t, ul."
+    },
+    {
+      "type": "blend",
+      "word": "bubble",
+      "parts": ["b", "u", "bb", "le"],
+      "picture": "🫧"
+    },
+    {
+      "type": "blend",
+      "word": "candle",
+      "parts": ["c", "a", "nd", "le"],
+      "picture": "🕯️"
+    },
+    {
+      "type": "blend",
+      "word": "turtle",
+      "parts": ["t", "ur", "t", "le"],
+      "picture": "🐢",
+      "prompt": "The long one. Six letters and only four sounds in it: t, ur, t, ul."
+    },
+    {
+      "type": "readWord",
+      "word": "puddle",
+      "picture": "💧"
+    },
+    {
+      "type": "readWord",
+      "word": "middle"
+    },
+    {
+      "type": "readWord",
+      "word": "juggle",
+      "picture": "🤹"
+    },
+    {
+      "type": "readWord",
+      "word": "jungle",
+      "picture": "🌴"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "little",
+      "choices": ["little", "kettle", "bottle"],
+      "prompt": "All three end the same way. Everything you need is at the front."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "puddle",
+      "choices": ["puddle", "puzzle", "pebble"],
+      "prompt": "Same front, same back. Listen hard to the bit in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "candle",
+      "choices": ["candle", "handle", "bundle"]
+    },
+    {
+      "type": "sentence",
+      "text": "My little brother sat down in the middle of a big puddle."
+    },
+    {
+      "type": "sentence",
+      "text": "Dad lit a candle, and we had tea in the dark with just that little light."
+    },
+    {
+      "type": "sentence",
+      "text": "Can you do this puzzle, or is it too hard for you?"
+    },
+    {
+      "type": "sentence",
+      "text": "A turtle is slow, but it can still get to the end of the path."
+    },
+    {
+      "type": "sentence",
+      "text": "\"I can juggle three apples,\" said Meg, \"but not for long.\""
+    },
+    {
+      "type": "story",
+      "title": "Too little",
+      "prompt": "The word little turns up in this one a lot, and by the end it has stopped meaning what it did at the start.",
+      "lines": [
+        "My brother is big and I am little, and he tells me so all day long.",
+        "I can not reach the handle on the shed. I can not lift the big red pot.",
+        "\"You are too little,\" he said, and off he went to kick a ball on the grass.",
+        "Then the ball went in under the shed, and it stopped in the middle, out of reach.",
+        "My brother got down and got an arm in, but the rest of him did not fit.",
+        "He kicked the shed. He yelled at the shed. The shed did not help at all.",
+        "Then he looked at me for a long time. \"Can you get in there?\" he said.",
+        "I got down in the grass and I had to wiggle, but in I went, flat like a rug.",
+        "It is dark in under there. A bug ran up my arm and I did not yell at all.",
+        "I got a grip on the ball and backed out with it, in a mess of mud and grass.",
+        "\"You are little,\" said my brother. \"That is a good thing to be.\"",
+        "I sat down in a puddle and had a giggle all the way to tea time."
+      ],
+      "questions": [
+        {
+          "prompt": "Where did the ball stop?",
+          "choices": ["In the middle, under the shed", "In a big puddle", "Up in a tree"],
+          "answer": "In the middle, under the shed"
+        },
+        {
+          "prompt": "Why did my brother not get the ball?",
+          "choices": ["He is too big to fit", "He can not see it", "He did not want it"],
+          "answer": "He is too big to fit"
+        },
+        {
+          "prompt": "What ran up my arm in under the shed?",
+          "choices": ["A bug", "A rat", "A turtle"],
+          "answer": "A bug"
+        },
+        {
+          "prompt": "What did my brother say at the end?",
+          "choices": ["It is a good thing to be little", "Get off the grass", "He is the best"],
+          "answer": "It is a good thing to be little"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The last few days",
+      "words": ["night", "walk", "brown", "looked"],
+      "prompt": "One with silent letters, one more with a silent l, one ow that says ow, and one ed on the end."
+    },
+    {
+      "type": "review",
+      "label": "Something older: letter teams from the last stage",
+      "words": ["rain", "boat", "green", "star"],
+      "prompt": "Two letters doing one job, in the middle of the word this time."
+    }
+  ]
+}

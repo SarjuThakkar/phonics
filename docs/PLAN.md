@@ -82,12 +82,11 @@ next batch goes out, which is the main reason the days keep improving.
 ## Status
 
 Remaining batches, in order — this is the schedule, and it is the thing to
-pick up if a session is interrupted. Batches 1–16 (days 28–107) are done,
+pick up if a session is interrupted. Batches 1–17 (days 28–112) are done,
 committed, pushed and live.
 
 | Batch | Days | What it teaches |
 |---|---|---|
-| 17 | 108–112 | -le endings; tomorrow, today, father; bye, your, friend; ew says /oo/; again, were |
 | 18 | 113–117 | some, horse, hooray; kn and wr (silent letters); air, and our and eyes; y at the end says /ee/; oh, have, put, away |
 | 19 | 118–120 | one, whole, worth, able; -ie at the end; soft g says /j/ |
 

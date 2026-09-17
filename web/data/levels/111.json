@@ -1,0 +1,166 @@
+{
+  "level": 111,
+  "title": "ew says /oo/",
+  "kidTitle": "flew and grew",
+  "parentNote": "Today is ew, and it says /oo/ — the same sound your child already has from moon, blue and tune. This is the fourth spelling of one sound, which is not a mistake in the course, it is just English: /oo/ has four common spellings and a child meets all of them in real books. The one that actually trips children up is not ew on its own, it is ew next to ow, because the letters look so alike. Grew and grow, flew and flow, blew and blow are all real pairs, and a child who is reading fast will swap them. If that happens, don't reread the whole word — point at the last letter and say \"w or ew?\". That is where all the information is. Say the day's words out loud together a few times; the ear learns this pair faster than the eye does.",
+  "newGraphemes": ["ew"],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "ew",
+      "keyword": "flew",
+      "picture": "🕊️",
+      "mouthCue": "Lips push out into a little round o, the same shape as moon and blue.",
+      "prompt": "Two letters, and together they say oo. You know this sound well by now — it is the oo in moon, the ue in blue and the u in tune. This is just a new way to spell it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ew",
+      "choices": ["ew", "oo", "ue"],
+      "prompt": "All three of these say oo. Find today's, the one that ends in a w."
+    },
+    {
+      "type": "soundMatch",
+      "target": "ew",
+      "choices": ["ew", "ow", "aw"],
+      "prompt": "These three all end the same way and not one of them says the same thing. Today's is the one with an e at the front."
+    },
+    {
+      "type": "blend",
+      "word": "chew",
+      "parts": ["ch", "ew"],
+      "prompt": "Four letters, two sounds. ch, oo."
+    },
+    {
+      "type": "blend",
+      "word": "flew",
+      "parts": ["fl", "ew"],
+      "picture": "🕊️"
+    },
+    {
+      "type": "blend",
+      "word": "grew",
+      "parts": ["gr", "ew"],
+      "picture": "🌱",
+      "prompt": "Careful with this one. Grew, not grow. The ew on the end says oo."
+    },
+    {
+      "type": "blend",
+      "word": "news",
+      "parts": ["n", "ew", "s"],
+      "picture": "📰"
+    },
+    {
+      "type": "blend",
+      "word": "threw",
+      "parts": ["th", "r", "ew"],
+      "prompt": "The long one. Five letters, three sounds: th, r, oo."
+    },
+    {
+      "type": "readWord",
+      "word": "blew"
+    },
+    {
+      "type": "readWord",
+      "word": "drew",
+      "picture": "🖍️"
+    },
+    {
+      "type": "readWord",
+      "word": "stew",
+      "picture": "🍲"
+    },
+    {
+      "type": "readWord",
+      "word": "chewed"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "grew",
+      "choices": ["grew", "grow", "green"],
+      "prompt": "Two of these are the same word at two times, and only the end tells you which."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "news",
+      "choices": ["news", "newt", "new"],
+      "prompt": "Same three letters at the front on all of them. Listen right to the last sound."
+    },
+    {
+      "type": "sentence",
+      "text": "The wind blew all night, and in the morning my hat is up a tree."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Do not chew that,\" said my father. \"It is not food.\""
+    },
+    {
+      "type": "sentence",
+      "text": "A bird flew in the shed and can not get back out."
+    },
+    {
+      "type": "sentence",
+      "text": "I drew a newt, and my brother said it looks like a bit of string."
+    },
+    {
+      "type": "sentence",
+      "text": "The news is that we go to the sea tomorrow, and now I can not sleep."
+    },
+    {
+      "type": "story",
+      "title": "The seed that grew",
+      "prompt": "Watch out for grew and grow in this one. They are the same word at two times, and the end of the word is the bit that tells you.",
+      "lines": [
+        "My father drew a line in the mud with a stick and said, \"Set it in there.\"",
+        "It is a seed, a little brown seed, and it looks like a bit of grit.",
+        "\"That will not grow,\" I said. But I set it in the mud, and I waited.",
+        "The rain came down. The wind blew. Not a thing came up.",
+        "A bird flew down to look at the mud, and I yelled at it to keep off.",
+        "Then, when I had all but stopped looking, a green bit stuck up out of the mud.",
+        "It grew all week. Then a cow got in at the gate and had a chew at the top of it.",
+        "I yelled. The cow went off. And the green thing grew back in three days.",
+        "By the end of the summer it is up past the top of the shed.",
+        "\"This is news,\" said my mother. \"This is big news.\"",
+        "All the street came to look at it, and Meg drew it on the path in chalk.",
+        "Then a green pod grew on it, and in the pod is a seed.",
+        "It is a little brown seed, and it looks like a bit of grit.",
+        "My father drew a line in the mud with a stick. \"Set it in there,\" he said."
+      ],
+      "questions": [
+        {
+          "prompt": "What did I set in the mud at the start?",
+          "choices": ["A little brown seed", "A green pod", "A bit of grit"],
+          "answer": "A little brown seed"
+        },
+        {
+          "prompt": "What did the cow do?",
+          "choices": ["Had a chew at the top of it", "Went off down the lane", "Sat down in the mud"],
+          "answer": "Had a chew at the top of it"
+        },
+        {
+          "prompt": "Why did my mother say it is big news?",
+          "choices": ["It grew up past the top of the shed", "A bird flew down", "Meg drew it in chalk"],
+          "answer": "It grew up past the top of the shed"
+        },
+        {
+          "prompt": "What is in the green pod at the end?",
+          "choices": ["A seed", "A bird", "A newt"],
+          "answer": "A seed"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The three words from yesterday",
+      "words": ["friend", "your", "bye", "letter"],
+      "prompt": "Three you just remember, and one you can sound out."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the same oo sound, spelled three other ways",
+      "words": ["moon", "blue", "tune", "boot"],
+      "prompt": "Four ways to spell one sound. Today's ew makes it four and a half."
+    }
+  ]
+}
