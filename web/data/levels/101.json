@@ -1,0 +1,173 @@
+{
+  "level": 101,
+  "title": "could, would, should",
+  "kidTitle": "could, would, should",
+  "parentNote": "Three words today, and the good news is that they are really one word learned three times. They all end in the same five letters, o-u-l-d, saying ood — and that ending turns up in no other word in English, so once your child owns it they own all three. Teach the shape, not the spellings: cover the first letter or two, say ood, then uncover and put the front sound on. Two things to watch. The l is silent in all three and children will try to say it, which turns could into cold; if that happens, say the word yourself and let them hear that there is no l in it at all. And should is the hardest of the three, because it has two letters on the front instead of one. These three words also do something no word so far has done: they let you talk about what has not happened. Could is what is possible, would is what you want, should is what is right — and the story today turns on exactly that difference.",
+  "newGraphemes": [],
+  "newSightWords": ["could", "would", "should"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "could",
+      "sentence": "We could keep the dog in the shed.",
+      "prompt": "Do not sound this out. The l is not there at all. Say the end first: ood. Now put a c on the front. Could."
+    },
+    {
+      "type": "sightWord",
+      "word": "would",
+      "sentence": "I would like a dog more than a bike.",
+      "prompt": "Same ending, same five letters. Say ood, and this time put a w on the front. Would."
+    },
+    {
+      "type": "sightWord",
+      "word": "should",
+      "sentence": "We should take the dog back to the farm.",
+      "prompt": "Same ending again, and this one has two letters on the front. Say ood, then put a sh on it. Should."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "should",
+      "choices": ["could", "would", "should"],
+      "prompt": "All three end the same. The only thing that tells them apart is the front, so listen to the very first sound and nothing else."
+    },
+    {
+      "type": "soundMatch",
+      "target": "sh",
+      "choices": ["sh", "ch", "th"],
+      "prompt": "This is the sound at the front of should. Two letters, one sound. Find it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "w",
+      "choices": ["w", "wh", "v"],
+      "prompt": "And this is the sound at the front of would. Careful: two of these say wuh."
+    },
+    {
+      "type": "blend",
+      "word": "wag",
+      "parts": ["w", "a", "g"],
+      "prompt": "No new sound today, so all of these are words you can sound out. Every one of them turns up in the story later."
+    },
+    {
+      "type": "blend",
+      "word": "trot",
+      "parts": ["tr", "o", "t"]
+    },
+    {
+      "type": "blend",
+      "word": "farm",
+      "parts": ["f", "ar", "m"],
+      "picture": "🚜"
+    },
+    {
+      "type": "blend",
+      "word": "throw",
+      "parts": ["th", "r", "ow"],
+      "prompt": "Yesterday's quiet th, back again. No buzz on the front."
+    },
+    {
+      "type": "blend",
+      "word": "lane",
+      "parts": ["l", "a", "ne"],
+      "prompt": "The tricky one. That last e is not a sound. It reaches back and makes the a say its name."
+    },
+    {
+      "type": "readWord",
+      "word": "tag",
+      "picture": "🏷"
+    },
+    {
+      "type": "readWord",
+      "word": "lick",
+      "picture": "👅"
+    },
+    {
+      "type": "readWord",
+      "word": "gate",
+      "picture": "🚪"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "farm",
+      "choices": ["farm", "form", "firm"],
+      "prompt": "This one is hard. All three have an r in the middle. Everything you need is the vowel in front of it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "lane",
+      "choices": ["lane", "lame", "line"],
+      "prompt": "All three have a quiet e on the end. Listen to the bit in the middle."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Could I get a bit of cake?\" said Meg. \"You could,\" said Mum, \"if you eat the rest.\""
+    },
+    {
+      "type": "sentence",
+      "text": "I would like a dog, but Dad said a dog is a lot to think of."
+    },
+    {
+      "type": "sentence",
+      "text": "We should not throw the ball here. It could land in the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "Would you want to sit here with me, or would you want to sit up there?"
+    },
+    {
+      "type": "story",
+      "title": "The dog with the red tag",
+      "prompt": "The three words today are all about picking. Could is what you can do, would is what you want, and should is what is right. See if you can tell which is which as you go.",
+      "lines": [
+        "A wet dog did trot up the lane and did sit down next to me, and it did not go off.",
+        "It is a big dog with damp feet and a red tag on it.",
+        "\"We could keep it,\" said Meg. \"We could keep it in the shed and Dad would not see.\"",
+        "I said I would like that a lot. I would like a dog more than a bike.",
+        "But on the red tag there is a bit of text, and Mum did check it.",
+        "The tag said the dog is Sam, and Sam is up at the farm on the hill.",
+        "\"We should take it back,\" said Mum. \"If my dog did run off, I would want it back.\"",
+        "Meg did not want to. \"We could keep it just for a bit,\" she said.",
+        "So we did sit with Sam on the step, and Sam did lick my hand and wag a damp tail at me.",
+        "Then Meg did get up. \"We should go,\" she said. \"It is not my dog.\"",
+        "We did all go up the lane to the farm, and a man in a green hat did run out to the gate.",
+        "\"Sam!\" he said. \"I did think the fox did get him.\" And he said we can go up and see Sam when we want to.",
+        "So now we do. Sam is not my dog, but he is the dog I see all the time."
+      ],
+      "questions": [
+        {
+          "prompt": "What is on the dog?",
+          "choices": ["A red tag", "A green hat", "A bit of string"],
+          "answer": "A red tag"
+        },
+        {
+          "prompt": "What did Mum say we should do?",
+          "choices": ["Take the dog back", "Keep the dog in the shed", "Go up to bed"],
+          "answer": "Take the dog back"
+        },
+        {
+          "prompt": "Where did we take Sam?",
+          "choices": ["Up the lane to the farm", "Down to the pond", "In the shed"],
+          "answer": "Up the lane to the farm"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's quiet th",
+      "words": ["thin", "thick", "moth", "path", "teeth"],
+      "prompt": "Fingers on your throat. Not a buzz in the lot of them."
+    },
+    {
+      "type": "review",
+      "label": "The words we just remember",
+      "words": ["of", "what", "where", "there", "said"],
+      "prompt": "With could, would and should, there are now eighteen of these."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the long vowel teams",
+      "words": ["snail", "coach", "drain", "peep"],
+      "prompt": "ai, oa and ee. Two letters that team up and say one long vowel."
+    }
+  ]
+}

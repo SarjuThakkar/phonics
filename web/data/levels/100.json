@@ -1,0 +1,166 @@
+{
+  "level": 100,
+  "title": "th says /th/ (unvoiced)",
+  "kidTitle": "The quiet th",
+  "parentNote": "There is no new letter today. There is a new sound, and it is hiding inside a letter pair your child has known since day twenty-four. Back then th was the buzzy one — this, that, then, them — the one you can feel in your throat. Today is the quiet one: thin, thick, moth, thank. Your mouth does exactly the same thing for both, tongue just behind the top teeth, and the only difference is whether your voice is switched on. English does not spell them differently, which is not your child being confused; it is English being unhelpful, and saying so out loud helps. The test that settles it in about four seconds: put two fingers on your throat and say this, then say thin. The first one buzzes under your fingers and the second one does not. Do that once today and again tomorrow. What you should expect to hear is a wrong guess in the other direction — thin read as fin or sin — because /th/ and /f/ come out of almost the same place. If that happens, get them to watch your tongue, which for th comes out where they can see it.",
+  "newGraphemes": [],
+  "newSightWords": [],
+  "activities": [
+    {
+      "type": "soundIntro",
+      "grapheme": "th",
+      "keyword": "thick",
+      "picture": "📚",
+      "mouthCue": "Tongue up by the top teeth, and blow. Your throat stays still — no buzz at all.",
+      "prompt": "You know these two letters. On day twenty-four they said the buzzy th in this and that. Today they do a second job, and it is the quiet one. Same letters, no buzz."
+    },
+    {
+      "type": "review",
+      "label": "The buzzy th you already know",
+      "words": ["this", "that", "then", "them", "with"],
+      "prompt": "Put two fingers on your throat and read these. Feel the buzz. Every one of them has it."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "f", "s"],
+      "prompt": "This is the quiet th. It sounds a lot like the other two, so watch my tongue: for this one it comes right up to my teeth."
+    },
+    {
+      "type": "soundMatch",
+      "target": "th",
+      "choices": ["th", "sh", "ch"],
+      "prompt": "Three pairs of letters that all make one sound. Find the one from today."
+    },
+    {
+      "type": "blend",
+      "word": "thin",
+      "parts": ["th", "i", "n"],
+      "prompt": "Three sounds, and the first one is today's quiet th. No buzz: th, i, n."
+    },
+    {
+      "type": "blend",
+      "word": "thick",
+      "parts": ["th", "i", "ck"],
+      "picture": "📚"
+    },
+    {
+      "type": "blend",
+      "word": "moth",
+      "parts": ["m", "o", "th"],
+      "picture": "🦋",
+      "prompt": "This time the quiet th is on the end. Same sound, back of the word."
+    },
+    {
+      "type": "blend",
+      "word": "thank",
+      "parts": ["th", "a", "nk"]
+    },
+    {
+      "type": "blend",
+      "word": "thunder",
+      "parts": ["th", "u", "nd", "er"],
+      "picture": "⛈",
+      "prompt": "The long one. Two chunks: thun, der."
+    },
+    {
+      "type": "readWord",
+      "word": "throw"
+    },
+    {
+      "type": "readWord",
+      "word": "path"
+    },
+    {
+      "type": "readWord",
+      "word": "teeth",
+      "picture": "🦷"
+    },
+    {
+      "type": "readWord",
+      "word": "cloth"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "thin",
+      "choices": ["thin", "then", "fin"],
+      "prompt": "This is the whole of today in one go. One of these has the quiet th, one has the buzzy th, and one has no th at all."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "thick",
+      "choices": ["thick", "this", "tick"],
+      "prompt": "Two of these start with th. Only one of them is the quiet one."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "path",
+      "choices": ["path", "pass", "pat"],
+      "prompt": "Now the tricky bit is at the end. Say all three and stop your mouth on the last sound."
+    },
+    {
+      "type": "sentence",
+      "text": "The moth is thin, and it did sit all day on the thick glass of the lamp."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Thank you,\" said Meg, and she did hand me a thick bit of the cake."
+    },
+    {
+      "type": "sentence",
+      "text": "I can not throw a ball that far, but I can think of a way to get it there."
+    },
+    {
+      "type": "sentence",
+      "text": "The thunder did crack, and the dog did run and hide under my bed."
+    },
+    {
+      "type": "story",
+      "title": "Thunder in the tent",
+      "prompt": "There is a th in nearly every line of this story. Some buzz and some do not. Say each one and see if you can tell.",
+      "lines": [
+        "We did set up a tent in the back yard, and Mum did hand us a thin sheet and a thick sheet.",
+        "\"I want the thick sheet,\" said Meg. \"The thin sheet lets all of the wind in.\"",
+        "At ten it did go dark, and then the thunder did start up at the top of the hill.",
+        "It did crack, and then it did thud, and then it did crack a bit more.",
+        "\"We can stick it out,\" I said. \"Thunder can not get in a tent.\"",
+        "So we did sit with the thick sheet up to my chin, and the thunder did not get us.",
+        "Then the rain did stop and the thunder did go off to the north. We did win.",
+        "And then a thing with six thin legs did land on the back of Meg.",
+        "It is just a moth. It is thin and dull and not big at all.",
+        "Meg did yell. I did yell. The thick sheet did land on the moth and we did run in.",
+        "Mum said, \"Did the thunder get you?\" and Meg said, \"The thunder did not.\"",
+        "\"It is the moth,\" I said. \"The moth did.\" And Mum did grin all the way up to bed."
+      ],
+      "questions": [
+        {
+          "prompt": "Which sheet did Meg want?",
+          "choices": ["The thick sheet", "The thin sheet", "The red sheet"],
+          "answer": "The thick sheet"
+        },
+        {
+          "prompt": "What did the thunder do?",
+          "choices": ["It did crack and thud", "It did get in the tent", "It did land on Meg"],
+          "answer": "It did crack and thud"
+        },
+        {
+          "prompt": "What did send us in at the end?",
+          "choices": ["A moth with six thin legs", "The thunder", "The rain"],
+          "answer": "A moth with six thin legs"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The words from the last two days",
+      "words": ["where", "here", "there", "of"],
+      "prompt": "Four words you just know. The last one says ov."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the other two digraphs",
+      "words": ["shed", "chin", "whip", "shop"],
+      "prompt": "sh, ch and wh. Two letters, one sound, same as today."
+    }
+  ]
+}

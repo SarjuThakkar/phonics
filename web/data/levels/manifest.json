@@ -96,7 +96,12 @@
     94,
     95,
     96,
-    97
+    97,
+    98,
+    99,
+    100,
+    101,
+    102
   ],
   "levels": [
     {
@@ -679,6 +684,36 @@
       "level": 97,
       "title": "what",
       "kidTitle": "The word what",
+      "activities": 23
+    },
+    {
+      "level": 98,
+      "title": "where",
+      "kidTitle": "The word where",
+      "activities": 23
+    },
+    {
+      "level": 99,
+      "title": "there, here, of",
+      "kidTitle": "here, there and of",
+      "activities": 24
+    },
+    {
+      "level": 100,
+      "title": "th says /th/ (unvoiced)",
+      "kidTitle": "The quiet th",
+      "activities": 23
+    },
+    {
+      "level": 101,
+      "title": "could, would, should",
+      "kidTitle": "could, would, should",
+      "activities": 24
+    },
+    {
+      "level": 102,
+      "title": "any, anywhere, many",
+      "kidTitle": "any, anywhere, many",
       "activities": 23
     }
   ]

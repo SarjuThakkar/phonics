@@ -1,0 +1,167 @@
+{
+  "level": 102,
+  "title": "any, anywhere, many",
+  "kidTitle": "any, anywhere, many",
+  "parentNote": "Any and many are the same lie told twice: the a in the middle of each one says e. Any is enny and many is menny, and there is nothing on the page that says so. Say them as a pair, one after the other, because a child who has learned one has very nearly learned the other. Then anywhere, which is different in a way worth pointing at: it is not a new word at all, it is any and where — a word from today and a word from four days ago — pushed together. Show them the join. Cover the last five letters, read any; slide your hand along, read where; then read the whole thing. That trick works on hundreds of long words later on and this is a good one to learn it on. What these three actually buy you is the ability to talk about nothing and about lots: not any left, so many bugs, it could be anywhere. Those are things a child says fifty times a day and has not until now been able to read.",
+  "newGraphemes": [],
+  "newSightWords": ["any", "anywhere", "many"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "any",
+      "sentence": "Are there any plums left on the tree?",
+      "prompt": "Do not sound this out. That a in the middle is saying e, so the word is enny. Any."
+    },
+    {
+      "type": "sightWord",
+      "word": "many",
+      "sentence": "There are so many bugs on this plant.",
+      "prompt": "Exactly the same trick. The a says e again, so this one is menny. Any, many. Two words, one lie."
+    },
+    {
+      "type": "soundMatch",
+      "target": "e",
+      "choices": ["e", "a", "u"],
+      "prompt": "This is the sound in the middle of any and many, even though the letter sitting there is an a. Find the letter that really makes this sound."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "many",
+      "choices": ["many", "any", "may"],
+      "prompt": "Two of these you just know and one of them you can sound out. Listen right to the end of each."
+    },
+    {
+      "type": "sightWord",
+      "word": "anywhere",
+      "sentence": "My red sock is not anywhere in the shed.",
+      "prompt": "This is a long one, and it is not new. Cover the end and read any. Cover the front and read where. Now push them together: anywhere."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "anywhere",
+      "choices": ["anywhere", "any", "where"],
+      "prompt": "One of these is the other two stuck together. Listen for the long one."
+    },
+    {
+      "type": "blend",
+      "word": "pick",
+      "parts": ["p", "i", "ck"],
+      "prompt": "No new sound today. All of these you can sound out, and all of them are in the story at the end."
+    },
+    {
+      "type": "blend",
+      "word": "plum",
+      "parts": ["pl", "u", "m"],
+      "picture": "🫐"
+    },
+    {
+      "type": "blend",
+      "word": "much",
+      "parts": ["m", "u", "ch"]
+    },
+    {
+      "type": "blend",
+      "word": "morning",
+      "parts": ["m", "or", "n", "i", "ng"],
+      "prompt": "The long one. Five sounds. Take the first three, then the last two, then put the halves together."
+    },
+    {
+      "type": "readWord",
+      "word": "tree",
+      "picture": "🌳"
+    },
+    {
+      "type": "readWord",
+      "word": "jam",
+      "picture": "🍓"
+    },
+    {
+      "type": "readWord",
+      "word": "jar",
+      "picture": "🫙"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "plum",
+      "choices": ["plum", "plan", "plug"],
+      "prompt": "All three start with pl. Everything you need is the sound in the middle."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "tree",
+      "choices": ["tree", "try", "tray"],
+      "prompt": "This one is hard. All three start with tr and all three end with a long sound. Listen to that last sound."
+    },
+    {
+      "type": "sentence",
+      "text": "Are there any buns left, or did Meg eat all of them?"
+    },
+    {
+      "type": "sentence",
+      "text": "There are so many bugs on this plant that I can not see the plant."
+    },
+    {
+      "type": "sentence",
+      "text": "You can sit anywhere you want, but you can not sit here."
+    },
+    {
+      "type": "sentence",
+      "text": "I did hunt for my red sock all morning, and it is not anywhere in the shed."
+    },
+    {
+      "type": "story",
+      "title": "So many plums",
+      "prompt": "This story starts with far too many and ends with not any. See if you can spot the bit where it tips.",
+      "lines": [
+        "There is a plum tree at the end of the yard, and this week it is thick with plums.",
+        "\"Do we want any?\" said Meg. \"We want all of them,\" I said.",
+        "So we did get a big tin and we did pick plums all morning.",
+        "Meg did pick the plums she can get to, and I did get up on a box for the rest.",
+        "We did fill the tin. Then we did fill a jar. Then we did fill the hat that Dad did lend us.",
+        "\"That is so many plums,\" said Meg. \"I do not think we can eat this many.\"",
+        "We did eat plums with lunch. We did eat plums on the step. By six we did not want any more.",
+        "Meg did go a bit green and did sit down on the grass with a thud.",
+        "So Mum did get the big pot out, and all of the plums did go in it, and now there is jam.",
+        "There is jam in the shed, jam on the shelf and jam under the sink. There is not anywhere left to keep it.",
+        "Then we did go and check the tree. There are not any plums on it at all.",
+        "Not a plum anywhere. We did get the lot, and now we do not want any.",
+        "Mum did hand me a bun. \"Do you want jam on it?\" she said. For the first time, I said no."
+      ],
+      "questions": [
+        {
+          "prompt": "Where is the plum tree?",
+          "choices": ["At the end of the yard", "Up at the farm", "Next to the pond"],
+          "answer": "At the end of the yard"
+        },
+        {
+          "prompt": "What did Mum do with all of the plums?",
+          "choices": ["She did make jam", "She did throw them out", "She did keep them in a tin"],
+          "answer": "She did make jam"
+        },
+        {
+          "prompt": "How many plums are on the tree at the end?",
+          "choices": ["Not any at all", "So many", "Six"],
+          "answer": "Not any at all"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "Yesterday's three",
+      "words": ["could", "would", "should"],
+      "prompt": "Same ending in all three. Say ood, then put the front on."
+    },
+    {
+      "type": "review",
+      "label": "The little words that will not sound out",
+      "words": ["of", "here", "there", "where", "what"],
+      "prompt": "With any, anywhere and many, there are now twenty-one of these. That is nearly all of them."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the r that eats the vowel",
+      "words": ["churn", "burn", "perch", "shirt"],
+      "prompt": "ur, er and ir. Three ways to spell the same grumbly sound."
+    }
+  ]
+}

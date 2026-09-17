@@ -1,0 +1,162 @@
+{
+  "level": 98,
+  "title": "where",
+  "kidTitle": "The word where",
+  "parentNote": "One word today: where. The front half is honest — wh says wuh, the same as it did in whale and wheel — and then the spelling gives up. The last four letters say air, so the word rhymes with hair, and nothing on the page tells you that. Two wrong readings are almost guaranteed and both are worth expecting: weer, from reading the ee-ish middle, and were, which is a real word your child will meet later and will mix up with this one for months. Say it yourself first, then have them say it, then point at the word and say it again — where rhymes with hair. Yesterday gave them what, and a question they could finally ask out loud. Today gives them the other half of that: a question about a place, and an answer that is a place. The whole lesson is built out of hunting for something, because that is the only thing where is ever really for.",
+  "newGraphemes": [],
+  "newSightWords": ["where"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "where",
+      "sentence": "\"Where is my frog?\" said Meg.",
+      "prompt": "Do not sound this one out. The wh at the front says wuh, and then you just have to know the rest. It rhymes with hair. Where."
+    },
+    {
+      "type": "readWord",
+      "word": "where",
+      "prompt": "No sounding out. Look at it and say it: where."
+    },
+    {
+      "type": "soundMatch",
+      "target": "wh",
+      "choices": ["wh", "w", "v"],
+      "prompt": "This is the sound at the front of where, and it is the one honest bit of the word. Find it."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "where",
+      "choices": ["where", "when", "wheel"],
+      "prompt": "Three words that all start with wuh. Two of them you can sound out and one of them you just know."
+    },
+    {
+      "type": "blend",
+      "word": "frog",
+      "parts": ["fr", "o", "g"],
+      "picture": "🐸",
+      "prompt": "No new sound today, so every word in this bit is one you can already sound out."
+    },
+    {
+      "type": "blend",
+      "word": "pond",
+      "parts": ["p", "o", "nd"]
+    },
+    {
+      "type": "blend",
+      "word": "croak",
+      "parts": ["cr", "oa", "k"]
+    },
+    {
+      "type": "blend",
+      "word": "shelf",
+      "parts": ["sh", "e", "l", "f"]
+    },
+    {
+      "type": "blend",
+      "word": "under",
+      "parts": ["u", "nd", "er"],
+      "prompt": "The long one, and it is all about where a thing is. Two chunks: un, der."
+    },
+    {
+      "type": "readWord",
+      "word": "damp"
+    },
+    {
+      "type": "readWord",
+      "word": "moss",
+      "picture": "🌿"
+    },
+    {
+      "type": "readWord",
+      "word": "torch",
+      "picture": "🔦"
+    },
+    {
+      "type": "readWord",
+      "word": "plant",
+      "picture": "🪴"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "shelf",
+      "choices": ["shelf", "shell", "self"],
+      "prompt": "All three are short and all three have an sh or an s at the front. Listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "damp",
+      "choices": ["damp", "dump", "lamp"],
+      "prompt": "One sound is different in each of these. Find the sound that is different, then pick."
+    },
+    {
+      "type": "sentence",
+      "text": "\"Where is my sock?\" I said, and Mum said it is under my bed."
+    },
+    {
+      "type": "sentence",
+      "text": "Where can a frog hide? It can hide in the wet moss next to the pond."
+    },
+    {
+      "type": "sentence",
+      "text": "I did ask Dad where he did set the big torch down, and he said it is in the truck."
+    },
+    {
+      "type": "sentence",
+      "text": "Where do you want to sit? You can sit next to me if you want to."
+    },
+    {
+      "type": "story",
+      "title": "Where is the frog?",
+      "prompt": "Every time somebody in this story says where, they are asking about a place. Hunt for the place that is the answer.",
+      "lines": [
+        "Meg did get a frog at the pond, and she did keep it in a big green pot.",
+        "In the dark, the frog did hop out. At sun up the pot is still on the shelf, and the frog is not in it.",
+        "\"Where is my frog?\" said Meg. \"It can not get out. It did get out.\"",
+        "We did check the sink. We did check under my bed. We did check the box with all the socks in it.",
+        "Dad said, \"Where do frogs want to go? Frogs want to go where it is damp.\"",
+        "So we did hunt in the damp bits. Meg did check the drip under the tap.",
+        "I did check the wet moss in the yard, and Mum did check the mud next to the step.",
+        "No frog. Dad did sit down and grin. \"A frog can not hide all day,\" he said.",
+        "Then a wet thing did land on Dad with a splat, and he did yell and yell.",
+        "It is the frog. It did sit on him and it did not want to hop off.",
+        "Then Meg did see it. Up on the top shelf, next to the wet plant pot, is a damp green spot.",
+        "\"So that is where it did hide,\" said Mum. \"Up with the plant, in the damp, all this time.\""
+      ],
+      "questions": [
+        {
+          "prompt": "Where did Meg keep the frog?",
+          "choices": ["In a big green pot", "In the sink", "Under the bed"],
+          "answer": "In a big green pot"
+        },
+        {
+          "prompt": "What did Dad say frogs want?",
+          "choices": ["Damp bits", "A big green pot", "A wet sock"],
+          "answer": "Damp bits"
+        },
+        {
+          "prompt": "Where did the frog hide all this time?",
+          "choices": ["Up on the top shelf", "Down in the mud", "In the box with the socks"],
+          "answer": "Up on the top shelf"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The words we just remember",
+      "words": ["what", "said", "do", "they", "to"],
+      "prompt": "Not one of these can be sounded out. With where, there are now twelve."
+    },
+    {
+      "type": "review",
+      "label": "One word for each sound from this week",
+      "words": ["wheel", "whip", "shy", "crawl", "tall"],
+      "prompt": "wh, a y that says eye, aw and all. Four days in five words."
+    },
+    {
+      "type": "review",
+      "label": "Something older: ar and or",
+      "words": ["shark", "bark", "fork", "storm"],
+      "prompt": "These two came a long time back. Say each one and feel where the r pulls the vowel."
+    }
+  ]
+}

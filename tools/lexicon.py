@@ -222,6 +222,18 @@ IRREGULAR: dict[str, int | None] = {
     "thumb": None, "lamb": None, "climb": None, "comb": None,
     # the -ves plural slips past the -es check
     "leaves": None, "wolves": None, "knives": None,
+    # The -le family false-passes from day 84, when a final -e started saying
+    # its name: "puddle" segments as p+u+dd+l+e and would be read "pud-dull-ee".
+    # -le itself is not taught until 108, so without these there is a 24-day
+    # window where the most ordinary nouns in a child's world go green.
+    # (table and able stay None above -- they are sight words on day 118,
+    # not -le words.)
+    "little": 108, "apple": 108, "bottle": 108, "puddle": 108,
+    "middle": 108, "candle": 108, "kettle": 108, "saddle": 108,
+    "wobble": 108, "jungle": 108, "handle": 108, "bundle": 108,
+    # a schwa in the second syllable, and a word that is wrong in every letter
+    # that matters but segments cleanly as s+u+g+ar
+    "bottom": None, "sugar": None,
 }
 
 

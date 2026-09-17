@@ -1,0 +1,168 @@
+{
+  "level": 99,
+  "title": "there, here, of",
+  "kidTitle": "here, there and of",
+  "parentNote": "Three words today, and they are three very different jobs. Here and there are a pair — near you and away from you — and the easiest way to teach them is to stop reading for a second and point: here is this rug, there is that door. They rhyme with yesterday's where, and all three end in the same four letters, which is the one piece of luck English hands us this week. Then there is of, and of is the reason today matters more than it looks. It says ov: the f says a v sound, which no other word does, so it cannot be sounded out and never will be — say it as ov every time and let them learn it whole. Until today this course could not write a bag of nuts, or the top of the hill, or a bit of string, because there was no word to join two things together. Everything a child owns, everything a thing is part of, every bit taken out of something bigger, needs of. You will notice it turning up in nearly every sentence from here on, and so will they.",
+  "newGraphemes": [],
+  "newSightWords": ["there", "here", "of"],
+  "activities": [
+    {
+      "type": "sightWord",
+      "word": "here",
+      "sentence": "Here is the bag, and it is next to me.",
+      "prompt": "Here means the spot you are sitting in. Point at the rug with me and say it: here."
+    },
+    {
+      "type": "sightWord",
+      "word": "there",
+      "sentence": "There is the hill, and it is a long way off.",
+      "prompt": "There means a spot that is not this one. Point at the door and say it: there. Here and there rhyme with the word you got yesterday: where."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "there",
+      "choices": ["there", "here", "where"],
+      "prompt": "Three words you just know, and the last four letters of each one are the same. Everything you need is the front."
+    },
+    {
+      "type": "sightWord",
+      "word": "of",
+      "sentence": "A bag of nuts, a tin of beans and a jug of milk.",
+      "prompt": "This one is tiny and it is a liar. It says ov. The f is doing the v job, and no other word in the whole course does that. Say it as ov: of."
+    },
+    {
+      "type": "readWord",
+      "word": "of",
+      "prompt": "Two letters, and you do not sound them out. Say ov."
+    },
+    {
+      "type": "soundMatch",
+      "target": "v",
+      "choices": ["v", "f", "w"],
+      "prompt": "This is the sound at the end of of, even though the letter sitting there is an f. Find the letter that really makes this sound."
+    },
+    {
+      "type": "blend",
+      "word": "heap",
+      "parts": ["h", "ea", "p"],
+      "prompt": "No new sound today. All of these you can already sound out, and all of them are things you can have a bag of."
+    },
+    {
+      "type": "blend",
+      "word": "chunk",
+      "parts": ["ch", "u", "nk"]
+    },
+    {
+      "type": "blend",
+      "word": "crust",
+      "parts": ["cr", "u", "st"],
+      "picture": "🍞"
+    },
+    {
+      "type": "blend",
+      "word": "string",
+      "parts": ["st", "r", "i", "ng"],
+      "prompt": "The long one. Four sounds, and three of them are stuck on the front."
+    },
+    {
+      "type": "readWord",
+      "word": "hill",
+      "picture": "⛰"
+    },
+    {
+      "type": "readWord",
+      "word": "jug",
+      "picture": "🫖"
+    },
+    {
+      "type": "readWord",
+      "word": "steep"
+    },
+    {
+      "type": "chooseWord",
+      "answer": "crust",
+      "choices": ["crust", "crush", "cross"],
+      "prompt": "All three start with cr. Listen to the middle, and then listen right to the end."
+    },
+    {
+      "type": "chooseWord",
+      "answer": "string",
+      "choices": ["string", "strong", "sting"],
+      "prompt": "This one is hard. Two of them have an r in the middle and one does not."
+    },
+    {
+      "type": "sentence",
+      "text": "Here is a bag of nuts, and there is a tin of beans."
+    },
+    {
+      "type": "sentence",
+      "text": "A big chunk of the crust did drop out of my hand and land in the grass."
+    },
+    {
+      "type": "sentence",
+      "text": "Meg did hand me a bit of string and said, \"Do not let go of it.\""
+    },
+    {
+      "type": "sentence",
+      "text": "Where do you want to sit, up there on the top of the hill or down here?"
+    },
+    {
+      "type": "sentence",
+      "text": "The best bit of the day is the last bit of it."
+    },
+    {
+      "type": "story",
+      "title": "The top of the hill",
+      "prompt": "Today you have a word that joins two things up: of. See how many times you can spot it in this story.",
+      "lines": [
+        "Mum did fill a big bag with the best bits of lunch and did hand it to me.",
+        "\"Where do you want to sit?\" said Meg. \"Up there,\" I said. \"On the top of the hill.\"",
+        "So we did lug the bag up the steep path, and Meg did munch a bun on the way up.",
+        "At the top the grass is soft, and we can see all of the town.",
+        "\"Here we are,\" I said. \"Get the bag out.\" And then I did see the hole in it.",
+        "The bag is flat. The nuts and the buns and the tin of beans are not in there.",
+        "\"It did rip,\" said Meg. \"All of it did drop out on the path.\"",
+        "So down we went. A bun here. A nut there. The tin of beans in a clump of grass.",
+        "Meg did get the jug of milk, and I did get the rest of the buns in my hat.",
+        "At the end of the path we did sit down in the grass with all of it.",
+        "\"We did want to eat up there,\" said Meg, \"and we did eat down here.\"",
+        "\"Here is not bad,\" I said. \"Here is just like there, with less of the hill in it.\""
+      ],
+      "questions": [
+        {
+          "prompt": "Where did we want to sit at the start?",
+          "choices": ["On the top of the hill", "Down at the end of the path", "In a clump of grass"],
+          "answer": "On the top of the hill"
+        },
+        {
+          "prompt": "What did drop out of the bag?",
+          "choices": ["The nuts and the buns and the tin of beans", "A bit of string", "The rug and the hat"],
+          "answer": "The nuts and the buns and the tin of beans"
+        },
+        {
+          "prompt": "Where did we eat in the end?",
+          "choices": ["At the end of the path", "On the top of the hill", "In the town"],
+          "answer": "At the end of the path"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "label": "The words we just remember",
+      "words": ["where", "what", "want", "said", "are"],
+      "prompt": "Not one of these can be sounded out. With here, there and of, there are now fifteen."
+    },
+    {
+      "type": "review",
+      "label": "One word for each sound from this week",
+      "words": ["when", "dry", "paw", "call", "whale"],
+      "prompt": "wh, a y that says eye, aw and all. Four days in five words."
+    },
+    {
+      "type": "review",
+      "label": "Something older: the noisy vowel teams",
+      "words": ["coin", "toy", "shout", "cloud"],
+      "prompt": "oi and oy, ou and ow. These came a while back and they are worth a run through."
+    }
+  ]
+}
